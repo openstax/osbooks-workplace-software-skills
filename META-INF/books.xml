@@ -1,3 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-   <book slug="computer-applications" href="../collections/computer-applications.collection.xml" />
+   <book slug="computer-applications" style="bca" href="../collections/computer-applications.collection.xml" />
 </container>
