@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Text and Numbers in Microsoft Excel</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Text and Numbers in Microsoft Excel</md:title>
+    <md:content-id>m00003</md:content-id>
+    <md:uuid>d8df4895-6c64-4f68-9d65-9acdefa84d81</md:uuid>
+  </metadata>
+  <content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Explain the basics of data and data analysis</item>
+    <item>Enter and format numeric data in a worksheet cell</item>
+    <item>Use the Text and General formats for cell data</item>
+    <item>Use the commands in the Page Layout and Review tabs</item>
+    </list>
+    </section>
+    <para id="para-00002">WorldCorp receives many orders every day, and they rely on databases for recording all data. Large corporations like WorldCorp also keep an inventory of direct materials for manufacturing. These materials, such as bolts and screws, come from many suppliers on multiple orders. They need to store all this inventory information in the accounting system. Finished products—the products that the company packages for shipping and sells—are built with various components and parts, and they record a list of all this information for every item that is manufactured. When a client places an order from a sales agent, these transactions are recorded in a customer relationship management (CRM) database. Although many large corporations use Oracle or SAP databases, many other software companies furnish solutions to big, medium, and small organizations. Medium-sized companies may use Microsoft Access and/or Microsoft Dynamics for their database purposes and for the financial accounting. Organizations of all sizes can utilize Microsoft Excel.</para>
+    <para id="para-00003">Here, you will learn some of the basic sales order database capabilities in Excel. For WorldCorp, Excel is an appropriate tool to gather, organize, and analyze information within the smaller business units such as by region or product line. The company-wide information might be stored in another type of program suited for large corporations, but at the business-unit level, Excel can be a powerful tool to feed into the corporate information database.</para>
+    <section id="sect-00002">
+    <title>Data Fundamentals</title>
+    <para id="para-00004">A set of raw facts that can be in the form of textual information (such as a product description) or numerical information (such as a price per unit), is called <term id="term-00001">data</term>. If you decide to compare the prices of oranges at different grocery stores, then you are researching and creating data. You can write your data on paper, but a more efficient and common method today for capturing and storing data is with computers. Data is collected primarily to use later in <term id="term-00002">data analysis</term>, a scientific discipline that uses mathematical and statistical tools to measure trends. For example, a company could track the sales trends of three locations over the span of a few months. Watching the data could reveal slumps in sales, which could trigger the company to introduce a corrective action.</para>
+    <para id="para-00005">There are different kinds of data that businesses like to collect from their clients. Demographic data can segment a growing list of clients so that a company can give them better service based on their likes or dislikes. Financial and accounting data can keep track of a business’s sales, unit costs, overhead costs, and so on. In addition to client data, machines are constantly generating data related to their performance. All manufacturing plants have machines that output data to computers for engineers and managers to analyze.</para>
+    <para id="para-00006"><term class="no-emphasis" id="term-00003">Excel</term> can manage many types of datasets but works better when the dataset is relatively small. Access databases are appropriate for large sets of data or data that will continue to grow. There are other industrial-sized data storage and analysis solutions like SAP and Oracle, as well as others that might work better for larger data files. Programs such as Sage and QuickBooks that are specific to accounting and finance provide additional features for financial analysis that are not offered in Excel.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Entering and Formatting Numeric Data in a Worksheet Cell</title>
+    <para id="para-00007">The information made of numerals that Excel reads like a calculator to perform mathematical equations is called <term id="term-00004">numeric data</term>. There are many purposes of numerical values in spreadsheets. The numbers can represent quantities, currency, dates, time stamps, percentages, and more. <link target-id="table-00001"/> summarizes the numerical values Excel uses.</para>
+    <table id="table-00001" summary="">
+    <title/>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row>
+    <entry>Type of Numerical Value</entry>
+    <entry>Description</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry><term class="no-emphasis" id="term-00005">Number</term></entry>
+    <entry>Data has two decimal places by default, but you can add or remove them, depending on what your needs are. It accepts negative numbers as well. You can add a thousands separator.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00006">Currency</term></entry>
+    <entry>Data has two decimal places by default. It accepts negative numbers and will display them within parentheses or with a negative sign in red or black font. The thousands separator is turned on by default. A zero is displayed with two decimal places. Excel adds the appropriate currency symbol preceding the number, and the numbers are aligned to the right with no spaces to the edges.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00007">Accounting</term></entry>
+    <entry>Data has two decimal places by default. It accepts negative numbers and will display in parentheses only. The thousands separator is given. The zeros are displayed as “-”. Excel adds a currency symbol aligned to the left. The difference between Currency and Accounting is that with the Accounting format, all currency symbols are aligned.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00008">Date</term></entry>
+    <entry>Data is displayed in the American format by default (i.e., month/day/year). There are options to change the location or to change the format to one of many different choices, such as day/month/year or year/month/day.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00009">Time</term></entry>
+    <entry>Data uses the 24-hour clock or AM/PM format by default.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00010">Percentage</term></entry>
+    <entry>Data analyzes the portion of a whole and the data is displayed as a percentage with the % symbol and no decimal points by default.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00011">Fraction</term></entry>
+    <entry>Data analyzes the portion of a whole and displays the values as in the percentages. You can convert a fraction to a percentage before entering data.</entry>
+    </row>
+    <row>
+    <entry><term class="no-emphasis" id="term-00012">Scientific</term></entry>
+    <entry>Data can be shortened numbers written in exponential form. To shorten a number, display the first digit, add a decimal point, and then list the next two digits. Then, add “E” and the number of zeros the whole number contains. For example, 644362623 would be 6.44E+9. These truncated forms of numbers are commonly used in all sorts of sciences.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Numerical Values in Excel</caption>
+    </table>
+    <note class="check-point" id="note-00001">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00008">Percentages are shown with two decimal points by default.</para>
+    </problem>
+    </exercise>
+    </note>
+    <para id="para-00009">You can choose the type of numerical value appropriate for your data on the Home tab. <link target-id="fig-00001"/> shows the drop-down menu in the <term class="no-emphasis" id="term-00013">Number command group</term> where you can choose the type of numerical data you have. You can also access more details about the number type by selecting the arrow in the lower-right corner of the Number command group. This will open up the Format Cells dialog box that allows you to specify many more types of number formatting, including the number of decimal places. If you’re starting from a blank worksheet, you can plan in your mind what kind of values your tables will contain, so that you can design them to be informative and display logical information. You can even do this prewrite of the table on a piece of paper, or as you go through the process of designing the document in Excel.</para>
+    <figure id="fig-00001">
+    <title>You can format numbers on the Home tab.</title>
+    <media alt="Part a shows the Number portion of the Home tab with “General” selected. In Part b, the expanded drop down menu options include: General (No specific format), Number, Currency, Accounting, Short Date, Long Date, Time, Percentage, Fraction, and More Number Formats…” In Part c, the arrow next to Number in the Home tab is selected. A dialog box called ‘Format cells” shows “Number, Alignment, Font, Border, Fill, and Protection” in tabs across the top. Under the Number tab, there are multiple categories including General, Number, Currency, Accounting, Date, time, Percentage, Fraction, Scientific, Text, Special, and Custom. For the category selected, the window shows Sample, Decimal places, Use 1000 Separator (,), and Negative number formatting.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_NUMER02.jpg"/></media>
+    <caption>(a) The Number command group contains several buttons for commonly used formats and a drop-down menu. (b) The drop-down menu contains an expanded list of common number formats. (c) More options are available in the Format Cells dialog box. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00010">The Format Cells dialog box allows you to choose the category and formatting for your cell, based on the data. For example, you can determine the number of decimal places you want to show with your Accounting data. You can also use the Custom formatting category. There are numerous complicated formatting options in the Custom category, such as combining a date with a time, but you can also design your own by modifying an existing one to meet your needs.</para>
+    <para id="para-00011"><link target-id="fig-00002"/>a shows a sales report table that contains a set of orders and the name of the salesperson who fulfilled them. This worksheet contains a variety of types of data: dates, text, general, number, accounting, and more. In order to determine the type of data, click on the cell, and check the drop-down menu in the Number command group. <link target-id="fig-00002"/>b shows that cell A2 is a Date. <link target-id="fig-00002"/>c shows that D2 is a Number. <link target-id="fig-00002"/>d shows that F2 is a Number, but it is formatted to show decimals. <link target-id="fig-00002"/>荤 shows that G2 is Accounting where the “$” symbol is left aligned in the column. You can convert any number to currency by selecting a cell and then clicking on the “$” button on the Home tab.</para>
+    <figure id="fig-00002">
+    <title>When a worksheet has multiple types of data, make sure to format it as the most appropriate type.</title>
+    <media alt="Part a shows a spreadsheet with multiple columns and rows of data. The first row has a blue background and bold font. In Part b, Cell A2 is selected and includes 3/22/2021. A zoomed-in view of the Ribbon shows that “Date” is selected in the Number tab. In Part c, Cell D2 is selected and includes 542. A zoomed-in view of the Ribbon shows that “Number” is selected in the Number tab. In Part d, Cell F3 is selected and includes 8.54. A zoomed-in view of the ribbon shows that “Number” is selected in the Number tab. In Part e, Cell G3 is selected and includes $21,150.00. A zoomed-in view of the ribbon shows that “Accounting” is selected in the Number tab.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_NUMER03.jpg"/></media>
+    <caption>(a) Our data table contains numbers and text. (b) Column A is formatted as a Date. (c) Column D is formatted as a Number. (d) Column F is formatted as a Number, but with two decimal荤(e) Column G is formatted as Accounting. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00012"><link target-id="fig-00003"/>a shows a summary of the sales figures of all agents. You will notice that the first row is shaded blue and the text is bolded. This is an effective way to differentiate the headings for each column, often referred to as the column header, title row, or header row. More about formatting cells will be covered in [link]Formatting and Templates in Excel[/link]. For now, to make the header row stand out, you can highlight (select) the row and use the commands in the Font command group on the Home tab to change the formatting, such as bolding, shading (fill), or text color.</para>
+    <para id="para-00013"><link target-id="fig-00003"/>a includes a column for each agent’s percentage of the FOB $ total, but by default, Excel formats cell contents as General, so it displays the calculation as a decimal number. You can format it as a Percentage by selecting the cell and changing the number format in the drop-down menu (<link target-id="fig-00003"/>b) or by clicking on the button in the Number command group. We can use the same process to display the next cell as a fraction (<link target-id="fig-00003"/>c). <link target-id="fig-00003"/>d shows the finished table.</para>
+    <figure id="fig-00003">
+    <title>By default, Excel formats cells as General, so formatting may require adjustment for numbers to display properly.</title>
+    <media alt="Part a shows a spreadsheet with four rows and five columns of data. The columns named “Percentage” and “Fraction” show numbers with decimals. In Part b, the first number under the Percentage column is selected: 0.2197. In the Number Category drop down box, Percentage 21.97% is shown. In Part c, Fraction 2/9 is selected. In Part d, the Percentage and Fraction columns have been updated so that the numbers are formatted as percentages and fractions, respectively.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_NUMER04.jpg"/></media>
+    <caption>(a) The unformatted table shows percentages and fractions as decimals. (b) You can choose the Percentage format for the cells in the Percentage column. (c) You can choose the Fraction format for the cells in the Fraction column. (d) The formatted table displays the percentages and fractions correctly. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Using the Text and General Cell Formats</title>
+    <para id="para-00014">When your worksheet uses <term id="term-00014">text data</term>, which is information made up of words, letters, numerals, or a combination of those things, you can use the General or the Text cell format. In <link target-id="fig-00004"/>, the salespersons’ names are in <term class="no-emphasis" id="term-00015">Text format</term>, and the item descriptions are in the <term class="no-emphasis" id="term-00016">General format</term>. In a blank worksheet, you can enter your data using the default General format, and Excel will automatically format it according to the type of data you’re entering. For example, if you type a date in a cell formatted as General, <term class="no-emphasis" id="term-00017">Excel</term> will identify it as a date and reformat it accordingly. If Excel detects a number or text, it will remain in the General format. General formatting is flexible and can accommodate numbers or text. Because Excel may automatically change the format of your cell contents if you leave the format as General, consider formatting all numbers as Number or Accounting, as appropriate.</para>
+    <figure id="fig-00004" class="scaled-down">
+    <title>Text data can be names or descriptions of products and can be formatted as (a) Text or (b) General.</title>
+    <media alt="In Part a, a cell with the word “Donna” is selected and the Number category is Text. In Part b, a cell with the word “Headphones” is selected and the Number category is General.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_TEXT01.jpg"/></media>
+    <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00015">If you format your words or letters as Text, then Excel will not try to autoformat them. <link target-id="fig-00005"/> compares the same data formatted as Text and formatted as Number. The Text format is flexible in that it can store numbers, letters, symbols, and words.</para>
+    <figure id="fig-00005" class="scaled-down-30">
+    <title>Numbers can be stored as text data to retain symbols or leading zeros, which are regularly used in some government reports, identification numbers, and some phone numbers.</title>
+    <media alt="A section of a spreadsheet is shown with two columns of data: Text and Number. In the first row of data, in column Text, the data is 0126438796. In column Number the data is 126438796. In the second row of data, in column Text, the data is 054735474. In column Number the data is 54735474. In the third row of data, in column Text, the data is 0005643573. In column Number the data is 5643573. In the fourth row of data, in column Text, the data is =4*5. In column Number the data is 20.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_TEXT02.jpg"/></media>
+    <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00016">You are not restricted to the autoformatting that occurs when you type your data into a cell with General formatting. If you enter a number using the General format (<link target-id="fig-00006"/>a, but you want the number to display as currency, for example, simply select the cell or column and then choose Currency from the Number command group’s drop-down menu (<link target-id="fig-00006"/>b). Excel will automatically add the currency symbol and two decimal places. All cells in a new workbook are by default set to General format, but you can design your tables with the correct format for your purpose.</para>
+    <figure id="fig-00006" class="scaled-down-30">
+    <title>The default formatting for cell data is (a) General, but if you change it to (b) Currency, Excel will add two decimal places and a currency symbol.</title>
+    <media alt="Part a shows a column of numbers labeled “Price per Unit” as the header. The Number category at the top has “General” selected and “48” is selected in the cell on the spreadsheet. Part b shows this same information but with “Currency” selected in the number grid and “$48.00” in the same selected cell from Part a. The data all now has two decimal places after the number and a currency symbol on the left.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_GENER01.jpg"/></media>
+    <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Page Layout and Review Tabs</title>
+    <para id="para-00017">The <term class="no-emphasis" id="term-00018">Page Layout tab</term> (<link target-id="fig-00007"/>) lets the user control the page setup for printing, such as the paper size, the vertical or horizontal orientation, and the print margins. It also contains the settings for arranging graphical objects on a worksheet. One of the most useful commands here is the Breaks drop-down menu, where you can insert page breaks, just like in Microsoft Word, so that when you print your worksheet, the page breaks occur where you want them to.</para>
+    <figure id="fig-00007">
+    <title>The Page Layout tab includes commands for page setup and manipulation of objects.</title>
+    <media alt="The Excel ribbon with the Page Layout tab selected. These categories are visible: Themes (includes drop downs for Themes, Colors, Fonts, and Effects), Page Setup (includes drop downs for Margins, Orientation, Size, Print Area, Breaks, Background, and Print Titles), Scale to Fit (includes drop downs for Width, Height, and Scale), Sheet Options (includes View and Print selections for Gridlines and Headline), and the Arrange category is shown on the lower right (includes drop downs for Bring Forward, Send Backward, Selection Pane, Align, Group, and Rotate).">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_LAYOUT01.jpg"/></media>
+    <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00018">The <term class="no-emphasis" id="term-00019">Review tab</term> contains the commands for adding and reviewing comments and activating the track-changes tool, as shown in <link target-id="fig-00008"/>. It also has password protection options, where you can restrict others’ editing capabilities when you are collaborating on the same project. The spell checker and thesaurus tools are also included in the Review tab. Your Review tab might look somewhat different based on the version of Excel that you are using. If these commands are not included on your Ribbon, you can add those using the process outlined in [link]Essentials of Business Software Applications for Business[/link].</para>
+    <figure id="fig-00008">
+    <title>The Review tab lets you manage comments, sharing settings, and spelling tools.</title>
+    <media alt="The Excel ribbon with the Review tab selected. The following categories are visible: Proofing (includes Spelling and Thesaurus), Language (includes Translate), Comments (includes New Comment, Delete, Previous, Next, Show/Hide Comments, Show All Comments, and Show Ink which is selected) and Changes (includes Protect Sheet, Protect Workbook, Share Workbook, Protect and Share Workbook, Allow Users to Edit Ranges, and Track Changes).">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_REVIEW01.jpg"/></media>
+    <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section class="section-summary" id="sect-00006">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Excel is a powerful tool to manage small to somewhat large sets of data.</item>
+    <item>Data can be collected in Excel and analyzed to track a business’s sales or costs or a machine’s output, for example.</item>
+    <item>Both text and numbers can be formatted to match the contents of the data such as formatting a description as text or a cost as accounting.</item>
+    <item>The Page Layout tab includes commands to help you format the printed page in a professional manner.</item>
+    <item>The Review tab is especially useful when sharing the spreadsheet for collaboration and ensuring accuracy in spelling and grammar.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00007">
+    <title>Review Questions</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00019"><link class="os-embed" url="#exercise/09-02-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00020"><link class="os-embed" url="#exercise/09-02-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00021"><link class="os-embed" url="#exercise/09-02-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-exercises" id="sect-00008">
+    <title>Written Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00022"><link class="os-embed" url="#exercise/09-02-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00023"><link class="os-embed" url="#exercise/09-02-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00009">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00024"><link class="os-embed" url="#exercise/09-02-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00025"><link class="os-embed" url="#exercise/09-02-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>data</term>
+    <meaning>set of raw facts that can be in the form of textual information such as a product description or numerical information such as a price per unit</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>data analysis</term>
+    <meaning>scientific discipline that uses mathematical and statistical tools to measure trends</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>numeric data</term>
+    <meaning>information made of numerals that Excel reads like a calculator to perform mathematical equations</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>text data</term>
+    <meaning>information made up of words, letters, numerals, or a combination</meaning>
+    </definition>
+    </glossary>
+</document>
