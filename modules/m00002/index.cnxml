@@ -99,7 +99,11 @@
     </list>
     <para id="para-00019">This process copies the table exactly, so you will need to change the data so that it reflects the sales figures of location Y using the sales figures received from the finance department.</para>
     <note class="check-point" id="note-00003">
+      <exercise class="unnumbered" id="exer-00009">
+        <problem id="prob-00009">
     <para id="para-00020">Macs use a CMD (command) key, whereas PCs use a CTRL (control) key. These keyboard shortcuts on a Mac are CMD+C to copy and CMD+V to paste. Mac also uses CTRL+click to bring up the right-click menu Windows uses.</para>
+    </problem>
+  </exercise>
     </note>
     <para id="para-00021">Data that you provide or that is provided to you is often raw data, and designing a worksheet or even a workbook helps to organize it. Replace the data from location X with the data from location Y and change the location, as shown in <link target-id="fig-00007"/>c. Using the copy-and-paste procedure saves time when dealing with the same or similar scenarios because it eliminates the need to create a new table from scratch. Note, however, that this process works with cells that contain numbers and not formulas; copying and pasting tables with formulas requires additional work after the initial copy and paste to retain the correct formulas and cell references.</para>
     <figure id="fig-00007" class="scaled-down">
@@ -130,7 +134,11 @@
     </figure>
     <para id="para-00027">It is important to note that, when constructing spreadsheets, what you see on the computer screen is rarely how it looks when you actually print the workbook. When you have large spreadsheets with multiple rows or columns, they may not always fit within the bounds of the printed page. When you print the document, the result could be columns of data split oddly across several pages. Be sure to preview the printed version prior to printing. When you select Print, you will see the print preview on the right of the screen. Double-check that the columns and rows are displayed in the way you would like them to print. If not, you can change the margins of the worksheet or insert a page break as appropriate to print a final, professional workbook. More will be covered about formatting the worksheets and workbook in [link]Formatting and Templates in Excel[/link].</para>
     <note class="check-point" id="note-00004">
+      <exercise class="unnumbered" id="exer-00010">
+        <problem id="prob-00010">
     <para id="para-00028">You can get to the Print menu with CMD+P, but you can also use the File tab at the top of the window. There is a separate menu in the File menu to set your print area, and you can select which worksheets to print from the Print menu.</para>
+    </problem>
+      </exercise>
     </note>
     <para id="para-00029">If you want to print all the sheets in the workbook, select Print Entire Workbook from the drop-down menu under Settings (<link target-id="fig-00009"/>c). Then, click on the Print icon, and this time all the worksheets will be printed (including any blank worksheets that are in the workbook), instead of individual worksheets.</para>
     <note class="real-application" id="note-00005">
