@@ -1,0 +1,165 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Google Sheets Basics</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Google Sheets Basics</md:title>
+    <md:content-id>m00006</md:content-id>
+    <md:uuid>e7058f82-2565-433c-a125-618b07d717b3</md:uuid>
+  </metadata>
+  <content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify common uses and basic features of <term class="no-emphasis" id="term-00001">Google Sheets</term></item>
+    <item>Describe the essential functions of each command group on the toolbar</item>
+    <item>Create a <term class="no-emphasis" id="term-00002">worksheet</term> in Google Sheets</item>
+    <item>Open an existing <term class="no-emphasis" id="term-00003">workbook</term> in Google Sheets</item>
+    <item>Print a Google Sheets file</item>
+    </list>
+    </section>
+    <para id="para-00002">Google Sheets is another spreadsheet application that has much of the same functionality as Microsoft Excel. They have similar GUIs, in that they use window menus and a toolbar. Excel has the Ribbon, which has wide tabs filled with commands. Sheets only has one toolbar menu, although its button commands grow over time as the product is updated. Sheets contains all the same basic features as Excel, but Excel is more robust with regard to higher-level tools.</para>
+    <section id="sect-00002">
+    <title>Common Uses and Basic Features of Google Sheets</title>
+    <para id="para-00003">Sheets serves the same basic purposes as Excel and can be used for most of the same purposes that any spreadsheet could serve. Google Workspace is a web-based service and does not have desktop versions like Microsoft Office. Because of this, there are some limitations to the functionality of Sheets compared with Excel. To access Sheets, you need to have internet access and a Gmail account.</para>
+    <para id="para-00004">The basic features are the same as any other spreadsheet program. Similar to Excel, Sheets has rows and columns in an interface that does calculations for the user. It has automated features like autofill and easy copying of formatting. You can create all tables you’ve created in Excel in Sheets, including your order-dispatching worksheets or sales reports. Sheets also requires you to separate the values in each column so that the spreadsheet can read the numbers and calculate the desired result. Words and letters should be separated from numbers in order for spreadsheets to use the numbers for calculations. Sheets doesn’t have the same library of functions that you can find in Excel. On its own, Sheets may not be able to handle in-depth analysis like Excel can.</para>
+    </section>
+    <section id="sect-00003">
+    <title>The Google Sheets Toolbar Overview</title>
+    <para id="para-00005">Sheets does not have any Ribbon tabs like Excel. Instead, the toolbar is composed of menus and commands. The menu options are similar to those you see in Excel in the Ribbon tabs. The menus are as follows: File, Edit, View, Insert, Format, Data, Tools, and Extensions. To view the contents in the menu, simply hover over the menu title with your cursor. The File and Edit menus are similar to those for Google Docs, as covered in [link]Essentials of Google Workspace[/link]. The <term class="no-emphasis" id="term-00004">View menu</term> gives the user the ability to freeze and group cells together. Inserting and deleting cells can be accessed in the Insert menu. The data and text can be formatted using the commands contained in the Format menu. The <term class="no-emphasis" id="term-00005">Data menu</term> includes commands similar to the Data tab in Excel that are useful for analyzing data in a spreadsheet. The <term class="no-emphasis" id="term-00006">Tools menu</term> is like the Review tab in Excel with spelling and grammar checking commands. Advanced features are in the Extensions menu.</para>
+    <para id="para-00006">The toolbar is called the <term class="no-emphasis" id="term-00007">Action Bar</term>, and it mostly remains static, yet sometimes it adds functions based on usage. <link target-id="fig-00001"/> shows the toolbar. In addition to the menus, the toolbar includes buttons for the more frequently used commands for easy access. These commands can be accessed through the menus, but here they are available with one click. You will notice there is some similarity in the look of the icons in Sheets and Excel. The first two commands are Undo and Redo, then Print, and Paint format. After that, you see the Zoom drop-down menu, the Format as currency, Format as percent, Decrease decimal places or Increase decimal places, and more formats. Next are the menus for the font type and size, font formatting, border lines, alignment, text wrapping, and text rotation. The last group includes linking, commenting, and adding a graph, filter, or function.</para>
+    <figure id="fig-00001">
+    <title>The toolbar in Sheets has one row of commands.</title>
+    <media alt="A toolbar show icons for features: Undo, Redo, Print, Paint format, Zoom, Format as currency, Format as percent, Decrease decimal places, Increase decimal places, and more formats indicated with a 123 drop down menu. Next are font type and size, font formatting, border lines, alignment, text wrapping, and text rotation. The last group is linking, commenting, and adding a graph, filter, or function.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_05_TOOLB01.jpg"/></media>
+    <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <note class="check-point" id="note-00001">
+       <exercise class="unnumbered" id="exer-00001">
+          <problem id="prob-00001">
+    <para id="para-00007">On a Mac, the Google Sheets Action Bar shows the menu, like on a PC. However, rather than simply hovering, you will need to click on the menu title to see its contents.</para>
+    </problem>
+    </exercise>
+    </note>
+    </section>
+    <section id="sect-00004">
+    <title>Creating Sheets</title>
+    <para id="para-00008"><link target-id="fig-00002"/>a shows a finished sales report, much like an Excel worksheet. As in Excel, when you open Sheets, there is only one worksheet, called “Sheet1.” To add another sheet, you can click on the plus sign at the bottom left. This will add another sheet called “Sheet2.” Let’s walk through the steps to create this table in Sheets. Let’s assume that you have handwritten invoices of a set of orders, and you want to enter these invoices in Excel or Sheets. The receipt-block pads are customized with a unique receipt number, your company logo, contact data, and other business information. These were popular before small and medium businesses started to use computerized receipts, yet you may still see these handwritten receipts sometimes. In such a case, after the sale has occurred, you need to input the data into Excel or Sheets.</para>
+    <para id="para-00009">The first step in re-creating the table in <link target-id="fig-00002"/>a is to insert and format the headers (<link target-id="fig-00002"/>b) in a blank worksheet. Then, select the first 20 rows below the headers, since the table has 20 rows of data (<link target-id="fig-00002"/>c), click on the <term class="no-emphasis" id="term-00008">Borders</term> drop-down menu, and choose All Borders. Next, change the format type for each column based on the contents of the column (<link target-id="fig-00003"/>d). For cells A2 to A21, use the <term class="no-emphasis" id="term-00009">Date format</term> under the More Formats drop-down menu. Format cells B2 to B21 and C2 to C21 as <term class="no-emphasis" id="term-00010">Plain Text</term> (<link target-id="fig-00003"/>e). You can leave cells D2 to D21 as Automatic or change them to Plain Text. Format cells E2 to E21 and G2 to G21 as Accounting (<link target-id="fig-00003"/>f). Automatic as a format type is the equivalent of “General” in Excel. To select two columns that are not contiguous, select the first one, in this case E, then press CTRL on the keyboard, and select G. This is called the <term id="term-00011">CTRL+Select</term> process. For column F, you can leave it as Automatic or format it as a number. Now, you are ready to do the data entry of the manual invoicing. You will format the header after entering the data.</para>
+    <figure id="fig-00002" class="scaled-down">
+    <title>Formatting a normal sales report table in Sheets is similar to formatting in Excel.</title>
+    <media alt="Part a shows an orange arrow pointing to a “+” in the bottom left of Sheet 1. Part b shows the data from Row 1 from Part a copied into Row 1 – Date, Model, Type TV, Inches, Price, Quantity, and Revenue. Part c shows cells A1 to G20 selected and the Borders icon selected. All borders is selected from the options visible.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_05_CREA01abc.jpg"/></media>
+    <caption>(a) The table contains different types of data. (b) First, create the headers. (c) Then, highlight the cells you will be filling in to add borders. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <figure id="fig-00003" class="scaled-down">
+    <title>(d) Format each column according to the type of data it will contain.</title>
+    <media alt="In Part d, Column A is selected. The 123 icon is selected on the Action Bar with the pop up window listing: Automatic (which is selected with a checkmark), Plain text, Number, Percent, Scientific, Accounting, Financial, Currency, Currency rounded, Date, Time, Date time, Duration, Custom currency, Custom date and time, Custom number format. Part e shows Columns B and C selected from rows 2 to 20 and the same 123 icon is selected. Automatic is checked and Plain text is highlighted gray from the drop down. In Part f, Columns E and G are selected.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_05_CREA01def.jpg"/></media>
+    <caption>The first column is a date, so you can choose Date from the menu. (e) The next two columns can be formatted as plain text. (f) Columns E and G can be formatted as Accounting. You can use CTRL+Select to format both of them at the same time. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00010">Next, enter the data in row 2, and follow the same steps for subsequent rows. The first several columns only require typing in data from the data source. The first order was placed on February 27, 2021, for 14 model E-900s 32-inch LCD TVs for $170 each. First, enter the date as 02-27-21 (<link target-id="fig-00004"/>a). Because we selected the format in advance, it will automatically be formatted to the desired format of 02/27/2021. Fill in the rest of the data from the order across the row (<link target-id="fig-00004"/>b). The price is already in accounting format, so you do not need to type the currency symbol. The Revenue, column G, is the product of the price and the quantity, so type in a formula, “=E2*F2” (<link target-id="fig-00004"/>b).</para>
+    <figure id="fig-00004" class="scaled-down">
+    <title>First, populate the first row of the table.</title>
+    <media alt="Part a shows Row 1 populated with headings. Cell A2 is selected and shows a date typed as 2-27-21, which also shows in the formula bar. Part b shows the same spreadsheet with the date in cell A2 changed to 2/27/2021. Cell G2 is selected with the info: $2,380.00. “=E2*F2” shows in the formula bar. Cell E2 says $170.00. Cell G2 says 14.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_05_CREA02.jpg"/></media>
+    <caption> (a) The date should automatically be formatted as month/day/year. The rest of the data can be copied from the order. (b) The revenue cell needs a formula so that it calculates the product of the price and the quantity. Notice the date is formatted correctly once you press Enter or navigate to another cell. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00011">Now that the first row is finished, you will adjust the width of each column to accommodate the data so it looks like the original table. Place your cursor on the edge of column A, and the cursor will change to an arrow (<link target-id="fig-00005"/>a), then double-click it. The column automatically adjusts to the width of the contents. To do this with a single action, highlight the entire table and then double-click between any two columns. This will autofit all columns you have selected (highlighted). When you do this for all columns, the columns all have different widths (<link target-id="fig-00005"/>b). Finally, to format the header row, select the whole row and click on the Fill color command, choosing a similar color, as shown in <link target-id="fig-00005"/>c.</para>
+    <figure id="fig-00005">
+    <title>After entering a row of data, you can do the final formatting of the table.</title>
+    <media alt="Part a shows an orange arrow pointing to the right side of the top of Column A. Cell A2 is selected, and the cell is too narrow to show the entire data. Part b shows the columns all different widths to accommodate the date inside the cells. Part c shows Row 1 selected and the Fill color command (paint bucket icon) selected. The drop down shows “Reset” and 60 different color circles with the white selected with a checkmark.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_05_CREA03.jpg"/></media>
+    <caption> (a) Double-click at the edge of a column to change the width automatically. (b) Repeat this process for all columns. (c) You can change the white fill color of the header row to match the original table by choosing blue from the Fill color command. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Navigating Existing Sheets</title>
+    <para id="para-00012">To open existing sheets, you start from <term class="no-emphasis" id="term-00012">Google Drive</term>. Sign into your Drive account, then browse through your files to look for the existing workbooks. Double-click on an existing Sheets file, and it will open in a new browser tab. <link target-id="fig-00006"/> shows several files in Google Drive. You will need to recognize the icon for Sheets to know which are workbooks. The icon for Sheets is green. Sheets can also open Excel files. To browse for the saved Excel files not found in your Google Drive, choose Upload.</para>
+    <figure id="fig-00006" class="scaled-down">
+    <title>To open a Sheets file from Google Drive, you need to recognize the icon for spreadsheets.</title>
+    <media alt="On Google Drive, the Quick Access pane is visible. Four files are shown. An orange arrow points to a green box with an off center “t” on the second file. Another orange arrow points to a green box with a white “X” in the center on the fourth file.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_05_OPEN01.jpg"/></media>
+    <caption>The first arrow points to an Excel file, and the second arrow points to a Sheets file. Sheets can open both types. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <note class="spotlight-ethics" id="note-00002">
+    <title>Maintaining Accountability with Version Control</title>
+    <para id="para-00013">In order to open Docs or Sheets, you will need to create or log in to your Google account. Every time you make a change to a file, Google Workspace uses your username to track it. If multiple people have been given access to open or edit the file, Google tracks these changes. You can review the changes different collaborators in your company make to a file using the <term class="no-emphasis" id="term-00013">Version History</term> feature located near the bottom of the File menu. Version history is tracked from file creation. If a user has editing privileges for a document, they can see the version history. You can also filter changes by date to see what users changed on a specific date. You can check what changes any coworker made in the document. Having access to the version history of the document protects the integrity of collaborating with others by establishing accountability. Changes to the file cannot be made without other collaborators knowing that changes have been made. This allows transparency of information flow between collaborators. This can become important in tracking down errors in the file and can guide you if you need to revert to an earlier version of a document. It is also an important feature that helps collaboration when the individuals are not in the same location.</para>
+    </note>
+    </section>
+    <section id="sect-00006">
+    <title>Printing Sheets</title>
+    <para id="para-00014">The process for printing worksheets in Sheets is the same as it is in Excel. Choose <term class="no-emphasis" id="term-00014">Print</term> from the File menu (<link target-id="fig-00007"/>a). The dialog box that opens (<link target-id="fig-00007"/>b) lets you choose the print settings, such as page setup, range of pages to print, and zoom level, just like in Excel. The Print dialog box allows you to adjust the margins and add page breaks to make sure the spreadsheet prints as you would like. To adjust the margins, choose the <term class="no-emphasis" id="term-00015">Margins</term> menu from the right side of the display. To add page breaks, choose Set Custom <term class="no-emphasis" id="term-00016">Page Breaks</term> and move the lines to the desired location for the page breaks. Then, choose Confirm Breaks in the upper-right corner. You can also choose to print the active worksheet or the whole workbook. The whole workbook choice is shown in <link target-id="fig-00007"/>c. When you click Next, Sheets will generate a preview of the file you are printing. Typically, your printer is listed as the default destination for printing. Choose the down arrow to choose your printer if it is not automatically listed. You can also generate a .pdf file, which you can save and then download from the browser into your computer, as shown in <link target-id="fig-00007"/>d. You can then open the .pdf file in Adobe Acrobat or any other .pdf viewer, such as Microsoft Edge, and print it there.</para>
+    <figure id="fig-00007">
+    <title>Printing from Sheets is similar to printing from Excel.</title>
+    <media alt="In Part a, the file menu is open and shows these options: Share, New, Open, Import, Make a copy, Email, Download, Version history, Rename, Move, Add shortcut to Drive, Move to Trash, Publish to the web, Document details, Spreadsheet settings and Print. An orange arrow points to Print. In Part b, the print dialog box shows: Print (Current sheet), Paper size (Letter (8.5&quot; x 11”), Page Orientation (Landscape, Portrait is selected), Scale (Normal (100%)), Margins (Normal), SET CUSTOM PAGE BREAKS, Formatting, and Headers &amp; footers. Part c shows the drop down for Print: Current sheet, Workbook , and Selected cells (A1). An orange arrow points to Workbook. Part d shows the Destination drop down with bah-p1 on WCPRINTERS selected in blue, Save as PDF, and See more…. Save and Cancel buttons are on the bottom.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_05_PRINT01.jpg"/></media>
+    <caption>(a) Select Print from the File menu. (b) You can print the current sheet. (c) You can also print the entire workbook. (d) Choose your printer from the Destination drop-down menu or save the file as a .pdf. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section class="section-summary" id="sect-00007">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Sheets serves many of the same purposes as Excel, but some of its tools are limited, compared with Excel. Many of the features are the same as or similar to Excel.</item>
+    <item>The toolbar on Sheets is called the Action Bar. It is just one row of commands, unlike the wider Microsoft Office Ribbon, with menus that are essentially the same as the tools in Excel, but the Action Bar also includes a row of buttons for frequently used commands.</item>
+    <item>The process of creating a worksheet and formatting cells in an existing worksheet in Sheets is similar to that of Excel, with drop-down menus for common commands.</item>
+    <item>Printing in Sheets is similar to printing in Excel.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00008">
+    <title>Review Questions</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00015"><link class="os-embed" url="#exercise/09-05-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00016"><link class="os-embed" url="#exercise/09-05-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00017"><link class="os-embed" url="#exercise/09-05-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00018"><link class="os-embed" url="#exercise/09-05-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-exercises" id="sect-00009">
+    <title>Written Exercises</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00019"><link class="os-embed" url="#exercise/09-05-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00020"><link class="os-embed" url="#exercise/09-05-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00010">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00021"><link class="os-embed" url="#exercise/09-05-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00022"><link class="os-embed" url="#exercise/09-05-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    
+    <glossary>
+    <definition id="def-00001">
+    <term>CTRL+Select</term>
+    <meaning>command that allows you to select two or more areas that are not contiguous</meaning>
+    </definition>
+    </glossary>
+</document>
