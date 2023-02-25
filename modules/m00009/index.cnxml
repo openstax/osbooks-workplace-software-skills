@@ -1,0 +1,192 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Formatting and Templates in Google Sheets</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Formatting and Templates in Google Sheets</md:title>
+    <md:content-id>m00009</md:content-id>
+    <md:uuid>13215321-9a34-4e0c-978e-23f713c8d417</md:uuid>
+  </metadata>
+  <content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Format and manipulate a cell or group of cells</item>
+    <item>Design column and row <term class="no-emphasis" id="term-00001">headers</term></item>
+    <item>Use <term class="no-emphasis" id="term-00002">conditional formatting</term></item>
+    <item>Work with <term class="no-emphasis" id="term-00003">templates</term> to format worksheets</item>
+    </list>
+    </section>
+    <para id="para-00002">Google Sheets has the same formatting features that Microsoft Excel does. The cell formatting of fonts and shading of cells is part of everyday use when making headers. Text wrapping is also a feature in Sheets. Like Excel, there are numerous Sheets templates available online and within the application. All of these features make Sheets a valuable spreadsheet application for WorldCorp.</para>
+    <section id="sect-00002">
+    <title>Formatting Cells</title>
+    <para id="para-00003">Sheets has the same functionality for formatting cells as Excel does. For example, you can use contrasting color combinations to make text easier to read. The main difference in formatting cells between Sheets and Excel is the location of the tools.</para>
+    <section id="sect-00003">
+    <title>Using Color and Fonts</title>
+    <para id="para-00004">The tables in <link document="m00008" target-id="fig-00001"/>a have the standard blue headers we’ve been using. Starting with these tables, we will apply formatting changes. First, let’s change the font of the headers and the body of the tables. Click on the header row and choose Courier New from the Font drop-down box (<link target-id="fig-00001"/>a). Next, change the color of the font. Since the headers are still selected after the font change, go to the <term class="no-emphasis" id="term-00004">Action Bar</term> and click on the <term class="no-emphasis" id="term-00005">Text color command</term> (<link target-id="fig-00001"/>b). Select dark orange (last option in the third column from the left) as the text color. You can then change the background color to a lighter blue using the Fill color command on the Action Bar (<link target-id="fig-00001"/>c). In this case, changing the color of the background or the color of the font can make the column headers stand out more and is more visually appealing.</para>
+    <figure id="fig-00001" class="scaled-down">
+    <title>In Sheets, you can format headers by (a) changing the font, (b) changing the color of the font, and (c) changing the cell background color, just as in Excel.</title>
+    <media alt="Part a shows Row 2 selected. The toolbar shows the Font drop down menu selected listing multiple options. Default (Calibri) is selected with a checkmark. Part b shows a different font in Row 2 than in Part a. The Font color button is selected with the drop down window showing multiple color options. Part c shows a lighter blue background color in Row 2. The toolbar shows Cell Background selected and the drop down window shows multiple color options with a light blue selected.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_FONT01.jpg"/></media>
+    <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Borders</title>
+    <para id="para-00005">The <term class="no-emphasis" id="term-00006">Borders command</term> lets users modify the borders on each cell. Using the same table, let’s change the thickness of the borders around the headers to differentiate them from the body. You will also add an outside border for the body of the table. First, select the headers and click on the Borders command on the Action Bar, then click on the Border style drop-down menu (<link target-id="fig-00002"/>a) and select the third thickest (<link target-id="fig-00002"/>b). To apply the thicker border, click on the command for All borders (<link target-id="fig-00002"/>c).</para>
+    <figure id="fig-00002">
+    <title>You can change the borders from the Action Bar.</title>
+    <media alt="Part a shows the entire set of data selected. The toolbar shows the Border button selected and the drop down window shows all the options available for choosing a border color, thickness, and location. A red circle shows around the drop down menu in the window for border thickness. Part b shows the entire set of data selected and a red circle around the option to choose a border on all sides of the cell. Part c show the entire set of data selected. The drop down list that shows all of the border thicknesses available from the drop down menu is shown. A thick black line is selected with a checkmark.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_BORDER01.jpg"/></media>
+    <caption>(a) Click on the Borders command and choose Border style. (b) There are several border styles to choose from in the list. (c) After choosing the style, apply it to all borders. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00006">For the border around the table body, repeat the same first step, selecting the third thickest. Then, instead of applying it to all borders, choose the Outer borders option (<link target-id="fig-00003"/>a). <link target-id="fig-00003"/>b shows the final table.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <title>The header borders are formatted, and the same styling can be used to add a border to the outside of the table.</title>
+    <media alt="Part a shows thin black borders around all the individual cells in Row 2. The entire set of data is selected. The Border button is selected and the drop down window shows all the options available for choosing a border color, thickness, and location. An orange arrow points to the Border selection to highlight the outside of a selected area. Part b shows the spreadsheet with a thick black border around the outside of the data as well as Row 2. The border between cells in Row 2 is still a thin line. No borders encase the individual cells in rows 3-11.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_BORDER02.jpg"/></media>
+    <caption>(a) Click on the Borders command, choose the border style, and then apply it to the outer borders. (b) The final table looks neat and professional with borders. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Wrapping Text</title>
+    <para id="para-00007">You may have noticed that because you changed the font, the header in column C does not fit the width of the column. This is easily fixed by using the Text wrapping command on the Action Bar. First, select cell C2, then click the <term class="no-emphasis" id="term-00007">Text wrapping command</term>, and select the middle command for Wrap (<link target-id="fig-00004"/>a). Now all of the text is visible, but it’s still a little tight. Widen the column slightly by hovering over the edge of column C until the cursor changes to a double arrow, then drag the edge of the column to the right to accommodate the text, as seen in <link target-id="fig-00004"/>b.</para>
+    <figure id="fig-00004" class="scaled-down">
+    <title>When the text does not fit in a cell, one option is to wrap the text.</title>
+    <media alt="Part a shows cell C2 selected (the words “Item Description” are cut off inside the cell) and an orange arrow points to the Wrap Text icon on the toolbar. Part b shows an orange arrow pointing to the words “Item Description” in cell C2 shown completely on two lines.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_WRAP01.jpg"/></media>
+    <caption>(a) Select the cell and use the Wrap command. (b) If the text still does not quite fit, drag the edge of the column to widen it. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Merging Cells</title>
+    <para id="para-00008">As with Excel, Sheets allows cell merging. This enables information to be grouped to make it more readable for the user. For example, the <term class="no-emphasis" id="term-00008">Merge cells command</term> could group sales agents by region. To use this function, first select the cells you would like to merge. Then, use the Merge cells tool in the Action Bar, as shown in <link target-id="fig-00005"/>. You have several options with the tool: Merge all, Merge vertically (working with rows), Merge horizontally (working with columns), and Unmerge.</para>
+    <figure id="fig-00005">
+    <title>The Merge cells tool is found on the Action Bar.</title>
+    <media alt="A blank spreadsheet shows cells A1 and B1 selected and the Merge icon selected on the toolbar. The drop down menu shows the options: Merge all, Merge vertically, Merge horizontally, and Unmerge.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_MERG.jpg"/></media>
+    <caption>First, select the cells to be merged, then select the Merge cells tool. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00007">
+    <title>Designing Column and Row Headers</title>
+    <para id="para-00009">You have learned how to change the font, font color, background color, and width for header styling. Header text can be bolded and centered to make them easier to read, and background colors can be applied and changed. <link target-id="fig-00006"/> shows the formatting applied to cell B2 in the header. The font is bold and the text is centered.</para>
+    <figure id="fig-00006" class="scaled-down">
+    <title>Most professionally designed tables (a) use bold font on the headers and (b) are center aligned.</title>
+    <media alt="Part a shows Row 2 selected and an orange arrow points to the Bold icon on the toolbar. Part b shows the data in Row 2 bolded. Row 2 is still selected. The Alignment icon is selected on the toolbar and a red circle highlights the Center option from the drop down window. All of the text in Row 2 is center aligned.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_HEADER01.jpg"/></media>
+    <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <section id="sect-00008">
+    <title>Freezing Columns and Rows</title>
+    <para id="para-00010">Freezing columns and rows is useful when the data in your sheet does not fit the available viewing space. In Sheets, you can freeze panes anywhere in the worksheet, but it’s certainly most useful to freeze column and row headers. First, select the row that you want to freeze, then select <term class="no-emphasis" id="term-00009">Freeze</term> from the View menu (<link target-id="fig-00007"/>a) and choose Up to current row. Sheets freezes that row and all rows above it, as shown in <link target-id="fig-00007"/>b.</para>
+    <figure id="fig-00007">
+    <title>You can freeze panes anywhere on a sheet.</title>
+    <media alt="Part a shows Row 2 selected. The View tab is selected and the drop down menu lists: Show, Freeze, Group, Hidden sheets, Zoom, and Full Screen. Freeze is selected and the widow to the right shows: No rows, 1 row, 2 rows, Up to row 2, No columns, 1 column, 2 columns, and Up to column A. Part b shows the spreadsheet with Row 2 standing out. An orange arrow points to Row 7, which now shows directly below Row 2.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_FPANES01.jpg"/></media>
+    <caption>(a) Click on the row that you want to freeze and freeze up to that row. (b) That row freezes, and you can scroll through the data below it. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section id="sect-00009">
+    <title>Hiding Columns and Rows</title>
+    <para id="para-00011">Sheets also supports hiding columns and rows. Select the row or column you want to hide. Right-click and then click on <term class="no-emphasis" id="term-00010">Hide</term> row or Hide column (<link target-id="fig-00008"/>a). To unhide it, select the two on either side of the hidden row or column, right-click and click on <term class="no-emphasis" id="term-00011">Unhide</term> rows or Unhide columns (<link target-id="fig-00008"/>b), or click on one of the two small arrows in the header.</para>
+    <figure id="fig-00008">
+    <title>Hiding and unhiding columns in Sheets is similar to the process in Excel.</title>
+    <media alt="Part a shows Column B selected. A window is shown open with a list of options: Cut, Copy, Paste, Paste special, Insert 1 column left, Insert 1 column right, Delete column, Clear column, Hide Column, Resize column, Sort sheet A to Z, Sort sheet Z to A. Part b shows the spreadsheet with Colum B no longer visible and two small black arrows visible in the header on the right side of Column A and the left side of the next column visible. A window is shown open with this list of options: Cut, Copy, Paste, Paste special, Insert 3 columns left, Insert 3 columns right, Delete columns A-C, Clear columns A-C, Hide Columns A-C, Unhide columns, Resize columns A-C, Conditional formatting, Data validation, Column stats, Convert to people chip, View more column actions. Unhide columns is shown highlighted in a larger window.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_HIDEC01.jpg"/></media>
+    <caption>(a) Select the column you want to hide, right-click, and click on Hide column. (b) To unhide, select the columns on either side of the hidden column, right-click, and click on Unhide columns. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Conditional Formatting</title>
+    <para id="para-00012">Conditional formatting allows us to apply preset formatting to data that meets certain criteria. You can find the conditional formatting feature in Sheets on the Format menu (<link target-id="fig-00009"/>a). First, select the cells to format, and then choose the <term class="no-emphasis" id="term-00012">conditional formatting</term> feature. A sidebar opens where you can set up the conditional formatting (<link target-id="fig-00009"/>b). In this example, the conditions are set so that Sheets will highlight in the default color any cells in the range G2:G11 that have values greater than 999. The table updates instantly (<link target-id="fig-00009"/>c).</para>
+    <figure id="fig-00009">
+    <title>In Sheets, you can set up conditional formatting as in Excel.</title>
+    <media alt="Part a shows cell G6 selected. The Format tab is selected and the drop down lists: Theme, Number, Text, Alignment, Wrapping, Rotation, Font Size, Merge cells, Conditional formatting, Alternating colors, and Clear formatting. Conditional formatting is circled in red. Part b shows the window “Conditional format rules” with two tabs – Single color and Color scale. Single color is selected and lists these options: Apply to range (G2:G11) and Format rules. Format rules lists these options in a drop down menu: Is empty, Is not empty, Text contains, Text does not contain, Text starts with, Text ends with, Text is exactly, Date is, Date is before, Date is after, and Greater than. An orange arrow points to Greater than. Part c shows Column G selected with cells G4, G5, G6, G10, and G 11 colored green. A window is open titled Conditional format rules with two tabs – Single color and Color scale. Single color is selected and lists: Apply to range (G2:G11) and Format rules (Format cells if…). Greater than shows below and 999 is shown in a blue outlined box. Formatting style is next with Default in a green box underneath. An action bar with Bold, Italic, Underline, Strikethrough, Font color and Background color shows next. A Cancel button and a Done button are shown with the Done button selected in green. + Add another rule shows at the bottom.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_CONFOR01.jpg"/></media>
+    <caption>(a) Conditional formatting is in the Format menu. (b) The sidebar opens up to set the criteria. (c) When the criteria are set, the table instantly updates. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section id="sect-00011">
+    <title>Working with Templates</title>
+    <para id="para-00013">Sheets offers many templates on the Welcome screen (<link target-id="fig-00010"/>a). If you do not find what you are looking for in this screen, you can search for other online <term class="no-emphasis" id="term-00013">templates</term>, but you have to use certain criteria. You need to use the Google search engine, and type “X template site:http://docs.google.com.” For example, if you are looking for business budget reports, you would type “business budget report template site:http://docs.google.com.” Searching in this manner will give you results from other Google Docs users’ Google Drive accounts, meaning that they are sharing their templates with other users and they are available for use and not protected or restricted. This also means that the templates have been formatted for Sheets and not for Excel. In some cases, importing Excel files into Sheets can alter the formatting.</para>
+    <para id="para-00014">When you find the one you want to use, click on it, and a little ball will appear in the middle while you wait for the document to open. You can then edit the document that was generated using the template to customize it for your needs (<link target-id="fig-00010"/>b).</para>
+    <figure id="fig-00010">
+    <title>Sheets templates are available on (a) the Welcome screen or (b) online from other users.</title>
+    <media alt="Part a shows templates on the Welcome screen – eight different options are available with a Work heading. Part b shows a spreadsheet titled “Monthly budget” with a header in Rows 1-4 of instructions. Rows 7-18 show a bar chart with a starting balance and an ending balance with increases in total savings and amount of money saved indicated on the right.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_TEMPL01.jpg"/></media>
+    <caption>(attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00015">It is not always easy to present data in an appealing and interesting way. Following a few simple steps and best practices in formatting Sheets can ensure you are able to get your message across, while also engaging your audience. Check out <link url="https://openstax.org/l/78DataBestPract">these best practices for presenting data</link> to learn more.</para>
+    </note>
+    </section>
+    <section class="section-summary" id="sect-00012">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Sheets has many of the same formatting functionalities as Excel, such as colors, fonts, borders, text wrapping, and merging cells.</item>
+    <item>The formatting features allow for designing professional column and row headers. Hiding and unhiding columns or rows can simplify a worksheet to make it easier to use.</item>
+    <item>Conditional formatting works the same as in Excel.</item>
+    <item>Sheets contains some templates on the Welcome screen, but users of Sheets also share their own. Searching among only those publicly available templates can help you find many additional templates.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00013">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00016"><link class="os-embed" url="#exercise/09-08-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00017"><link class="os-embed" url="#exercise/09-08-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00018"><link class="os-embed" url="#exercise/09-08-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-exercises" id="sect-00014">
+    <title>Written Exercises</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00019"><link class="os-embed" url="#exercise/09-08-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00020"><link class="os-embed" url="#exercise/09-08-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00021"><link class="os-embed" url="#exercise/09-08-BCA-WQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00015">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00022"><link class="os-embed" url="#exercise/09-08-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00023"><link class="os-embed" url="#exercise/09-08-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00016">
+    <title>Case Exercises</title>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00024"><link class="os-embed" url="#exercise/09-08-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
