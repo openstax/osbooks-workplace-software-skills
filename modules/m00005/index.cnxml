@@ -5,7 +5,7 @@
     <md:content-id>m00005</md:content-id>
     <md:uuid>318fd230-8a1e-48f9-a612-765a0cb04885</md:uuid>
   </metadata>
-  
+
 <content>
   <section class="learning-objectives" id="sect-00001">
   <title>Learning Objectives</title>
@@ -170,7 +170,7 @@
   </problem>
   </exercise>
   </section>
-  <section class="written-exercises" id="sect-00014">
+  <section class="written-questions" id="sect-00014">
   <title>Written Exercises</title>
   <exercise id="exer-00005">
   <problem id="prob-00005">
@@ -205,7 +205,7 @@
   </exercise>
   </section>
   </content>
-  
+
   <glossary>
   <definition id="def-00001">
   <term>conditional formatting</term>

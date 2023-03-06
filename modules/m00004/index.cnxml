@@ -92,7 +92,7 @@
     <item>The function syntax can perform the same calculations as the formula syntax for addition and multiplication but not for subtraction or division. The function syntax uses function names with cell references or ranges in parentheses to calculate.</item>
     </list>
     </section>
-    
+
     <section class="review-questions" id="sect-00008">
     <title>Review Questions</title>
     <exercise id="exer-00001">
@@ -106,7 +106,7 @@
     </problem>
     </exercise>
     </section>
-    <section class="written-exercises" id="sect-00009">
+    <section class="written-questions" id="sect-00009">
     <title>Written Exercises</title>
     <exercise id="exer-00003">
     <problem id="prob-00003">
