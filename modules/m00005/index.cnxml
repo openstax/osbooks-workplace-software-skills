@@ -80,7 +80,7 @@
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_FREZ01.jpg"/></media>
   <caption>Using the Freezing Panes command keeps headers visible when data extends off the screen. (a) Before the header row is frozen, scrolling down removes the header from view. (b) The Freeze Panes options are found on the View tab. (c) Clicking on Freeze Panes allows for freezing the top row, first column, or both. Freezing the header row shows a line that indicates the row is frozen and keeps it in view while scrolling. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
   </figure>
-  <note class="check-point" id="note-00002">
+  <note class="mac-tip" id="note-00002">
   <exercise class="unnumbered" id="exer-00001">
   <problem id="prob-00001">
   <para id="para-00013">On a Mac, Excel uses icons for many of the drop-down menus that appear in the Windows version. The Freeze tool, for example, is always visible at the top of your active workbook.</para>
@@ -101,7 +101,7 @@
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_HID01.jpg"/></media>
   <caption>Using the Hide command makes rows/columns temporarily not visible in a table. (a) Right-click on the column and select Hide. (b) When columns are hidden, double lines and skipped letters are indicated in the letter designation header. (c) To reveal the columns again, select the two columns on either side of the hidden one, right-click, and select Unhide. (d) All columns are visible again. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
   </figure>
-  <note class="check-point" id="note-00004">
+  <note class="mac-tip" id="note-00004">
   <exercise class="unnumbered" id="exer-00002">
   <problem id="prob-00002">
   <para id="para-00017">To access the Hide function, hold the Control key and click on the column.</para>
