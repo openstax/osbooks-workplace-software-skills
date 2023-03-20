@@ -63,7 +63,6 @@
   <caption>>Merging cells is useful for presentation and readability purposes. You can (a) group columns by adding a row above the header row, (b) merge and center cells to create a new label above the date and time, (c) merge and center cells to group the quantity and the code, and (d) merge cells next to the total to create a more readable total. You can also (e) add borders. (f) The final table is clear and readable. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
   </figure>
   <note class="link-to-learning" id="note-00001">
-  <title>Embedding Excel Components into PowerPoint</title>
   <para id="para-00010">Did you know that you can embed Excel objects and components into other Microsoft applications? You can insert all or parts of an Excel worksheet into your presentations and documents, saving time from re-creating the same content in these applications. Embedding content also helps ensure that the content provided in your document or presentation is accurate, as changes in Excel will update in these files as well. Visit this <link url="https://openstax.org/l/78ExcelinPPT">Microsoft page that shows how to embed Excel content in PowerPoint</link> to learn more.</para>
   </note>
   </section>

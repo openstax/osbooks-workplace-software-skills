@@ -32,13 +32,13 @@
     <title/>
     <media alt="Part a shows a spreadsheet with multiple columns and rows of data. Part b shows the whole table selected. Part c shows the whole table selected. The columns are wider than in Part b.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_INSCO01abc.jpg"/></media>
-    <caption>Using the formatting of an existing table can make it easier to create a new one. (a) The table being copied has formatted headers and cells. (b) First, highlight the table and copy it. (c) Then, paste it into the new workbook. Since the columns are all the same size, they need to be resized. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Using the formatting of an existing table can make it easier to create a new one. (a) The table being copied has formatted headers and cells. (b) First, highlight the table and copy it. (c) Then, paste it into the new workbook. Since the columns are all the same size, they need to be resized. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <figure id="fig-00002" class="scaled-down">
     <title/>
     <media alt="Part d shows Insert selected from the menu. This is listed in the open window: Column left, Column right, Chart, Image, and Drawing. Part e shows a new column created to the right of Column B with cell C1 having the same blue formatting as the other cells in that row. All of the columns to the right are now shifted right. Part f shows Column C filled with data.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_INSCO01def.jpg"/></media>
-    <caption>(d) Insert a column to the left of the item description. (e) The empty column keeps the visual formatting in the header. (f) Then, you can enter the data in the new column. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>(d) Insert a column to the left of the item description. (e) The empty column keeps the visual formatting in the header. (f) Then, you can enter the data in the new column. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section id="sect-00003">
@@ -48,9 +48,9 @@
     <title/>
     <media alt="Part a shows a blank spreadsheet with words in Row 1. Cells A1 through A10 are selected. The 123 icon is selected on the toolbar and the pop up window lists: Automatic (selected with a checkmark), Plain text, Number, Percent, Scientific, Accounting, Financial, Currency, Currency (rounded), Date, Time, Date time, Duration, Custom currency, Custom date and time, Custom number format. Part b shows Cell A1 selected with Fill color selected from the Action Bar. The drop down shows “Reset” and 60 different color circles. No color is shown as selected.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_09_06_DATA01.jpg"/></media>
-    <caption>Creating a table from scratch requires many steps. First, enter your headers in the first row. (a) Then, format each column for the type of data it will contain. Adjust the column width when necessary. Format your header row by bolding and centering the content. (b) Finally, add the background fill from the custom color menu. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Creating a table from scratch requires many steps. First, enter your headers in the first row. (a) Then, format each column for the type of data it will contain. Adjust the column width when necessary. Format your header row by bolding and centering the content. (b) Finally, add the background fill from the custom color menu. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
-    <para id="para-00007">The format types Sheets uses are similar to the ones Excel uses. <link target-id="table-00001"/> compares the formats between Sheets and Excel. The names differ slightly, but many mean almost the same thing. There are minor differences like the order the format types appear in the menu (see [link]Figure 09_02_NUMER01[/link]), and there are some formats that are unique to Sheets. Sheets has the “Financial,” “Currency rounded,” “Date time,” and “Duration” formats that are not available in Excel.</para>
+    <para id="para-00007">The format types Sheets uses are similar to the ones Excel uses. <link target-id="table-00001"/> compares the formats between Sheets and Excel. The names differ slightly, but many mean almost the same thing. There are minor differences like the order the format types appear in the menu, and there are some formats that are unique to Sheets. Sheets has the “Financial,” “Currency rounded,” “Date time,” and “Duration” formats that are not available in Excel.</para>
     <table summary="" id="table-00001">
     <title/>
     <tgroup cols="2">
@@ -133,7 +133,7 @@
     <title/>
     <media alt="Part e shows an area chart inserted in Columns H through M. The Chart Editor shows on the right with two tabs - Setup and Customize. Setup is selected and the options listed include: Chart type (Area chart), Stacking (None), Data range (A1:A10, G1:G10), Combine ranges (Horizontally), X-axis (Date) and Aggregate.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_GRAPH01e.jpg"/></media>
-    <caption>(e) One other possible option for this data is an area chart. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>(e) One other possible option for this data is an area chart. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <note class="link-to-learning" id="note-00002">
     <para id="para-00011">The help forums for Sheets contain a short introduction to all the types of graphs you can build. They describe the use of each of the graphs, previews, and short step-by-step instructions. Go to <link url="https://openstax.org/l/78GoogleGraph">Google’s support page on the different graph types</link> to learn more.</para>
@@ -146,7 +146,7 @@
     <title/>
     <media alt="Part a shows A1:G1 selected. Across the top, the Format tab is selected and the drop down shows: Theme (New), Number, Bold, Italic, Underline, Strikethrough, Font size, and Align. In Part b, cell D1 is selected and the Insert tab is selected. The menu that is shown includes: Row above, Row below, Column left, Column right, Cells and shift down, Cells and shift right, Chart, Image and Drawing. Image is selected; the menu that shows to the right includes: Image in cell (new) and Image over cells. Part c shows an image of a tablet screen inserted into cell D1 on the spreadsheet, filling the entire cell.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_LAYOUT01.jpg"/></media>
-    <caption>Page layout features in Sheets differ somewhat from those in Excel. (a) Themes are used to set a color scheme and/or font type for your spreadsheet. (b) You can insert an image in a single cell or over all of the cells in a worksheet. (c) Inserting an image in a single cell fills the cell with the image. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Page layout features in Sheets differ somewhat from those in Excel. (a) Themes are used to set a color scheme and/or font type for your spreadsheet. (b) You can insert an image in a single cell or over all of the cells in a worksheet. (c) Inserting an image in a single cell fills the cell with the image. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <para id="para-00013">The review features in Sheets differ somewhat from the Review tab commands in Excel. Sheets allows you to insert a comment (<link target-id="fig-00008"/>a) and view all the comments on the document by clicking on the <term class="no-emphasis" id="term-00020">Comment History</term> button on the top (<link target-id="fig-00008"/>b). The <term class="no-emphasis" id="term-00021">Tools menu</term> in Sheets has a spelling and grammar check (<link target-id="fig-00008"/>c).</para>
     <figure id="fig-00008">

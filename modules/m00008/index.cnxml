@@ -24,13 +24,13 @@
     <title/>
     <media alt="Part a shows a spreadsheet with two tables—one in Rows 1 through 11 and another in Rows 14 through 24.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_ADD01a.jpg"/></media>
-    <caption>The addition formula in Sheets works the same way as in Excel. (a) These two tables of data are to be summarized in one shorter table. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>The addition formula in Sheets works the same way as in Excel. (a) These two tables of data are to be summarized in one shorter table. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <figure class="scaled-down" id="fig-00002">
     <title/>
     <media alt="Part b shows cell O4 selected ($6,912.00) and “=G21+G22+G23+G24” shown in the formula bar. Part c shows cell N4 selected ($19,584.00) and “=F3+F4+F5+F6+F7+F8+F9” shown in the formula bar.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_ADD01bc.jpg"/></media>
-    <caption>(b) If you summarize the data by client and by month, you can add up all of the sales that occur in a specific month. (c) You can copy the formula into a new column to be added and then format the header row. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>(b) If you summarize the data by client and by month, you can add up all of the sales that occur in a specific month. (c) You can copy the formula into a new column to be added and then format the header row. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <para id="para-00004">The same calculations can occur using functions. You can use the tables in <link target-id="fig-00002"/>c but replace the addition formulas with the <term class="no-emphasis" id="term-00001">SUM function</term>. Type “=sum(” and then list the cells to add, with a comma after each cell reference and close the parentheses (<link target-id="fig-00003"/>b). Repeat the process for the rest of the column, and for the FOB $ values.</para>
     <figure id="fig-00003" class="scaled-down">
@@ -77,7 +77,7 @@
     <title/>
     <media alt="Cell G3 is selected and the formula bar and cell say: =multiply(D3,F3)">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_MULTI01.jpg"/></media>
-    <caption>The function for multiplication in Sheets is MULTIPLY. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>The function for multiplication in Sheets is MULTIPLY. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section id="sect-00005">

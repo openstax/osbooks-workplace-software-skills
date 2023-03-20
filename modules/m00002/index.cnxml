@@ -57,19 +57,20 @@
     <caption>Clicking on a cell reveals the formula above the headers in the Formula Bar, while the result of the calculation shows in the cell. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00015">In order to apply this calculation to the rest of the data, you can repeat the formula in other cells in the same column. In <link target-id="fig-00004"/>a, all data has been removed from column H, except for the first cell, which contains our formula “=E2*G2.” The easiest way to repeat the formula is to use AutoFill. Place the cursor on the lower-right corner of the cell, until the cursor changes to a black cross. Then, click and drag the cross to the end of your column of data, which copies the formula into each cell (<link target-id="fig-00004"/>b). <link target-id="fig-00004"/>c shows the result of dragging the formula from H2 to H18. <term class="no-emphasis" id="term-00010">AutoFill</term> is also a useful feature for repeating text. The text could be a static value, such as when you enter multiple orders that contain the same item, or a time value, such as months of the year or days of the week. You can simply type in “January” and then use AutoFill to drag across or down to fill in the rest of the months. This method works for dates, days of the week, other text such as Quarter 1 and Quarter 2, and nearly any pattern of numbers (i.e., odd numbers or counting by 5). When using AutoFill for a pattern of numbers or text you want to repeat, you need to select enough of the pattern so that Excel can recognize the repetition. For example, if you want to generate a list of numbers counting up by 5, you will need to select at least the cells that contain 5 and 10 so that Excel understands you want to increase the value in each row in the AutoFill by 5.</para>
-    <note class="check-point" id="note-00002">
-    <exercise class="unnumbered" id="exer-00001">
-      <problem id="prob-00001">
-    <para id="para-00016">On a Mac, you can simply double-click on the cross and the formula will copy down the column to the last row that contains data.</para>
-  </problem>
-    </exercise>
-    </note>
+
     <figure id="fig-00004">
     <title/>
     <media alt="In part a, cell H2 is selected. The Formula Bar is enlarged and says =E2*G2. In Part b, multiple cells in Column H are selected. In Part c, the selected cells are filled in with different numbers.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_01_GUI03.jpg"/></media>
     <caption>The AutoFill feature is useful to get the results without retyping or copying and pasting the formula. (a) Column H is empty, except for the first cell, which contains the formula, as seen in the Formula Bar. (b) Clicking and dragging the formula to the end of the column automatically applies the same formula to subsequent rows. (c) By dragging the formula down the column using the AutoFill feature (small black cross sign in the lower-right corner of a cell), the values are calculated for each row. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
     </figure>
+    <note class="check-point" id="note-00002">
+      <exercise class="unnumbered" id="exer-00001">
+        <problem id="prob-00001">
+      <para id="para-00016">On a Mac, you can simply double-click on the cross, and the formula will copy down the column to the last row that contains data.</para>
+    </problem>
+      </exercise>
+      </note>
     </section>
     <section id="sect-00004">
     <title>The <term class="no-emphasis" id="term-00011">Excel Ribbon</term></title>

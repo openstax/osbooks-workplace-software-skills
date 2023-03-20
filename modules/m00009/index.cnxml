@@ -37,7 +37,7 @@
     <title/>
     <media alt="Part a shows the entire set of data selected. The toolbar shows the Border button selected and the drop down window shows all the options available for choosing a border color, thickness, and location. A red circle shows around the drop down menu in the window for border thickness. Part b shows the entire set of data selected and a red circle around the option to choose a border on all sides of the cell. Part c show the entire set of data selected. The drop down list that shows all of the border thicknesses available from the drop down menu is shown. A thick black line is selected with a checkmark.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_BORDER01.jpg"/></media>
-    <caption>You can change the borders from the Action Bar. (a) Click on the Borders command and choose Border style. (b) There are several border styles to choose from in the list. (c) After choosing the style, apply it to all borders. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>You can change the borders from the Action Bar. (a) Click on the Borders command and choose Border style. (b) There are several border styles to choose from in the list. (c) After choosing the style, apply it to all borders. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <para id="para-00006">For the border around the table body, repeat the same first step, selecting the third thickest. Then, instead of applying it to all borders, choose the Outer borders option (<link target-id="fig-00003"/>a). <link target-id="fig-00003"/>b shows the final table.</para>
     <figure id="fig-00003" class="scaled-down">
@@ -54,7 +54,7 @@
     <title/>
     <media alt="Part a shows cell C2 selected (the words “Item Description” are cut off inside the cell) and an orange arrow points to the Wrap Text icon on the toolbar. Part b shows an orange arrow pointing to the words “Item Description” in cell C2 shown completely on two lines.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_WRAP01.jpg"/></media>
-    <caption>When the text does not fit in a cell, one option is to wrap the text. (a) Select the cell and use the Wrap command. (b) If the text still does not quite fit, drag the edge of the column to widen it. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>When the text does not fit in a cell, one option is to wrap the text. (a) Select the cell and use the Wrap command. (b) If the text still does not quite fit, drag the edge of the column to widen it. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section id="sect-00006">
@@ -75,7 +75,7 @@
     <title/>
     <media alt="Part a shows Row 2 selected and an orange arrow points to the Bold icon on the toolbar. Part b shows the data in Row 2 bolded. Row 2 is still selected. The Alignment icon is selected on the toolbar and a red circle highlights the Center option from the drop down window. All of the text in Row 2 is center aligned.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_HEADER01.jpg"/></media>
-    <caption>Most professionally designed tables (a) use bold font on the headers and (b) are center aligned. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Most professionally designed tables (a) use bold font on the headers and (b) are center aligned. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <section id="sect-00008">
     <title>Freezing Columns and Rows</title>
@@ -105,7 +105,7 @@
     <title/>
     <media alt="Part a shows cell G6 selected. The Format tab is selected and the drop down lists: Theme, Number, Text, Alignment, Wrapping, Rotation, Font Size, Merge cells, Conditional formatting, Alternating colors, and Clear formatting. Conditional formatting is circled in red. Part b shows the window “Conditional format rules” with two tabs – Single color and Color scale. Single color is selected and lists these options: Apply to range (G2:G11) and Format rules. Format rules lists these options in a drop down menu: Is empty, Is not empty, Text contains, Text does not contain, Text starts with, Text ends with, Text is exactly, Date is, Date is before, Date is after, and Greater than. An orange arrow points to Greater than. Part c shows Column G selected with cells G4, G5, G6, G10, and G 11 colored green. A window is open titled Conditional format rules with two tabs – Single color and Color scale. Single color is selected and lists: Apply to range (G2:G11) and Format rules (Format cells if…). Greater than shows below and 999 is shown in a blue outlined box. Formatting style is next with Default in a green box underneath. An action bar with Bold, Italic, Underline, Strikethrough, Font color and Background color shows next. A Cancel button and a Done button are shown with the Done button selected in green. + Add another rule shows at the bottom.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_CONFOR01.jpg"/></media>
-    <caption>In Sheets, you can set up conditional formatting as in Excel. (a) Conditional formatting is in the Format menu. (b) The sidebar opens up to set the criteria. (c) When the criteria are set, the table instantly updates. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>In Sheets, you can set up conditional formatting as in Excel. (a) Conditional formatting is in the Format menu. (b) The sidebar opens up to set the criteria. (c) When the criteria are set, the table instantly updates. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section id="sect-00011">
@@ -116,7 +116,7 @@
     <title/>
     <media alt="Part a shows templates on the Welcome screen – eight different options are available with a Work heading. Part b shows a spreadsheet titled “Monthly budget” with a header in Rows 1-4 of instructions. Rows 7-18 show a bar chart with a starting balance and an ending balance with increases in total savings and amount of money saved indicated on the right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_TEMPL01.jpg"/></media>
-    <caption>Sheets templates are available on (a) the Welcome screen or (b) online from other users. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Sheets templates are available on (a) the Welcome screen or (b) online from other users. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <note class="link-to-learning" id="note-00001">
     <para id="para-00015">It is not always easy to present data in an appealing and interesting way. Following a few simple steps and best practices in formatting Sheets can ensure you are able to get your message across, while also engaging your audience. Check out <link url="https://openstax.org/l/78DataBestPract">these best practices for presenting data</link> to learn more.</para>
