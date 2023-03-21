@@ -35,7 +35,7 @@
     <para id="para-00004">The same calculations can occur using functions. You can use the tables in <link target-id="fig-00002"/>c but replace the addition formulas with the <term class="no-emphasis" id="term-00001">SUM function</term>. Type “=sum(” and then list the cells to add, with a comma after each cell reference and close the parentheses (<link target-id="fig-00003"/>b). Repeat the process for the rest of the column, and for the FOB $ values.</para>
     <figure id="fig-00003" class="scaled-down">
     <title/>
-    <media alt="Cells D21, D22, D23, and D24 are shows with their cell borders highlighted with different colored dashed lines to correspond to the formula in the formula bar: =D21+D22+D23+D24. A pop up box shows above the “=” sign in the formula bar with 144x inside. Part of a table id shown on the right with a cell highlighted and the formula =D21+D22+D23+D24 shown inside.">
+    <media alt="Cells D21, D22, D23, and D24 are selected in a group. The formula bar and a cell in column L says '=SUM(D21:D24)'">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_SUM01.jpg"/></media>
     <caption>Sheets offers a SUM function that can be used instead of formulas. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
