@@ -53,14 +53,14 @@
     <title/>
     <media alt="Part c shows cell J24 selected. The formula in the formula bar is: =H24-I24 with cell showing: $ (706.67).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_SUBTRCT01c.jpg"/></media>
-    <caption>(c) Do the same calculation to find the distance from average for the FOB $. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>(c) Do the same calculation to find the distance from average for the FOB $. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <para id="para-00006">Sheets also offers a subtraction function, unlike Excel. You can replace the subtraction formula with the <term class="no-emphasis" id="term-00002">MINUS function</term>. First, type “=minus(” and list the cell references separated by a comma (<link target-id="fig-00006"/>). The MINUS function subtracts numbers in the order they appear in the formula just as if they were separated by “-” in a formula. You can repeat this for all the subtraction formulas in the table. You can only subtract two numbers using the MINUS function.</para>
     <figure id="fig-00006" class="scaled-down">
     <title/>
     <media alt="Cell G3 is selected and the formula in the formula bar reads: =minus(E3,f3)|. In cell G3 this shows: =minus(E3,f3).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_MINUS01.jpg"/></media>
-    <caption>Sheets has the advantage over Excel in that it has a MINUS function. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Sheets has the advantage over Excel in that it has a MINUS function. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section id="sect-00004">
@@ -70,7 +70,7 @@
     <title/>
     <media alt="Part a shows cell F3 selected and the formula bar shows “=D3*48” with the information in the cell being $ 720.00. Part b shows an added column to the right of Column E – Price per Unit (now column F) and FOB $ shifted to column G. Cell G3 is selected and the formula in the formula bar reads: =D3*F3. In cell G3, this shows: =D3*F3.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_PRODUCT01.jpg"/></media>
-    <caption>You can use cell references and constants for multiplication using formulas in Sheets. (a) The price per unit is the same for all items in this table, so you can multiply the quantity by the price without adding a column. (b) Alternatively, you can add a column for the price per unit and (c) use cell references to perform the calculation. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>You can use cell references and constants for multiplication using formulas in Sheets. (a) The price per unit is the same for all items in this table, so you can multiply the quantity by the price without adding a column. (b) Alternatively, you can add a column for the price per unit and (c) use cell references to perform the calculation. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <para id="para-00008">To use the function, replace the formula with “=multiply(” and add the constant and/or cell references in parentheses, separated by commas (<link target-id="fig-00008"/>). You can only multiply two numbers using the <term class="no-emphasis" id="term-00003">MULTIPLY function</term>. Sheets has another function, <term class="no-emphasis" id="term-00004">PRODUCT</term>, that can multiply a series of numbers rather than just two.</para>
     <figure id="fig-00008" class="scaled-down-30">
