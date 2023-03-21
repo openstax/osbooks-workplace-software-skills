@@ -37,7 +37,7 @@
     <title/>
     <media alt="Cells D21, D22, D23, and D24 are shows with their cell borders highlighted with different colored dashed lines to correspond to the formula in the formula bar: =D21+D22+D23+D24. A pop up box shows above the “=” sign in the formula bar with 144x inside. Part of a table id shown on the right with a cell highlighted and the formula =D21+D22+D23+D24 shown inside.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_SUM01.jpg"/></media>
-    <caption>Sheets offers a SUM function that can be used instead of formulas. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Sheets offers a SUM function that can be used instead of formulas. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section id="sect-00003">
@@ -47,7 +47,7 @@
     <title/>
     <media alt="In Part a, Cell G3 is selected and the formula in the formula bar reads: =E3-F3, which also shows in cell G3. A pop up box shows above the “=” sign in cell G3 with $ (34.72) inside. Part b shows Cell G24 selected and the formula bar shows: =E24-F24. The information in the cell is: $ (14.72).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_SUBTRCT01.jpg"/></media>
-    <caption>You can perform subtraction calculations in Sheets using formulas, just as in Excel. (a) After finding the average, subtract the average from the quantity to get the distance from average. (b) Then, copy the formula to all cells in the same row. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>You can perform subtraction calculations in Sheets using formulas, just as in Excel. (a) After finding the average, subtract the average from the quantity to get the distance from average. (b) Then, copy the formula to all cells in the same row. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <figure id="fig-00005" class="scaled-down">
     <title/>
@@ -88,14 +88,14 @@
     <title/>
     <media alt="Part a shows column R with no data in Rows 3-6 and no data in cell Q6. Cell Q5 is selected and the formula = O5+O6 shows in the formula bar. In cell O5, this is shown: = O5+O6 with a text box above with “$ 29,760.00” inside. Part b shows previously empty cells Q5 and Q6 both filled in with “$29,760.00.” In cell R3, this is written: = O3/O3 with a text box above with $ 0.48 inside. Part c shows column R filled in: R3: 0.4764; R4: 0.5236; R5: 0.3419; R6: 0.6581. Part d shows Column R selected and the data inside shown as a percentage with the “%” sign. The % icon from the Action bar is selected – Format as percent. The formula bar shows: = O3/$Q$.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_DIVIDE01.jpg"/></media>
-    <caption>You can use division to find the proportion of sales by client and by month. (a) First, find the total sales for each month. (b) Then, use the division formula to divide the client’s total by the total monthly sales. (c) Carry these formulas down the column to get the proportion for each client in each month. (d) Reformatting the cells as percentages makes the data more useful. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>You can use division to find the proportion of sales by client and by month. (a) First, find the total sales for each month. (b) Then, use the division formula to divide the client’s total by the total monthly sales. (c) Carry these formulas down the column to get the proportion for each client in each month. (d) Reformatting the cells as percentages makes the data more useful. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <para id="para-00011">The division function in Sheets works in the same way as other mathematical functions. You can type “=divide(” and then enter the cell references, separated by a comma (<link target-id="fig-00010"/>). Notice that the result of the <term class="no-emphasis" id="term-00005">DIVIDE function</term> is a decimal. The numbers are divided in the order in which they are placed in the function, and you can only divide two numbers using the DIVIDE function. The <term class="no-emphasis" id="term-00006">QUOTIENT function</term> in Sheets also works in the same way as Excel. The result of the QUOTIENT function will be a whole number, not a decimal. For example, when you divide 5 by 4, the answer is 1.25, but using the QUOTIENT function, the answer will be displayed as 1.</para>
     <figure id="fig-00010" class="scaled-down">
     <title/>
     <media alt="Cell R3 is selected and =divide(O3,$Q$6)| shows in the formula bar and in Cell R3.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_PROD01.jpg"/></media>
-    <caption>You may use DIVIDE as a function in Sheets. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>You may use DIVIDE as a function in Sheets. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section class="section-summary" id="sect-00006">

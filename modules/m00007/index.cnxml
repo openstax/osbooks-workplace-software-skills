@@ -65,19 +65,19 @@
     <tbody>
     <row>
     <entry><term class="no-emphasis" id="term-00005">Number</term></entry>
-    <entry>The same as in Excel</entry>
+    <entry>Same as Excel</entry>
     </row>
     <row>
     <entry><term class="no-emphasis" id="term-00006">Percentage</term></entry>
-    <entry>The same as in Excel</entry>
+    <entry>Same as Excel</entry>
     </row>
     <row>
     <entry><term class="no-emphasis" id="term-00007">Scientific</term></entry>
-    <entry>The same as in Excel</entry>
+    <entry>Same as Excel</entry>
     </row>
     <row>
     <entry><term class="no-emphasis" id="term-00008">Accounting</term></entry>
-    <entry>The same as in Excel</entry>
+    <entry>Same as Excel</entry>
     </row>
     <row>
     <entry><term class="no-emphasis" id="term-00009">Financial</term></entry>
@@ -85,7 +85,7 @@
     </row>
     <row>
     <entry><term class="no-emphasis" id="term-00010">Currency</term></entry>
-    <entry>The same as in Excel</entry>
+    <entry>Same as Excel</entry>
     </row>
     <row>
     <entry><term class="no-emphasis" id="term-00011">Currency rounded</term></entry>
@@ -93,11 +93,11 @@
     </row>
     <row>
     <entry><term class="no-emphasis" id="term-00012">Date</term></entry>
-    <entry>The same as in Excel</entry>
+    <entry>Same as Excel</entry>
     </row>
     <row>
     <entry><term class="no-emphasis" id="term-00013">Time</term></entry>
-    <entry>The same as in Excel</entry>
+    <entry>Same as Excel</entry>
     </row>
     <row>
     <entry><term class="no-emphasis" id="term-00014">Date time</term></entry>
@@ -121,13 +121,13 @@
     <title/>
     <media alt="Part a shows a spreadsheet with multiple columns and rows of data. Columns A and G are selected. The Insert Chart icon on the toolbar is selected. Part b shows a line graph inserted in Columns H through M that includes the data from Column A as the horizontal axis and data from Column G as the vertical axis. The Chart Editor shows on the right with two tabs – Setup and Customize. Setup is selected and the options listed include: Chart type (Line chart), Data range (A1:A10, G1:G10), Combine ranges (Horizontally), X-axis (Date), Aggregate, and Series (123 Client A FOB $).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_GRAPH01ab.jpg"/></media>
-    <caption>Creating graphs in Sheets is simple because of the built-in analysis the application performs. (a) First, choose the columns you want to compare and click on Insert Chart. (b) Sheets automatically chose a line chart for the data. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Creating graphs in Sheets is simple because of the built-in analysis the application performs. (a) First, choose the columns you want to compare and click on Insert Chart. (b) Sheets automatically chose a line chart for the data. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <figure id="fig-00005">
     <title/>
     <media alt="Part c shows a line chart inserted in Columns H through M. The Chart Editor shows on the right with two tabs - Setup and Customize. Setup is selected and the options listed include: Chart type (Line chart), Suggested (an image of a line graph is shown and selected, an image of a column chart is shown, an image of a pie chart is shown, and an image of an area chart with areas highlighted is shown), and Line (an image with straight blue and red lines is shown and selected, an image with curved red and blue lines is shown, and a bar graph with blue bars and red lines is shown.) Part d shows a column chart inserted in Columns H-M. The Chart Editor shows on the right with two tabs - Setup and Customize. Setup is selected and the options listed include: Chart type (Column chart), Stacking is selected (None), Data range (A1:A10, G1:G10), Combine ranges (Horizontally), X-axis (Date) and an empty checkbox next to Aggregate.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_GRAPH01cd.jpg"/></media>
-    <caption>(c) The Chart Editor sidebar gives other options for the type of chart. (d) Another option for this set of data is a bar chart. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>(c) The Chart Editor sidebar gives other options for the type of chart. (d) Another option for this set of data is a bar chart. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <figure id="fig-00006">
     <title/>
@@ -153,7 +153,7 @@
     <title/>
     <media alt="Part a shows Rows 6, 7, and 8 selected. The Insert tab is selected and the drop down menu includes: 3 Rows above, 3 Rows below, 3 Columns left, 3 Columns right, Cells and shift down, Cells and shift right, Chart, Image, Drawing, Form, Function, Insert Link, Checkbox, and comment. Comment is selected. Part b shows an open window with drop down menus for All and All sheets at the top and Start a discussion and a green “Add comment” button at the bottom. Part c shows the spreadsheet with cells C6-C8 and D6-D8 selected. The Tools tab is selected and the menu shows: Create a form, AppSheet, Script editor, Macros, Spelling, Enable autocomplete, Notification rules, Protect sheet, and Accessibility settings. Spelling is selected and to the right Spell check and Personal dictionary are shown.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_REVIEW01.jpg"/></media>
-    <caption>Some review features in Sheets are similar to those of Excel. (a) Comments are available in the Insert menu. (b) You can also review all comments in a workbook. (c) The spelling and grammar check are in the Tools menu. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Some review features in Sheets are similar to those of Excel. (a) Comments are available in the Insert menu. (b) You can also review all comments in a workbook. (c) The spelling and grammar check are in the Tools menu. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section class="section-summary" id="sect-00006">

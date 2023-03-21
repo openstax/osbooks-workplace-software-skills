@@ -27,7 +27,7 @@
     <title/>
     <media alt="Part a shows Row 2 selected. The toolbar shows the Font drop down menu selected listing multiple options. Default (Calibri) is selected with a checkmark. Part b shows a different font in Row 2 than in Part a. The Font color button is selected with the drop down window showing multiple color options. Part c shows a lighter blue background color in Row 2. The toolbar shows Cell Background selected and the drop down window shows multiple color options with a light blue selected.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_FONT01.jpg"/></media>
-    <caption>In Sheets, you can format headers by (a) changing the font, (b) changing the color of the font, and (c) changing the cell background color, just as in Excel. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>In Sheets, you can format headers by (a) changing the font, (b) changing the color of the font, and (c) changing the cell background color, just as in Excel. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section id="sect-00004">
@@ -44,7 +44,7 @@
     <title/>
     <media alt="Part a shows thin black borders around all the individual cells in Row 2. The entire set of data is selected. The Border button is selected and the drop down window shows all the options available for choosing a border color, thickness, and location. An orange arrow points to the Border selection to highlight the outside of a selected area. Part b shows the spreadsheet with a thick black border around the outside of the data as well as Row 2. The border between cells in Row 2 is still a thin line. No borders encase the individual cells in rows 3-11.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_BORDER02.jpg"/></media>
-    <caption>The header borders are formatted, and the same styling can be used to add a border to the outside of the table. (a) Click on the Borders command, choose the border style, and then apply it to the outer borders. (b) The final table looks neat and professional with borders. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>The header borders are formatted, and the same styling can be used to add a border to the outside of the table. (a) Click on the Borders command, choose the border style, and then apply it to the outer borders. (b) The final table looks neat and professional with borders. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section id="sect-00005">
@@ -64,7 +64,7 @@
     <title/>
     <media alt="A blank spreadsheet shows cells A1 and B1 selected and the Merge icon selected on the toolbar. The drop down menu shows the options: Merge all, Merge vertically, Merge horizontally, and Unmerge.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_MERG.jpg"/></media>
-    <caption>The Merge cells tool is found on the Action Bar. First, select the cells to be merged, then select the Merge cells tool. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>The Merge cells tool is found on the Action Bar. First, select the cells to be merged, then select the Merge cells tool. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     </section>
@@ -84,7 +84,7 @@
     <title/>
     <media alt="Part a shows Row 2 selected. The View tab is selected and the drop down menu lists: Show, Freeze, Group, Hidden sheets, Zoom, and Full Screen. Freeze is selected and the widow to the right shows: No rows, 1 row, 2 rows, Up to row 2, No columns, 1 column, 2 columns, and Up to column A. Part b shows the spreadsheet with Row 2 standing out. An orange arrow points to Row 7, which now shows directly below Row 2.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_FPANES01.jpg"/></media>
-    <caption>You can freeze panes anywhere on a sheet. (a) Click on the row that you want to freeze and freeze up to that row. (b) That row freezes, and you can scroll through the data below it. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>You can freeze panes anywhere on a sheet. (a) Click on the row that you want to freeze and freeze up to that row. (b) That row freezes, and you can scroll through the data below it. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     <section id="sect-00009">
@@ -94,7 +94,7 @@
     <title/>
     <media alt="Part a shows Column B selected. A window is shown open with a list of options: Cut, Copy, Paste, Paste special, Insert 1 column left, Insert 1 column right, Delete column, Clear column, Hide Column, Resize column, Sort sheet A to Z, Sort sheet Z to A. Part b shows the spreadsheet with Colum B no longer visible and two small black arrows visible in the header on the right side of Column A and the left side of the next column visible. A window is shown open with this list of options: Cut, Copy, Paste, Paste special, Insert 3 columns left, Insert 3 columns right, Delete columns A-C, Clear columns A-C, Hide Columns A-C, Unhide columns, Resize columns A-C, Conditional formatting, Data validation, Column stats, Convert to people chip, View more column actions. Unhide columns is shown highlighted in a larger window.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_HIDEC01.jpg"/></media>
-    <caption>Hiding and unhiding columns in Sheets is similar to the process in Excel. (a) Select the column you want to hide, right-click, and click on Hide column. (b) To unhide, select the columns on either side of the hidden column, right-click, and click on Unhide columns. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Hiding and unhiding columns in Sheets is similar to the process in Excel. (a) Select the column you want to hide, right-click, and click on Hide column. (b) To unhide, select the columns on either side of the hidden column, right-click, and click on Unhide columns. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     </section>
     </section>
