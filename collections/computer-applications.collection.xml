@@ -1,6 +1,5 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:content-id>col00000</md:content-id>
     <md:title>Computer Applications</md:title>
     <md:slug>computer-applications</md:slug>
     <md:language>en</md:language>
@@ -20,6 +19,18 @@
         <col:module document="m00007"/>
         <col:module document="m00008"/>
         <col:module document="m00009"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Advanced Excel Formulas, Functions, and Techniques</md:title>
+      <col:content>
+        <col:module document="m00010"/>
+        <col:module document="m00011"/>
+        <col:module document="m00012"/>
+        <col:module document="m00013"/>
+        <col:module document="m00014"/>
+        <col:module document="m00015"/>
+        <col:module document="m00016"/>
       </col:content>
     </col:subcollection>
   </col:content>
