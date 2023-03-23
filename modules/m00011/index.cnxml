@@ -25,6 +25,7 @@
     <para id="para-00004">Spreadsheets have a wide variety of applications and can be used for accounting, budgeting, data collection and analysis, and operations efficiency. Spreadsheets are used in all departments of corporations, such as marketing or operations. These departments can use spreadsheets in a variety of ways, such as compiling information from market studies, or performing statistical analysis on operations from the manufacturing plant.</para>
     <para id="para-00005">A <term id="term-00004">Data Table</term> is a scenario-building tool. It lets users choose a set of cells on the spreadsheet, and then outputs different solutions or forecasts depending on different scenarios. The difference between a Data Table and a spreadsheet is that a spreadsheet is a file with blank cells that can be formatted using the various tools and commands contained in the application. A Data Table can be part of (embedded in) a spreadsheet, but a spreadsheet can also include a graph, some text for information, or the listing of the inputs for the Data Table. The Data Table feature of <term class="no-emphasis" id="term-00005">Excel</term> automatically builds a table of data based on certain inputs that is part of the spreadsheet. <link target-id="fig-00001"/> shows an example of an Excel-generated Data Table, as well as the data used in the scenarios. You will build a Data Table after learning more about its uses.</para>
     <figure id="fig-00001" class="scaled-down">
+      <title/>
     <media alt="In the spreadsheet, Column B lists text data and Column C lists numerical data. Cell C13 is selected and =C10 shows in the formula bar. A data table shows five columns and 6 rows of information in cells C13 to cell G18.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_DATTAB.jpg"/>
     </media>
@@ -37,6 +38,7 @@
     <para id="para-00007">Consider the example of expanding Fairfax’s WorldCorp location. You have gathered the needed information to determine the amount of the loan you will need to finance the added capacity. You have the loan terms from banks in the area and you know that the loan payment period will be ten years. WorldCorp is working on its annual budget, so the CFO wants you to investigate the annual payments, not the monthly payments. The CFO also wants to examine the variability of the annual installment if the interest rate is increased by 0.5 percent increments per year over the life of the loan. The Data Table in the <term class="no-emphasis" id="term-00006">What-If Analysis</term> will automatically perform the annual payment calculations for each increment. The CFO will then be able to look at the results and determine which loan from which bank will best meet the company’s needs.</para>
     <para id="para-00008">The first step in this analysis is to set up your data. Since you’re looking at how the interest rate affects the annual payment, you can use Excel’s Payment (PMT) function, which uses the present value (the value of the loan), the number of payments, and the rate. The <term class="no-emphasis" id="term-00007">PMT function</term> is in the Financial library of functions found on the Formulas tab. The present value (PV) is principal to be borrowed; in this case, we will use $750,000, which is half of the total cost of the expansion. This was determined by the initial research by the CFO as the amount needed to finance the company growth. The time period of the loan has been set at ten years. Most loans are paid monthly, but since you are analyzing the annual payments, you will use 10 (not 120) for N (shown as Nper in the function builder) to define the number of payments. After gathering all the interest rates offered by the banks, it was determined that the average interest rate (I) of all is 6.5 percent. Using these input values, the yearly payment can be determined using the financial PMT function. <link target-id="fig-00002"/> shows the building of the PMT function in Excel.</para>
     <figure id="fig-00002">
+      <title/>
     <media alt="Cell B4 is selected in the spreadsheet and =PMT(B2,B1,B3) is in the formula bar. The Formulas tab is selected. A dialog window titled “Function Arguments” displays PMT with these drop-down items: Rate (B2=0.065), Nper (B1=10), Pv B3=750000), Fv (=number), and Type (=number). The sentence “Calculates the payment for a loan based on constant payments and a constant interest rate.” is below the drop-downs and “Nper is the total number of payments for the loan.” shows next. “Formula result= -104328.5175” is in the left corner.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_PMT01.jpg"/>
     </media>
@@ -44,6 +46,7 @@
     </figure>
     <para id="para-00009">The result is an annual payment on the loan of $104,328.52 (<link target-id="fig-00003"/>). The output for Excel with the PMT function is negative by default, which is displayed in parentheses and in red. This is to indicate that the loan total will decrease by that amount each year after the payment is made. Keep this in mind as you examine the output.</para>
     <figure id="fig-00003" class="scaled-down-30">
+      <title/>
     <media alt="Cell B4 is selected in the spreadsheet and =PMT(B2,B1,B3) shows in the formula bar. The number (104,328.52) in cell B4 is red font.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_PMT02.jpg"/>
     </media>
@@ -59,6 +62,7 @@
     <title>Creating a Data Table from Data in a Spreadsheet</title>
     <para id="para-00012">To facilitate the process of comparing various interest rates on the annual payment, you can create a <term class="no-emphasis" id="term-00008">Data Table</term>. To do so, the information must be arranged on the spreadsheet in a specific way. First, make a list in a column of the interest rates being examined. The order doesn’t matter to Excel, but it makes the data easier to analyze if you put them in numerical order, either lowest rate to highest or vice versa. In the next column to the right and one row above, use the <term class="no-emphasis" id="term-00009">PMT function</term> to calculate the payment at the current rate (recall, you used 6.5 percent), as shown in <link target-id="fig-00004"/>.</para>
     <figure id="fig-00004" class="scaled-down">
+      <title/>
     <media alt="Cell F1 is selected in the spreadsheet and =PMT(B2,B1,B3) is in the formula bar. Column E shows percentages in 0.5% increments and the number (104,328.52) in cells B4 and F1 is in red font.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_DATTAB01.jpg"/>
     </media>
@@ -66,6 +70,7 @@
     </figure>
     <para id="para-00013">Next, select the area of the spreadsheet where the changing input values are contained. In this example, that is cells E1:F8. On the Data tab, you will see the <term class="no-emphasis" id="term-00010">What-If Analysis</term> menu group on the right side. Select the drop-down arrow and choose Data Table (<link target-id="fig-00005"/>).</para>
     <figure id="fig-00005">
+      <title/>
     <media alt="In the spreadsheet, Column E with percentages and Column F with the number ($104,328.52) in red font in cell F1 are selected. On the Data tab, What-If Analysis is selected. A drop-down window shows these options: Scenario Manager, Goal Seek, Data Table (selected).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_WHATIF.jpg"/>
     </media>
@@ -73,6 +78,7 @@
     </figure>
     <para id="para-00014">When the Data Table tool is selected, a dialog box appears for inputting data. Because the interest rates are listed in columns, use the “Column input cell” box. In this cell, place the cell reference for the original interest rate used in the PMT function. Notice the dollar sign ($) in front of the letter and number in the cell reference. This will set the column input cell to always refer to the value in cell B2. This is referred to as an <term class="no-emphasis" id="term-00011">absolute reference</term>. You will learn more about absolute references in <link document="m00012">Absolute Cell References</link>. For this example, the cell is B2 (<link target-id="fig-00006"/>).</para>
     <figure id="fig-00006">
+      <title/>
     <media alt="In the spreadsheet, Columns E and F are selected. A pop up window titled “Data Table” shows. “Row input cell:” and “Column input cell:” display as options with a drop-down. “$B$2” is in the Column input cell drop-down.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_DATTAB02.jpg"/>
     </media>
@@ -80,6 +86,7 @@
     </figure>
     <para id="para-00015">The Data Table will automatically calculate the payment at each of the interest rates listed in the column below the PMT, as shown in <link target-id="fig-00007"/>. You will need to format the data to be Accounting or Currency.</para>
     <figure id="fig-00007" class="scaled-down-30">
+      <title/>
     <media alt="In the spreadsheet, Column E lists the numbers as percentages in 0.5% increments and Column F shows negative numbers with 3 or 4 decimal places to the right. Cell A1 is selected with Years (N) in the formula bar.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_DATTAB03.jpg"/>
     </media>
@@ -87,6 +94,7 @@
     </figure>
     <para id="para-00016">This process will save a lot of time, as it eliminates manually creating a formula for each cell. Furthermore, with the same Data Table, any of the values in the list can be changed and the information will automatically update to the correct value. For example, to see the payments for a 6.4 percent interest rate instead of 6.5 percent, simply change that one value, and the row’s value will be autofilled to calculate the new installment payment. The rest of the data table stays the same, as you can see in <link target-id="fig-00008"/>.</para>
     <figure id="fig-00008" class="scaled-down-30">
+      <title/>
     <media alt="Two columns of data are shown. The cell with 6.40% shows the number $103,840.83 to its right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_PMT03.jpg"/>
     </media>
@@ -95,6 +103,7 @@
     <para id="para-00017">Suppose you have taken this Data Table to the WorldCorp CFO, who tells you that the company will not pay high interest rates and will only negotiate and meet with the executives of banks that offer rates at or below 7 percent. There is no need to create a new Data Table that only includes the data for that range of rates because you may need the information at a later point. Instead, you can temporarily hide the values that exceed the 7 percent maximum using Excel’s filtering tools. A <term id="term-00012">filter</term> is a tool that lets you select certain criteria so that only data with your chosen criteria is shown.</para>
     <para id="para-00018">To use a filter within the Data Table, select the rate column, and then go to the Data tab. In the <term class="no-emphasis" id="term-00013">Sort &amp; Filter</term> command group, select <term class="no-emphasis" id="term-00014">Filter</term> (the funnel icon). When Filter is selected, a small arrow will appear at the top of the column, as shown in <link target-id="fig-00009"/>a. Select that arrow and go to Number Filters, then select Less Than Or Equal To.... On the dialog box that appears next, select 7.00% from the choices, and then click OK. The result is that the Data Table will only show values that are less than or equal to 7 percent, as shown in <link target-id="fig-00009"/>b.</para>
     <figure id="fig-00009">
+      <title/>
     <media alt="In Part a, a column is selected and a drop-down arrow shows at the top right of the top cell in that column. A window open on the left shows these options: Sort Smallest to Largest, Sort Largest to Smallest, Sort by Color, Clear Filter from “(Column N),” Filter by Color, and Number Filters. Number Filters is selected. Below Number Filters is a Search bar with a list of buttons selected with percentages in increments as well as a (Select All) button. To the right, a window shows from the selection of Number Filters with these options: Equals…, Does Not Equal…, Greater Than…, Greater Than Or Equal To…, Less Than…, Less Than Or Equal To…, Between…, Top 10…, Above Average…, Below Average…, and Custom Filter…. Less Than Or Equal To… is selected. In Part b, the top of the first column of percentage data shows a funnel icon at the right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_Filter01.jpg"/>
     </media>
@@ -102,6 +111,7 @@
     </figure>
     <para id="para-00019">Now that you have created a Data Table with one variable, you will follow a similar process to analyze two variables. With the added capacity in Fairfax, WorldCorp can sell more products to help the company reach its strategic goals. Increasing unit sales could also allow the company to reduce its price per unit. You would like to better understand the impact of the increased sales and price changes on the annual revenue for WorldCorp. Let’s assume that in 2020, WorldCorp sold 5,000 RX-500 digital scales in the state of Virginia, at the retail price of $17.99 per unit. That would mean an annual revenue of $89,950 for this item. What would happen if the price was decreased to $16.99, in hopes that the unit sales would increase? Or, conversely, what would happen if the price increased to $18.99? WorldCorp is not sure how the public will react to either option, but you can estimate the revenue it will produce. Let’s assume that either sales will stay the same (i.e., 5,000 per year), decrease to 3,000, or increase to 7,000. With the <term class="no-emphasis" id="term-00015">Data Table</term> tool located in the <term class="no-emphasis" id="term-00016">What-If Analysis</term>, all the revenues will be autofilled for the different unit sales and the different prices (<link target-id="fig-00010"/>). To create this table, follow the steps for the loan interest rate example. However, instead of only including the column input, also include the row input.</para>
     <figure id="fig-00010" class="scaled-down">
+      <title/>
     <media alt="In this spreadsheet, Column A is filled with text data and Columns B, D, E, F, and G are filled with numerical data.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_Scales01.jpg"/>
     </media>
@@ -115,6 +125,7 @@
     <title>Method 1: Define a Range</title>
     <para id="para-00021">First, select the range of cells you want to name. Then, click on the leftmost box below the Ribbon (Excel calls this the <term class="no-emphasis" id="term-00020">Name Box</term>). After the cursor on the Name Box begins blinking, type the name you want to use for the data range, and press Enter. Subsequently, you may refer to this range of cells as the name you typed in the Name Box. Type “digital scale” in the Name Box, as shown in <link target-id="fig-00011"/>.</para>
     <figure id="fig-00011" class="scaled-down-30">
+      <title/>
     <media alt="An arrow points to a box in the top left of the spreadsheet with digital_scale inside the box. RX-500 shows in the formula bar. Column A is selected.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_CellRang01.jpg"/>
     </media>
@@ -125,6 +136,7 @@
     <title>Method 2: Define a Range</title>
     <para id="para-00022">Begin by selecting the desired range of cells, then go to the Formulas tab, and select Define Name. A new dialog box will appear; it has three fields: Name, Scope, and Comment. Next to Name, simply type the name you want to use for the data range; under Scope, select Workbook; the Comment field is optional. Click OK to complete the process (<link target-id="fig-00012"/>).</para>
     <figure id="fig-00012">
+      <title/>
     <media alt="In the spreadsheet, columns A and B are selected. The Formulas tab is selected along the top ribbon and an orange arrow points to Define Name on the toolbar at the right. A dialog box shows at the bottom right titled New Name. The options inside the box include: Name: (Price), Scope: (Workbook), Comment: (blank), and Refers To: (=Sheet3!$B$2:$B$6.) OK and Cancel buttons are on the bottom right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_CellRang02.jpg"/>
     </media>
@@ -136,6 +148,7 @@
     <para id="para-00023">The third way to define a range is more comprehensive, as it allows you to select various columns or a whole Data Table. You need to select the entire table, or the set of columns (or rows), that you want to define. After making your selection, go to the Formulas tab in the Ribbon and choose Create from Selection. A dialog box will appear and where you select the headers. (Many tables have column headings only, and other tables have row headings.) In the dialog box, you will select if the table has the column headings on the bottom or on the top, or if the row headings are on the right or on the left.</para>
     <para id="para-00024">Using the WorldCorp example of the loan interest rates, choose Left column, and click OK, as shown in <link target-id="fig-00013"/>. Because you didn’t type anything, as this method is more geared for tables, Excel automatically gave defined names to the data ranges (rows). Excel uses the text in the left column of the table to name (define) the data ranges. Spaces are automatically converted to “_” by Excel. Consequently, the data ranges are Years_N, Rate_I, Principal_PV, and Payment_PMT.</para>
     <figure id="fig-00013">
+      <title/>
     <media alt="In Part a, Columns A and B are selected. The Formula tab along the top ribbon is selected and an arrow points to Create from Selection at the right side of the toolbar. A dialog box titled Create Names from S… displays the option to “Create names from values in the:” These options can be checked below: Top row, Left column (checked), Bottom row, and Right column. In Part b, cell B1 is selected and an arrow points to the Name box which displays Years_N. 10 shows in the formula bar and cell B1.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_DataRange3.jpg"/>
     </media>
@@ -149,6 +162,7 @@
     <para id="para-00026">Let’s use the WorldCorp digital scale example and recalculate it using arrays. The unit sales of each model are added to the previous data in column C. Then, using arrays, you can determine the total revenue without calculating the revenue for each model separately.<link target-id="fig-00014"/>a shows how you can add a column for the revenue of each model and then add them up to get the total revenue of the digital scales. <link target-id="fig-00014"/>b shows the total revenue for sales of all models in cell C7, without any of the individual calculations, using an array.</para>
     <para id="para-00027">To use an array to calculate the total revenue in <link target-id="fig-00014"/>b, click on a blank cell (here, cell C7), and type the function <emphasis effect="bold">=</emphasis>sum(b2:b6*c2:c6) and hold down CTRL+Shift as you press Enter. This function calculates the sum of the revenue for each item, as shown in the ranges in the parentheses. As visible in the Formula Bar, Excel recognizes b2:b6 from the defined data ranges, and renames it “Price” in the formula. Excel also adds a curly brace (“{ }”) before and after the whole function (<link target-id="fig-00014"/>b) because it recognizes it as an array. Excel then does all of the calculations we did manually in <link target-id="fig-00014"/>a in one step and provides the total revenue. You’ll notice that the total revenue values match, regardless of whether you do the calculations manually or use an array. When a selection is defined as an array, then any formula is calculated as an array formula, which allows for multiple calculations to happen simultaneously.</para>
     <figure id="fig-00014">
+      <title/>
     <media alt="In the spreadsheet in Part a, cell D2 is selected and =B*C2 is in the formula bar. In Part b, Column D is blank and Cell C7 is selected with {=SUM(Price*C2:C6)} in the formula bar. In the cell the number $614,870 is listed.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_Array01.jpg"/>
     </media>
