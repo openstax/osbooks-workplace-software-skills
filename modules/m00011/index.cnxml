@@ -244,7 +244,11 @@
     </definition>
     <definition id="def-00003">
     <term>Data Table</term>
-    <meaning>scenario-building tool in Excel that lets users choose a set of cells on the spreadsheet, and then outputs different solutions or forecasts depending on different scenarios <emphasis effect="bold">filter</emphasis> tool in Excel that lets the user select certain criteria so that only data with that criteria is shown</meaning>
+    <meaning>scenario-building tool in Excel that lets users choose a set of cells on the spreadsheet, and then outputs different solutions or forecasts depending on different scenarios</meaning>
+  </definition>
+   <definition id="def-00004">
+    <term>filter</term>
+    <meaning>tool in Excel that lets the user select certain criteria so that only data with that criteria is shown</meaning>
     </definition>
     </glossary>
 </document>
