@@ -6,5 +6,185 @@
     <md:uuid>9f807f5d-1a40-4c57-964d-b1a29d0d46e2</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Use basic financial functions</item>
+    <item>Identify and use arithmetic and statistical functions</item>
+    <item>Insert logical functions</item>
+    </list>
+    </section>
+    <para id="para-00002">The world has changed rapidly in the decades since the 1980s, as personal computers became commonplace in offices and homes. Business calculations that used to be done by people in highly specialized accounting departments using manual methods became automated. Production plans and managerial oversight are informed with data from ever-expanding datasets that include data from sales to manufacturing. To manage this data, WorldCorp uses complex worksheets that may link to other worksheets (or other workbooks), with the aim of producing actionable business intelligence. To generate policies and strategic decisions, managers must use every tool at their disposal, including functions like MIN, MAX, STDEV; financial calculations like PV, FV, PMT; and logical functions like IF, AND, and OR.</para>
+    <section id="sect-00002">
+    <title>Arithmetic and Statistical Functions</title>
+    <para id="para-00003"><term class="no-emphasis" id="term-00001">Arithmetic functions</term> are those used in basic math. These types of functions help users to add, multiply, find averages, and perform other types of mathematical operations. You have already learned how to use basic math functions, but there are others that will be very useful in basic data analysis, such as financial and statistical functions.</para>
+    <section id="sect-00003">
+    <title>AVERAGE</title>
+    <para id="para-00004">The <term id="term-00002">average</term>, or <term class="no-emphasis" id="term-00003">mean</term>, is a number found by adding up a group of values, and then dividing it by the number of values you added up. Simply select the cell where you want to calculate the mean and type =AVERAGE(range), and identify the range of the values you want to average.</para>
+    <note class="spotlight-ethics" id="note-00001">
+    <title>The Problem of Using Averages of Averages</title>
+    <para id="para-00005">When reporting on data, it may be tempting to average a series of averages to summarize information or determine if there is a mass effect. It is especially tempting to do this in Excel, as it makes this process quick and easy. However, averaging averages is very problematic and can indicate a greater impact than actually realized. It is much better to use the original numbers to determine the actual average versus attempting to average averages. That said, what happens if you do not have the original numbers? This may happen if you are handed processed analysis separated from the original data source. In this case, using weighted averages is a better approach. Weighted averages take into consideration the varying levels of importance of different numbers that can be found within a given dataset; to ensure you capture the percent or proportion of importance of these numbers, each number within the dataset is multiplied by a predetermined value before the average is found.</para>
+    <para id="para-00006">To underscore, it is best to avoid averaging averages and instead use original values to calculate the average of the totality of these values. If these are not available, you must use weighted averages that will factor in the number of values included in the averages to determine the correct average. You can do your own research regarding how to perform this calculation. There are plenty of simple but effective tutorials available online.</para>
+    </note>
+    </section>
+    <section id="sect-00004">
+    <title>COUNT, ROWS, and COLUMNS</title>
+    <para id="para-00007">The function <term class="no-emphasis" id="term-00004">COUNT</term> is useful when you have a large dataset of rows (or columns) and want to know how many there are. When you type =COUNT(range), Excel will count the rows or columns with numerical values in the range you identify. The major drawback of the COUNT function is that it will only count the number of rows/columns that have numerical values, and it will ignore any text values. In this scenario, you need to use the <term class="no-emphasis" id="term-00005">ROWS</term> or <term class="no-emphasis" id="term-00006">COLUMNS</term> function to count all of the rows/columns. Write them in the same way: =ROWS(range) or =COLUMNS(range). Knowing the number of rows of invoices, for instance, can be useful if you need to have the exact number of <emphasis effect="italics">n</emphasis> for an equation.</para>
+    </section>
+    <section id="sect-00005">
+    <title>MAX and MIN</title>
+    <para id="para-00008">Excel has functions that can determine the highest or lowest numbers in a dataset: <term id="term-00007">MAX</term> (=MAX(range)) finds the highest value, and <term id="term-00008">MIN</term> (=MIN(range)) finds the lowest value (<link target-id="fig-00001"/>). The <term class="no-emphasis" id="term-00009">range</term> is the set of all of the cells you are analyzing to find the maximum or minimum value.</para>
+    <figure id="fig-00001" class="scaled-down">
+    <title/>
+    <media alt="In the spreadsheet, data is shown. Cell B13 is selected and =MIN(F2:F10) is in the formula box. Cell A12 is labeled Max with $64,505.00 in cell B12. Cell A13 is labeled Min with $7,252.00 in cell B13.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_MAXMIN01.jpg"/>
+    </media>
+    <caption>The MAX and MIN functions are useful if the dataset is very large, and you cannot see the minimum or maximum value with a quick glance. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Standard Deviation</title>
+    <para id="para-00009">A common statistical tool used by many data analysts to calculate the variability of the figures in a dataset from the arithmetic mean is called <term id="term-00010">standard deviation</term>. In other words, it tells how much the figures vary from the average. For example, if you have a dataset of invoices from client A, and the bills vary in their total by a considerable amount, then you would have a high standard deviation. If the invoices of client B vary less, meaning their totals are similar every time, then the standard deviation will be low. Excel has a quick way to calculate this: the <term class="no-emphasis" id="term-00011">STDEV</term> function. Type =STDEV(range) and Excel will give the standard deviation for that range. For example, <link target-id="fig-00002"/> shows the standard deviation for the range F3:F11.</para>
+    <figure id="fig-00002">
+    <title/>
+    <media alt="Two similar tables show in the spreadsheet, one labeled Client A and the other labeled Client B. The spreadsheet has cell I4 selected. In the formula box =STDEV(F3:F11) is written. In cell I4 $1.023.53 is shown as the Standard Deviation (cells H4 and H5 merged).">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_STDEV01.jpg"/>
+    </media>
+    <caption>The standard deviation is probably the most used statistical tool in the data analysis set of formulas. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00007">
+    <title>Financial Functions</title>
+    <para id="para-00010">The main functions used for calculating loan installments, investment returns, net present value of capital investments, mortgage payment comparisons, and many more real-world applications are called <term id="term-00012">basic financial functions</term>. These functions are <term class="no-emphasis" id="term-00013">NPER</term>, <term class="no-emphasis" id="term-00014">RATE</term>, <term class="no-emphasis" id="term-00015">PV</term>, <term class="no-emphasis" id="term-00016">PMT</term>, and <term class="no-emphasis" id="term-00017">FV</term>, which correspond to the N, I, PV, PMT, and FV in financial calculators. You learned about the PMT function in <link document="m00011" target-id="sect-00003">The Advantages of a Data Table</link>.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Date and Time Functions</title>
+    <para id="para-00011">On their own, the <term class="no-emphasis" id="term-00018">DATE</term> and <term class="no-emphasis" id="term-00019">TIME</term> functions do not seem very useful, as you can easily just enter a date or a time in a cell by typing them. But these functions are often used in conjunction with other Excel features, such as in array formulas or complex IF functions. To enter a date, write =DATE(year,month,day), using the date’s numerical values, and Excel will return with a formatted date, such as 3/31/2021. For the TIME function, write =TIME(hour,minute,second) in 24-hour format, and Excel returns a time in am/pm format. If you typed =TIME(14,44,24) Excel would return 2:44 PM.</para>
+    </section>
+    </section>
+    <section id="sect-00009">
+    <title>Logical Functions</title>
+    <para id="para-00012">Typically, <term id="term-00020">logical functions</term> are long formulas with embedded logical tests and often use comparison operators to search for delimited data. They compare two values in your worksheet and return one result if the comparison is true and a different result if the comparison is false. These logical functions are powerful tools for allocating and sourcing large amounts of data.</para>
+    <para id="para-00013">The <term class="no-emphasis" id="term-00021">IF function</term> is one of the most used functions in Excel. It is regularly used in conjunction with other functions. Moreover, IF functions are regularly combined with <term class="no-emphasis" id="term-00022">array</term> formulas. <link target-id="fig-00003"/> shows an example from the WorldCorp Portland, Maine, shipments. The IF formula, written as =IF(logical test,value if true,value if false), analyzes the FOB values, and inserts “Over 20K” if they are greater than or equal to $20,000.</para>
+    <figure id="fig-00003">
+    <title/>
+    <media alt="In the spreadsheet, cell G2 is selected and the formula bar shows =IF(F2>=20000,”Over 20K”,””). Cells in Row G list “Over 20K” in cells G2, G5, G6, G8, and G9 with numbers in column F showing above 20,000.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_LOGI01.jpg"/>
+    </media>
+    <caption>Excel gives users the freedom to invent their own true and false tags. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00014">SUMIF and COUNTIF are other logical functions that are very useful. The <term class="no-emphasis" id="term-00023">SUMIF</term> formula, written as =SUMIF(range,criteria,sum_range) will give a total of a given range (sum_range) if certain criteria are met. For example, you can create a SUMIF function to search for and add up the amounts of all purchase orders of more than 30 servers (=SUMIF(C3:C235,“>30”,D3:D235)).</para>
+    <para id="para-00015">The <term class="no-emphasis" id="term-00024">COUNTIF</term> (=COUNTIF(range, criteria)) function is similar except that it gives you the number of cells that meet the criteria rather than a total. You can use a COUNTIF formula to find the number of invoices that are equal to a certain sale amount (=COUNTIF(A2:A500, “=5000”)). Using these formulas with comparison operators makes gathering intelligence from large datasets easy.</para>
+    <para id="para-00016">Let’s revisit our WorldCorp example. WorldCorp exports that go through Portland, Maine, use container ships to transport goods to their destination. <link target-id="fig-00004"/> shows the shipment data from March 2021. Apply COUNTIF and SUMIF formulas to gather information on how many shipments meet certain criteria. The Excel notation used for the COUNTIF formula in cell I7 is =COUNTIF(D2:D10,“>=1000”), which calculates how many shipments (column D, “Quantity”) contained more than 1,000 pieces. The SUMIF formula in cell I2 is =SUMIF(F2:F10,“>=20000”), which adds up all of the FOB amounts that were more than $20,000. (Notice how the comparison operators and their numbers are in quotation marks—this is necessary to calculate the formula correctly.)</para>
+    <figure id="fig-00004">
+    <title/>
+    <media alt="In the spreadsheet, row 6 is selected. Cells H2 and H3 are merged together and list “All FOBs Over 20k, Summation” and the number reflected in cell I3 is $156,295.00. Cells H6 and H7 are merged together and list “Shipments With More Than 1000 PCS” and cell I7 lists the number 2.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_COMOP01.jpg"/>
+    </media>
+    <caption>Different types of IF formulas are often used to look up values that meet a certain criterion. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00017">The <term class="no-emphasis" id="term-00025">AND function</term>, written as =AND(logical1, logical2), is regularly used in combination with the IF function. It can be used in limits, establishing a low and a high limit, and labeling them if they meet these criteria. In our WorldCorp example, this could help sales managers at the Fairfax, Virginia, location identify any invoices that are below a certain value, thus flagging those customers who might be retail consumers instead of wholesale. The formula in cell G2, in <link target-id="fig-00005"/>, sets up an IF test: if both of the AND criteria are true (if the FOB is greater than $0 and less than $1,000), then the tag “Low Value” appears in column G.</para>
+    <figure id="fig-00005" class="scaled-down">
+    <title/>
+    <media alt="In the spreadsheet, cell G3 is selected and =IF(AND(F3>=0,F3&lt;1000),”Low Value”,””) is in the formula box. “Low Value” is listed in cells G3, G7, G8, and G9 with adjoining numbers in column F under 1,000.00.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_LOGI02.jpg"/>
+    </media>
+    <caption>The AND function can be used as an interval, as shown here. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00018">The <term class="no-emphasis" id="term-00026">OR function</term> is similar to the AND function in that it compares two values, but with the OR function, only one argument needs to be satisfied. It, too, is often used in conjunction with the IF function. In <link target-id="fig-00006"/>, the sales manager is automating the Excel worksheet to show when quantities fall outside of certain values. This could flag a product if sales fall below 200 units, for example, because it could indicate that it requires more marketing or additional investigation into the drop in sales. Likewise, the sales manager wants to know when quantities are above 1,000 units, which might trigger a discount for customers or additional incentives for the sales agent. Use the OR function to “flag” these orders for additional review.</para>
+    <figure id="fig-00006" class="scaled-down">
+    <title/>
+    <media alt="In the spreadsheet, cell F2 is selected with =IF(OR(D2&lt;200,D2>1000),”Yes”,””) in the formula box. In Column F, cells F2, F3, and F5 through F9 list “Yes.”.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_LOGI03.jpg"/>
+    </media>
+    <caption>The OR function is more flexible than the AND function, as the interval can be either. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019">The <term class="no-emphasis" id="term-00027">NOT function</term> can also be used to look for values that meet a certain criterion. It is regularly used in combination with the AND, OR, and IF functions. In <link target-id="fig-00007"/>, NOT negates the criteria set forth by the AND function; namely, that if the FOB amount is <emphasis effect="italics">not</emphasis> greater than or equal to $0 and also less than $1,000, then the tag “High Value” should appear in column G.</para>
+    <figure id="fig-00007" class="scaled-down">
+    <title/>
+    <media alt="In the spreadsheet, cell G3 is selected with =IF(NOT(AND(F3>=0,F3&lt;1000)),”High Value”,””) in the formula box. In Column G, cells G4, G5, G6, G10, and G11 list “High Value” with adjoining numbers in Column F over 1,000.00.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_LOGI04.jpg"/>
+    </media>
+    <caption>The NOT function is regularly used in complicated IF functions. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00020">Nesting occurs when we have a formula that uses a function and includes a function as one of the arguments; these functions are typically known as nested functions. Nested functions are used in the workplace to evaluate several conditions at a time. This can be helpful when you have multiple criteria that influence a single outcome. This can be a powerful approach to performing calculations in Excel; however, they can be very complicated as they require a specific structure in order to ensure accuracy. This <link url="https://openstax.org/l/78NestTutorial">tutorial from Microsoft</link> walks us through this structure. The uses for this approach are limitless, as you can nest up to 64 levels.</para>
+    </note>
+    </section>
+    <section class="section-summary" id="sect-00010">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>The tools introduced in this section will help you use and make sense of internal business data, such as client orders, invoice amounts, and machinery operative data. The arithmetic functions and statistical tools can give you an idea of the operations’ tendencies and cycles.</item>
+    <item>The basic financial functions can be used to determine monthly or annual loan payments or the number of years needed to pay off a loan.</item>
+    <item>Logical functions are used for making inferences or deductions. Many logical functions can be embedded within one another to create complex logical scenarios.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00011">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00021"><link class="os-embed" url="#exercise/10-03-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00022"><link class="os-embed" url="#exercise/10-03-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-exercises" id="sect-00012">
+    <title>Written Exercises</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00023"><link class="os-embed" url="#exercise/10-03-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00024"><link class="os-embed" url="#exercise/10-03-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00013">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00025"><link class="os-embed" url="#exercise/10-03-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00026"><link class="os-embed" url="#exercise/10-03-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    
+    <glossary>
+    <definition id="def-00001">
+    <term>average</term>
+    <meaning>number found by adding up a group of values, and then dividing it by the number of values you added up; also called the mean</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>basic financial functions</term>
+    <meaning>main functions used for calculating loan installments, investment returns, net present value of capital investments, mortgage payment comparisons, and many more real-world applications</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>logical functions</term>
+    <meaning>long formulas with embedded logical tests that often use comparison operators to search for delimited data</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>MAX</term>
+    <meaning>function that finds the highest value in a dataset</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>MIN</term>
+    <meaning>function that finds the lowest value in a dataset</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>standard deviation</term>
+    <meaning>common statistical tool used by many data analysts that calculates the variability of the figures in a dataset from the arithmetic mean</meaning>
+    </definition>
+    </glossary>
 </document>
