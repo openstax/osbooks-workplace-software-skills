@@ -6,5 +6,172 @@
     <md:uuid>9114fd68-3f5d-474e-9a1c-4bfe4795c235</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Define a PivotTable</item>
+    <item>Organize and clean your data prior to designing a PivotTable</item>
+    <item>Design/insert a PivotTable</item>
+    <item>Understand and use the recommended PivotTable tool</item>
+    <item>Add a Pivot Chart to pictorially present the data</item>
+    </list>
+    </section>
+    <para id="para-00002">PivotTables help data analysts use raw data and organize it into an interactive tool for summarizing and analyzing the data points. WorldCorp can, for example, gather their manufacturing datasets of each machine’s daily performance and put this information into a table that the PivotTable tool can use to analyze the information. This type of organization would be useful for producing various metrics (such as machine performance) and company Key Performance Indicators (KPIs). The PivotTable tool can also divide data into a set of criteria, which will organize your data by variables you choose. This separation and division of data help you create business intelligence with ease.</para>
+    <section id="sect-00002">
+    <title>Definition and Uses for a PivotTable</title>
+    <para id="para-00003"><term class="no-emphasis" id="term-00001">Excel</term> has various ways to store data and various tools that aid in data intelligence queries. You’ve learned the purpose of using What-If Data Tables, naming ranges, using comparison operators and writing statistical and logical functions—all of which can be combined with arrays (or other tools) to make interactive and automated tables. Excel has an even quicker way to make relational tables and automated business intelligence: PivotTables.</para>
+    <para id="para-00004">A <term id="term-00002">PivotTable</term> lets users create interactive charts and tables from raw datasets. They can process large, raw datasets and allow the user to choose how the data will be tabulated and summarized using easy drag-and-drop features. PivotTables also help summarize the data for a professional appearance and to show it in a more user-friendly way. Out of thousands of rows and columns of raw data, you can produce a simple, easy-to-read table with different options for displaying your metrics. Some applications of PivotTables might include producing metrics for website views and ad clicks, displaying demographic information for a county or city, or gathering information about small business revenue. In each of these cases, PivotTables can be used to process large, ever-growing datasets into readable tables.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Organizing and Cleaning Your Data</title>
+    <para id="para-00005">Let’s return to the example of shipped products from WorldCorp’s Portland, Maine, location. PivotTables can be used to aggregate values and create an actionable market analysis and business intelligence for the company.</para>
+    <para id="para-00006">The first step of creating this PivotTable is to organize and summarize the data. Having a digestible raw data sheet that Excel can read well enough to aggregate the data is critical. To clean the data, you should ensure that:</para>
+    <list id="list-00002">
+    <item>There are no merged cells anywhere in the data.</item>
+    <item>All filters are inactive.</item>
+    <item>There are no SUM functions on the bottom or sides of the worksheets.</item>
+    <item>All erroneous, duplicate, and/or blank values are deleted from the data.</item>
+    <item>All values in each column are of the same value (e.g., currency, date, text).</item>
+    </list>
+    <para id="para-00007">Next, convert your data into a <term class="no-emphasis" id="term-00003">top-down table</term>, meaning that all of the data range headers should run along the top row of the sheet. This is the typical format for tables and will make using PivotTables much easier. In general, horizontal tables can be hard to follow. Cross-tabular source data (with headers on top/bottom and left/right) are even more difficult to read for the PivotTable generator. Designate a unique name for each top header; do not repeat any column header names. <link target-id="fig-00001"/> shows a correctly formatted worksheet.</para>
+    <figure id="fig-00001">
+    <title/>
+    <media alt="A large spreadsheet with columns and rows of data, both text and numerical. All of the unique data range headers run along the top row of the sheet.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV01.jpg"/>
+    </media>
+    <caption>This small representation of data is a sample of what could be hundreds, thousands, or millions of individual shipments a month. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Inserting a PivotTable and Rearranging Variables</title>
+    <para id="para-00008">To create a PivotTable, go to the Insert tab, choose the PivotTable icon located on the far left, select the entire dataset, and output to New Worksheet. (Alternatively, you may name your data ranges, as instructed in <link document="m00011" target-id="sect-00005">Defining, Selecting, and Naming a Cell Range</link>, and simply select the named ranges for your data.) The <term class="no-emphasis" id="term-00004">Field List</term> will activate and ask which columns to display, as shown in <link target-id="fig-00002"/>a. Select the headers (variables) in the order that you want the PivotTable to display them. In the WorldCorp example, to see the quantity each client is buying, select Destination, then Quantity, and then FOB $. As shown in <link target-id="fig-00002"/>b, the PivotTable neatly displays the data, with interactive features allowing the user to select different pieces of information as variables.</para>
+    <figure id="fig-00002">
+    <title/>
+    <media alt="In Part a, cell A3 is selected and a dialog box below titled PivtotTable1 states “To build a report, choose fields from the PivotTable Field List.” To the right, a dialog box is titled “PivotTable Field” and “Choose fields to add to report:” is below with a drop-down box to the right. A Search bar shows below with these items listed with boxes to the left: Date, Port, Product, Item Description, Quantity, Unique Quantity Code, FOB$, and Destination. More Tables…. follows as well as “Drag fields between areas below:.” In Part b, a drop-down arrow is located at the right of the first cell in Row 3 titled “Row Labels.” To the right in the dialog box, the Quantity, FOB $, and Destination boxes are checked in a dialog box.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV02.jpg"/>
+    </media>
+    <caption>The PivotTable wizard (a) can help to create clean, interactive tables (b) from raw data. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00009">Now, to further delimit the details of the clients, add Date to the variables (<link target-id="fig-00003"/>a). Because you chose Destination first, you are separating all the variables and ordering them by client to know what the client is consuming in volume and in dollar amount. Adding the date allows you to see total sales but also breaks down the data by month.</para>
+    <para id="para-00010">This is only one way to create a PivotTable with this data. If you were to change the order in which you selected the headers in the PivotTable wizard, the whole table would be different. Additionally, you can choose a different set of data to display, which changes how the information is grouped. To demonstrate this, uncheck Date (you have to uncheck Months, too) and instead check Product. As seen in <link target-id="fig-00003"/>b, the table gives a totally different perspective. Instead of seeing the data grouped by Date, the grouping has changed to show the products the client ordered and the quantity of each.</para>
+    <figure id="fig-00003">
+    <title/>
+    <media alt="In Part a, a blue header in a row of data has a drop-down arrow after “Row Labels” in the top first cell. Locations are listed below in rows with little squares with a line in them to the left. Below the locations, months are listed with squares with + marks inside to their left. A “Grand Total” is listed in the bottom row. In Part b, the header is the same but below the city names plain lists of data are shown with no boxes at the left.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV03.jpg"/>
+    </media>
+    <caption>Selecting headers in a different order will change where and how they appear in a PivotTable. (a) The original table broke the data down by date, and (b) the new table breaks down the data by product. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00011">You can easily change the arrangement of the PivotTable using the fields in the lower half of the Field List. You can drag and drop the variables from one field to another to change how they appear in the PivotTable. For example, you can change the arrangement of the rows by putting Product first. This automatically changes the PivotTable completely, from being destination oriented (as seen in <link target-id="fig-00004"/>a) to being product oriented (<link target-id="fig-00004"/>b).</para>
+    <figure id="fig-00004">
+    <title/>
+    <media alt="In Part a, a dialog box labeled “Drag fields between areas below:” has four boxes inside. The top left box shows an icon with Filters next to it. The box on the top right is headed “Columns” with an icon with vertical lines to the left. A drop-down window below is titled “Values.” The bottom left box is labeled “Rows” with an icon with horizontal lines on it to the left. Two drop-downs list Destination and Product. The bottom right box is labeled “Values” with a sigma symbol to the left. Two drop-down windows show: Sum of Quant…. and Sum of FOB $. In Part b, the spreadsheet highlights a cell with “Row Labels” inside and a drop-down arrow on the right side of the cell. Rows of data are shown in bold font with small squares at the left with – signs inside. Below those rows are rows of plain font data with locations and numbers. A Grand Total is listed at the bottom. To the right, a dialog box lists “Choose fields to add to report:” with a drop-down box to the right. A Search bar shows below with these items listed with boxes to the left: Date, Port, Product (selected), Item Description, Quantity (selected), Unique Quantity Code, FOB$ (selected), Destination (selected), and Months. “Drag fields between areas below:” is listed below and four boxes show. The top left box is titled “Filters.” The box on the top right is headed “Columns” and has a drop-down window titled “Values.” The bottom left box is labeled “Rows” and has two drop-down windows: Destination and Product. The bottom right box is labeled “Values” and has two drop-down windows: Sum of Quant… and Sum of FOB $....">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV04.jpg"/>
+    </media>
+    <caption>Changing the headers can change the entire table. (a) You can rearrange the data so that product comes first. (b) The PivotTable looks completely different from the previous destination-oriented table. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00012">Let’s apply a <term class="no-emphasis" id="term-00005">filter</term> to the results from <link target-id="fig-00004"/>b. To filter by date, first check the Date and Month variables on the top half of the Field List. Then, drag and drop the dates from the Rows to the Filter field, as shown in <link target-id="fig-00005"/>a. This will allow you to apply a filter to the dates and be able to select only certain dates. To see just the February sales, go to the Month drop-down menu on the PivotTable and select Feb. Now, only the sales from that month will appear (<link target-id="fig-00005"/>b).</para>
+    <figure id="fig-00005">
+    <title/>
+    <media alt="In Part a, Rows 1 and 2 have merged A and B cells labeled “Months (All)” and “Date (All)” both having a drop-down arrow in the right corner. Cell A4 is selected with “Row Labels” inside and a drop-down arrow on the right side of the cell. Below cell A4, Product data is shown in bold font with small squares at the left with – signs inside in rows 4, 19, 12, 15, 17, 19, 21, and 24. Below those rows are rows of plain text data with city and state locations and sales numbers. A Grand Total is listed at the bottom. To the right, a dialog box titled PivotTable Fields lists “Choose fields to add to report:” with a drop-down box to the right. A Search bar shows below with these items listed with boxes to the left: Date (selected), Port, Product (selected), Item Description, Quantity (selected), Unique Quantity Code, FOB$ (selected), Destination (selected), and Months (selected). “Drag fields between areas below:” is listed below and four boxes show. The top left box is titled “Filters” with drop-down windows for Months and Date. An arrow points to Months. The box on the top right is headed “Columns” and has a drop-down window titled “Values.” The bottom left box is labeled “Rows” and has two drop-down windows: Destination and Product. The bottom right box is labeled “Values” and has two drop-down windows: Sum of Quant… and Sum of FOB $.... In Part b, a spreadsheet shows merged cell AB1 with”Months” and “Feb” and the drop-down arrow is smaller with a filter icon in the same box (an upside down triangle on a square). The data is condensed with fewer locations showing under the product items.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV05.jpg"/>
+    </media>
+    <caption>Filters are useful for when you want to see only a subset of your data. (a) You can choose a single month in the filters. (b) The table then shows you only that month’s data. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Using the “Recommended PivotTable” Tool</title>
+    <para id="para-00013">If you are unsure how to organize a <term class="no-emphasis" id="term-00006">PivotTable</term> for your data, Excel can recommend one depending on how the data is organized. Let’s see what using a recommended PivotTable might look like.</para>
+    <para id="para-00014">Go to the Insert tab and select the Recommended PivotTables icon. A dialog box appears with a handful of recommended charts. Scroll and select the one you like best. These recommended tables may be helpful to get you started, but they only compare one variable at a time. However, if you choose one, the new PivotTable will appear in another worksheet, and you can customize it there, adding or reorganizing variables until you have a PivotTable that presents your data in a way that makes sense.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Adding a PivotChart to Visually Present Data</title>
+    <para id="para-00015">Excel has a feature that allows you to create a <term class="no-emphasis" id="term-00007">PivotChart</term> to visually present the data in your PivotTable. The first step is to select the entire PivotTable, which causes the Ribbon tab “<term class="no-emphasis" id="term-00008">PivotTable Analyze</term>” to appear. Next, select the Pivot Chart icon. You will use a small dataset from <link document="m00013" target-id="fig-00006"/> to create a chart of the information. More in-depth coverage of PivotTables is in [link]PivotTables/Charts[/link]. <link target-id="fig-00006"/> shows the original data and the data summarized in a PivotTable by sales agent.</para>
+    <figure id="fig-00006">
+    <title/>
+    <media alt="In Part a, cell A1 is selected in a spreadsheet with Date in the formula bar. In Part b, cell A3 is selected with Row labels in the formula bar. PivotTable Analyze is selected from the top Ribbon and on the toolbar, Field List, +/- Buttons, and Field Headers are selected in the “Show” section. On the right of the spreadsheet, a dialog box titled PivotTable Fields is divided into two columns. On the left column, “Choose fields to add to report:” is listed with a drop-down box at the right with a Settings icon inside. Below a Search Bar is shown and this list: Date, Agent (selected), Item Description, Quantity, FOB$ (selected). The right column begins with “Drag fields between areas below:” at the top and lists Filters, Columns, Rows (Agent drop-down menu) and Values (drop-down for Sum of FOB$ below).">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV06.jpg"/>
+    </media>
+    <caption>(a) The data is summarized in a simple table. (b) Placing the data in a PivotTable enables further analysis and filtering of the data to meet specific needs. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00016">To create a chart of the data summarized in the PivotTable, choose Pivot Chart from the PivotTable Analyze tab. For the data in <link target-id="fig-00006"/>b, a bar chart, pie chart, or clustered column chart would be optimal. These chart types are appropriate because they allow you to see the difference in scale between the sales levels of the agents. For this example, choose the column chart. With the column chart, the higher the column, the greater the sales totals for that agent. You can further customize the column chart by adding percentages or labels. The <term class="no-emphasis" id="term-00009">Agent</term> drop-down menu in <link target-id="fig-00007"/> allows you to further filter or change the column chart.</para>
+    <figure id="fig-00007">
+    <title/>
+    <media alt="In the spreadsheet, cell I20 is selected and a bar chart titled “Sum of FOB$” is seen at the right. Number labels are on the left, names are listed along the bottom, and Total information is shown as bars on the chart. An arrow points to a drop-down rectangle in the lower left labeled “Agent” with a drop-down arrow at the right.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV07.jpg"/>
+    </media>
+    <caption>You can further customize the Pivot Chart by adding features such as value labels or by sorting the information in a different order. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="real-application" id="note-00001">
+    <title>Using PivotTables to Track Spending</title>
+    <para id="para-00017">PivotTables can be a powerful tool for businesses in budgeting and creating other financial reports and analyses. You can also use PivotTables for your own personal budgeting. There are many budgeting services available online or through apps, but you can create your own powerful budgets that can help track all personal finance matters, including spending, without paying for an online service or app. As an individual, you might be able to track your budget fairly easily; however, as your financial matters become more complex, or as your family grows, Excel can come in handy to assist you in managing your budgets without the additional expense of a service or application.</para>
+    <para id="para-00018">To get started, you can download a CSV file of your transactions from your financial accounts. Most institutions will have this function where you review your account and transaction information online. You will want to collect all information, particularly from your spending accounts, such as credit cards. Once these are gathered, be sure to validate the information, then create a column heading named Category. You will then create your categories, such as Food or Entertainment. Some credit cards will auto populate these categories when you download your transactions, but you will want to verify these are accurate. From there, you will complete your PivotTables using the instructions you can find in this textbook. You can opt to create different timelines of your budget, such as daily, monthly, or yearly, depending on your own budget analysis needs.</para>
+    </note>
+    </section>
+    <section class="section-summary" id="sect-00007">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>Corporations need to analyze their datasets to produce metrics or insights. However, these datasets need to be organized and cleaned before they can be processed.</item>
+    <item>A PivotTable is a tool that reads raw datasets. It has user-friendly drag-and-drop capabilities that can help organize the table information for the business.</item>
+    <item>These PivotTables are malleable, as the user can rearrange the variables in different ways to generate entirely different data highlights.</item>
+    <item>Visual representations of PivotTables can be generated using another Excel tool, Pivot Charts.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00008">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00019"><link class="os-embed" url="#exercise/10-04-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00020"><link class="os-embed" url="#exercise/10-04-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00021"><link class="os-embed" url="#exercise/10-04-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-exercises" id="sect-00009">
+    <title>Written Exercises</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00022"><link class="os-embed" url="#exercise/10-04-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00023"><link class="os-embed" url="#exercise/10-04-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00024"><link class="os-embed" url="#exercise/10-04-BCA-WQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00010">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00025"><link class="os-embed" url="#exercise/10-04-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00026"><link class="os-embed" url="#exercise/10-04-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    
+    <glossary>
+    <definition id="def-00001">
+    <term>PivotTable</term>
+    <meaning>tool in Excel that lets users create interactive charts and tables from raw datasets</meaning>
+    </definition>
+    </glossary>
 </document>
