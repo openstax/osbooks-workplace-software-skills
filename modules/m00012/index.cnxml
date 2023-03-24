@@ -138,7 +138,7 @@
     </section>
     <section id="sect-00009">
     <title>Comparison Operators</title>
-    <para id="para-00029">The Excel <term id="term-00017">comparison operators</term> are the same as the inequality symbols used in math. These are: &lt; (less than), > (greater than), <m:math><m:mo>≥</m:mo></m:math> or ≥ (greater than or equal to), <m:math><m:mo>≤</m:mo></m:math> or ≤ (less than or equal to), = (equal to), and &lt;> (not equal to). Comparison operators can be used for comparing numbers. Comparison operators are valuable because of their use in the IF functions. With the IF function (or similar functions like SUMIF, COUNTIF, etc.), comparison operators can automatically search for important information. More will be covered about these functions in <link document="m00013">Logical Functions</link>.</para>
+    <para id="para-00029">The Excel <term id="term-00017">comparison operators</term> are the same as the inequality symbols used in math. These are: &lt; (less than), > (greater than), <m:math><m:mo>≥</m:mo></m:math> or ≥ (greater than or equal to), <m:math><m:mo>≤</m:mo></m:math> or ≤ (less than or equal to), = (equal to), and &lt;> (not equal to). Comparison operators can be used for comparing numbers. Comparison operators are valuable because of their use in the IF functions. With the IF function (or similar functions like SUMIF, COUNTIF, etc.), comparison operators can automatically search for important information. More will be covered about these functions in <link document="m00013" target-id="sect-00009">Logical Functions</link>.</para>
     </section>
     <section id="sect-00010">
     <title>Arrays in Formulas</title>
