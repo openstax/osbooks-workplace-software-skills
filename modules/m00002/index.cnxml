@@ -73,7 +73,7 @@
       </note>
     </section>
     <section id="sect-00004">
-    <title>The <term class="no-emphasis" id="term-00011">Excel Ribbon</term></title>
+    <title>The <term id="term-00011">Excel Ribbon</term></title>
     <para id="para-00017">As you recall from <link>Essentials of Software Applications for Business</link><!--Chapter 2 Module 0-->, Excel’s interface includes a Ribbon of commands, grouped into categories that are similar across Microsoft Office programs. The Home tab for Excel (<link target-id="fig-00005"/>a) has commands such as conditional formatting and inserting/deleting columns or cells. The Insert tab (<link target-id="fig-00005"/>b) includes inserting a chart or equation, which is not included on the Insert tab of other programs such as Microsoft Word. The Formulas (<link target-id="fig-00006"/>c) and Data (<link target-id="fig-00006"/>d) tabs are specific to Excel. These tabs include commands for analyzing data in various ways.</para>
     <figure id="fig-00005">
     <title/>
