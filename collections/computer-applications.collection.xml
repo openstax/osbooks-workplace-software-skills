@@ -33,5 +33,16 @@
         <col:module document="m00016"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Advanced Excel Spreadsheets: Statistical and Data Analysis</md:title>
+      <col:content>
+        <col:module document="m00017"/>
+        <col:module document="m00018"/>
+        <col:module document="m00019"/>
+        <col:module document="m00020"/>
+        <col:module document="m00021"/>
+        <col:module document="m00022"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
