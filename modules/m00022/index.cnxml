@@ -6,5 +6,362 @@
     <md:uuid>2ffeee29-36fc-43b3-a3d5-4d568dc1d1f0</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Determine the most appropriate chart for a given dataset or analysis</item>
+    <item>Create a chart template</item>
+    <item>Use the Quick Analysis tool to add sparklines to a table</item>
+    </list>
+    </section>
+    <para id="para-00002">At some point in your career, you might need to present an analysis of data to an audience of peers or management. Your information must appear clear and professional and will likely include graphs and charts of your analysis. Recall that the theme and color choices of these elements can be critical to developing a professional presentation that will effectively and clearly communicate your intended message (see [link]Preparing Presentations[/link] for a review of design strategies and tips).</para>
+    <para id="para-00003">You learned how to create graphs and charts in <link document="m00014">PivotTables</link>. Some of those skills, such as using legends, adding gridlines, editing axis titles and labels, and including chart titles, will make for a professional presentation of the data. This section will discuss several types of charts and graphs and when they might be appropriate to use based on your dataset.</para>
+    <para id="para-00004">With data visuals, it is key that you select the type of chart or graph that works best for a particular dataset and makes the information easy to understand. You cannot simply select a graph or a chart based on its appearance. All types of graphs and charts are not appropriate for every dataset. As you decide which chart or graph to use, consider the type and level of data that you have (<link target-id="table-00001"/>). You should also consider what kind of message you are trying to convey. Are you trying to inform, compare, show trends over time, or reveal relationships? Your purpose can dictate what type of chart you will use.</para>
+    <table summary="" id="table-00001">
+    <title>Usage of Graphs and Charts</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="center">Purpose</entry>
+    <entry valign="top" align="center">Appropriate Charts/Graphs</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Comparisons</entry>
+    <entry valign="top" align="left">Bar chart, pie chart, stacked bar chart, clustered column chart</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Changes</entry>
+    <entry valign="top" align="left">Line graph, area chart, timeline</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Relationships</entry>
+    <entry valign="top" align="left">Scatter plot, histogram, combo column/line chart</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00005">Selecting the right type of chart to represent your data is not always easy. How you present your data is incredibly important. You need to always be mindful that you are accurately presenting your data visually in a way that tells the story objectively, with no apparent bias or intention. Visit this link to <link url="https://openstax.org/r/78ChooseChart">read strategies for choosing the correct chart</link> to visualize your data.</para>
+    </note>
+    <section id="sect-00002">
+    <title>Clustered Column Chart</title>
+    <para id="para-00006">A <term id="term-00001">clustered column chart</term> is simply a column chart that includes multiple variables to show the comparison between the groups. A column chart compares one variable against another variable. For example, you might put the sales region on the horizontal axis and the total sales on the vertical axis. A clustered column would have that, but it would include the same data for multiple years of data. The clustered column chart is great for showing comparisons (<link target-id="fig-00001"/>). Using the WorldCorp data, you can create a clustered column chart to see the comparisons between the quantity sold for each product type over time. A drawback of the clustered column chart is that it is not appropriate for large amounts of data. If you have more than five sets of data, the chart can look too busy and overwhelm your audience. The clustered column chart also works better with a 2D display rather than a 3D display. The 3D display can look too busy and can make it difficult to interpret the information easily.</para>
+    <figure id="fig-00001" class="scaled-down-30">
+    <media alt="A chart is labeled “Quantity Sold by Month.” February and March are listed on the x axis and number of Units is the label for the y axis, from 0 to 800, in increments of 200. Blue bars indicate Computer Servers and Accessories (February around 350 and March just over 600) and red bars indicate home Stereo Systems (February around 300 and March almost 800).">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ClustCol.jpg"/>
+    </media>
+    <caption>A clustered column chart can show data for multiple products at the same time.</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Combination Chart</title>
+    <para id="para-00007">A <term id="term-00002">combination chart</term> combines two different chart types in one visual, allowing you to display data at different levels on the same chart. You can use combination charts to understand and examine comparisons between groups and the relationship between different variables. With this example, a combination chart can be created to show the FOB $ for each month based on the quantity sold for each of the two product types. With the combination chart, you determine which chart is appropriate for each data series you are including. <link target-id="fig-00002"/> uses a column chart for quantity sold and a line graph for FOB $. Combination charts are often easier to interpret as 2D than as 3D. Consider using contrasting colors to make the plotted series more visible.</para>
+    <figure id="fig-00002" class="scaled-down-30">
+    <media alt="A chart is titled “Quantity Sold and FOB$/Unit.” Computer Servers and Accessories and Home Stereo Systems are listed on the x axis in two groups of months (February and March) and the y axis lists numbers from 0 to 800, in increments of 100. On the right side, monetary numbers are listed from $- to $2,500.00 in increments of $500.00. On the graph, blue bars represent Quantity Sold and red lines represent FOB$. In February, around 350 Computer Servers and Accessories were sold and just over 600 in March and around 300 Stereo Systems were sold in February almost 800 in March. FOB$ for Computer Servers and Accessories was 500 in February and 0 for Home Stereo Systems. In March, FOB$ for Computer Servers and Accessories was 600 and around 100 in for Home Stereo Systems.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Combo.jpg"/>
+    </media>
+    <caption>Combination charts can be used to show different types of data on the same chart.</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Stacked Column Chart</title>
+    <para id="para-00008">The <term class="no-emphasis" id="term-00003">stacked column chart</term> compares data like the clustered column chart but displays it in a different format. It shows the relationship between groups using the same scales. Instead of the columns being next to each other, the data is stacked, one series on top of the other, in a single column. A stacked column chart can be used to show part-to-whole relationships. Using contrasting colors will help make the distinction between the groups more visible. Using one of the 3D options for displaying a stacked column chart can give it a professional appearance that is easy to interpret (<link target-id="fig-00003"/>). This stacked column chart shows WorldCorp’s sales agents’ FOB $ during a three-week period.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="A column chart with stacked blocks of information is titled “FOB$ By Agent.” Along the bottom, the labels are: Week 1, Week 2, and Week 3. Blocks of three different colors (blue, red, green) are stacked in the three Week columns in varying sizes with numbers on them—the bigger the number, the taller the block. Blue represents Antonio, red represents Izabelle, and green represents James.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_StackedCol.jpg"/>
+    </media>
+    <caption>A stacked column chart is a different way to display multiple series of data.</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Bar Chart</title>
+    <para id="para-00009">A <term id="term-00004">bar chart</term> is a horizontal column chart. It is sometimes used to communicate complex datasets and can be easier to interpret in certain situations. Bar charts are effective for displaying negative and positive numbers together. They also work well for charts with long text labels along the <emphasis effect="italics">y</emphasis>-axis because the labels are more readable when placed horizontally (<link target-id="fig-00004"/>). You can create clustered and stacked bar charts to display multiple series in a single chart. Use a simple layout and contrasting colors for the most professional look. Like a clustered column chart, bar charts work best with smaller datasets. Too many bars on the chart can make it unreadable. Use a bar chart when you have ten or fewer categories to display. You can use WorldCorp data to construct a bar chart of the volume sold for four different sizes of televisions.</para>
+    <figure id="fig-00004">
+    <media alt="On the spreadsheet of information, a chart with bars is seen on the right, titled “Volume Sold.” The x axis is labeled number of units with numbers from 0 to 12000 in increments of 2000 and the y axis is labeled with model numbers. Blue bars run from left to right and are labeled with numbers at the ends.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_BarChart.jpg"/>
+    </media>
+    <caption>Bar charts can be good for displaying complex sets of data. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Line Chart</title>
+    <para id="para-00010">A <term id="term-00005">line chart</term> is used to show changes over time. It is appropriate for trend analysis and graphing continuous datasets. Line charts are not appropriate for categorical data. Be careful of the scaling of the axis so as to not overemphasize or deemphasize the trend in either the vertical or horizontal directions. Keep the chart to four lines or fewer for the most effective presentation of the material, and use thicker, solid lines rather than thin lines or dotted/dashed lines. Be sure to include a legend if you are plotting more than one series of data (<link target-id="fig-00005"/>). Also consider including data markers on the lines to make interpretation clearer. The 3D line chart is difficult to interpret even with a single line; the 2D line chart presents data more clearly. You can examine the changes in sales for Home Stereo Systems at WorldCorp for the month of March with a line chart. Adding gridlines or data labels can help your audience quickly see values at certain points in time.</para>
+    <figure id="fig-00005">
+    <media alt="A chart with lines is labeled “March 2021 Home Stereo System Sales.” Dates are listed on the x axis and monetary amounts from $0.00 to $50,000.00 are listed on the y axis in increments of $5,000.00. A line increases and decreases in cycles from left to right on the graph indicating different amounts on different dates.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_LineChart.jpg"/>
+    </media>
+    <caption>A line chart can be used to show changes over time.</caption>
+    </figure>
+    <note class="real-application" id="note-00002">
+    <title>Misleading Graphs</title>
+    <para id="para-00011">Earlier, you learned the importance of accurately representing data in a chart to prevent misinterpretation of the information. When you are presenting charts and graphs as opposed to the actual data, special care should be taken to make sure the data representation is valid. By adjusting the scaling on either axis, you can drastically change the interpretation of the information presented in a chart. Take a look at this<link url="https://r/78MisleadGraphs">article on how mistakes have been made in representing data</link> to learn more. Now select one chart represented in the preceding link and re-create the chart so that it is not misleading, and then answer the following questions:</para>
+    <list id="list-00002">
+    <item>What was the major issue(s) with the selected chart?</item>
+    <item>What are some of the incorrect conclusions drawn from the chart?</item>
+    <item>What adjustments did you make? How does it more accurately reflect the information?</item>
+    </list>
+    </note>
+    </section>
+    <section id="sect-00007">
+    <title>Scatter Chart</title>
+    <para id="para-00012">A <term id="term-00006">scatter chart</term> or <term class="no-emphasis" id="term-00007">scatter plot</term> shows the relationship between two variables. It is often used as part of a regression analysis, and it easily shows the direction of the slope of the line (<link target-id="fig-00006"/>). A positive slope indicates a positive correlation between the variables, and a negative slope indicates a negative correlation. A positive slope is when the two variables move in the same direction. The chart of data will have a line that moves from the lower-left to the upper-right corner. A negative slope means the variables move in opposite directions. The chart of a negative slope will start in the upper-left corner and move down toward the lower-right corner of the chart. If the chart is relatively flat, meaning a near 0 slope, then there is little relationship between the two variables. The scatter plot for FOB $ versus Quantity Sold show a slight positive (upward) trend in the data.</para>
+    <figure id="fig-00006">
+    <media alt="A chart is titled “FOB$ vs. Qty Sold.” The x axis is labeled number of units and lists numbers from 0 to 180 in increments of 20. The y axis is labeled with monetary amounts from $- to $120,000 in increments of $20,000. Dots are scattered throughout the graph in various locations representing the data.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Scatter.jpg"/>
+    </media>
+    <caption>A scatter chart is used in regression analysis.</caption>
+    </figure>
+    <para id="para-00013">A scatter chart can show if a relationship exists. It does not provide a quantitative measure of the relationship between the two variables; it simply shows the estimated relationship. In a scatter plot, the data points are not connected. Instead, it uses the data points only and then, if desired, you can add in a <term class="no-emphasis" id="term-00008">best fit regression line</term> to examine the information more closely (<link target-id="fig-00007"/>). If the data points are clustered around the best fit regression line, the relationship is strong. If the data points are scattered and show little to no discernible pattern around the fitted regression line, the relationship is weak. When you add the trendline to the previous scatter plot, you can see that the data points are not clustered around that trendline. Instead, they are quite spread out. This is a visual indication that the variables (FOB $ and Quantity Sold) are not strongly connected to each other.</para>
+    <figure id="fig-00007">
+    <media alt="A chart is titled “FOB$ vs. Qty Sold.” The x axis is labeled number of units and lists numbers from 0 to 180 in increments of 20. The y axis is labeled with monetary amounts from $- to $120,000 in increments of $20,000. Dots are scattered throughout the graph in various locations representing the data. A line runs from a dot around number 15 on the x axis and just above $- on the y axis up and to the right and ends around 170 (x axis) and $55,000 (y axis).">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Correlate.jpg"/>
+    </media>
+    <caption>Adding a trendline gives a visual representation of the strength of the relationship between two variables.</caption>
+    </figure>
+    </section>
+    <section id="sect-00008">
+    <title>Histogram</title>
+    <para id="para-00014">A <term class="no-emphasis" id="term-00009">histogram</term> represents a single variable at various levels/ranges for that variable. With a histogram, a dataset is condensed into categories for a quick analysis of the distribution of the data (<link target-id="fig-00008"/>). It is the visual representation of a histogram table. Histograms can represent discrete or continuous data, such as the distribution of customers. They are used frequently for a quick assessment of a dataset and to visually convey large datasets in an easy-to-understand format. They readily show outliers or gaps in information. The process of creating histograms was covered in more detail in <link document="m00019" target-id="">Histograms</link>.</para>
+    <figure id="fig-00008" class="scaled-down">
+    <media alt="A chart is labeled “WorldCorp Computer Accessories Sales 1st Quarter.” The x axis is labeled Units Sold with numbers from 0 to 550, in increments of 50 with “More” listed at the end. The y axis is labeled Frequency with numbers from 0 to 12 in increments of 2. Bars on the graph with different heights represent the information .">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Histogram.jpg"/>
+    </media>
+    <caption>A histogram is a visual representation of a histogram table.</caption>
+    </figure>
+    </section>
+    <section id="sect-00009">
+    <title>Stock Chart</title>
+    <para id="para-00015">Stock charts are used to represent market data to show the highs and lows for stocks. They can also be used in quality control to show the range of data on a certain day or shift for a production process. To create a <term class="no-emphasis" id="term-00010">stock chart</term>, you will need a date or time reference and the high values and low values for that date or time. The horizontal axis will be the span of time and the vertical axis will be dollars, in the case of a stock market chart. It could be another measure if you are using the stock chart for quality control purposes (<link target-id="fig-00009"/>).</para>
+    <figure id="fig-00009">
+    <media alt="A graph is titled “Dow Jones Industrial Average, 1st Quarter 2022.” The x axis is labeled High Low Close and dates are listed in 7 day increments starting with 3-Jan-22 and ending with 18-Apr-22. The y axis is labeled with numbers from 29,000.00 to 38,000.00 in increments of 1,000.00. Short and long vertical lines populate the graph in various locations representing the information.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_StockChart.jpg"/>
+    </media> 
+    <caption>A stock chart shows the changes in stock prices over time.</caption>
+    </figure>
+    </section>
+    <section id="sect-00010">
+    <title>Chart Template</title>
+    <para id="para-00016">If you are creating the same type of chart on a regular basis, creating a <term class="no-emphasis" id="term-00011">chart template</term> will save time. You can save features, themes, colors, and formats as a template that you can use with other data files. To begin, create the chart as you would normally create it. Add the desired customization to the chart. This could include formatting the chart with company colors or including the company logo as a watermark in the chart. When you are finished, right-click on the chart you just created and formatted (<link target-id="fig-00010"/>). Choose Save As Template. You will then be prompted to enter a name for the chart template you just created (<link target-id="fig-00010"/>). Consider a name for the template that will help identify the template’s use. Make sure the type is listed as Chart Template Files. Input a name and click Save.</para>
+    <figure id="fig-00010">
+    <media alt="A Clustered Column Chart representing information highlighted from the spreadsheet in the background is titled “Sales by Month by Location.” At the right, a dialog box lists the following options: Cut, Copy, Paste Options:, Reset to Match Style, Font, Change Chart Type, Save as Template (an arrow points to this option), Select Data, Move Chart, 3-D Rotation, Group, Bring to Front, Send to Back, Save as Picture, Assign Macro, and View Alt Text. The Save Chart Template window below lists options for a location to save the file on the left side. Along the bottom, options for a File name: (Chart1) and Save as type: (Chart Template Files) are circled. Hide Folders and Tools options are available for clicking across the bottom and Save (selected) and Cancel buttons are located at the bottom right.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ChartTempl.jpg"/>
+    </media>
+    <caption>If you use a chart format and design on a regular basis, it might be easier to save it as a template for future use. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00017">To access the saved template, go to the Insert tab and choose Recommended Charts (<link target-id="fig-00011"/>). Then, select All Charts and Templates. The saved template should be listed, and you can select that template to apply to the new dataset. Click on the template, then click OK, and Excel creates the chart based on your new dataset.</para>
+    <figure id="fig-00011" class="scaled-down-30">
+    <media alt="The Insert Chart window offers two tab options: Recommended Charts and All Charts. An arrow points to All Charts and lists available options on the left: Recent, Templates (an arrow points to this selection), Column, Line, Pie, Bar, Area, X Y (Scatter), Map, and Stock. At the right, the My Templates selected shows a saved Clustered Column Chart titled Sales by Location.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ChartTemp2.jpg"/>
+    </media>
+    <caption>Chart templates are found under All Charts, then choose Templates. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00011">
+    <title>Quick Analysis Tool</title>
+    <para id="para-00018">The <term class="no-emphasis" id="term-00012">Quick Analysis</term> tool provides a shortcut to analyzing a dataset with a group of options located in one place for ease of use. You can use these options to add formatting, to automatically insert totals and subtotals, or to add sparklines to your Data Table. There are three ways to access the Quick Analysis tool. If you highlight the Data Table you are interested in analyzing, the Quick Analysis tool icon will appear in the lower right of the selection (<link target-id="fig-00012"/>). You can also use CTRL+Q or right-click on a cell inside the dataset and select Quick Analysis from the menu that appears.</para>
+    <figure id="fig-00012" class="scaled-down">
+    <media alt="A spreadsheet of information is selected and an arrow points to a small square icon located at the bottom right of the data with a lightning bolt inside.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_QAnalysis.jpg"/>
+    </media>
+    <caption>The Quick Analysis tool can be used to add sparklines to the Data Table. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019">When you access the tool, a menu of options appears (<link target-id="fig-00013"/>). Choose the appropriate tab and click on the option you want to use.</para>
+    <figure id="fig-00013" class="scaled-down-30">
+    <media alt="A menu window lists Formatting (selected), Charts, Totals, Tables, and Sparklines across the top. In the middle, these options are available: Data Bars, Color Scale, Icon Set, Greater Than, Top 10%, and Clear Format. Along the bottom “Conditional Formatting uses rules to highlight interesting data.” is written.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_QAMenu.jpg"/>
+    </media>
+    <caption>There are various formatting options in the Quick Analysis tool. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <section id="sect-00012">
+    <title>Formatting</title>
+    <para id="para-00020">The <term class="no-emphasis" id="term-00013">Formatting</term> options in the Quick Analysis tool will insert conditional formatting based on the criteria you select. You can also access these options through the Home tab in the Styles command group. Select the drop-down menu next to the Conditional Formatting button. <link document="m00005" target-id="">Conditional Formatting</link> provided more detail on using conditional formatting for data. For formatting graphs and charts, there are a few options to choose from under the <term class="no-emphasis" id="term-00014">Conditional Formatting menu</term>, and you can stack the formatting options upon each other. For example, you can choose to have both the Data Bars and Icon Set displayed in your table at the same time. You can add data bars into the selected cells, and they will appear on top of the values and will be appropriately sized for the data in that cell (<link target-id="fig-00014"/>). You can format the bars through the Conditional Formatting menu on the Home tab. To remove the data bars, click on Clear Format on the far right of the Format tab in the Quick Analysis tools. You can also clear the formats by choosing the Clear Rules option in the Conditional Format menu on the Home tab.</para>
+    <figure id="fig-00014" class="scaled-down-30">
+    <media alt="In the spreadsheet of data, column E is labeled FOB$ and lists monetary values. Horizontal bars are shown in various lengths in the column over the data.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_DataBars.jpg"/>
+    </media>
+    <caption>Data bars provide a visual representation of the magnitude of the data in a cell in relation to the other cells. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00021">The <term class="no-emphasis" id="term-00015">Color Scale</term> option adds colors to the cells based on the values relative to each other. There are several different color scales you can choose. For example, one color scale uses greens to represent the higher values and reds to represent the lower values in the dataset (<link target-id="fig-00015"/>). Again, to remove the colors, click on Clear Formats in the Quick Analysis tools or Clear Rules under Conditional Formatting.</para>
+    <figure id="fig-00015" class="scaled-down-30">
+    <media alt="In the spreadsheet of data, Column D is labeled Quantity and lists numeric data. Various colors highlight the data.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ColorScale.jpg"/>
+    </media>
+    <caption>Color scales are colors added to the cells based on the values relative to each other. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00022">Icon sets are a more visual way to see differences between the values in a dataset (<link target-id="fig-00016"/>). The default icon is an arrow that is either red, yellow, or green based on the value in the cell. The icon can be changed by accessing the Conditional Formatting menu on the Home tab.</para>
+    <figure id="fig-00016" class="scaled-down-30">
+    <media alt="In the spreadsheet of data, Column D is labeled Quantity and lists numeric data. Icons of red arrows pointing down and green arrows pointing up are seen on the left sides of the data in the cells.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_IconSet.jpg"/>
+    </media>
+    <caption>Adding an icon set is yet another way to visually examine the differences within a dataset. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00023">The <term class="no-emphasis" id="term-00016">Greater Than</term> option in the Quick Analysis tools will highlight data that is greater than the value you set (<link target-id="fig-00017"/>). You set this value in the input window, choose the color scheme for the highlighted cells that meet the criteria, and then click OK. Using the default color scheme, the cells that are greater than the value you set will be highlighted with a light red fill and a dark red text.</para>
+    <figure id="fig-00017" class="scaled-down-30">
+    <media alt="A Greater Than window states “Format cells that are GREATER THAN:” across the top. A window below lists 16 as the selection. “with” is next and then a drop-down with Light Red Fill with Dark Red Text selected. OK (selected) and Cancel buttons are located at the bottom right.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Greater.jpg"/>
+    </media>
+    <caption>Using Greater Than, data that is outside the criteria you select is highlighted. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00024">The final option in the Formatting tab of the Quick Analysis tools is the <term class="no-emphasis" id="term-00017">Top 10%</term> tool. This tool highlights the values that are in the top 10 percent in the dataset. The default is to highlight those with light red fill and dark red text. This can be changed as desired (<link target-id="fig-00018"/>).</para>
+    <figure id="fig-00018" class="scaled-down-30">
+    <media alt="In the spreadsheet of data, cells D7 and E6 are highlighted light red with dark red text.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Top10.jpg"/>
+    </media>
+    <caption>The Top 10% tool is helpful to quickly see the top values in a dataset. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00013">
+    <title>Charts</title>
+    <para id="para-00025">The Quick Analysis tools give you the option to quickly insert a chart of the data (<link target-id="fig-00019"/>) using the Charts tab. The chart will be inserted directly on the worksheet using the default color schemes. After you have created the chart, you can choose to customize it to meet your needs using the skills you have already learned. You can access charts not listed specifically by clicking on More Charts.</para>
+    <figure id="fig-00019" class="scaled-down-30">
+    <media alt="A menu window lists Formatting, Charts (selected), Totals, Tables, and Sparklines across the top. In the middle, these options are available: Line (selected), Clustered Column, Stacked Area, Stacked Column, Scatter, and More Charts. “Recommended Charts help you visualize data.” reads across the bottom.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Charts.jpg"/>
+    </media>
+    <caption>The Quick Analysis tool allows you to easily access several charting options. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00014">
+    <title>Totals</title>
+    <para id="para-00026">The Totals tab in the Quick Analysis tool gives you several options for summarizing your dataset. You can access the same options through the Formulas tab, but the process is much simpler through the Quick Analysis tool (<link target-id="fig-00020"/>a). You can include the total of data (sum), average, count, percent of total, and running total. These options are available for both columns and rows. To access the additional formulas, click on the small arrow to the right of the window. With any of the options, the result of the formula will be included in your Data Table as another row or column (<link target-id="fig-00020"/>b).</para>
+    <figure id="fig-00020" class="scaled-down">
+    <media alt="In Part a, a menu window lists Formatting, Charts, Totals (selected), Tables, and Sparklines across the top. In the middle, these options are available: Sum (selected), Average, Count, % Total, Running…, and Sum. An arrow points to a small > after the second listing for Sum. “Formulas automatically calculate totals for you.” reads across the bottom. In Part b, a spreadsheet of information lists numeric values in column D and monetary values in column E from rows 2 to 10. Cells D11 and E11 list bolded numbers that are circled.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Totals.jpg"/>
+    </media>
+    <caption>The Quick Analysis tool tab gives several ways to summarize the dataset. (a) The Totals tab has many options; more tools are available if you click on the arrow. (b) Adding the sum of a column inserts a new row with the total. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00015">
+    <title>Sparklines</title>
+    <para id="para-00027">One way to show trends in your data is to use a <term id="term-00018">sparkline</term>, a small chart inserted into a cell next to your data that shows changes over time. There are three options in the Sparklines tab: Line, Column, and Win/Loss (<link target-id="fig-00021"/>). These can also be accessed through the Insert menu in the Sparklines command group.</para>
+    <figure id="fig-00021" class="scaled-down-30">
+    <media alt="A menu window lists Formatting, Charts, Totals, Tables, and Sparklines (selected) across the top. In the middle, these options are available: Line, Column, and Win/Loss. “Sparklines are mini charts placed in single cells.” reads across the bottom.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Sparklines.jpg"/>
+    </media>
+    <caption>Sparklines are another option to add visual interest to your Data Table. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00028">By default, sparklines are inserted at the end of each row. Once the sparkline is inserted, you have access to the Sparkline formatting tab. Here, you can format the sparkline’s style, change the input data, or change the type of sparkline. You can also add markers to the sparkline to show the highest and lowest points. In <link target-id="fig-00022"/>, the Line sparkline was inserted. With just a quick glance, you can see that Antonio had the most sales in week two but did not do as well in week three, whereas Izabelle and James improved consistently.</para>
+    <figure id="fig-00022">
+    <media alt="Sparkline is selected in the Ribbon at the top and these command groups are available for selection on the toolbar: Sparkline (Edit Data), Type (Line, Column, Win/Loss), Show (High Point, Low Point, Negative Points, First Point, Last Point, and Markers), Style (Sparkline Color and Marker Color), and Group (Axis, Group, Ungroup, and Clear). Various colored lines are visible in Column E on the spreadsheet.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_SparkRet.jpg"/>
+    </media>
+    <caption>There are several design options for Sparklines. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00003">
+    <para id="para-00029">Marimekko charts are a way to visually examine market share. They are used often in consulting and finance companies. You can also include different segments within an industry. Read <link url="https://openstax.org/r/78Marimekko">this article to find out more about this special type of chart and how to create it</link> in Excel.</para>
+    </note>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00016">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>There are many types of charts to visually present your data.</item>
+    <item>Some options for charts or graphs include bar charts, pie charts, column charts, line graphs, and scatter plots.</item>
+    <item>A column chart can be used to show comparisons between groups.</item>
+    <item>A line chart is useful to show changes over time.</item>
+    <item>Scatter plots visually show the relationship between two variables and are often used with regression.</item>
+    <item>Chart templates can be created for chart formats you use frequently such as those with company colors or logos.</item>
+    <item>The Quick Analysis tool gives you access to several options such as conditional formatting, adding totals to the rows or columns, or quick links to creating a chart of the data.</item>
+    <item>Sparklines added to your Data Table can be used to quickly assess trends.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00017">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00030"><link class="os-embed" url="#exercise/11-05-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00031"><link class="os-embed" url="#exercise/11-05-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00032"><link class="os-embed" url="#exercise/11-05-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-exercises" id="sect-00018">
+    <title>Written Exercises</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00033"><link class="os-embed" url="#exercise/11-05-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00034"><link class="os-embed" url="#exercise/11-05-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00035"><link class="os-embed" url="#exercise/11-05-BCA-WQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00019">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00036"><link class="os-embed" url="#exercise/11-05-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00037"><link class="os-embed" url="#exercise/11-05-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00038"><link class="os-embed" url="#exercise/11-05-BCA-PE03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00020">
+    <title>Case Exercises</title>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00039"><link class="os-embed" url="#exercise/11-05-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00040"><link class="os-embed" url="#exercise/11-05-BCA-CE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    
+    <glossary>
+    <definition id="def-00001">
+    <term>bar chart</term>
+    <meaning>horizontal column chart</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>clustered column chart</term>
+    <meaning>column chart that includes multiple variables to show the comparison between the groups</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>combination chart</term>
+    <meaning>chart that combines two different chart types in one visual</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>line chart</term>
+    <meaning>chart used to show changes over time</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>scatter chart</term>
+    <meaning>chart used to show the relationship between two variables</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>sparkline</term>
+    <meaning>small charts inserted into cells next to data that show changes over time</meaning>
+    </definition>
+    </glossary>
 </document>
