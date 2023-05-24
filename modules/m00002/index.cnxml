@@ -62,7 +62,7 @@
     <title/>
     <media alt="In part a, cell H2 is selected. The Formula Bar is enlarged and says =E2*G2. In Part b, multiple cells in Column H are selected. In Part c, the selected cells are filled in with different numbers.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_01_GUI03.jpg"/></media>
-    <caption>The AutoFill feature is useful to get the results without retyping or copying and pasting the formula. (a) Column H is empty, except for the first cell, which contains the formula, as seen in the Formula Bar. (b) Clicking and dragging the formula to the end of the column automatically applies the same formula to subsequent rows. (c) By dragging the formula down the column using the AutoFill feature (small black cross sign in the lower-right corner of a cell), the values are calculated for each row. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The AutoFill feature is useful to get the results without retyping or copying and pasting the formula. (a) Column H is empty, except for the first cell, which contains the formula, as seen in the Formula Bar. Clicking and dragging the formula to the end of the column automatically applies the same formula to subsequent rows. (b) By dragging the formula down the column using the AutoFill feature (small black cross sign in the lower-right corner of a cell), the values are calculated for each row. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
     </figure>
     <note class="check-point" id="note-00002">
       <exercise class="unnumbered" id="exer-00001">
