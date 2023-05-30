@@ -163,7 +163,7 @@
     </figure>
     <note class="link-to-learning" id="note-00005">
     <title>Writing Formulas vs. Math “By Hand”</title>
-    <para id="para-00032">For those who are new to using the Excel math syntax and notation, the first section of <link url="https://openstax.org/l/78MathExcel">this video tutorial on using math in Excel</link> has a series of handwritten math exercises set alongside the same calculations using Excel. Seeing math equations written out in the “traditional” way may help you better understand how to devise Excel formulas. You can access the <link url="https://openstax.org/l/78CompHandout">companion handout</link> to use as a reference.</para>
+    <para id="para-00032">For those who are new to using the Excel math syntax and notation, the first section of <link url="https://openstax.org/r/78MathExcel">this video tutorial on using math in Excel</link> has a series of handwritten math exercises set alongside the same calculations using Excel. Seeing math equations written out in the “traditional” way may help you better understand how to devise Excel formulas. You can access the <link url="https://openstax.org/r/78CompHandout">companion handout</link> to use as a reference.</para>
     </note>
     </section>
     <section class="section-summary" id="sect-00011">
