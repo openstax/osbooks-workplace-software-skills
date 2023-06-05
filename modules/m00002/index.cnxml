@@ -93,7 +93,7 @@
     <item>Press CTRL+V to paste the table into your new sheet.</item>
     </list>
     <para id="para-00019">This process copies the table exactly, so you will need to change the data so that it reflects the sales figures of location Y using the sales figures received from the finance department.</para>
-    <note class="check-point" id="note-00003">
+    <note class="mac-tip" id="note-00003">
       <exercise class="unnumbered" id="exer-00009">
         <problem id="prob-00009">
     <para id="para-00020">Macs use a CMD (command) key, whereas PCs use a CTRL (control) key. These keyboard shortcuts on a Mac are CMD+C to copy and CMD+V to paste. Mac also uses CTRL+click to bring up the right-click menu Windows uses.</para>
@@ -128,7 +128,7 @@
     <caption>The options for printing are on the File tab. Click on Print. To print only a worksheet, leave the default selection of Print Active Sheets and make any necessary changes to the options. To print the whole workbook, select Print Entire Workbook from the first menu in the Settings. On a Mac, the steps are the same, but the appearance will differ slightly. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00027">It is important to note that, when constructing spreadsheets, what you see on the computer screen is rarely how it looks when you actually print the workbook. When you have large spreadsheets with multiple rows or columns, they may not always fit within the bounds of the printed page. When you print the document, the result could be columns of data split oddly across several pages. Be sure to preview the printed version prior to printing. When you select Print, you will see the print preview on the right of the screen. Double-check that the columns and rows are displayed in the way you would like them to print. If not, you can change the margins of the worksheet or insert a page break as appropriate to print a final, professional workbook. More will be covered about formatting the worksheets and workbook in <link document="m00005">Formatting and Templates in Excel</link>.</para>
-    <note class="check-point" id="note-00004">
+    <note class="mac-tip" id="note-00004">
       <exercise class="unnumbered" id="exer-00010">
         <problem id="prob-00010">
     <para id="para-00028">You can get to the Print menu with CMD+P, but you can also use the File tab at the top of the window. There is a separate menu in the File menu to set your print area, and you can select which worksheets to print from the Print menu.</para>
