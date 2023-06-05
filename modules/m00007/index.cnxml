@@ -20,7 +20,7 @@
     <section id="sect-00002">
     <title>Using the Copy-and-Paste and Insert Functions</title>
     <para id="para-00003">Before learning to design and build a table from a blank worksheet, you need to understand how to use formatting from an existing table, as with Excel. Say a table to be copied to a new blank worksheet. Follow the same basic procedure as with Excel. First, select the table (<link target-id="fig-00001"/>a), then choose <term class="no-emphasis" id="term-00002">Copy</term> from the Edit menu or press CTRL+C on the keyboard. Next, go to the new worksheet and choose Paste from the Edit menu or press CTRL+V. There will be are a few minor differences between your new table and the original. For example, the column widths of the original were adjusted to their contents, whereas in the pasted table, all columns have the same width. To adjust the widths, you can double-click on the edges of the header row between two columns you want to adjust.</para>
-    <note class="check-point" id="note-00001">
+    <note class="mac-tip" id="note-00001">
     <exercise class="unnumbered" id="exer-00001">
     <problem id="prob-00001">
     <para id="para-00004">As in Excel, Mac uses the <term class="no-emphasis" id="term-00003">Command key</term> instead of the Control key, so the shortcut for copy is CMD+C and the shortcut for paste is CMD+V.</para>
