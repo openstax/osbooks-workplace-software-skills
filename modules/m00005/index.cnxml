@@ -169,8 +169,8 @@
   <list id="list-00002">
   <item>Formatting cells using colors, fonts, and borders can make a worksheet more readable and visually appealing. Other commands such as Merge Cells and Wrap Text can be used to adjust the information in the cells to enhance the professional presentation of the spreadsheet.</item>
   <item>By hiding columns or rows, you can make a more manageable worksheet or control what other users see and how they interact with it.</item>
-  <item>You can freeze rows or columns to keep the information visible when navigating large spreadsheets.</item>
-  <item>You can use conditional formatting to identify trends in the data or highlight values that are inside or outside a certain range.</item>
+  <item>Freezing rows or columns keeps the information visible when navigating large spreadsheets.</item>
+  <item>Using conditional formatting identifies trends in the data or highlight values that are inside or outside a certain range.</item>
   <item>There are a variety of templates available within Excel and online for many uses such as invoicing, sales reports, and budgeting.</item>
   </list>
   </section>

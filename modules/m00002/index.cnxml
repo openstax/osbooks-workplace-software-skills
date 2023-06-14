@@ -148,7 +148,7 @@
     <item>A spreadsheet is a type of software that allows you to calculate mathematical equations and design tables that you can use for financial documents and that performs data analysis and mathematical calculations.</item>
     <item>The GUI of Excel is designed for manipulating the cells of the spreadsheet. The GUI also has a Ribbon, which is a wide, multitabbed menu that contains features for customizing and formatting tables.</item>
     <item>The spreadsheet file is called a workbook and is composed of worksheets. A workbook can contain only one worksheet. However, you cannot have a worksheet without a workbook.</item>
-    <item>You can add new worksheets to a workbook by clicking on the + next to the sheet tabs found along the bottom of the interface.</item>
+    <item>Add new worksheets to a workbook by clicking on the + next to the sheet tabs found along the bottom of the interface.</item>
     <item>The Print feature of Excel allows you to print a single worksheet or the whole workbook.</item>
     </list>
     </section>
