@@ -197,10 +197,6 @@
     </section>
     </content>
     <glossary>
-    <definition id="def-00001">
-    <term>data</term>
-    <meaning>set of raw facts that can be in the form of textual information such as a product description or numerical information such as a price per unit</meaning>
-    </definition>
     <definition id="def-00002">
     <term>data analysis</term>
     <meaning>scientific discipline that uses mathematical and statistical tools to measure trends</meaning>
