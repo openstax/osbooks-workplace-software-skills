@@ -8,15 +8,6 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>Using Excel in Accounting and Financial Reporting</md:title>
-      <col:content>
-        <col:module document="m00023"/>
-        <col:module document="m00024"/>
-        <col:module document="m00025"/>
-        <col:module document="m00026"/>
-      </col:content>
-    </col:subcollection>
-    <col:subcollection>
       <md:title>Working with Spreadsheets</md:title>
       <col:content>
         <col:module document="m00001"/>
@@ -51,6 +42,15 @@
         <col:module document="m00020"/>
         <col:module document="m00021"/>
         <col:module document="m00022"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Using Excel in Accounting and Financial Reporting</md:title>
+      <col:content>
+        <col:module document="m00023"/>
+        <col:module document="m00024"/>
+        <col:module document="m00025"/>
+        <col:module document="m00026"/>
       </col:content>
     </col:subcollection>
   </col:content>
