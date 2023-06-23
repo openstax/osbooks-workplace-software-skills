@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+  <title>Chapter Scenario</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Chapter Scenario</md:title>
+    <md:content-id>m00023</md:content-id>
+    <md:uuid>87088955-e908-4ac4-b5d0-4f85642baec5</md:uuid>
+  </metadata>
+  <content class="introduction">
+<figure class="splash" id="fig-00001">
+<media alt="A photograph shows a woman behind a counter handing a customer a card. The counter holds coffee cups, coffee makers, and other appliances.">
+<!--<image mime-type="image/jpeg" src="OSC_Microbio_12_00_CHAPOP01.jpg"/>-->
+<image mime-type="image/jpeg" src="../../media/FPO.jpg"/></media>
+<caption>Something as simple as buying a cup of coffee involves numerous financial calculations for a business. The company determines the cost to produce the item and the selling price. The point-of-sale system uses standard calculations to determine tax on the purchase and change due for a cash payment. Data about how much profit the company makes from each cup of coffee, even at different store locations can be calculated by using the information from the point-of-sale system. This analysis can be reviewed by company managers to make decisions about strategies for pricing and sales locations.</caption>
+</figure>
+<para id="para-00001">WorldCorp has grown into a large, global corporation, requiring sophisticated and complex accounting. This also means that the company’s overall finances must be handled by comprehensive accounting software. However, within WorldCorp, many departments need to understand and analyze information from the accounting software at the department, unit, or project levels, which they can do using Microsoft Excel spreadsheets. Excel can be useful for calculating potential expenses for a new project or initiative and for projecting revenue for various scenarios.</para>
+<para id="para-00002">Having a sound understanding of the basics of accounting is a valuable asset for many workers, even if they are not directly or formally involved in the company’s accounting processes. Being familiar with the basic concepts and terminology of accounting can help you understand financial decisions. This includes knowing common financial accounting formulas, relating expenses and revenue, being familiar with financial statements, and understanding which software applications are used for different levels of accounting. As another benefit, learning accounting principles can provide a valuable framework for understanding and managing personal finances.</para>
+</content>
+</document>
