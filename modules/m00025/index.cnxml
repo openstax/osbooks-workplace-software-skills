@@ -68,7 +68,6 @@
 </tbody>
 </tgroup>
 </table>
-</section>
 <section id="sect-00004">
 <title>PMT</title>
 <para id="para-00009">To calculate PMT, you need at least three of the other variables. For this example, assume that WorldCorp is building a new manufacturing plant, at a cost of $4,743,542. To finance the investment, they will borrow the money from a bank, rather than use their savings. The bank terms are 5.6 percent for a twelve-year loan. You will use these variables to find the amount WorldCorp will pay each year for a loan. You know the loan term (NPER, which is the number of periods for the loan), the interest rate (RATE), and the original amount of the loan (PV). You do not know the future value (FV) or the yearly payment installment (PMT).</para>
@@ -157,6 +156,7 @@
 <image mime-type="image/jpg" src="../../media/OSX_BCA_12_02_FV01c.jpg"/></media>
 <caption>Again, like the other functions, the result will be negative if you do not add the “-” before the investment amount. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
 </figure>
+</section>
 <section id="sect-00009">
 <title>Depreciation</title>
 <para id="para-00019">Depreciation is not one of the five variables used in time value of money theory, but it is an important function used in accounting. The steady decrease in value of an asset, such as a piece of equipment, over time is called <term id="term-00012">depreciation</term>. The IRS lets businesses calculate depreciation as an expenditure, which in turn reduces the total amount they are taxed each year. There are several different depreciation functions in Excel, but this section will focus on the <term class="no-emphasis" id="term-00013">DB</term> (declining balance) function. This is one of the most used methods of depreciation in accounting. With this function, you are essentially reducing the total value of the asset over a period of time.</para>
