@@ -52,8 +52,12 @@
     </exercise>
     </note>
     <para id="para-00009">Let’s examine how to use the Insert Function tool for a simple function, the <term class="no-emphasis" id="term-00008">SUM function</term>. (Note that the Insert Function tool is typically used for more complex and specialized functions because it is quick and easy to just type in the simple formulas; however, here, the SUM function provides a simple example.) First, select the cell where you want the summed total to appear. Then, click on the Insert Function icon. The dialog box will open, asking for the function you want to use; select the Math &amp; Trig category, and look for SUM (they are listed alphabetically). When selected, a second screen will appear and ask for the range on which to perform the addition. Select the range and then click OK.</para>
-    <note class="check-point" id="note-00002">
+    <note class="mac-tip" id="note-00002">
+    <exercise class="unnumbered" id="exer-00010">
+    <problem id="prob-00010">
     <para id="para-00010">In the Mac version, the formula builder defaults to the last formula you used.</para>
+    </problem>
+    </exercise>
     </note>
     <para id="para-00011">One useful feature of the Insert Function tool is that it can automatically detect what your range might be (<link target-id="fig-00002"/>a). In <link target-id="fig-00002"/>b, Excel automatically guessed that the user would want to sum the range F2:F5. This Insert Function tool is useful when you do not want to manually type the formula in the Formula Bar.</para>
     <figure id="fig-00002">
