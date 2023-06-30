@@ -57,7 +57,7 @@
     </section>
     <section id="sect-00005">
     <title>Other Formatting Tools</title>
-    <para id="para-00011">Another time-saving strategy is using the <term class="no-emphasis" id="term-00007">Format as Table</term> tool. On the Home tab, select the Format as Table combo box to see many options for formatting tables (<link target-id="fig-00003"/>). The background color, heading font, and borders can be changed; additionally, column widths will change automatically to fit the text. This feature also automatically adds filters to the columns, which can help with organizing the data in a table. However, using the Format as Table feature does not format cells according to their content, such as currency.</para>
+    <para id="para-00011">Another time-saving strategy is using the <term class="no-emphasis" id="term-00007">Format as Table</term> tool. On the Home tab, select the Format as Table combo box to see many options for formatting tables (<link target-id="fig-00003"/>). The background color, heading font, and borders can be changed; additionally, column widths will change automatically to fit the text. This feature also automatically adds filters to the columns, which can help with organizing the data in a table <link target-id="fig-00013"/>. However, using the Format as Table feature does not format cells according to their content, such as currency.</para>
     <figure id="fig-00003">
     <title/>
     <media alt="The Format as Table button is selected in the toolbar and the window open below shows multiple options for table colors in: Light, Medium, and Dark. At the end of the list there are options for New Table Style and New PivotTable Style.">
