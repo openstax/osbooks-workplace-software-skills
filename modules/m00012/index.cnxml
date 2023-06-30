@@ -38,7 +38,7 @@
     <media alt="In the spreadsheet, Cell D7 is selected and =(E2+E3+E4 displays in the formula box. Cell D7 shows the formula and E2 is highlighted blue and the entire cell E2 is highlighted blue. E3 is red and the cell E3 is highlighted red. E4 is highlighted purple and cell E4 is highlighted purple.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_Complex.jpg"/>
     </media>
-    <caption>The color-coding system for complex formulas is also applied when using multiple sets of parentheses in a formula. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The color-coding system for complex formulas is also applied when using multiple sets of parentheses in a formula. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00003">
