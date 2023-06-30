@@ -93,21 +93,28 @@
     </section>
     <section id="sect-00006">
     <title>Adding a PivotChart to Visually Present Data</title>
-    <para id="para-00015">Excel has a feature that allows you to create a <term class="no-emphasis" id="term-00007">PivotChart</term> to visually present the data in your PivotTable. The first step is to select the entire PivotTable, which causes the Ribbon tab “<term class="no-emphasis" id="term-00008">PivotTable Analyze</term>” to appear. Next, select the PivotChart icon. You will use a small dataset from <link document="m00013" target-id="fig-00006"/> to create a chart of the information. More in-depth coverage of PivotTables is in [link]PivotTables/Charts[/link]. <link target-id="fig-00006"/> shows the original data and the data summarized in a PivotTable by sales agent. To create a chart of the data summarized in the PivotTable, choose PivotChart from the PivotTable Analyze tab.</para>
+    <para id="para-00015">Excel has a feature that allows you to create a <term class="no-emphasis" id="term-00007">PivotChart</term> to visually present the data in your PivotTable. The first step is to select the entire PivotTable, which causes the Ribbon tab “<term class="no-emphasis" id="term-00008">PivotTable Analyze</term>” to appear. Next, select the PivotChart icon. You will use a small dataset from <link document="m00013" target-id="fig-00006"/> to create a chart of the information. More in-depth coverage of PivotTables is in <link document="m00021">PivotTables/Charts</link>. <link target-id="fig-00006"/> shows the original data and <link target-id="fig-00009"/> shows the data summarized in a PivotTable by sales agent. To create a chart of the data summarized in the PivotTable, choose PivotChart from the PivotTable Analyze tab.</para>
     <figure id="fig-00006">
     <title/>
     <media alt="Cell A1 is selected in a spreadsheet with Date in the formula bar.">
-    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV06.jpg"/>
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV06-1.jpg"/>
     </media>
-    <caption>The data is summarized in a simple table. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The data is summarized in a simple table. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00016">To create a chart of the data summarized in the PivotTable, choose Pivot Chart from the PivotTable Analyze tab. For the data in <link target-id="fig-00006"/>b, a bar chart, pie chart, or clustered column chart would be optimal. These chart types are appropriate because they allow you to see the difference in scale between the sales levels of the agents. For this example, choose the column chart. With the column chart, the higher the column, the greater the sales totals for that agent. You can further customize the column chart by adding percentages or labels. The <term class="no-emphasis" id="term-00009">Agent</term> drop-down menu in <link target-id="fig-00007"/> allows you to further filter or change the column chart.</para>
+    <figure id="fig-00009">
+    <title/>
+    <media alt="Cell A3 is selected with Row labels in the formula bar. PivotTable Analyze is selected from the top Ribbon and on the toolbar, Field List, +/- Buttons, and Field Headers are selected in the “Show” section. On the right of the spreadsheet, a dialog box titled PivotTable Fields is divided into two columns. On the left column, “Choose fields to add to report:” is listed with a drop-down box at the right with a Settings icon inside. Below a Search Bar is shown and this list: Date, Agent (selected), Item Description, Quantity, FOB$ (selected). The right column begins with “Drag fields between areas below:” at the top and lists Filters, Columns, Rows (Agent drop-down menu) and Values (drop-down for Sum of FOB$ below).">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV06-2.jpg"/>
+    </media>
+    <caption>Placing the data in a PivotTable enables further analysis and filtering of the data to meet specific needs. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00016">For the data in <link target-id="fig-00009"/>, a bar chart, pie chart, or clustered column chart would be optimal. These chart types are appropriate because they allow you to see the difference in scale between the sales levels of the agents. For this example, choose the column chart. With the column chart, the higher the column, the greater the sales totals for that agent. You can further customize the column chart by adding percentages or labels. The <term class="no-emphasis" id="term-00009">Agent</term> drop-down menu in <link target-id="fig-00007"/> allows you to further filter or change the column chart.</para>
     <figure id="fig-00007">
     <title/>
     <media alt="In the spreadsheet, cell I20 is selected and a bar chart titled “Sum of FOB$” is seen at the right. Number labels are on the left, names are listed along the bottom, and Total information is shown as bars on the chart. An arrow points to a drop-down rectangle in the lower left labeled “Agent” with a drop-down arrow at the right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_04_PIV07.jpg"/>
     </media>
-    <caption>You can further customize the Pivot Chart by adding features such as value labels or by sorting the information in a different order. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>You can further customize the PivotChart by adding features such as value labels or by sorting the information in a different order. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
     </figure>
     <note class="real-application" id="note-00001">
     <title>Using PivotTables to Track Spending</title>
@@ -121,7 +128,7 @@
     <item>Corporations need to analyze their datasets to produce metrics or insights. However, these datasets need to be organized and cleaned before they can be processed.</item>
     <item>A PivotTable is a tool that reads raw datasets. It has user-friendly drag-and-drop capabilities that can help organize the table information for the business.</item>
     <item>These PivotTables are malleable, as the user can rearrange the variables in different ways to generate entirely different data highlights.</item>
-    <item>Visual representations of PivotTables can be generated using another Excel tool, Pivot Charts.</item>
+    <item>Visual representations of PivotTables can be generated using another Excel tool, PivotChart.</item>
     </list>
     </section>
     <section class="review-questions" id="sect-00008">
@@ -142,8 +149,8 @@
     </problem>
     </exercise>
     </section>
-    <section class="written-exercises" id="sect-00009">
-    <title>Written Exercises</title>
+    <section class="written-questions" id="sect-00009">
+    <title>Written Questions</title>
     <exercise id="exer-00004">
     <problem id="prob-00004">
     <para id="para-00022"><link class="os-embed" url="#exercise/10-04-BCA-WQ01"/></para>

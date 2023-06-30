@@ -10,9 +10,9 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Create custom formats of a worksheet or table for appearance</item>
+    <item>Create custom formats for worksheet or table for appearance</item>
     <item>Create custom formats for a worksheet or table for content</item>
-    <item>Copy formatting</item>
+    <item>Copy formatting from one range of data to a new range of data</item>
     </list>
     </section>
     <para id="para-00002">It is important for organizations to use uniform branding and style, which can appear anywhere, from emails to invoice templates to Excel files. Having a uniform style within an organization adds a level of professionalism and consistency to the business, and these may be tied to the company’s intellectual property and similar protections. Many organizations provide guidelines or manuals for all files produced, to ensure that all employees can easily follow the same style or use the same templates.</para>
@@ -168,8 +168,8 @@
     </problem>
     </exercise>
     </section>
-    <section class="written-exercises" id="sect-00013">
-    <title>Written Exercises</title>
+    <section class="written-questions" id="sect-00013">
+    <title>Written Questions</title>
     <exercise id="exer-00003">
     <problem id="prob-00003">
     <para id="para-00026"><link class="os-embed" url="#exercise/10-06-BCA-WQ01"/></para>
