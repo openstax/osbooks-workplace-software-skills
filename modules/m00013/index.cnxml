@@ -18,7 +18,7 @@
     <para id="para-00002">The world has changed rapidly in the decades since the 1980s, as personal computers became commonplace in offices and homes. Business calculations that used to be done by people in highly specialized accounting departments using manual methods became automated. Production plans and managerial oversight are informed with data from ever-expanding datasets that include data from sales to manufacturing. To manage this data, WorldCorp uses complex worksheets that may link to other worksheets (or other workbooks), with the aim of producing actionable business intelligence. To generate policies and strategic decisions, managers must use every tool at their disposal, including functions like MIN, MAX, STDEV; financial calculations like PV, FV, PMT; and logical functions like IF, AND, and OR.</para>
     <section id="sect-00002">
     <title>Arithmetic and Statistical Functions</title>
-    <para id="para-00003"><term class="no-emphasis" id="term-00001">Arithmetic functions</term> are those used in basic math. These types of functions help users to add, multiply, find averages, and perform other types of mathematical operations. You have already learned how to use basic math functions, but there are others that will be very useful in basic data analysis, such as financial and statistical functions.</para>
+    <para id="para-00003">Functions used in basic math, or <term class="no-emphasis" id="term-00001">arithmetic functions</term>, help users to add, multiply, find averages, and perform other types of mathematical operations. You have already learned how to use basic math functions, but there are others that will be very useful in basic data analysis, such as <term id="term-00028">financial functions</term> and <term id="term-00029">statistical functions</term>.</para>
     <section id="sect-00003">
     <title>AVERAGE</title>
     <para id="para-00004">The <term id="term-00002">average</term>, or <term class="no-emphasis" id="term-00003">mean</term>, is a number found by adding up a group of values, and then dividing it by the number of values you added up. Simply select the cell where you want to calculate the mean and type =AVERAGE(range), and identify the range of the values you want to average.</para>
@@ -40,7 +40,7 @@
     <media alt="In the spreadsheet, data is shown. Cell B13 is selected and =MIN(F2:F10) is in the formula box. Cell A12 is labeled Max with $64,505.00 in cell B12. Cell A13 is labeled Min with $7,252.00 in cell B13.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_MAXMIN01.jpg"/>
     </media>
-    <caption>The MAX and MIN functions are useful if the dataset is very large, and you cannot see the minimum or maximum value with a quick glance. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The MAX and MIN functions are useful if the dataset is very large, and you cannot see the minimum or maximum value with a quick glance. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00006">
@@ -51,7 +51,7 @@
     <media alt="Two similar tables show in the spreadsheet, one labeled Client A and the other labeled Client B. The spreadsheet has cell I4 selected. In the formula box =STDEV(F3:F11) is written. In cell I4 $1.023.53 is shown as the Standard Deviation (cells H4 and H5 merged).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_STDEV01.jpg"/>
     </media>
-    <caption>The standard deviation is probably the most used statistical tool in the data analysis set of formulas. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The standard deviation is probably the most used statistical tool in the data analysis set of formulas. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00007">
@@ -72,7 +72,7 @@
     <media alt="In the spreadsheet, cell G2 is selected and the formula bar shows =IF(F2>=20000,”Over 20K”,””). Cells in Row G list “Over 20K” in cells G2, G5, G6, G8, and G9 with numbers in column F showing above 20,000.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_LOGI01.jpg"/>
     </media>
-    <caption>Excel gives users the freedom to invent their own true and false tags. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Excel gives users the freedom to invent their own true and false tags. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00014">SUMIF and COUNTIF are other logical functions that are very useful. The <term class="no-emphasis" id="term-00023">SUMIF</term> formula, written as =SUMIF(range,criteria,sum_range) will give a total of a given range (sum_range) if certain criteria are met. For example, you can create a SUMIF function to search for and add up the amounts of all purchase orders of more than 30 servers (=SUMIF(C3:C235,“>30”,D3:D235)).</para>
     <para id="para-00015">The <term class="no-emphasis" id="term-00024">COUNTIF</term> (=COUNTIF(range, criteria)) function is similar except that it gives you the number of cells that meet the criteria rather than a total. You can use a COUNTIF formula to find the number of invoices that are equal to a certain sale amount (=COUNTIF(A2:A500, “=5000”)). Using these formulas with comparison operators makes gathering intelligence from large datasets easy.</para>
@@ -82,31 +82,31 @@
     <media alt="In the spreadsheet, row 6 is selected. Cells H2 and H3 are merged together and list “All FOBs Over 20k, Summation” and the number reflected in cell I3 is $156,295.00. Cells H6 and H7 are merged together and list “Shipments With More Than 1000 PCS” and cell I7 lists the number 2.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_COMOP01.jpg"/>
     </media>
-    <caption>Different types of IF formulas are often used to look up values that meet a certain criterion. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Different types of IF formulas are often used to look up values that meet a certain criterion. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00017">The <term class="no-emphasis" id="term-00025">AND function</term>, written as =AND(logical1, logical2), is regularly used in combination with the IF function. It can be used in limits, establishing a low and a high limit, and labeling them if they meet these criteria. In our WorldCorp example, this could help sales managers at the Fairfax, Virginia, location identify any invoices that are below a certain value, thus flagging those customers who might be retail consumers instead of wholesale. The formula in cell G2, in <link target-id="fig-00005"/>, sets up an IF test: if both of the AND criteria are true (if the FOB is greater than $0 and less than $1,000), then the tag “Low Value” appears in column G.</para>
+    <para id="para-00017">The <term class="no-emphasis" id="term-00025">AND</term>, written as =AND(logical1, logical2), is regularly used in combination with the IF function. It can be used in limits, establishing a low and a high limit, and labeling them if they meet these criteria. In our WorldCorp example, this could help sales managers at the Fairfax, Virginia, location identify any invoices that are below a certain value, thus flagging those customers who might be retail consumers instead of wholesale. The formula in cell G2, in <link target-id="fig-00005"/>, sets up an IF test: if both of the AND criteria are true (if the FOB is greater than $0 and less than $1,000), then the tag “Low Value” appears in column G.</para>
     <figure id="fig-00005" class="scaled-down">
     <title/>
     <media alt="In the spreadsheet, cell G3 is selected and =IF(AND(F3>=0,F3&lt;1000),”Low Value”,””) is in the formula box. “Low Value” is listed in cells G3, G7, G8, and G9 with adjoining numbers in column F under 1,000.00.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_LOGI02.jpg"/>
     </media>
-    <caption>The AND function can be used as an interval, as shown here. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The AND function can be used as an interval, as shown here. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00018">The <term class="no-emphasis" id="term-00026">OR function</term> is similar to the AND function in that it compares two values, but with the OR function, only one argument needs to be satisfied. It, too, is often used in conjunction with the IF function. In <link target-id="fig-00006"/>, the sales manager is automating the Excel worksheet to show when quantities fall outside of certain values. This could flag a product if sales fall below 200 units, for example, because it could indicate that it requires more marketing or additional investigation into the drop in sales. Likewise, the sales manager wants to know when quantities are above 1,000 units, which might trigger a discount for customers or additional incentives for the sales agent. Use the OR function to “flag” these orders for additional review.</para>
+    <para id="para-00018">The <term class="no-emphasis" id="term-00026">OR</term> is similar to the AND function in that it compares two values, but with the OR function, only one argument needs to be satisfied. It, too, is often used in conjunction with the IF function. In <link target-id="fig-00006"/>, the sales manager is automating the Excel worksheet to show when quantities fall outside of certain values. This could flag a product if sales fall below 200 units, for example, because it could indicate that it requires more marketing or additional investigation into the drop in sales. Likewise, the sales manager wants to know when quantities are above 1,000 units, which might trigger a discount for customers or additional incentives for the sales agent. Use the OR function to “flag” these orders for additional review.</para>
     <figure id="fig-00006" class="scaled-down">
     <title/>
     <media alt="In the spreadsheet, cell F2 is selected with =IF(OR(D2&lt;200,D2>1000),”Yes”,””) in the formula box. In Column F, cells F2, F3, and F5 through F9 list “Yes.”.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_LOGI03.jpg"/>
     </media>
-    <caption>The OR function is more flexible than the AND function, as the interval can be either. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The OR function is more flexible than the AND function, as the interval can be either. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00019">The <term class="no-emphasis" id="term-00027">NOT function</term> can also be used to look for values that meet a certain criterion. It is regularly used in combination with the AND, OR, and IF functions. In <link target-id="fig-00007"/>, NOT negates the criteria set forth by the AND function; namely, that if the FOB amount is <emphasis effect="italics">not</emphasis> greater than or equal to $0 and also less than $1,000, then the tag “High Value” should appear in column G.</para>
+    <para id="para-00019">The <term class="no-emphasis" id="term-00027">NOT</term> can also be used to look for values that meet a certain criterion. It is regularly used in combination with the AND, OR, and IF functions. In <link target-id="fig-00007"/>, NOT negates the criteria set forth by the AND function; namely, that if the FOB amount is <emphasis effect="italics">not</emphasis> greater than or equal to $0 and also less than $1,000, then the tag “High Value” should appear in column G.</para>
     <figure id="fig-00007" class="scaled-down">
     <title/>
     <media alt="In the spreadsheet, cell G3 is selected with =IF(NOT(AND(F3>=0,F3&lt;1000)),”High Value”,””) in the formula box. In Column G, cells G4, G5, G6, G10, and G11 list “High Value” with adjoining numbers in Column F over 1,000.00.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_LOGI04.jpg"/>
     </media>
-    <caption>The NOT function is regularly used in complicated IF functions. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The NOT function is regularly used in complicated IF functions. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
     </figure>
     <note class="link-to-learning" id="note-00002">
     <para id="para-00020">Nesting occurs when we have a formula that uses a function and includes a function as one of the arguments; these functions are typically known as nested functions. Nested functions are used in the workplace to evaluate several conditions at a time. This can be helpful when you have multiple criteria that influence a single outcome. This can be a powerful approach to performing calculations in Excel; however, they can be very complicated as they require a specific structure in order to ensure accuracy. This <link url="https://openstax.org/r/78NestTutorial">tutorial from Microsoft</link> walks us through this structure. The uses for this approach are limitless, as you can nest up to 64 levels.</para>
