@@ -6,5 +6,415 @@
     <md:uuid>06cf1814-1b76-4847-9afb-fd9d9fc9d7bd</md:uuid>
   </metadata>
   <content>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Objectives</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Explain the evolution of computing in the workplace</item>
+<item>Explain the rise of computing for personal use</item>
+<item>Discuss the use of technology in today’s workplace</item>
+<item>Describe key technologies in mobile devices, digital imaging, and gaming</item>
+<item>Discuss recent advances in technology and related career opportunities</item>
+</list>
+</section>
+<para id="para-00002">Today’s workplace looks very different from the workplace of even a decade ago. Much has changed in the field of computer science and <term class="no-emphasis" id="term-00001">computing</term> in general, reshaping the use of technology at both individual and professional levels. From the early uses of massive, room-size computers to perform large, complex calculations to today’s much smaller, more advanced computers—even one so small it can fit in the palm of your hand like the <term class="no-emphasis" id="term-00002">Raspberry Pi 4</term> shown in <link target-id="fig-00001"/>—computing has secured a solid foothold in our everyday lives.</para>
+<figure class="scaled-down" id="fig-00001">
+<title/>
+<media alt="A hand holds the inside components of a computer part. The computer component is a green rectangular base with black and silver pieces in various shapes on the exposed top with white words, images, and numbers on the green base.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_rice.jpg"/></media>
+<caption>The Raspberry Pi 4 contains the basic components and power of a computer. It can power a robot, smart products, and basic PCs. At 3.4 inches by 2.2 inches and only .6 inches high, it fits in the palm of your hand. (credit: “Raspberry pi” by kritsadaj/Pixabay, CC0)</caption>
+</figure>
+<para id="para-00003">Workers today need to know how to use computers to perform basic (and advanced) tasks that employers need. Those tasks could be preparing documents, creating spreadsheets for financial calculations, designing slide presentations for meetings, constructing databases, and even navigating social media and virtual meeting spaces that help companies communicate internally and externally. This text explores the basic software applications that perform these tasks, mostly through Microsoft Office and Google Workspace.</para>
+<para id="para-00004">But, first, this chapter looks at the evolution of computing to provide some context and appreciation for the field itself and to show its importance not just for today’s workplace, but also to give you a sense of where computing is heading.</para>
+<section id="sect-00002">
+<title>Computing in the Workplace</title>
+<para id="para-00005">The rise of computers for work came out of a need to manage a massive quantity of numbers. The early computers essentially were developed to be “data crunchers.” Their origins date back to the 1800s in France. Joseph Marie Jacquard, a textile merchant, developed a machine to automatically weave designs in fabric using a punch card system, as you can see in <link target-id="fig-00002"/>. This punch card system laid the foundation for more advances in number calculations, including those developed by Herman Hollerith for the 1880 U.S. census. Hollerith went on to improve the initial <term class="no-emphasis" id="term-00003">punch card system</term> and eventually founded <term class="no-emphasis" id="term-00004">IBM</term>, one of the first major computing companies.</para>
+<figure id="fig-00002">
+<title/>
+<media alt="(a) A picture shows a machine with white connected rectangular plates that run from the top to the bottom with small black holes in various patterns. Two white brackets at the top wooden beam hold the rectangular plates in place. (b) A drawing shows the details of the working parts of six pieces of a punch-card tabulating machine. (c) Two rectangular punch cards with three rounded edges and one cut off edge are on a black surface. Both have black tick marks in rows on the sides shown. The top punch card has rectangle holes punched out in various locations. The bottom cards is unpunched.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_Jacquard.jpg"/></media>
+<caption>(a) Jacquard’s loom, which performed calculations using a punch card system, was an early development in computing, as was (b) Herman Hollerith’s punch-card tabulating machine, for which he was awarded a patent in 1889. (c) Each hole in a punch card equals a piece of data (called a “bit” today) that the machines read. (credit a: modification of work “Jacquard.loom.cards” by George H. Williams/Wikimedia Commons, Public Domain; credit b: modification of work “Holerith395782Figures1-6” by Herman Hollerith/Wikimedia Commons, Public Domain; credit c: modification of work “2punchCards” by José Antonio González Nieto/Wikimedia Commons, CC-BY 3.0)</caption>
+</figure>
+<para id="para-00006">The first computer (in the modern sense of the term) was the <term class="no-emphasis" id="term-00005">Z1</term>, designed and built in the late 1930s by Konrad Zuse of Germany. This machine was motor-driven, programmable, and weighed over 2,000 pounds, about 400 times the average laptop today. The Z1 contained many of the internal components still used in today’s computers, paving the way for other inventors to evolve the technology.</para>
+<para id="para-00007">Bill Hewlett and David Packard, two Stanford University engineering students, began working out of a garage in California, initially developing equipment for engineers and major companies. They founded their company, <term class="no-emphasis" id="term-00006">Hewlett Packard (HP)</term>, in 1939, but it wasn’t until a few decades later that it would become a titan in the computer manufacturing industry.</para>
+<para id="para-00008">Meanwhile, the 1940s and 1950s saw major advances in computing technology. Most notable was the 1943 invention of the <term class="no-emphasis" id="term-00007">ENIAC (Electronic Numerical Integrator and Calculator)</term>. This massive unit, built by two professors at the University of Pennsylvania, is considered the forerunner of today’s digital computers because it was the first machine to run calculations electronically. Other innovations included solving equations simultaneously and the invention of the transistor, which allowed for much smaller computers to be built.</para>
+<para id="para-00009">The development of computer language is another major milestone in computing history. By using words rather than symbols, computer <term class="no-emphasis" id="term-00008">coding</term> became easier to learn and write, especially for those in the business world who did not have mathematics or engineering degrees. It is thanks, in large part, to mathematician and U.S. Navy Admiral Grace Hopper (<link target-id="fig-00003"/>). Hopper’s PhD in mathematics from Yale, along with her naval career working on technology to aid the war effort during World War II, positioned her to make some remarkable contributions, and in a male-dominated field.</para>
+<figure class="scaled-down-30" id="fig-00003">
+<title/>
+<media alt="A black and white photo shows Grace Hopper and three others around a large, old computer.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_Hopper.jpg"/></media>
+<caption>Grace Hopper, shown here in 1960 with a UNIVAC computer, earned her PhD in mathematics and went on to an illustrious career in computer science. (credit: “Grace Hopper and UNIVAC” by Public.Resource.Org/Flickr, CC BY 2.0)</caption>
+</figure>
+<note class="spotlight-ethics" id="note-00001">
+<title>Grace Hopper: A Pioneer in Computer Science</title>
+<para id="para-00010">Historically, science, technology, engineering, and mathematics (known as the STEM fields) were seldom viewed as appropriate fields for females, and the same was true for careers in the military. Although women today make up half of the U.S. workforce, less than 30 percent of employees in STEM fields are women. As a reflection of this gender bias, in 1950, fewer than 5 percent of doctoral degrees awarded in chemistry, math, and physics were granted to females, and even today, that number has only risen to just under 20 percent.</para>
+<para id="para-00011">Grace Hopper was a pioneer in the computer science field and in the military as a woman working in STEM. She was also a member of the first group of women to be granted a PhD in mathematics from Yale University. Hopper’s work in computer science had a profound impact on the future of computer programming, especially through her creation of an English-language-based programming language, which eventually became <term class="no-emphasis" id="term-00009">COBOL</term> (still in use today).</para>
+<para id="para-00012">There are many organizations centered on narrowing the gender gap in STEM fields. One of these is the American Association of University Women (AAUW). Founded in 1881, it has been tirelessly focused on investing in education, especially in STEM fields, and on promoting these fields to females through tech camps and other initiatives.</para>
+</note>
+<para id="para-00013">Computers entered the workplace in the 1950s. Their use at that time was for scientific and engineering applications, mostly as calculating machines to facilitate data analysis. In 1964, the <term class="no-emphasis" id="term-00010">Programma 101</term>, an Italian desktop-sized programmable calculator, was the first commercially viable workplace computer to hit the market. It was heavy and expensive—its $3,200 price tag in 1964 dollars was the equivalent of nearly $30,000 today. As a result, only large corporations and research institutions had the space and resources to use the computers that were commercially available. This remained the status quo into the 1970s, when the development of the <term id="term-00011">microcomputer</term> changed the face of the industry. The first personal computer, the <term class="no-emphasis" id="term-00012">Kenbak-1</term>, came on the market in 1971. <emphasis effect="italics">Microcomputer</emphasis> is the technical name for the personal computers that operated with a single processing unit and were much smaller than the machines used in corporations or industrial institutions. Intel’s 1970 invention of the <term id="term-00013">microchip</term> (a group of small circuits that work together to make a computer operational) was quickly followed by the floppy disk (which allowed for data to be stored and moved easily), developed by IBM engineers, and <term id="term-00014">ethernet</term> connection capability, developed by <term class="no-emphasis" id="term-00015">Xerox</term>. Ethernet connects computers and devices such as printers through hard cables. With advances in technology, the market for computers expanded rapidly in the 1970s. That’s when Paul Allen and Bill Gates founded <term class="no-emphasis" id="term-00016">Microsoft</term> to focus on developing software and an operating system for the new computers. It is also when Steve Jobs and Steve Wozniak founded <term class="no-emphasis" id="term-00017">Apple</term>, creating the <term class="no-emphasis" id="term-00018">Apple I</term> computer with a single circuit board.</para>
+<para id="para-00014">Xerox’s revolutionary <term class="no-emphasis" id="term-00019">Alto</term> computer, shown in <link target-id="fig-00004"/>, introduced in 1973, included a screen resembling those we use today, plus a mouse and keyboard. The screen included, for the first time, elements such as folders, buttons, and icons controllable through the mouse. The Alto not only had the ability to act as a calculator but also could print documents and send electronic mail, anticipating the email we know today.</para>
+<figure class="scaled-down-30" id="fig-00004">
+<title/>
+<media alt="An computer is located on a wheeled platform. A vertical, rectangular screen sits on the top shelf with a keyboard and a mouse below.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_Alto.jpg"/></media>
+<caption>Xerox’s Alto computer has a similar look to today’s computers, even including the mouse. (credit: “Xerox Alto Computer) by Joho345/Wikimedia Commons, Public Domain)</caption>
+</figure>
+<para id="para-00015">Early personal computers like the Programma and the Alto set the stage for the rapid expansion of computing in the workplace. By 1980, there were several microcomputers on the market that made computing more accessible to small businesses and even individuals. Computing capabilities had expanded to include color graphics, spreadsheets, and word processing programs. The market competition between Microsoft, HP, IBM, Apple, and others shaped the industry and our society. In fact, in 1983, <emphasis effect="italics">Time</emphasis> magazine’s cover recognized the computer as “Machine of the Year,” replacing its traditional “Man of the Year.” These early computers have evolved into today’s laptops, cell phones, tablets, and wearables.</para>
+<para id="para-00016">These innovations in computing technology have had a profound impact on the workplace. <link target-id="fig-00005"/> shows just how different today’s “workplace” has become. From the automation of manual processes, to the ways we store and analyze information, to how and where we communicate with colleagues and customers—all have changed dramatically. Resulting improvements include improved efficiency and productivity, reduction of errors, improved database management and analytics, advanced communication capabilities, telecommuting, enhanced graphics and marketing, the need for new organizational structures and departments (such as information technology, or IT, departments), and the development of technology privacy policies and legal regulations. Computing machines, along with the emergence and subsequent explosion of the internet, have forever transformed both our work and our personal lives.</para>
+<figure id="fig-00005">
+<title/>
+<media alt="A collage of three color photographs is shown. From left to right appear a person in front of a laptop computer sitting outdoors, a person sitting on the floor with a laptop, and a person sitting on the couch with a small child and a laptop.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_ModernWork.jpg"/></media>
+<caption>Computing technology has transformed the modern workspace. People no longer have to be “in the office.” (credit: “left”: modification of work by Cory Zanker; credit “center”: modification of work by “@Saigon”/Flickr; credit “right”: modification of work by Daniel Lobo)</caption>
+</figure>
+</section>
+<section id="sect-00003">
+<title>Computing for Personal Use</title>
+<para id="para-00017">By the 1970s, new workplace technology filtered into homes in the form of entertainment devices. With technological improvements and more accessible prices, the value of a computer in the home—to help manage everything from household finances to children’s homework assignments—was becoming evident. The advertisement for the <term class="no-emphasis" id="term-00020">Apple II</term> computer shown in <link target-id="fig-00006"/> shows what this early technology looked like.</para>
+<figure id="fig-00006">
+<title/>
+<media alt="An ad for Apple Computers Inc. is shown. Across the top is written “The home computer that’s ready to work, play and grow with you.”. Two columns on the left display an article about the features of the computer and its various uses for a person’s life. The third column on the right lists “Specifications.” Images of a keyboard, people using a computer, a computer screen with data, the inside of a computer, and the Apple logo of an apple with a bit missing and a rainbow of colors are placed throughout the ad.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_AppleAd.jpg"/>
+</media>
+<caption>This December 1977 advertisement for the Apple II computer touts its uses around the home, such as organizing finances, storing recipes, and gaming. (credit: modification of “Apple II advertisement Dec 1977 page 2” by Apple Computer Inc./Wikimedia Commons, Public Domain)</caption>
+</figure>
+<para id="para-00018">In the early 1980s, personal computers were made available to the average consumer through retailers such as Sears and Radio Shack. In 1981, IBM introduced a personal computer—first known by the code name “Acorn” and subsequently renamed the <term class="no-emphasis" id="term-00021">IBM PC</term>—that included the Microsoft operating system and Office software, as well as an Intel microchip. Soon to follow was Apple’s <term class="no-emphasis" id="term-00022">Macintosh</term> computer, launched in January 1984, running Apple’s own operating system and officially establishing <term class="no-emphasis" id="term-00023">Apple</term> as competitors to <term class="no-emphasis" id="term-00024">Microsoft</term> and the PC. Many of these new designs were streamlined and user-friendly for the whole family. Moreover, the price point made them more attainable for the consumer, though still expensive for that time.</para>
+<para id="para-00019">Initially, home computers were focused on gaming and entertainment. <link target-id="fig-00007"/> shows what that primitive technology looked like in the 1980s. Classic games such as chess and solitaire were translated into the computer environment, a trend that quickly caught on even with rudimentary graphics and text-based games. These games allowed the user to experience the computer’s capabilities in settings far beyond the workplace and established the personal computer as a technology to support not only work, but pleasure and entertainment, too.</para>
+<figure id="fig-00007">
+<title/>
+<media alt="(a) An Apple II computer is shown with a green, pixelated image of a serpent underwater on the screen. A large keyboard extends out the front of the computer with thick, raised, keys. (b) A black and white photo shows two children standing and looking at a small computer screen with images of a basketball hoop and person shooting a ball on it.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_OldGaming.jpg"/></media>
+<caption>(a) The Apple II and (b) the Commodore PET offered video games that popularized the use of computers at home. (credit a: modification of “Living Computers – Apple” by Michael Dunn/Wikimedia Commons, CC BY 2.0; credit b: modification of “Commodore PET Exhibit at American Museum of Science and Energy Oak Ridge Tennessee” by Frank Hoffman/Wikimedia Commons, Public Domain)</caption>
+</figure>
+<para id="para-00020">With developments such as disk storage and programming capabilities, the market for personal computers continued to grow. Manufacturing costs decreased with innovations in the industry and as many producers shifted manufacturing overseas. Although computers evolved into home workstations with capabilities beyond gaming, the home computing trend was slow to catch on. Many potential home users simply did not see the value in owning a personal computer; in the late 1980s, fewer than 20 percent of households owned one. This changed in the late 1990s and early 2000s, when the home computer industry exploded with the expansion of the internet, improved interfaces that were less technically challenging for the average user, and customizable products and features such as color schemes. Increasingly, home workstations became the place to maintain family finances, store recipes, and write school research reports. Email, followed quickly by instant messaging, offered a new way to connect and communicate. Then came a way to connect to the internet without wires, using high-frequency radio signals.</para>
+<para id="para-00021">Since 2000, the warp speed of innovation has brought to market lightweight laptops that can be easily carried from workplace to workplace. The computing power of the computers that first took astronauts to the moon was similar to that of a couple of today’s gaming consoles. Many modern home computing devices are laptops less than one inch thick, equipped with high-speed connectivity, high-quality graphics, and touchscreen capabilities. Computing power today has increased nearly 1 trillion percent since the 1960s.</para>
+</section>
+<section id="sect-00004">
+<title>Technology Today</title>
+<para id="para-00022">The rapid trajectory of innovations in computing has forever changed today’s workplace, where computing power is at our fingertips. It is difficult to imagine any industry that doesn’t depend on <term class="no-emphasis" id="term-00025">computing technology</term> as an integral part of its business. Some of the more basic technologies that are present in businesses may include:</para>
+<list id="list-00002">
+<item>direct deposit of paychecks</item>
+<item>key card building access</item>
+<item>shared company computer drives for document storage</item>
+<item>paperless documentation systems for recordkeeping</item>
+<item>high-speed printers/copiers</item>
+<item>automated inventory systems</item>
+</list>
+<para id="para-00023">Industries that are traditionally considered nontechnical have also embraced improvements that depend on computing technology—for example, farmers can control irrigation and monitor field conditions. Computing technologies have also enabled individuals to embark on entrepreneurial ventures that once only seemed like a dream and have launched some of them into marketplace leadership. From manufacturing to health care to the service sector, we can see the impact of computing and how technological innovations continue to shape the future of many industries.</para>
+<para id="para-00024">For example, consider the auto industry, where advances in technology continue to pave the way for changes in how we drive, safety improvements, and new ways to purchase vehicles. Recent innovations include the introduction of <term class="no-emphasis" id="term-00026">self-driving vehicles</term> (see Google’s self-driving car, <term class="no-emphasis" id="term-00027">Waymo</term> in <link target-id="fig-00008"/>) and of vehicle-to-vehicle communication—cross-communication that allows cars to wirelessly share information such as speed, spatial proximity to other cars or objects, and traffic status, with the potential to reduce vehicle crashes and congestion on roadways. Technology has also created a space for nontraditional car dealers, such as Carvana, that offer an online purchase experience and home delivery. The use of technology in the auto industry can be seen at all stages of the business cycle.</para>
+<figure class="scaled-down-30" id="fig-00008">
+<title/>
+<media alt="A car has “Google” written on the back and “self-driving car” written on the front door. A gray, round canister sits on a white framework on the top of the car.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_AutoMed.jpg"/></media>
+<caption>Google’s Waymo, a self-driving car, can navigate roads, maintain safe speeds, and see obstacles in time to apply the brakes. (credit: “Google Self-Driving Car” by R Boed/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="para-00025">Computing technology has also brought substantial changes to the health-care industry. Most medical practices and hospitals utilize <term class="no-emphasis" id="term-00028">electronic medical records</term>. These records and the ability to share them across providers have increased the efficiency and accuracy of record management and have also increased the transparency of information provided to patients and their families and care providers. Performance of surgical procedures has been advanced through the use of visualization technology and <term class="no-emphasis" id="term-00029">robotics</term>. <link target-id="fig-00009"/>b shows a robotic arm used in surgery.</para>
+<para id="para-00026">More recently, <term class="no-emphasis" id="term-00030">telehealth</term> and virtual health-care options have grown. <link target-id="fig-00009"/>a shows a virtual telehealth appointment. These options have reduced many barriers (including some financial barriers and transportation issues) for those seeking care for a variety of needs, including mental health issues, child illness, or support for the elderly. This virtual option has not only added convenience, but has also improved communication between patient and provider, increased speed of care, and allowed patients to take a better informed and more active role in addressing their own health-care needs. And, of course, the use of virtual technology for health-care needs was a lifesaver during the COVID-19 pandemic, when in-person appointments were too risky.</para>
+<figure id="fig-00009">
+<title/>
+<media alt="(a) A person sits at a blue table looking at a laptop with the image of a health-care professional on the screen.(b) A table with a blue surgical covering holds a small, rectangular plate with a circular plate on top. A robot with several mechanized arms and tools works on the circular item.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_HealthTech.jpg"/></media>
+<caption>(a) Telehealth services and (b) robotic surgery are two health-care industry-changing technologies. (credit a: modification of “People on a Video Call” by Anna Shvets/Pexels, CC BY 2.0; credit b: modification of “Laproscopic Surgery Robot” by GPA Photo Archive/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="para-00027">With today’s available technologies, organizations and individuals alike are continuing to rethink the traditional business model. Many organizations have come to see the value of giving employees the freedom afforded by working from home, and even many industries that had resisted telecommuting learned to incorporate it as a necessary response to the COVID-19 pandemic. Some companies have found that organizational efficiencies can be realized in terms of cost savings, improved employee satisfaction, and enhanced productivity. Other businesses, such as smaller retailers, have shifted more resources to e-commerce. Banks have found innovative ways to connect with their customers using technology rather than through in-person transactions. Still others, such as restaurants, have used technology to deliver their products to consumers in new ways. In <link target-id="fig-00010"/>, customers can order directly through the internet à la <term class="no-emphasis" id="term-00031">Uber Eats</term> or even have their food delivered by robot.</para>
+<figure id="fig-00010">
+<title/>
+<media alt="(a) A person on a bicycle wears a large, square backpack with “Uber Eats” printed across the back (b) A six wheeled, small, oval robotic vehicle with a flag attached is shown on a sidewalk.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_UberRobot.jpg"/></media>
+<caption>(a) Uber Eats is a popular food delivery service that is becoming more widely available because of technological advances. (b) Autonomous delivery robots are becoming a more common sight on campuses. (credit a: modification of “Uber Eats bicycle” by Yuya Tamai/Flickr, CC BY 2.0; credit b: modification of “Starship food delivery robot” by bikesharedude/Flickr, Public Domain)</caption>
+</figure>
+<note class="real-application" id="note-00002">
+<title>Technology and Food Trucks</title>
+<para id="para-00028">Food trucks have been growing in popularity in the early decades of the twenty-first century. In fact, the food truck industry has grown at a faster rate than traditional restaurants. The availability of technology has helped foster this growth, especially in two areas: <term class="no-emphasis" id="term-00032">point-of-sale (POS)</term> systems and <term class="no-emphasis" id="term-00033">social media</term> marketing. It used to be that food trucks could accept only cash because the registers that could take credit cards did not work on the road. A POS system does even more than exchange money. A food truck can use a POS product—for example, a product called Square—to track inventory and sales, and can even use social media to post messages and to make sales.</para>
+</note>
+<para id="para-00029">Our interactions with computing, both at home and in the workplace, rely on interfaces and communications like those you will likely use in this course. Tools for documenting information, analyzing and exporting data, and communicating with others form the foundation of business computer applications.</para>
+</section>
+<section id="sect-00005">
+<title>Mobile Devices, Digital Imaging, and Gaming</title>
+<para id="para-00030">It might be hard to imagine a world without access to information at our fingertips—or, for that matter, a world without <term class="no-emphasis" id="term-00034">Xbox</term> or <term class="no-emphasis" id="term-00035">PlayStation</term>. Today, many households no longer have a traditional <term class="no-emphasis" id="term-00036">landline</term> phone, instead relying on mobile devices. It is estimated that less than 10 percent of homes in the United States have a traditional landline phone. Think about how advances in digital imaging technology over the past half century have forever changed the way we capture and preserve life’s notable moments—our days are now routinely filled with screens and images. The rise of the computing industry has brought along changes in companion industries that have impacted most of our lives in one way or another.</para>
+<para id="para-00031">In this section, you will learn about the origins of the mobile phone industry and its evolution into today’s diverse handheld computing devices. The rise of the computing industry also led to a new industry, <term class="no-emphasis" id="term-00037">gaming</term>. You will look at how the gaming industry not only changed the face of family entertainment but also created additional industries and shaped cultures across the world. Finally, you will explore the digital imaging industry, the impact on other fields, and recent technological developments in imaging.</para>
+<section id="sect-00006">
+<title>Mobile Devices</title>
+<para id="para-00032">The concept of a <term class="no-emphasis" id="term-00038">mobile phone</term> has been around a lot longer than you might imagine—since the early 1900s, in fact. In 1908, a patent was issued for a wireless telephone in Kentucky, but the idea was considered so far-fetched that its inventors were accused of fraud. (The case was later dropped, and the invention was never produced.) Not long after, during World War I, Germany was testing radio-based wireless telephones (essentially two-way radios) on trains traveling from Berlin. By 1940, this technology had improved, and handheld receivers were widely available and used in World War II, prompting the private sector to use this emerging technology (<link target-id="fig-00011"/>a).</para>
+<para id="para-00033"><term class="no-emphasis" id="term-00039">Bell Laboratories</term>, founded in the late nineteenth century by Alexander Graham Bell, was a key player in bringing mobile phones to the public. In 1946, Bell Labs developed a system to offer a mobile phone service in cars. Because of the limited number of channels available, the system quickly reached capacity, and was mostly used by taxi drivers and emergency vehicles localized in urban areas. From the 1950s to the 1980s, the technology continued to develop, built mostly around radio frequencies.</para>
+<para id="para-00034">The first cellular technology using automated cellular networks, called 1G or first generation, was introduced in Tokyo in 1979. It was deployed to other countries soon after and, in 1981, reached North America, where it was known as the Advanced Mobile Phone System (AMPS). This led to the launch of the first truly mobile cell phone, Motorola’s DynaTAC, in 1983 (<link target-id="fig-00011"/>)b. With a price point of just under $4,000, the unit was not designed for the everyday consumer. Motorola believed the phone’s customers would include realtors and large-company executives who could afford the purchase price as well as the $50-per-month plan to use the device. But they underestimated the appeal of the cell phone. Sales far exceeded projections, and the concept of the cell phone quickly replaced the unwieldy mobile car phones of the past.</para>
+<para id="para-00035">The overwhelming demand, along with advances in digital technology, prompted the migration of the old AMPS networks to a digital format, an effort that began in 1990 and was completed in the early 2000s. The popularity of the cell phone also prompted competition between European and American networks. 2G cellular networks emerged, providing basic short message service (SMS) text messaging capabilities. The first text message was sent in 1993 in Finland. The 2G network had better security than 1G and was also much faster. These changes in network capabilities influenced the development of phone technologies.</para>
+<para id="para-00036">Although smartphones are seen as a rather new technology, the first smartphone was actually introduced by IBM in 1993. The Simon Personal Communicator (<link target-id="fig-00011"/>c) looked very different from modern smartphones. Its features included a calendar, address book, and email service. The phone even had a touchscreen. The price point, around $1,000, was high at the time, equivalent to about $2,000 in today’s dollars. The device was well received in the United States, where consumers viewed it primarily as a digital personal assistant that just happened to have phone capabilities. Though popular with business executives, the Simon stayed on the market for less than a year and sold only around 50,000 units, but it did pave the way for the smartphones of today. Other notable phone introductions soon to follow were the first flip phone (the Motorola StarTAC in 1997) and the first BlackBerry device in 1999.</para>
+<figure id="fig-00011">
+<title/>
+<media alt="(a) A communication device is rectangular with a thick, circular projection in the middle at the top and a thin, antenna at the right top. Two circular speaker and microphone pieces stick out on angles at the left. A large, rectangular button is in the front at the bottom and a black strap extends from the top to the bottom along the right side. (b) An large cell phone is rectangular and has a long antenna at the top. The front has numbered buttons, along with speaker and microphone areas. (c) A long, rectangular smartphone is held in a person’s hand. “Simon” is written across the bottom left. A rectangular screen runs the length of the item and speaker and microphone areas are shown. Buttons run along the left side and a thin antenna is located at the top right.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_DynaTAC.jpg"/></media>
+<caption>(a) This two-way wireless communication device was used during World War II to communicate critical information among troops. (b) Motorola’s DynaTAC was the first mobile phone to use cellular technologies rather than radio frequencies. DynaTAC was marketed toward wealthy business professionals at a price point of nearly $4,000. (c) The first smartphone, a personal assistant device, was a precursor to today’s cell phones. (credit a: modification of “Bärbar radio” by Flygvapenmuseum, CC BY; credit b: modification of “MF013: Figure 2.8” by Rosenfeld Media/Flickr, CC BY 2.0; credit c: modification of “Simon FIRST Smart Phone” by Mike Mozart/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="para-00037">As the technology rapidly advanced, <term class="no-emphasis" id="term-00040">3G</term> and then 4G networks soon followed. This allowed faster speeds as well as streaming services—<term class="no-emphasis" id="term-00041">4G</term> networks were nearly 10 times faster than their 3G counterparts. With this expanded network accessibility, phones rapidly came to be seen less as a luxury and more as a need.</para>
+<para id="para-00038">Apple’s introduction of the <term class="no-emphasis" id="term-00042">iPhone</term> in 2008 had a major impact on the market. With this introduction came the <term id="term-00043">iPhone operating system (iOS)</term>, exclusive to <term class="no-emphasis" id="term-00044">Apple</term>. An <term id="term-00045">operating system</term> is one of the most important components of a computing device. It runs the interactions between the device’s hardware and software components (more on these later in the chapter). The second most popular operating system to emerge during this time was the <term id="term-00046">Android operating system</term>, first developed in 2005 and later acquired by <term class="no-emphasis" id="term-00047">Google</term>. (See the <link>Link to Learning</link>.) These two operating systems, each of which has advantages and disadvantages, are engaged in an ongoing battle for market share. At the end of 2022, the Android operating system had a majority share of the market worldwide (nearly 72 percent). Today, nearly 90 percent of Americans own a cell phone; of those, nearly 60 percent are smartphones.</para>
+<note class="link-to-learning" id="note-00003">
+<para id="para-00039">It seems that people are either iPhone users or Android device users, with an unwillingness to shift platforms. Although the two operating systems that run iPhones and Android devices (such as Samsung’s Galaxy phones), respectively, have similar performance capabilities, they vary dramatically in terms of the user experience. The proprietary software working behind the scenes also limits the apps, or programs, that are compatible with each device. Read this <link url="https://openstax.org/r/78AndroidiOS">article on the differences between Android and iOS</link> to learn more. Which operating system do you prefer? Why?</para>
+</note>
+<para id="para-00040">The adoption of mobile phone technology has had a large economic impact in the United States and worldwide, giving rise to new products (cell phone cases, pop sockets, wireless earbuds, screen protectors) that did not exist before mobile phones hit the market. Other industries such as clothing and handbags have also been impacted: It’s now commonplace for a jacket to have a specific phone pocket, and many handbags and backpacks have slots designed to accommodate most cell phones. The creation of mobile phone apps has developed into an entirely new industry that has created many jobs worldwide. And beyond these tangible effects of the cell phone boom, there have been some significant changes in how we operate in our business and professional lives. About 40 percent of all business transactions are conducted on a mobile phone device. Companies rely on mobile technology to conduct essential correspondence with their employees and their customers.</para>
+<para id="para-00041">Gains in efficiency and collaboration across geographic boundaries are now easier than ever. Consumer product companies use mobile devices to advertise in new ways and to expand their market reach. We may use the technology to stay in contact with out-of-town family members, to connect to our bank or our health-care provider, and to make everyday purchases. Many children growing up today have never had a home landline phone ring or not even heard a dial tone. The <term class="no-emphasis" id="term-00048">dial tone</term> is a sound that indicates that a landline is active. It can be difficult to imagine a world before cell phones, even though it was not all that long ago they first emerged on the market.</para>
+<note class="link-to-learning" id="note-00004">
+<para id="para-00042">Listen to this <link url="https://openstax.org/r/78Telephone">video on vintage telephone network sounds</link> to hear what a dial tone sounds like, as well as sounds from telephone technology through the ages.</para>
+</note>
+</section>
+<section id="sect-00007">
+<title>Digital Image, Video, and Audio Capture Devices</title>
+<para id="para-00043">Image, video, and audio capture are another area of technological growth that many people now use daily. Photography was invented in the mid-1800s, and it took a century and a half for digital imagery to emerge, in 1957. Using <term id="term-00049">binary digits</term>, Richard Kirsch was able to convert a photograph of his son into a digital image using the only programmable computer available in the United States at the time. The photograph was scanned electronically in small squares of the image, now called <term class="no-emphasis" id="term-00050">pixels</term>, and reconfigured using white and black, as <link target-id="fig-00012"/> shows. The binary data for the image could then be stored on the computer. This development, along with the invention of the microchip, laid the foundation for future work in digital imaging.</para>
+<figure class="scaled-down" id="fig-00012">
+<title/>
+<media alt="(a) A black and white fuzzy image of a baby outlined in black is shown. Lines run down the image in columns and faint rows can be seen as well, distorting the image. (b) The same image from part a is shown, but now the features of the baby are clear and easy to see.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_Kirsch.jpg"/></media>
+<caption>Kirsch took a photo of his son Walden and was able to capture the image digitally using binary digits. (credit a: modification of “NBSFirstScanImage” by Russell A. Kirsch/Wikimedia Commons, Public Domain; credit b: modification of “Walden Kirsch” by Russell A. Kirsch/ Portland Art Museum, Public Domain)</caption>
+</figure>
+<para id="para-00044">The scientific community, government, and the military soon took notice of the advantages of using the digital approach to capturing images. Beginning in the 1960s, <term class="no-emphasis" id="term-00051">NASA</term> used the technology to transmit images back from space through television receivers. Tech companies created new storage methods, such as saving images to tape. <term class="no-emphasis" id="term-00052">RCA</term> built the photo-dielectric tape camera for NASA, which was able to store about 120 images on tape—a huge improvement over the long processing times needed for previous digital images.</para>
+<para id="para-00045">This technology continued to grow over the decades, and soon combined with mobile phone technology. In 1997, the first image was taken using a <term class="no-emphasis" id="term-00053">camera phone</term>. Cell phone manufacturers quickly launched new phone models that included cameras, and most of today’s devices include a <term class="no-emphasis" id="term-00054">digital camera</term>. The 2004 emergence of <term class="no-emphasis" id="term-00055">Flickr</term>, a popular photo-sharing site, as well as the launch of <term class="no-emphasis" id="term-00056">Facebook</term> that same year, provided new ways for people to share and connect via digital photographs.</para>
+<para id="para-00046">The digital camera revolution transformed how we conduct business and stay in touch with family and friends. The use of webcams and videoconferencing technology has enabled many to conduct business across geographic boundaries and to telecommute from home to their job. This has changed the face of the traditional office environment for all industries and parts of the marketplace, such as government agencies, corporations, small businesses, and service organizations. And in many ways, digital cameras have changed our everyday lives. The use of digital cameras has revolutionized many medical procedures and how we interact with our health-care providers. Digital cameras have enabled us to see space beyond the earth and moon. Consumer products can be test marketed and brought into consumers lives’ virtually. Parents have the capability to monitor their babies sleeping in cribs. Doorbell cameras have increased our sense of security in our homes. The cameras we have at our fingertips today have far surpassed the imaginations of the early inventors of this technology. The feature box on <link>virtual reality</link> discusses a technology that is otherworldly.</para>
+<note class="real-application" id="note-00005">
+<title>Virtual Reality and Marketing</title>
+<para id="para-00047">Virtual reality (VR) refers to a simulated environment that is computer-generated. Through the use of devices such as a helmet or glasses, the user sees a simulated world and is able to move about it visually. Instead of simply viewing the scene from an outsider’s point of view, the user is immersed in the actual scene. Companies such as Nike, Wendy’s, McDonald’s, and Gucci have used VR to creatively demonstrate new products to consumers and to allow consumers to interact with a new product concept. Even small businesses have capitalized on the technology, which enables them to bring ideas in front of consumers quickly without the expense of creating an actual prototype of the product. This concept has application across a wide range of industries, from restaurants to real estate to consumer products.</para>
+</note>
+</section>
+<section id="sect-00008">
+<title>Games and Gaming Devices</title>
+<para id="para-00048">Computerized games for entertainment existed long before today’s gaming consoles. When computers were starting to gain a foothold in the American household, their primary use was for entertainment. The initial concept of computerized games was centered on taking existing, often traditional games, such as checkers and chess, and moving those to the computerized platform.</para>
+<para id="para-00049">The first <term class="no-emphasis" id="term-00057">video game</term> was developed by an American physicist. William Higinbotham developed the game Tennis for Two in 1958 using an analog computer with an oscilloscope display. This simple invention laid the groundwork for one of the most profitable industries in the world. It is estimated that over 60 percent of U.S. households today have members who regularly play video games. Technology progressed to the first gaming console, 1967’s <term class="no-emphasis" id="term-00058">Brown Box</term>, and then to 1972’s <term class="no-emphasis" id="term-00059">Atari</term>, with its popular game, Pong. In 1978, Space Invaders hit the arcade market—a game venue marketed heavily to bowling alleys and retail locations. The arcade craze became a huge commercial success for the game makers as well as the businesses that purchased the games (<link target-id="fig-00013"/>). Motivated by getting to the top of the scoring list, players were readily putting their quarters into the machines. Over the next decade, nearly two dozen companies developed <term class="no-emphasis" id="term-00060">arcade games</term>, including the well-known game Pac-Man, which was introduced to the U.S. market in 1981.</para>
+<figure class="scaled-down" id="fig-00013">
+<title/>
+<media alt="A group of people are standing in front of video arcade games.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_Arcade.jpg"/>
+</media>
+<caption>The arcade of the 1980s changed how teenagers spent their time and their money. (credit: “the Luna City Arcade” by Blake Patterson/Flickr, CC BY 2.0)</caption></figure>
+<para id="para-00050">The decades that followed saw the leap from <term class="no-emphasis" id="term-00061">Intellivision</term> to the <term class="no-emphasis" id="term-00062">Nintendo Entertainment System (NES)</term> and Nintendo’s handheld <term class="no-emphasis" id="term-00063">Game Boy</term> device. At the end of the 1980s, Sega emerged as a major competitor to <term class="no-emphasis" id="term-00064">Nintendo</term>. Their gaming system had better graphics and new creative energy, bringing on what would become some of the most popular games of our time, like Sonic the Hedgehog. As new game concepts emerged, controversy over violence in games and other questionable content prompted a government response and the creation of an industry rating system for games.</para>
+<note class="spotlight-ethics" id="note-00006">
+<title>Video Games and Violence</title>
+<para id="para-00051">Early video games were based on traditional board games such as chess and checkers. But over time, with increases in graphic capabilities and new companies coming into the market purely as game developers, new game concepts were developed. At times, these new game concepts contained what some considered to be inappropriate language and situations. The American Psychological Association even considers the playing of violent video games as a risk factor for aggression. The violence in video games prompted a congressional hearing on the matter in 1993. The hearing focused on three controversial games: Doom, Night Trap, and Mortal Kombat, the first video game to include realistic depictions of violence. Despite this, the game was allowed to be sold, but a new rating board emerged from the hearings called the <term class="no-emphasis" id="term-00065">Entertainment Software Ratings Board (ESRB)</term>. It is a voluntary, self-regulated entity run by the Entertainment Software Association, which rates games according to their level of violence and recommends appropriate age levels for users. Some stores will not sell video games without an ESRB rating.</para>
+</note>
+<para id="para-00052">As the trajectory of advances in games and consoles continues, today it seems that a new and improved system hits the market every year. Many people also have games downloaded on their phones. And the concept of <term class="no-emphasis" id="term-00066">e-sports</term> has reached colleges and universities, both as an academic program and as an NCAA-recognized collegiate sport. The future of video games seems to be moving in the direction of artificial intelligence (AI) and virtual reality simulations, with both Apple and Google making company acquisitions in that arena.</para>
+<note class="real-application" id="note-00007">
+<title>E-sports in Colleges and Universities</title>
+<para id="para-00053">The term e-sports refers to a sports competition using video games. Like professional football, baseball, and other sports, e-sports events have a large following, including both spectators at the actual events and others who join to watch the action virtually. E-sports became a large player in the gaming industry around 2010 and has since exploded worldwide to such an extent that colleges and universities are taking notice. The impact on the academic environment can be seen in three key areas: academic programs such as game developing, student groups focused on gaming, and collegiate sports. Some institutions are even offering scholarships for e-sports similar to traditional athletic scholarships.</para>
+</note>
+<para id="para-00054">Mobile technology, digital imaging, and gaming capabilities today are inherently intertwined. Often, all three coexist on a single device. As just one example, consider how we use <term class="no-emphasis" id="term-00067">Google Photos</term> on our phones to share family memories. Extending this capability, in a video game app on a mobile phone, a user can create a character using their photo and then have this virtual character interact with other players across the world. In the business world, many of us now use <term class="no-emphasis" id="term-00068">Zoom</term> or other videoconferencing tools to connect with colleagues remotely. Outside of work, users of gaming consoles can chat with other players through their phones or through the console. Many games today are designed from the start to be played on multiple platforms. Microsoft is even offering mobile phone plans for customers. Each technology has changed our lives, but together their impact has been remarkable.</para>
+</section>
+</section>
+<section id="sect-00009">
+<title>Advances in Technology</title>
+<para id="para-00055">Technology is advancing faster than what was previously believed to be possible. In just a short period of time, we have gone from having no computers to today where nearly 90 percent of people in the United States have some access to a computing device. What’s also impressive is that 90 percent of data in the world today was generated in just the last two years. Today’s <term class="no-emphasis" id="term-00069">5G</term> technology is 100 times faster than 4G, and the rate of adoption of new technologies has diminished from years to mere months in some cases. As you can see in <link target-id="fig-00014"/>, older technologies such as refrigerators and landlines took decades to reach widespread adoption with a majority of Americans buying them, while today’s smartphones and tablets achieve broad adoption as soon as they enter the market.</para>
+<figure id="fig-00014">
+<title/>
+<media alt="(a) A graph labeled with the years 1890, 1900, 1920, 1940, 1960, 1980, 2000, and 2014 on the x axis and 0%, 20%, 40%, 60%, 80%, and 100% on the y axis. Items labeled on the graph include: Running water (yellow line), Stove (light green line), Automobile (red line), Home air conditioning (green line), Dryer (purple line), Washing machine (orange line), Central heating (dark green line), Dishwasher (dark red line), and Landline (blue line). All of the lines start at 0 to 25% between the years 1890 and 1955 and end at 70 to 100% between the years 1970 and 2014 with ups and downs along the way. (b) A graph is labeled with the years 1951, 1960, 1970, 1980, 1990, 2000, 2010, and 2016 on the x axis and 0%, 20%, 40%, 60%, 80%, and 100% on the y axis. Items labeled on the graph include: Power steering (purple line), Microwave (yellow line), Cellular phone (light green line), Internet (red line), Computer (green line), Microcomputer (dark purple line), Smartphone usage (orange line), Social media usage (dark green line), Table (dark red line), and Podcasting (dark blue line). Power steering begins at 0% in 1951 and ends at 100% in 1985. The Microwave begins at 5% in 1975 and ends at 95% in 2011. The others begin between the years of 1985 and 2011 between 5% and 35% and end in 2016 between 35% and 92%.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_OldTech.jpg"/></media>
+<caption>(a) Historically, the rate of adoption for new technologies has taken decades. (b) Now, new products to the market reach more than a 50 percent adoption rate in just a few years. (credit a and b: modification of work by Our World in Data, CC BY 4.0)</caption>
+</figure>
+<para id="para-00056">Computers today typically double their capabilities in less than two years. With this in mind, we can expect computing capabilities to continue to increase at a similar rate. The rate of change is increasing exponentially because companies are building on existing technologies. Researchers can take what has worked well to rapidly refine and enhance technologies for innovations and improvements. Additionally, resources from across the world—both financial resources and human capital—are being pumped into supporting these technological advances. To put the popularity of computer technology into perspective, consider how long it takes to get fifty million users for a product. Radio took thirty-eight years after its invention to become that popular, while the hit game Angry Birds needed only about thirty-eight days to reach that milestone. <link target-id="fig-00015"/> shows some common products and how long each of them took to reach the same milestone.</para>
+<figure id="fig-00015">
+<title/>
+<media alt="A column chart is labeled “How long to reach 50 million users?” Years are labeled across the x axis from 0 (unlabeled) in 10 year increments up to 80. The y axis lists items with orange bars indicating how long to the right. Items include: Telephone (75 years), Automobiles (62 years), Electricity (46 years), Radio (38 years), Television (13 years), Internet (7 years), Facebook (4 years), YouTube (10 months), Angry birds (35 days), and Pokémon Go (19 days).">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_AdoptRate.jpg"/></media>
+<caption>Products are being adopted at a faster rate than ever before. The advent of social media has exponentially increased the spread of some of these later innovations.</caption>
+</figure>
+<section id="sect-00010">
+<title>AR/VR Simulations</title>
+<para id="para-00057">Using digital objects in a real-life picture or scene is called <term id="term-00070">augmented reality (AR)</term>. For example, think about the overlays or filters you can put on photos in some social media apps. A mostly simulated, 3-D environment in which the user can move about visually and interact is called <term id="term-00071">virtual reality (VR)</term>. Both technologies have applications in many industries. For example, if you want to try a new style of glasses, you could use AR to see what those glasses might look like on your face. You might use a VR simulation to offer your insight on a yet-to-be-developed product concept. Other applications could be in manufacturing, real estate, medicine, and education.</para>
+<para id="para-00058">One recent example of the use of VR was seen when the NBA had to cancel games because of the COVID pandemic. To keep fans engaged, the league offered VR passes that enabled ticket holders to attend past games in a VR environment and nearly be courtside for the action. The only equipment they needed was the app and a VR headset. (VR headsets are widely available for purchase, typically for under $200.) This was a unique use of the technology to keep the audience’s attention during a difficult time.</para>
+</section>
+<section id="sect-00011">
+<title>Robotics and Automation</title>
+<para id="para-00059">Robotics should be distinguished from <term id="term-00072">automation</term>, which refers to using computers or machines to do tasks that could be completed by a person. Automation can be quite technical, using computerized technology, or it can be a mechanical process using machines. For example, processing retail transactions, which was once handled by people using pen and paper, is now well automated through the use of a computer.</para>
+<para id="para-00060">On the other hand, <term id="term-00073">robotics</term> is centered on robotic machines, which are now used in nearly every industry. These machines can automate some tasks that were previously performed by humans, but they can also be programmed to perform tasks that no human could perform. Consider some medical procedures that can now be carried out using robotic machines but that simply were not possible in the past, such as certain procedures on the brain. The use of <term class="no-emphasis" id="term-00074">robots</term> in the workplace can reduce errors, increase safety, enhance productivity, and reduce time spent on routine tasks for employees.</para>
+<para id="para-00061">Robotics has been a part of the manufacturing environment for some time. But today we see increasingly unique applications of robotics in the workplace. For example, the University of California is testing a robotic pharmacist, which will perform many of the functions of a traditional pharmacist, such as choosing the correct prescription and dosage. Robots are also being used to keep areas clean and sanitized; in some cases, robots can be used to clean up spills that might otherwise be hazardous to humans. Giant Food Stores is piloting a program that uses robot assistants throughout the store to monitor for spills and potential hazards in the aisle. Drones (a kind of robot) are used in some military applications, and the use of <term class="no-emphasis" id="term-00075">drones</term> is being tested for package delivery. Finally, robots can be used to find and rescue victims in disaster situations where it might be too dangerous to send in typical emergency personnel.</para>
+</section>
+<section id="sect-00012">
+<title>Nanotechnology</title>
+<para id="para-00062">Another advancement in technology is <term id="term-00076">nanotechnology</term>, which focuses on changing individual molecules to produce different properties or attributes, can be applied to a wide variety of fields, including engineering and chemistry, as well as to medicine and consumer products. The U.S. National Nanotechnology Initiative was launched in 2000 to manage research and development in the field, and the first academic program centered on nanotechnology emerged by 2004. At that time, the technology was being heavily tested with consumer products. Nanotechnology has been used to make golf balls go straighter, make car bumpers more dent resistant, and give cosmetics and lotions deep skin-penetrating properties. With nanotechnology, drug delivery to patients can be better targeted and controlled. Filters made using nanotechnology have been used to filter drinking water sources in countries such as India. In agriculture, nanotechnology has improved yields with the use of soil analysis and targeted fertilizer applications. Nanotechnology can also be used to better combat air and water pollution through increased filtration efforts. Research into nanotechnology possibilities continues to expand.</para>
+</section>
+<section id="sect-00013">
+<title>Wearables</title>
+<para id="para-00063">A <term id="term-00077">wearable</term> is a device that uses computing technology to collect and receive data via the internet. You may already be using a wearable technology device—for example, a <term class="no-emphasis" id="term-00078">smartwatch</term>. Using similar technology to a smartwatch, <term class="no-emphasis" id="term-00079">Motiv</term> has developed a ring that can track fitness goals and sleep cycles. As <link target-id="fig-00016"/> shows, you would never know it was a smart ring from its outward appearance. Other wearables include heart rate monitors and a medical alert device. These devices can be worn, incorporated into apparel, or even embedded into the skin. The military is even considering using embedded wearables to keep track of troops. Some cutting-edge wearables are centered in the medical industry; for example, a wearable has been developed that can detect early signs of breast cancer.</para>
+<figure class="scaled-down" id="fig-00016">
+<title/>
+<media alt="A left hand is shown with a black, large ring located on the ring finger. On the right, a hand is holding a cell phone showing health tracking information on the screen.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_MotivRing.jpg"/>
+</media>
+<caption>The Motiv ring is a new take on the fitness tracker. It can track activity and sleep cycles and send the information to your smartphone. (credit: “Left hand with Oura smart ring on finger, right hand shows phone with the Oura app´s energy and activity statistics” by Marco Verch/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="para-00064">Some professional athletes use wearables to improve performance and track incidences of concussions. Wearables for children are becoming more popular for location tracking. The possibilities are endless. It is estimated that there are nearly a billion wearable devices active globally, over 50 percent of which are smartwatches. And about a quarter of wearable users wear the device while sleeping. Revenues in the industry are nearly $10 billion in the United States. Wearables are now also being used for ticketing purposes at concerts and amusement parks.</para>
+<note class="link-to-learning" id="note-00008">
+<para id="para-00065">You may have a smartwatch or use a fitness tracker when working out. These are commonplace wearables in today’s society. But where is the industry headed? Wearables have been identified as an area of growth in the economy. Many tech companies are focusing on innovative ways to incorporate internet-connected devices in different settings, as illustrated in this <link url="https://openstax.org/r/78WearTech">article on the wearable tech of the future</link> in <emphasis effect="italics">Time</emphasis>. You may be surprised to discover just how futuristic they are becoming.</para>
+</note>
+</section>
+<section id="sect-00014">
+<title>Smart Spaces</title>
+<para id="para-00066">An internet-connected space—office, home, car, or building that incorporates technologies that can be controlled from the internet—is called a <term id="term-00080">smart space</term>. In homes, we see products centered on convenience, security, and comfort. The goal is to improve your life without interfering and creating a nuisance. For example, you can have a thermostat that enables you to control the temperature in your home from your phone, even when you are not at home. You can have a device that switches on the lights or the TV when you verbally ask it to do so, or home security lights that come on for your safety as you approach the front door. With products such as <term class="no-emphasis" id="term-00081">Google Home Smart</term>, shown in <link target-id="fig-00017"/>—a virtual assistant that is connected to the internet—all members of the family can control many devices. If you have your devices synced to one another, you can even have Google Home tell you your calendar appointments for the day or set reminders and alarms.</para>
+<figure class="scaled-down" id="fig-00017">
+<title/>
+<media alt="A white and gray tube-shaped device has different colored dots on a slanted top. An icon of a house is drawn inside a circle on the device and connected with lines to other icons inside circles surrounding the device. The icons include a stove, microwave, clock, washing machine, gears, television, lightbulb, power button, plug, lock, and laptop.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_Smart.jpg"/>
+</media>
+<caption>Smart homes are equipped to manage a variety of devices and tasks. (credit: “Home Automation22” by mikemacmarketing/Wikimedia Commons, CC BY 2.0)</caption>
+</figure>
+<para id="para-00067">Similar technologies can be employed in the workplace. Smart offices/buildings can be equipped with many of the same technologies—a good strategy for managing utility costs and adding convenience for employees. Smart offices can make employees more productive by giving them more time to focus on creative and strategic tasks as opposed to more routine and mundane responsibilities such as sending invoices or even turning on the office lights. Job satisfaction can be increased by giving employees more control over their workspaces.</para>
+<para id="para-00068">A unique application of the technology is its use in schools, which is being piloted in Texas with a partnership between two private companies and Microsoft. They are equipping schools with a variety of connected devices centered on security and communication in an emergency. These devices can communicate internally during an emergency, such as a fire, and can also communicate externally with first responders and police.</para>
+<para id="para-00069">There are some challenges in the smart space industry. Many concerns arise about the invasive nature of some of the connected devices, including concerns about recording personal information, governmental monitoring of the information, and the usage/security of the data collected. Another challenge is educating consumers on how to use the equipment and its capabilities. Finally, the price point is high for some of these devices because many are still rather new to the market.</para>
+</section>
+<section id="sect-00015">
+<title>AI and Machine Learning</title>
+<para id="para-00070">Using computers, robots, and machines to mimic the human brain is called <term id="term-00082">artificial intelligence (AI)</term>. From problem solving to perception to learning, the goal is to reduce errors and minimize human biases and emotions in the process. In <term id="term-00083">machine learning</term>, a subset of AI, an AI device learns on its own, gathering data and using that data to continuously refine and “learn” about the system and its usage. Speech and image recognition are two examples of AI. Another example is a robot vacuum cleaner, where the AI system uses a computer and the data it collects to know where to clean in the home. <link target-id="fig-00018"/> shows the popular <term class="no-emphasis" id="term-00084">Roomba</term> vacuum. Still another example is seen when websites show recommended products for you based on your prior searches. The device learns your likes and dislikes based on your clicks and other related data.</para>
+<figure class="scaled-down-30" id="fig-00018">
+<title/>
+<media alt="A small black and silver circular robot vacuums a floor.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_IRobot.jpg"/></media>
+<caption>AI in the home can take over inconvenient or repetitive tasks such as cleaning. (credit: “iRobot Roomba 870” by Kārlis Dambrāns/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="para-00071">In a more large-scale use of AI, for quite some time airlines have made use of autopilot features, including robotics, image recognition, and <term class="no-emphasis" id="term-00085">GPS</term>, to fly and navigate an aircraft. In the retail industry, the use of AI is expected to grow about 30 percent by 2028, a strong increase, to include applications centered on personalizing the customer experience as well as managing distribution and inventories. Today, AI technology has evolved to create stories in the style of famous writers or even write detailed research papers when prompted.</para>
+</section>
+</section>
+<section id="sect-00016">
+<title>Workplace and Career Implications</title>
+<para id="para-00072">Technology in the workplace has made processes faster and more reliable, increased collaboration, made it possible to work from anywhere, and, overall, changed the typical office culture. The adoption of new technologies in the workplace has some distinct career implications for individuals, while organizations need to figure out the best mix of humans and technology to allow the business to thrive.</para>
+<para id="para-00073">The idea that technology eliminates jobs is a myth: Technology introduced into the workplace is intended to help employees do their jobs better, not to replace jobs. But this does mean that employees may need to shift from more traditional tasks to tasks that are more technology-driven. For example, an employee in the human resources field may have spent hours sifting through résumés for contact information to schedule interviews. With technology, this process can be automated, freeing up time for the employee to focus on more meaningful tasks such as interviewing candidates and decision making. In a manufacturing environment, technology can enable employees to focus on process improvements and problem solving rather than working with repetitive tasks on a production line.</para>
+<para id="para-00074">These changes affect our future educational and training needs. Some jobs that require a lower skill base have been replaced with technology. Additional training may be necessary in areas such as troubleshooting technology in the workplace. The shift for employees today is toward capitalizing on brain power, reserving human capital for the complex, multifaceted tasks that technological advances cannot tackle. Therefore, training and education in critical thinking, communication, problem solving, and teamwork skills are a necessity. These skills are of value at all levels within an organization. Jobs in the technological fields are expected to grow; however, an emphasis will be placed on the essential skills of communication, fostering cross-functional collaborations, and creative problem solving that cannot be replicated by technology.</para>
+<note class="real-application" id="note-00009">
+<title>Changing Careers</title>
+<para id="para-00075">Facing a career change (whether voluntary or not) can be a scary proposition, especially if you have been in your current position for some time. With changes in technology, many people will face decisions regarding their career direction, either needing to change focus within their current industry or, in some cases, pivoting to an entirely different industry. Here are some tips to consider when you are facing a career change:</para>
+<list id="list-00003">
+<item>Identify areas where you can further develop your technological skills.</item>
+<item>Use your network to find out about job opportunities.</item>
+<item>Take a certification course for a particular computer program or a class on enhancing your public speaking skills.</item>
+<item>Reach out to your network, either social media or sites such as LinkedIn, to make people aware that you are interested in a new opportunity.</item>
+</list>
+<para id="para-00076">It is important to take the time to find the right opportunity and then to take small steps to get where you want to be. Think about your long-term goal. Do your research by interviewing those in the industry you want to be in or utilize a job coach/mentor to assist in your journey. Would you consider a career change? Why or why not? If so, what strategies will you use to make the transition easier?</para>
+</note>
+</section>
+<section id="sect-00017">
+<title>Importance of Lifelong Learning</title>
+<para id="para-00077">To protect your job security in the workplace of the future, you will want to demonstrate to your employer that you are committed to lifelong learning. With the rapid acceleration of technological change, some employers today are actively seeking employees with a lifelong learning mind-set. Lifelong learning requires continuous self-improvement and education—the motivation to be a continual student. It often occurs outside a traditional educational system and includes both informal channels and formal ones such as corporate training programs. Employee development is a core part of many human resources departments within organizations. Mandatory training or education may be required for your position, or voluntary opportunities may be offered to employees. Taking the initiative to learn and adopt new workplace technologies can be both professionally and personally fulfilling.</para>
+<para id="para-00078">There are some strategies you can use to help further a lifelong learning mind-set. First, understand your personal interests and set some goals that align with them. Lifelong learning does not always have to incorporate building skills or knowledge applicable to the workplace. It might be centered on something you enjoy in your personal life. For example, suppose you really enjoy genealogy and local history. Perhaps you decide you want to learn more about the history of your hometown. For local history, you might visit the local historical society or find internet resources about the history of your hometown. Then, you can determine how you might incorporate this desire for learning into your life. Will you do something related to your personal learning goals once a week? Will you share your new knowledge with coworkers, friends, or family? Or maybe you can find a way to utilize the new information in the workplace or the community.</para>
+<para id="para-00079">There are many ways to incorporate a lifelong learning mind-set into your life. Regardless of your approach, the lifelong learning mind-set can be advantageous from both a personal and a professional standpoint.</para>
+</section>
+<section class="section-summary" id="sect-00018">
+<title>Summary</title>
+<list id="list-00004">
+<item>Early computers were used predominantly by engineers and scientists to handle large amounts of data. Key companies in the evolution of computing include IBM, Hewlett Packard, Xerox, Apple, and Microsoft.</item>
+<item>With the invention of the microprocessor, computers became available to the average consumer.</item>
+<item>Computing technology has increased efficiencies, decreased errors, opened new opportunities, and enhanced business–customer relationships.</item>
+<item>Key technologies in computing include mobile devices, digital imaging, and machine learning.</item>
+<item>Advances in technology are applicable to nearly every industry. The rapid pace of technological change has distinct career implications.</item>
+</list>
+</section>
+<section class="review-questions" id="sect-00019">
+<title>Review Questions</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00080"><link class="os-embed" url="#exercise/01-01-BCA-RQ01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00081"><link class="os-embed" url="#exercise/01-01-BCA-RQ02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00082"><link class="os-embed" url="#exercise/01-01-BCA-RQ03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00083"><link class="os-embed" url="#exercise/01-01-BCA-RQ04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005">
+<problem id="prob-00005">
+<para id="para-00084"><link class="os-embed" url="#exercise/01-01-BCA-RQ05"/></para>
+</problem>
+</exercise>
+</section>
+<section class="written-questions" id="sect-00020">
+<title>Written Questions</title>
+<exercise id="exer-00006">
+<problem id="prob-00006">
+<para id="para-00085"><link class="os-embed" url="#exercise/01-01-BCA-WQ01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00007">
+<problem id="prob-00007">
+<para id="para-00086"><link class="os-embed" url="#exercise/01-01-BCA-WQ02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00008">
+<problem id="prob-00008">
+<para id="para-00087"><link class="os-embed" url="#exercise/01-01-BCA-WQ03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00009">
+<problem id="prob-00009">
+<para id="para-00088"><link class="os-embed" url="#exercise/01-01-BCA-WQ04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00010">
+<problem id="prob-00010">
+<para id="para-00089"><link class="os-embed" url="#exercise/01-01-BCA-WQ05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00011">
+<problem id="prob-00011">
+<para id="para-00090"><link class="os-embed" url="#exercise/01-01-BCA-WQ06"/></para>
+</problem>
+</exercise>
+</section>
+<section class="practice-exercises" id="sect-00021">
+<title>Practice Exercises</title>
+<exercise id="exer-00012">
+<problem id="prob-00012">
+<para id="para-00091"><link class="os-embed" url="#exercise/01-01-BCA-PE01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00013">
+<problem id="prob-00013">
+<para id="para-00092"><link class="os-embed" url="#exercise/01-01-BCA-PE02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00014">
+<problem id="prob-00014">
+<para id="para-00093"><link class="os-embed" url="#exercise/01-01-BCA-PE03"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+
+<glossary>
+<definition id="def-00001"><term>Android operating system</term>
+<meaning>Google software operating system used to run non-iPhone mobile phones such as Samsung’s Galaxy</meaning></definition>
+<definition id="def-00002"><term>artificial intelligence (AI)</term>
+<meaning>use of computers, robots, and machines to behave “intelligently,” engaging in autonomous decision making and behaviors</meaning></definition>
+<definition id="def-00003"><term>augmented reality (AR)</term>
+<meaning>use of digital objects or elements in a real-life picture or scene</meaning></definition>
+<definition id="def-00004"><term>automation</term>
+<meaning>use of computers or machines to do tasks that could be completed by a person</meaning></definition>
+<definition id="def-00005"><term>binary digits</term>
+<meaning>sequences of the numbers 0 and 1 used in computer programming</meaning></definition>
+<definition id="def-00006"><term>iPhone operating system (iOS)</term>
+<meaning>Apple’s software operating system, used to run iPhones, iPads, and other mobile devices</meaning></definition>
+<definition id="def-00007"><term>machine learning</term>
+<meaning>use of software applications to make computations and decisions that can inform predictions without human intervention</meaning></definition>
+<definition id="def-00008"><term>microchip</term>
+<meaning>small microprocessor unit used for programming and computer memory storage</meaning></definition>
+<definition id="def-00009"><term>microcomputer</term>
+<meaning>personal computer that was much smaller than earlier computers and operated with microprocessors</meaning></definition>
+<definition id="def-00010"><term>nanotechnology</term>
+<meaning>technology that focuses on changing individual molecules to produce different properties or attributes</meaning></definition>
+<definition id="def-00011"><term>operating system</term>
+<meaning>connection between a device’s hardware and its software</meaning></definition>
+<definition id="def-00012"><term>robotics</term>
+<meaning>use of robotic machines to perform tasks that no human could perform</meaning></definition>
+<definition id="def-00013"><term>short message service (SMS)</term>
+<meaning>technology for sending text messages through mobile phones</meaning></definition>
+<definition id="def-00014"><term>smart space</term>
+<meaning>physical space that incorporates technologies that can be controlled through the internet</meaning></definition>
+<definition id="def-00015"><term>virtual reality (VR)</term>
+<meaning>simulated environment in which users can interact as if they were physically present</meaning></definition>
+<definition id="def-00016"><term>wearable</term>
+<meaning>device that uses computing technology to collect and receive data via the internet</meaning></definition>
+</glossary>
 </document>
