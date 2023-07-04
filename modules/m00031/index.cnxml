@@ -6,5 +6,228 @@
     <md:uuid>0e9a7204-95ac-48c2-9075-9d861e2e4971</md:uuid>
   </metadata>
   <content>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Objectives</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Describe the importance of practicing responsible computer safety and security</item>
+<item>Identify common computer security issues</item>
+<item>List measures to prevent computer security breaches</item>
+<item>Describe the importance of privacy in a digital world</item>
+</list>
+</section>
+<para id="para-00002">At WorldCorp, you’ve realized how the evolution of computing has led to your present-day status as a new employee. You’re getting the hang of how computers are put together, how they have changed the business landscape, and how you need to understand their basic components to thrive in your industry. Another part of that understanding is learning how to safely navigate the computer world, both in the company’s internal systems and in external systems on the internet and the World Wide Web.</para>
+<section id="sect-00002">
+<title>The Importance of Computer Safety and Security</title>
+<para id="para-00003">The protection of computer systems and information that prevents unauthorized use is referred to as <term id="term-00001">computer security</term>. Computer ethics are guidelines for the morally acceptable use of computers in society. Any criminal offense that involves a computer and a network is referred to as <term id="term-00002">cybercrime</term>. One of the most common types of cybercrimes is <term class="no-emphasis" id="term-00003">identity theft</term>, which occurs when an unauthorized user steals an individual’s personal information, such as a Social Security number or credit card information for economic gain. An increase in the number of <term id="term-00004">hackers</term>—individuals who gain unauthorized access to computer systems in an attempt to steal someone’s information—has prompted the development of software programs designed to protect consumers’ identities, such as <term class="no-emphasis" id="term-00005">LifeLock</term>.</para>
+<para id="para-00004">There are strategies you can employ that will keep your computer, and the information you have saved on it, safe and secure from theft and hacking. These include:</para>
+<list id="list-00002">
+<item>using security suites that can protect user privacy and security while on the internet</item>
+<item>using a <term id="term-00006">firewall</term>, which is a barrier between a network that is secured and one that is not secured, to provide additional security</item>
+<item>setting up password-protected network access</item>
+<item>avoiding logging in to accounts on an open network (one that is not password protected)</item>
+<item>using <term class="no-emphasis" id="term-00007">encryption</term> to make it impossible for unauthorized individuals to gain access</item>
+</list>
+<section id="sect-00003">
+<title>Data and Identity Theft</title>
+<para id="para-00005">In addition to hackers who target individual users, <term class="no-emphasis" id="term-00008">corporate espionage</term> (also known as industrial, economic, or corporate spying) is conducted for commercial or financial gain by targeting businesses, government agencies, energy companies, and even schools. Corporate espionage can take the form of unethical or illegal acquisition of <term class="no-emphasis" id="term-00009">intellectual property</term> (such as customer data, pricing, or research and development information) or <term class="no-emphasis" id="term-00010">trade secrets</term> through theft, bribery, or blackmail. Examples of corporate espionage include:</para>
+<list id="list-00003">
+<item>trespassing on a competitor’s property and/or gaining unauthorized access to files</item>
+<item><term class="no-emphasis" id="term-00011">wiretapping</term>—the secret interception of electronic communications</item>
+<item><term class="no-emphasis" id="term-00012">domain hacking</term>, which occurs when another entity steals the original party’s domain name</item>
+<item>phishing to lure competitors’ employees to open emails, thereby exposing information</item>
+</list>
+<para id="para-00006">Attempts to get users to interact with an email or website that appears to be legitimate but is actually fake is called <term id="term-00013">phishing</term>. Phishing lures users to provide their personal information and login credentials through these hoax sites and emails. This is usually through the use of <term id="term-00014">spoofing</term>. Spoofing is communication (usually an email) that on the surface looks to be legitimate from a trusted source. These emails have become much more sophisticated and are designed to look more and more like real correspondence from a company or even a government agency such as the IRS. Something that has grown increasingly common is <term id="term-00015">ransomware</term>, malicious software that encrypts computer data, rendering it useless and inaccessible, and forcing the owner to pay a ransom to regain access. Software that is designed with the purpose of damaging a user’s computer system once it has access to that system is called <term id="term-00016">malware</term>.</para>
+</section>
+<section id="sect-00004">
+<title>Password Management and Biometrics</title>
+<para id="para-00007">For all of these threats to online security, there are protective steps you can take. A set of principles and best practices for storing and managing passwords in a manner that is likely to prevent unauthorized access is called <term id="term-00017">password management</term>. You may password protect your computer, as well as various accounts you may access through your computer and the internet. Having a strong password will ensure that hackers cannot figure out your password easily. Many organizations today use <term class="no-emphasis" id="term-00018">multifactor authentication</term> to provide an additional layer of security. For example, when accessing your bank account on your phone or your laptop, you may be asked to enter a specific code that is sent via email or text. This now provides two layers of security—first, entering the correct password, then correctly entering the code that was sent to you. Multifactor authentication can also be used by businesses when accessing the company software or computer network.</para>
+<note class="real-application" id="note-00001">
+<title>Please Pass the Password</title>
+<para id="para-00008">Some tips for creating a strong password include:</para>
+<list id="list-00004">
+<item>Avoid using a real name (either your own or the company’s) as your password.</item>
+<item>Use a combination of letters and numbers with at least eight characters.</item>
+<item>Do not use a complete word such as “password.”</item>
+<item>Do not reuse passwords.</item>
+<item>Use a combination of uppercase and lowercase letters.</item>
+<item>Incorporate special symbols instead of letters or numbers (such as an exclamation point or dollar sign instead of a numeral).</item>
+</list>
+</note>
+<para id="para-00009">In addition to passwords, you can also use biometrics to protect your computer and information. Unique physical markers of an individual that can be used to restrict access to only those who match these physical characteristics, such as retinal scans and fingerprints, are called <term id="term-00019">biometrics</term>. Biometrics are much harder to hack as they cannot be guessed or stolen.</para>
+</section>
+<section id="sect-00005">
+<title>Internet and Web Privacy</title>
+<para id="para-00010">The internet is pervasive and omnipresent. It is part of all you do in business and in your everyday life. How people conduct themselves online, what they share, and what they visit—all this information is captured and saved in various places, from internet providers’ servers to browser companies such as Google to different social media sites. This information is captured and saved even if deleted from your computer or account. It is important to consider how to represent yourself and what to share to maintain your privacy.</para>
+</section>
+<section id="sect-00006">
+<title>Cookies</title>
+<para id="para-00011">After you have searched for a product on the internet, do you notice that you suddenly start receiving advertisements for that product, or that a store website now displays that product on its front page? For that, you can thank cookies. Small data files that are deposited on user hard disks from websites you visit are called <term id="term-00020">cookies</term>. They keep track of your browsing and search history, collecting information about your potential interests to tailor advertisements and product placement on websites. These cookies can be either blocked or accepted, depending on a company’s privacy policy. The potential risk of cookies is that they can store information about the user, user preferences, and user browsing habits. That said, they can also save time by storing users’ login information and browsing preferences, allowing internet pages to load faster than if you had loaded them the first time. Regardless of convenience, it is a good idea to clear cookies from time to time and to restrict cookies on certain sites depending on your own preferences.</para>
+</section>
+<section id="sect-00007">
+<title>Browsing History</title>
+<para id="para-00012">Your <term class="no-emphasis" id="term-00021">browsing history</term> includes all websites you may have visited, as well as any actions you may have taken on those websites. It is typically saved locally on your computer within the browser application, as well as with the company that provides the browser. Your internet or data provider may also keep track of your browsing history. While this information is handy to have for future reference, consider clearing your browsing history from your personal computer on a regular basis. Be aware that your employer may also collect this information; while using a work computer, you should avoid visiting websites that do not support your work function. Both Google analytics and your company can theoretically store browsing data for a long time, even after you delete it.</para>
+</section>
+<section id="sect-00008">
+<title>Temporary Files</title>
+<para id="para-00013">As the name implies, <term class="no-emphasis" id="term-00022">temporary files</term> are created by a program to allow it to complete a task or tasks. These files are handy to have in case of a sudden shutdown, as they may help to recover a file that might otherwise be lost. Many temporary files are automatically deleted once the task is complete or the file is saved permanently. But others may stick around; these files are saved in your temp folder. On a Windows computer, you can access your temp folder by typing <term class="no-emphasis" id="term-00023">%temp%</term> in the Windows search bar at the bottom left of your screen.</para>
+<note class="mac-tip" id="note-00002">
+<exercise class="unnumbered" id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00014">On a Mac, open the Finder and select Go ≫ Go to Folder. In the search bar, type ~/Library/Caches/ and then tap Go to run the command. A window will open with a list of all the generated temp files saved on your Mac. You can easily select and delete these files.</para>
+</problem>
+</exercise>
+</note>
+</section>
+<section id="sect-00009">
+<title>Posting on Social Media</title>
+<para id="para-00015">According to Pew Research, “seven-in-ten Americans use <term class="no-emphasis" id="term-00024">social media</term> to connect with one another, engage with news content, share information and entertain themselves.” Some of the most popular platforms today are <term class="no-emphasis" id="term-00025">TikTok</term>, <term class="no-emphasis" id="term-00026">Facebook</term>, <term class="no-emphasis" id="term-00027">YouTube</term>, <term class="no-emphasis" id="term-00028">Instagram</term>, and <term class="no-emphasis" id="term-00029">WhatsApp</term>. <link target-id="fig-00001"/> shows the sites adults in the United States use most. The United States and China have the most social media users of all countries worldwide. Social media has exploded in popularity and is used widely for both personal and business purposes. Businesses and individuals must be mindful of what they post on social media. Even the most private accounts can have data breaches, allowing others to save and/or share private content. It is important to consider what you post, as well as any potential unintended consequences that might arise from social media use. You must also be aware of spoof accounts that present as a reputable person, when in fact they are attempting to con or mislead an individual. Similarly, AI and bots may interact with users, posing as real people when in fact they are nothing more than a computer algorithm.</para>
+<figure class="scaled-down" id="fig-00001">
+<title/>
+<media alt="A graph is labeled with the years 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, and 2021 across the x axis. The y axis is labeled % of adults and is labeled with 0, 20, 40, 60, and 80. Items labeled on the graph include: YouTube (dark red line), Facebook (dark blue line), Instagram (blue line), Pinterest (green line), LinkedIn (purple line), Snapchat (black line), Twitter (orange line), WhatsApp (light blue line), Tik Tok (red line), Reddit (turquoise line), and Nextdoor (dark purple line). YouTube starts in 2017 at 73% and ends in 2021 at 81%, Facebook starts in 2012 at 55% and ends in 2021 at 69%, Instagram starts in 2012 at 10% and ends in 2021 at 40%, Pinterest and LinkedIn start at 17% in 2012 and end around 30% in 2021, Snapchat starts in 2018 at 27% and ends in 2021 at 25%, Twitter starts in 2012 at 14% and ends in 2021 at 24%, WhatsApp starts in 2018 at 22% and ends in 2021 at 22%, TikTok starts in 2021 at 21% and ends in 2021 at 21%, Reddit starts in 2019 at 11% and ends in 2021 at 28%, and Nextdoor starts in 2021 at 13% and ends in 2021 at 13%.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_04_SocialMed.jpg"/></media>
+<caption>YouTube, Facebook, and Instagram were the top three social media sites among U.S. adults in 2021 for both personal and professional use.</caption>
+</figure>
+<para id="para-00016">Ultimately, you should be sure to present a positive self-image on the internet, particularly on networking social media platforms such as <term class="no-emphasis" id="term-00030">LinkedIn</term>. When considering how you want to represent yourself online, answer these questions: (1) Is this information accurate? (2) Will this post be potentially detrimental to my schooling and/or career? (3) Is the information hurtful or detrimental to someone else?</para>
+</section>
+</section>
+<section id="sect-00010">
+<title>Ensuring Privacy</title>
+<para id="para-00017">Privacy involves practices related to the collection and use of data about an individual. Many companies will have privacy policies when you sign up as a customer or purveyor of their content. It is important to read these policies to ensure you are not inadvertently providing permission to use your data and information in a way that you do not actually approve of. In addition, many companies will disclose they sell your information to other companies seeking similar customers. It is important to decline these permissions to avoid circulation of your contact information.</para>
+<section id="sect-00011">
+<title>Minimal Data Collection from Customers</title>
+<para id="para-00018">Collecting data from customers allows organizations to determine their needs and identify niche markets. Companies must ensure they are collecting the most minimal amount of data necessary from their customers to achieve these goals. Collecting too much data places both the company and the customer at risk. The company is responsible for ensuring that information is used responsibly and within the parameters of its privacy agreement; any data breach puts the company at risk of liability. Similarly, customers have the right to know how their information is used by the company and may request compensation if it is used inappropriately. Therefore, companies must ensure that they collect only the most minimal amount of data required to meet their business needs.</para>
+</section>
+<section id="sect-00012">
+<title>Data Security</title>
+<para id="para-00019">Data security involves protecting digital information (data) from being accessed or used by parties who should not have access, or for purposes it should not be used for. Just as individuals must ensure they protect their information from hackers and malicious intent, companies are responsible for ensuring they use the most up-to-date <term class="no-emphasis" id="term-00031">data security</term> measures to protect both customer information and proprietary company information and data.</para>
+<para id="para-00020">Companies must ensure both internal and external security. Internally, a company should establish policies and protocols to ensure employees are abiding by data security measures. A company should also limit employee access to certain information. Keeping technologies up to date, with the most current security software, is also important. Depending on the size of the company, it may be worthwhile to establish a cybersecurity branch that employs qualified professionals dedicated to data security.</para>
+<para id="para-00021">There are a number of strategies a company can use to keep data secure. Encrypting the data will render information unreadable to unauthorized users. Without the access key, encrypted information presents as nothing more than a meaningless string of characters. Companies, like individuals, can also take steps to delete files, software, and data that is no longer of use. And they can take it a step further by practicing <term id="term-00032">data erasure</term>, wherein the information is not only deleted but overwritten as well. In another approach, <term id="term-00033">data masking</term>, personally identifiable information is removed from the data, allowing the company to make decisions about its customers without associating the data with an individual’s personal information. By taking these steps, companies ensure they can recover from a <term class="no-emphasis" id="term-00034">data breach</term> quickly, reinforcing their <term id="term-00035">data resiliency</term>.</para>
+</section>
+</section>
+<section class="section-summary" id="sect-00013">
+<title>Summary</title>
+<list id="list-00005">
+<item>Computer safety and security are paramount considerations for a company’s effective operations.</item>
+<item>Privacy in the digital world has become a major focus of corporate efforts to maintain the trust of employees, the public, and stakeholders.</item>
+<item>Common security issues include data and identity theft, cybercrime, phishing, and hacking.</item>
+<item>Measures that prevent computer security breaches include encryption, firewalls, password management, data erasure, and data masking.</item>
+</list>
+</section>
+<section class="review-questions" id="sect-00014">
+<title>Review Questions</title>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00022"><link class="os-embed" url="#exercise/01-04-BCA-RQ01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00023"><link class="os-embed" url="#exercise/01-04-BCA-RQ02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00024"><link class="os-embed" url="#exercise/01-04-BCA-RQ03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005">
+<problem id="prob-00005">
+<para id="para-00025"><link class="os-embed" url="#exercise/01-04-BCA-RQ04"/></para>
+</problem>
+</exercise>
+</section>
+<section class="written-questions" id="sect-00015">
+<title>Written Questions</title>
+<exercise id="exer-00006">
+<problem id="prob-00006">
+<para id="para-00026"><link class="os-embed" url="#exercise/01-04-BCA-WQ01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00007">
+<problem id="prob-00007">
+<para id="para-00027"><link class="os-embed" url="#exercise/01-04-BCA-WQ02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00008">
+<problem id="prob-00008">
+<para id="para-00028"><link class="os-embed" url="#exercise/01-04-BCA-WQ03"/></para>
+</problem>
+</exercise>
+</section>
+<section class="practice-exercises" id="sect-00016">
+<title>Practice Exercises</title>
+<exercise id="exer-00009">
+<problem id="prob-00009">
+<para id="para-00029"><link class="os-embed" url="#exercise/01-04-BCA-PE01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00010">
+<problem id="prob-00010">
+<para id="para-00030"><link class="os-embed" url="#exercise/01-04-BCA-PE02"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+
+
+
+<glossary>
+<definition id="def-00001">
+<term>biometrics</term>
+<meaning>authentication that uses a person’s physical characteristics as a form of digital security</meaning>
+</definition>
+<definition id="def-00002">
+<term>computer security</term>
+<meaning>protection of computer systems and information that prevents unauthorized use</meaning>
+</definition>
+<definition id="def-00003">
+<term>cookies</term>
+<meaning>small data files that are deposited on user hard disks and internet sites visited</meaning>
+</definition>
+<definition id="def-00004">
+<term>cybercrime</term>
+<meaning>criminal offense that involves a computer and a network</meaning>
+</definition>
+<definition id="def-00005">
+<term>data erasure</term>
+<meaning>process by which information is not only deleted but overwritten as well</meaning>
+</definition>
+<definition id="def-00006">
+<term>data masking</term>
+<meaning>process by which personally identifiable information is removed from data, allowing a company to make decisions without violating customer privacy</meaning>
+</definition>
+<definition id="def-00007">
+<term>data resiliency</term>
+<meaning>ability to recover quickly from a data breach</meaning>
+</definition>
+<definition id="def-00008">
+<term>firewall</term>
+<meaning>barrier between a network that is secured and one that is not secured</meaning>
+</definition>
+<definition id="def-00009">
+<term>hackers</term>
+<meaning>individuals who gain unauthorized access to a computer system to steal someone’s information</meaning>
+</definition>
+<definition id="def-00010">
+<term>malware</term>
+<meaning>software designed to damage the victim’s computer system once it gains access to it</meaning>
+</definition>
+<definition id="def-00011">
+<term>password management</term>
+<meaning>set of principles and best practices for storing and managing passwords to prevent unauthorized access to the computer</meaning>
+</definition>
+<definition id="def-00012">
+<term>phishing</term>
+<meaning>attempts to get users to interact with an email or website that appears to be legitimate but is fake</meaning>
+</definition>
+<definition id="def-00013">
+<term>ransomware</term>
+<meaning>malicious software that encrypts computer data, rendering it useless and inaccessible, forcing the owner to exchange something of value to regain access</meaning>
+</definition>
+<definition id="def-00014">
+<term>spoofing</term>
+<meaning>correspondence such as email that appears legitimate but instead is used to obtain your personal information</meaning>
+</definition>
+</glossary>
 </document>
