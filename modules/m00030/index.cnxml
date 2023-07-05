@@ -6,6 +6,440 @@
     <md:uuid>5321eb37-d6b0-471b-8040-8178f364c815</md:uuid>
   </metadata>
   <content>
-  <para id="para-00001">Placeholder</para>
-  </content>
+<section class="learning-objectives" id="sect-00001">
+<title>Learning Objectives</title>
+<para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
+<item>Explain how the internet has evolved and how it functions in today’s world</item>
+<item>Describe how to conduct an effective internet search</item>
+<item>Conduct business research on the internet</item>
+<item>Explain the use of cloud computing for business</item>
+<item>Define the Internet of Things</item>
+</list>
+</section>
+<para id="para-00002">The internet has dramatically transformed how we access and manage information, both at home and in the business world. For many people, it’s almost impossible to go about your day without needing access to the internet. It’s in your home—from smart doorbells to TVs, thermostats, and personal assistants. It’s on your wrist, in your car, and, of course, on your phone. It’s big business and it is integral to just about every business out there.</para>
+<para id="para-00003">Established businesses have taken advantage of the ability to reach new customers by selling their products online, while would-be entrepreneurs use the internet to open online storefronts. The internet also enables us to conduct both personal and professional transactions more efficiently—from accessing important health-care documents to filing our tax returns, transferring money between bank accounts, and making payments to individuals online. Many of us practically run our lives through our phones.</para>
+<note class="link-to-learning" id="note-00001">
+<para id="para-00004">Read this <link url="https://openstax.org/r/78InternetInv">article on the invention of the internet</link> to learn more. When was the internet first developed and for what purpose? How did it evolve into the internet we use today?</para>
+</note>
+<section id="sect-00002">
+<title>The Internet: From Inception to Today</title>
+<para id="para-00005">The <term class="no-emphasis" id="term-00001">internet</term> as we know it today originated in the 1960s with the idea of using a traditional telephone switching circuit to wirelessly connect computers in a network. The telephone system would allow these computers to communicate with one another, exchange data, and run shared programs. Researchers and engineers from both the public and the private sector came together to form the <term class="no-emphasis" id="term-00002">Advanced Research Projects Agency (ARPA)</term> to investigate ways the U.S. military could improve communications, with the goal of protecting the country from unexpected enemy attacks.</para>
+<para id="para-00006">In 1969, a new digital <term id="term-00003">packet switching</term> technology was introduced to enable two computers to communicate with each other, replacing the telephone circuit technology. Packet switching happens when computers break down data or information into smaller groups (packets) and transmit several of those packets over the network. When the packets reach the destination computer, they are put back together in their original form. The communication occurred through the traditional phone line system but was transformed into digital data during transmission. The packet technology did not require a dedicated telephone line to network the computers together. This was the origin of the <term class="no-emphasis" id="term-00004">ARPA Network</term>, or <term class="no-emphasis" id="term-00005">ARPANET</term>, and is the same technology used today for the internet. The networked computers were also able to send simple messages to one another, setting the stage for <term class="no-emphasis" id="term-00006">email</term> as we know it today. <link target-id="fig-00001"/> shows an early iteration of the ARPA network.</para>
+<figure id="fig-00001">
+<title/>
+<media alt="A map of the United States is shown. Many locations are labeled with red and purple dots connected by lines throughout the map, mostly in clusters on the east and west coast, with a few dots in the middle, one located off the west coast, and two located off the east coast.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_03_ARPANET.jpg"/></media>
+<caption>In the 1970s, ARPA’s network consisted of a series of nodes (connectors) and lines that stretched across the continental United States. (credit: modification of “Arpanet 1974” by Yngvar/Wikimedia Commons, Public Domain)</caption>
+</figure>
+<para id="para-00007">In less than five years, the network expanded to include thirty different organizations and institutions across the world, and by 1975, ARPA determined that it needed to establish standards for consistency. These rules helped ensure that the interconnected network, or internet, was secure and efficient. The <term class="no-emphasis" id="term-00007">transmission control protocol/internet protocol (TCP/IP)</term> was established to standardize the computer language used between the computers in the network. With these rules, a unique <term id="term-00008">internet protocol address (IP address)</term> allowed users to determine the geographic location of any computer on the network. The IP address was also used to direct the transmitted information to the appropriate destination. Because the IP address is a series of numbers and decimal points that can be hard to remember, the <term id="term-00009">domain name system (DNS)</term> was developed in 1983 to convert IP addresses into simple names. The DNS thus became the phone book for the internet, enabling users to send a message using their name, the symbol @, and the location of the computer as identified by its domain name. With the DNS, the foundation of the <term class="no-emphasis" id="term-00010">World Wide Web (WWW)</term> was put into place. The term <emphasis effect="italics">internet</emphasis> simply refers to the interconnected computers, a network that now extends across the world. The WWW is the content that has been collected over the internet and is available online. By 1981, the network had grown to over 200 hosts. The first domain name was registered in 1985 to a computer manufacturer.</para>
+<para id="para-00008">By the mid-1980s, scientists and researchers across the world were working on computer networking technology. With the success of the ARPANET, the ARPA group was charged with working on other, more cutting-edge projects. The ARPANET-connected organizations were predominantly government entities or educational research centers; the system was not available for commercial or personal use. Consequently, the project was moved to the U.S. Department of Defense, where the network continued to expand through various branches, including NASA and the National Science Foundation (NSF). In 1985, the NSF created the structure for a supercomputing center to connect colleges and universities, research centers, and regional networks. By the end of the 1980s, this network had grown to over 30,000 hosts. As a result, ARPANET was decommissioned in 1990.</para>
+<para id="para-00009">In 1989, the first dial-up <term id="term-00011">internet service provider (ISP)</term> was established, allowing commercial access to the internet. The term <emphasis effect="italics">dial-up internet</emphasis> emerged to describe how users would use existing telephone technology to “dial up” internet access through a specific provider. Because the internet was established primarily for military use, access to the technology was highly restricted, limited to specific uses such as research. By 1992, Congress had allowed the NSF to grant some access to the network for uses beyond education and research. Then, in 1995, all restrictions on noncommercial uses of the internet were lifted.</para>
+<para id="para-00010">In these early days, a good deal of computer knowledge was needed in order to use the network, so the internet was not yet part of mainstream life. But that was about to change. In 1990, <term class="no-emphasis" id="term-00012">hypertext transfer protocol (HTTP)</term>, <term class="no-emphasis" id="term-00013">hypertext markup language (HTML)</term>, and the <term class="no-emphasis" id="term-00014">uniform resource locator (URL)</term> were developed to give the average person access to the web of information. This really was the birth of the World Wide Web. HTML provides the structure on which web pages are based; it is a series of commands that describe attributes such as the font size and background colors of the displayed page. The uniform resource locator (URL) is an address—similar to a postal address—that directs the user to a unique location or page on the World Wide Web. These two developments, along with the milestones shown in <link target-id="fig-00002"/> made the web less technically complex and easier for the average person to navigate.</para>
+<para id="para-00011">People soon began to see the ease with which web pages could be created. In 1993, the first user-friendly <term id="term-00015">web browser</term>, <term class="no-emphasis" id="term-00016">Mosaic</term>, came on the scene. A web browser provides the interface that you can use to search for the information stored on the WWW. Marc Andreessen, a student at the University of Illinois, developed it. One key feature of Mosaic was the ability to include images as well as text on a web page. Other features included buttons to select for navigating the page, the ability to include video clips, and hyperlinks. A <term id="term-00017">hyperlink</term> is a link that can take the user from one web page to another just by clicking the highlighted link. Initially available as a free download, Mosaic quickly caught on and evolved as more users came on board. Prior to Mosaic, fewer than 200 web pages were available, but in just a few short years by the late 1990s, that number grew to more than 100,000. After graduating, Andreessen formed <term class="no-emphasis" id="term-00018">Netscape Communications</term> and would eventually launch <term class="no-emphasis" id="term-00019">Netscape Navigator</term>, which would grow to over 10 million users globally in just two years. <term class="no-emphasis" id="term-00020">Microsoft</term> was quick to respond with its browser, <term class="no-emphasis" id="term-00021">Internet Explorer</term>, which was bundled with the Windows operating system.</para>
+<figure id="fig-00002">
+<title/>
+<media alt="A chart with three columns is shown. The first column is labeled “early milestones,” the middle is labeled “Key Layers of the Internet,” and the last is labeled “milestones.” The rows read, from left to right: 1971 - email@ Ray Tomlinson, Content, 1987 - HyperCard Bill Atkinson; 1990 - Archie Emtage &amp; Deutsch, Search Engine, 1998 - Google Brin &amp; Page; 1986 - DOS Houdini Neil Larson, Browsers, 1993 - Mosaic Mark Andreessen; (Vannevar Bush, Ted Nelson, Douglas Engelbart), World Wide Web, 1990 - http://Tim Berners-Lee; 1969 - ARPANET J.C.R. Licklider, Internet, 1975 - TCP/IP Cerf &amp; Kahn; 1956 - SAGE George Valley, Networks, 1973 - Ethernet Robert Metcalfe; 1941 - Z3 Konrad Zuse, Computers, 1976 - Apple Jobs &amp; Wozniak.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_03_Milestones.jpg"/></media>
+<caption>Major milestones in the creation of the internet came in layers.</caption>
+</figure>
+<note class="link-to-learning" id="note-00002">
+<para id="para-00012">HTML is used to create web pages. The information is contained behind the scenes and is used to format text and the layout of the page. Read this <link url="https://openstax.org/r/78HTMLProcess">article about HTML and the process used</link> to learn more. Watch this <link url="http://openstax.org/r/78HTMLBuild">video on how HTML is used to build websites</link> to learn more.</para>
+</note>
+<para id="para-00013">By 1998, some big tech names established themselves as internet-based businesses—Hotmail, Amazon, Google, eBay, and Yahoo!, to name a few. The rise of the internet led to what became known as the <term class="no-emphasis" id="term-00022">dot-com bubble</term>, a period when investors poured money into many internet-based ventures that promised high returns. Of course, many of these ventures failed, and their investors lost a good deal of capital. But, despite this, new ideas continued to emerge, and the internet continued to grow. Here are a few internet ventures that came out of the dot-com bubble and are still around today:</para>
+<list id="list-00002">
+<item><term class="no-emphasis" id="term-00023">Wikipedia</term>—2001</item>
+<item><term class="no-emphasis" id="term-00024">Facebook</term>—2004</item>
+<item><term class="no-emphasis" id="term-00025">YouTube</term>—2005</item>
+<item><term class="no-emphasis" id="term-00026">Twitter</term>—2006</item>
+<item><term class="no-emphasis" id="term-00027">Hulu</term>—2007</item>
+</list>
+<note class="spotlight-ethics" id="note-00003">
+<title>Inequities in Internet Access</title>
+<para id="para-00014">Having access to the internet is almost essential to fully participate in society today. In some instances, without the internet, even routine tasks can seem impossible. For example, some companies can be contacted only via the internet, so you may need internet access to even apply for a job. Because of the global nature of the internet, it might be assumed that everyone has access in some way. But even in the United States, there are large disparities in access to reliable internet connections. In today’s electronic world, this is furthering the gap between economic, racial, and ethnic groups; age groups; and socioeconomic groups. It is estimated that on average, nearly 15 percent of households in the United States with school-age children lack access to the internet. But in rural or low-income areas, this percentage could be much higher.</para>
+<para id="para-00015">Governments are introducing initiatives to make the internet more accessible to all, often through partnerships with technology firms. For example, in a partnership with Google, the city of Austin, Texas, has been able to provide free internet services for nearly 2,000 lower-income residents. As early as 2006, India established internet access in its rural communities through the use of kiosks. These are just a couple of examples of the efforts worldwide to make the internet more accessible for all.</para>
+</note>
+<section id="sect-00003">
+<title>Using the Internet</title>
+<para id="para-00016">Using the <term class="no-emphasis" id="term-00028">internet</term> today is much simpler than it was even as recently as five years ago. It simply entails going to the web browser of our choice and clicking the mouse to launch it. Common browsers in use today include <term class="no-emphasis" id="term-00029">Google Chrome</term>, <term class="no-emphasis" id="term-00030">Apple Safari</term>, <term class="no-emphasis" id="term-00031">Microsoft Edge</term>, and <term class="no-emphasis" id="term-00032">Firefox</term>. The <term class="no-emphasis" id="term-00033">browser</term>, once opened, will take you to where you want to go online. You can go directly to a web page by typing its URL in the navigation bar at the top of the browser. However, many browsers have a default search engine that will automatically launch when you open the browser and will allow you to search the internet for content you want to locate or research. Chrome, for example, will automatically navigate to the Google <term class="no-emphasis" id="term-00034">search engine</term> when you open the Chrome program. Most browsers include a <term class="no-emphasis" id="term-00035">bookmark</term> feature, and it may be helpful to bookmark/favorite pages that you visit frequently or want to remember for quick access later. With Chrome, you will see a star on the right-hand side of the URL to select to bookmark/favorite the page. <link target-id="fig-00003"/> shows these buttons.</para>
+<figure id="fig-00003">
+<title/>
+<media alt="An internet browser is open to the Google search page. https://www.google.com is located in the navigation bar and a blank star is located in the upper right corner of the bar. “Google” is seen in the middle of the page in various colors and a blank search bar is open in the middle.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_03_Browser.jpg"/></media>
+<caption>To use a browser, type the website URL address into the navigation bar. Here, we’ve typed www.google.com to get to Google’s famous search page. You can also bookmark/favorite websites that you frequent for quick access by selecting the star button. (Google Search is a trademark of Google LLC.)</caption>
+</figure>
+</section>
+<section id="sect-00004">
+<title>Conducting Effective Searches</title>
+<para id="para-00017">Conducting searches on the internet is straightforward, but there are some techniques that will make your searches more effective. Because of the vast amount of information available on the internet, incorporating some simple changes to your search strategies can make a huge difference. You might, for example, want to narrow the number of results that you get from a search to those that are most relevant. When you begin to type in a search term, most engines will display a list of suggested searches. This list of suggestions will give you similar, related searches using the terms that you have begun to type into the search bar. This is often helpful as you try to narrow your search to obtain the desired results, as <link target-id="fig-00004"/> shows.</para>
+<figure id="fig-00004">
+<title/>
+<media alt="A Google page on an internet browser is open and in the search bar “flower arrangements” is entered. Below the search bar, other variations are seen: flower arrangements, flower arrangements Toronto, flower arrangements near me, and flower arrangements for funeral.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_03_SuggSearch.jpg"/></media>
+<caption>When you begin typing into a search engine, not just Google’s, most will offer suggested searches based on what you typed, as you can see in the list under the “flower arrangements” entry. (Google Search is a trademark of Google LLC.)</caption>
+</figure>
+<para id="para-00018">As you conduct your search, it is often helpful to keep a list of search terms that you have successfully used. It is easy to forget that you have already used a particular phrase or word, so a simple list will make it easier to avoid replicating something you have already searched.</para>
+<para id="para-00019">For example, suppose your boss at WorldCorp has asked you to search for a local nonprofit organization centered on children to support this year during the holidays. You might choose to search using the word or phrase <emphasis effect="italics">children, kids, not for profit, nonprofit,</emphasis> or <emphasis effect="italics">children in need,</emphasis> as just a few examples.</para>
+<para id="para-00020">Search engines also offer the capability to search with an image or with voice instead of text. Once you have entered a search term or phrase, you have some additional options. For example, you can restrict the search to a certain date range or a certain location, or you can change the search to focus only on shopping related to your search term. See <link target-id="fig-00005"/>. Keep in mind that once you reach a website, you will often find a search bar within the website itself. This will enable you to search within that specific website instead of conducting a search of the entire internet. A little trick for searching on a page is to use the control (Ctrl) key and the F key at the same time (<term class="no-emphasis" id="term-00036">Ctrl+F</term>). When you press these two keys at the same time, a search window will appear that allows you to search on that specific webpage.</para>
+<note class="mac-tip" id="note-00004">
+<exercise class="unnumbered" id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00021">To search within a web page on a Mac, type <term class="no-emphasis" id="term-00037">Command+F</term>.</para>
+</problem>
+</exercise>
+</note>
+<figure id="fig-00005">
+<title/>
+<media alt="A Google page is open with https://www.google.com/serach?q=flower+arrangement+near+... located in the navigation bar. “flower arrangements near me” shows in the search bar. Three websites are shown below the search bar with images located to the right of each site. At the top right, an orange arrow points to a location icon with a red box with an “x” inside over it.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_03_FlowSearch.jpg"/></media>
+<caption>Using the advanced search features, you can restrict your search to a location or date range. You can also search using voice or search with an image. (Google Search is a trademark of Google LLC.)</caption>
+</figure>
+<para id="para-00022">To conduct an <term class="no-emphasis" id="term-00038">internet search</term>, it is best to use specific and unique terms whenever possible. For example, when searching for contact information for a nonprofit organization in your hometown, rather than simply using the term “food bank,” you should use the actual name of the food bank you are searching. Or, if you are unsure of the name of the organization, you might limit the search by combining “food bank” with the name of your town or city. You can add a phrase as well. Being more specific in your searches will lead to more refined results.</para>
+<para id="para-00023">In defining your search, avoid using common words such as “a” and “the,” as well as punctuation marks. Also note that most search engines are not case sensitive, so proper capitalization is unimportant. Finally, to get the most results, it may be helpful to focus on the base or root word. For example, instead of searching on “running gear for women,” you might get more results by using “run gear women,” leaving the search open to words such as “runner” in addition to “running.”</para>
+<para id="para-00024">Your internet searches can be further refined by adding “+” or “–” in front of a word to either add to the search term or exclude something from the term. If, for example, you are searching for theaters but do not want movie theaters, you can type “theater–movie” to get search results that do <emphasis effect="italics">not</emphasis> include movie theaters. This same approach can be used with “+” to add more terms to your searches. (Note: Some search engines may use NOT or AND instead of the mathematical sign.)</para>
+<para id="para-00025">To search for an exact phrase or string of words, enclose the phrase in quotation marks. For example, if you are looking for information about historic theaters, you can search by typing “historic theaters” and then perhaps add a location (city or state) at the end, also in quotation marks, so your search would be “historic theaters” “Atlanta.”</para>
+<para id="para-00026">Use the tilde (~) to search for synonyms for the word you type. For example, searching “~coat” might return search results including jackets and sweatshirts. The asterisk (*) can be used to search partial words. This can be very helpful if you want to search for a specific person or location but are not sure of the correct spelling or the complete term. If you are researching nonprofit organizations and want to capture information that might just say “nonprofits” instead of the complete phrase, you can search using “nonprofit*.” Finally, the “|” or OR operator can search on two terms at the same time, giving you results for either of the two terms. Searching “black shoes for sale” | “brown shoes for sale” will return results that satisfy both search phrases. These operators can be combined in various ways to make your searches much more directed. Be careful not to be too restrictive, however, as you might filter out some relevant results. <link target-id="table-00001"/> summarizes the key <term class="no-emphasis" id="term-00039">internet search operators</term>.</para>
+<table summary="" id="table-00001">
+<title>Internet Search Operators</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Operator</entry>
+<entry valign="top" align="left">Description</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">+ , AND</entry>
+<entry valign="top" align="left">Include a word in the search</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">–, NOT</entry>
+<entry valign="top" align="left">Exclude a word from the search</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">“ ”</entry>
+<entry valign="top" align="left">Search for the exact words contained between the quotation marks</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">*</entry>
+<entry valign="top" align="left">Search partial words</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">~</entry>
+<entry valign="top" align="left">Search for synonyms</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">|, OR</entry>
+<entry valign="top" align="left">Search two words at the same time</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>Using these operators can make your search more effective.</caption>
+</table>
+</section>
+<section id="sect-00005">
+<title>Conducting Business Research</title>
+<para id="para-00027">Conducting business research via the internet enables you to access information quickly at little or no cost. The internet gives you access to a large body of data from a variety of sources across the world. There are both free and fee-based services available on the internet to gather data. In addition, you can access many academic, peer-reviewed research using specialized databases. The first step is to narrow your search by determining what information you need and making a list of the data needed. As you work through your search, be sure to record relevant search terms, the website URL, and other pertinent information for you to access later if needed. A good strategy might be to keep a notepad by the computer or keep an electronic record in Microsoft Word or Google Docs.</para>
+<para id="para-00028">Some common sources of information for business research can be readily accessed:</para>
+<list id="list-00003">
+<item><term class="no-emphasis" id="term-00040">Google Scholar</term> is a search engine for peer-reviewed academic research. Here, you will find journal articles (often full-text .pdf files) for nearly all disciplines. This source can be handy if you are looking for targeted information based on a specific academic discipline.</item>
+<item>Microsoft has a similar search engine called <term class="no-emphasis" id="term-00041">Microsoft Academic</term>.</item>
+<item>Science.gov is a website that provides access to data from nearly twenty U.S. federal agencies.</item>
+<item>Census.gov is an excellent source of demographic information.</item>
+<item>If you are searching for financial information for companies, <term class="no-emphasis" id="term-00042">Yahoo! Finance</term> or <term class="no-emphasis" id="term-00043">Google Finance</term> is a great place to start.</item>
+<item>More detailed information about specific industries and sectors is available at CSImarket.com.</item>
+</list>
+<para id="para-00029">When conducting research on the internet, there always will be some question of the credibility of the information you find. Because virtually anyone can create a website or post information on the internet, you should read with a critical eye. There is a wealth of quality information available, but it is just as easy to stumble upon unreliable data. <term class="no-emphasis" id="term-00044">Wikipedia</term> is a commonly searched source for information. Wikipedia is an online encyclopedia built organically by users (it isn’t owned by a person or organization). It was founded in 2001 as a nonprofit organization with the goal of giving free access to information for everyone. Wikipedia is the fifth most visited site on the internet. Users submit content to pages and check one another for accuracy. They are given guidelines to follow for fact checking and editorial changes. In most cases, however, using Wikipedia as the primary source for research is frowned upon because of the lack of authentic reliability checks for the information.</para>
+<para id="para-00030">With any research, it is good practice to use <term id="term-00045">triangulation</term>: To verify the credibility of a piece of research, you should find at least three sources that are in agreement. By using multiple sources, you are minimizing the risk of uncertainty of the information found. It is also good practice to follow additional guidelines when evaluating the credibility of information found on the internet. By looking a little deeper into the research, you may uncover some hidden biases or questionable conclusions that were not readily apparent.</para>
+<list id="list-00004">
+<item>Who is the author and what is their affiliation?</item>
+<item>Who paid for the research?</item>
+<item>What is the date of the information?</item>
+<item>Has the website been updated recently, and do the hyperlinks work?</item>
+<item>Are any clear biases or opinions expressed?</item>
+<item>Is there a way to contact the author or request more information?</item>
+</list>
+<para id="para-00031">By taking the time to dive a little deeper into the information retrieved, you can better ensure the data is credible and suitable for your needs.</para>
+</section>
+<section id="sect-00006">
+<title>Globalization</title>
+<para id="para-00032">The internet has broken down many geographic barriers. Business transactions can easily happen from points across the globe, products can be ordered and efficiently shipped to destinations thousands of miles away, and individuals can readily access information related to current events in other countries. The global nature of the internet has opened up the world, but there is little consistency between countries in their management of this technology. There are distinct differences from country to country in the laws and regulations governing internet use. For example, Facebook and Google are banned in some countries, such as Iran and North Korea, because these sites are seen as contradictory to local traditions and customs. In China, the government plays a major role in monitoring what citizens can access and view on the internet. There are nearly 100 regulations specifically centered on the internet and its use in China.</para>
+<para id="para-00033">Internet regulations across the world generally fall into one of four categories:</para>
+<list id="list-00005">
+<item>Encouragement of self-regulation and voluntary use of filters for illegal material</item>
+<item>Punitive actions for making material available online that is unsuitable for children</item>
+<item>Required blocking of government-selected materials</item>
+<item>Prohibition on public access to the internet</item>
+</list>
+<para id="para-00034">Many countries have enacted some type of legislation, policy, or governmental oversight with the goal of managing internet content. This governmental involvement began as early as 1996 and continues to be amended today. As you enter the workplace, you should be aware of the specific legislation that might impact the industry that you are working in. This could include protecting user information through specific privacy controls to managing content on a social media site for appropriateness. You do not have to be a legal expert, but having a general awareness of governmental involvement in the information shared over the internet is important.</para>
+</section>
+</section>
+<section id="sect-00007">
+<title>Communication, Collaboration, and Social Media</title>
+<para id="para-00035">Through the internet and the software programs available today, we can stay connected to colleagues and family across great distances. Email, the Google Suite of programs, Microsoft Office 365, and social media sites have all had a significant impact on business and personal productivity. Email first became a reality with the ARPANET. Today, we have many options when it comes to our <term class="no-emphasis" id="term-00046">email</term> service. <term class="no-emphasis" id="term-00047">Gmail</term> from Google and <term class="no-emphasis" id="term-00048">Outlook</term> by Microsoft led the email market. These programs are directly integrated into their other products to aid in communication and collaboration between users. The enhanced capabilities of email programs today allow easy sharing of photos, documents, video, and large files. Just the ability to connect to colleagues who are outside of your general geographic area on a regular basis greatly improves productivity and connectivity.</para>
+<para id="para-00036">We also now have several options for <term class="no-emphasis" id="term-00049">videoconferencing</term>. Many people use these tools outside the workplace to spend time with out-of-town family and friends. The traditional telephone conference call where several people sit around a conference table while another colleague calls in on a speaker phone is a rare sight in today’s office. Now, we can gather around a virtual table and use a videoconferencing program to conduct an important business meeting (<link target-id="fig-00006"/>). We can use the same program to have a virtual meal with a family member who lives miles away. Some of the leading videoconferencing tools today include <term class="no-emphasis" id="term-00050">Zoom</term>, <term class="no-emphasis" id="term-00051">Microsoft Teams</term>, <term class="no-emphasis" id="term-00052">Skype</term>, <term class="no-emphasis" id="term-00053">WebEx</term>, and <term class="no-emphasis" id="term-00054">Google Meet</term>. All have basically the same functionality, with features such as recording the meeting and providing a transcript of the discussion. These features have been valuable as part of a widespread shift to remote working conditions for many companies. The shift to greater use of remote working environments occurs for various reasons, ranging from global issues such as a public health emergency to more localized reasons like increasing employee satisfaction by assisting in work/life balance.</para>
+<figure class="scaled-down" id="fig-00006">
+<title/>
+<media alt="A laptop screen shows seven windows with people’s faces in various locations.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_03_Zoom.jpg"/></media>
+<caption>Videoconferencing tools such as Zoom make telecommuting easier than ever before. <emphasis effect="italics">Forbes</emphasis> credited Zoom’s quick rise in use to its ease in navigation. (credit: modification of “VFRÖ - Zoom Meeting 3/2020” by Radiofabrik/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="para-00037">Another tool people use to connect and collaborate with others is <term id="term-00055">social media</term>. Social media is digital technology that allows users (individuals and organizations) to share information about themselves such as posts, photos, or videos. More than 40 percent of the global population use social media. Social media sites had their origin in connecting friends and families. However, as the number of users increased, businesses started to see the value in connecting with their customers via these social media sites. Many businesses have a distinct presence on social media as active users, not simply advertising through the site. Today, about 70 percent of businesses have a social media presence. The line between personal and business has blurred significantly. Very few people use social media solely for connecting and sharing with friends and family. Most will interact with businesses such as retail outlets and even banks on their social media sites. Many people follow a specific brand or company that they like. Personal and business social media sites are intertwined and connected across sites.</para>
+<para id="para-00038">This phenomenon has shifted how businesses manage relationships with their customers. Many banks, for example, have a social media site where they share financial tips and banking products/promotions available to their customers. Consumer products companies can use the sites to get feedback on product attributes or advertising strategies. Small businesses can use social media sites to offer promotions to bring more foot traffic into the store—whether online or brick-and-mortar.</para>
+<para id="para-00039">The leading social media sites vary by age to some extent, with older generations leaning more toward <term class="no-emphasis" id="term-00056">Facebook</term> and <term class="no-emphasis" id="term-00057">LinkedIn</term> while younger people tend to gravitate to platforms such as <term class="no-emphasis" id="term-00058">TikTok</term>, <term class="no-emphasis" id="term-00059">Instagram</term>, <term class="no-emphasis" id="term-00060">Snapchat</term>, and <term class="no-emphasis" id="term-00061">Twitter</term>. Other popular social media sites include <term class="no-emphasis" id="term-00062">Pinterest</term> and <term class="no-emphasis" id="term-00063">Reddit</term>.</para>
+<para id="para-00040">Privacy is a concern when dealing with any interaction on the internet, but especially with social media sites, where individuals often share personal information and pictures that could open them up to cyberattacks. You should regularly check and update the privacy settings on the social media sites you use. You might consider changing your password routinely to prevent hackers from accessing your information. Never share personal information through the site or through messages within the site. You should be wary of friend/follower requests from people who are unknown to you or your other connections. Avoid being controversial or posting overly personal content. Employers now are checking applicants’ social media profiles and, in some cases, monitoring employees’ activity.</para>
+<para id="para-00041">Finally, as a user, it is easy to get pulled into clicking on advertisements that either show up in the margins or in the social media feed. Clicking leaves a virtual footprint of your activity that both legitimate advertisers and spammers can use to target advertisements and compel you to visit their sites. Often, you can limit your exposure through the site privacy settings, but the risk of exposure of personal information probably cannot be totally mitigated unless you avoid using social media sites altogether.</para>
+<para id="para-00042"><term class="no-emphasis" id="term-00064">Personally identifiable information (PII)</term> may include items that directly reveal your identity, such as your address or Social Security number. But other identifiable information can also be gathered, such as race, gender, or religion. You should be cautious when sharing information on the internet via social media and other websites. Useful precautions include regularly changing your passwords, not using the same passwords for multiple sites, providing limited personal information on social media sites or putting privacy settings at a high level, and, finally, being cautious about clicking links or advertisements from unknown sources.</para>
+</section>
+<section id="sect-00008">
+<title>Libraries and Media</title>
+<para id="para-00043">The internet has changed the way that libraries operate and store/share information. Many libraries still house extensive collections of books, reference materials, magazines, and the like. In fact, you may be surprised to learn that reading print books still outpaces reading electronic books. Some college students have reaped the benefits of <term class="no-emphasis" id="term-00065">e-books</term> by purchasing their textbooks in (often cheaper) electronic formats. Unlike a traditional print copy of the same material, these textbooks are interactive, enabling the publisher to include updated information and links to relevant extra materials that cannot be included in the print edition. With the availability of the internet and today’s technology, students can also rent electronic textbooks, which can save a good deal of money over time. Currently, electronic textbooks hold about 30 percent of the total market.</para>
+<para id="para-00044">Many <term class="no-emphasis" id="term-00066">libraries</term> now have online services that allow users to place a hold on materials. When the item becomes available, the patron is notified via text or email. Libraries are also moving some of their resources to a digital format. For example, some of the historical archives housed in libraries have been cataloged digitally to provide broader access. Libraries will still have a good supply of DVDs or books on CD for patrons to check out, but many resources can now be accessed electronically by using your library card.</para>
+<para id="para-00045">Many states have library systems that allow patrons in one city to utilize materials owned by another library in a different city. With apps such as <term class="no-emphasis" id="term-00067">OneDrive</term> and <term class="no-emphasis" id="term-00068">Hoopla</term>, users can gain access to thousands of digital materials, including books and media. These apps are typically compatible with the leading <term class="no-emphasis" id="term-00069">e-reader</term> apps, such as <term class="no-emphasis" id="term-00070">Kindle</term>, <term class="no-emphasis" id="term-00071">Kobo</term>, and <term class="no-emphasis" id="term-00072">Libby</term>. Also, libraries have become a central access point and technology hub for those lacking these resources at home, as <link target-id="fig-00007"/> shows. Nearly 96 percent of all rural public libraries offer free access to the internet for their cardholders. In all these ways, the digital revolution has altered the way libraries think about the services they provide.</para>
+<figure class="scaled-down" id="fig-00007">
+<title/>
+<media alt="A library is shown with several tables and chairs with desktop computers on the tables. People are seen working on the computers.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_03_ModLibrary.jpg"/></media>
+<caption>Many libraries today have computer workstations where users can access the internet and conduct research. (credit: modification of “Vancouver Public Central Library” by GoToVan/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="para-00046">Libraries can be a source of research that might otherwise be unavailable to you. For example, the popular genealogy site Ancestry.com has agreements with libraries to provide some of its exclusive material free of charge to users of the site’s library edition. Libraries also provide free access to other databases that are centered on business research, including <term class="no-emphasis" id="term-00073">LexisNexis</term>, <term class="no-emphasis" id="term-00074">BizMiner</term>, <term class="no-emphasis" id="term-00075">Business Source Complete</term>, and <term class="no-emphasis" id="term-00076">IbisWorld</term>. These databases provide a wealth of information that is not readily obtained with a simple internet search.</para>
+</section>
+<section id="sect-00009">
+<title>Web Applications</title>
+<para id="para-00047">A <term class="no-emphasis" id="term-00077">web application</term> is a software program that is not installed directly onto the user’s computer. Instead, the program and data associated with it are stored on the internet, and the application is accessed through a browser or app rather than through an installed program on the computer. In the past, users had to purchase a license key to install programs directly onto their computer. This takes up memory and storage space on the computer and presents limitations on updates to the program. The user would generally have to purchase the program on a regular basis to get the most updated version or purchase an upgrade. Web-based applications give users access to the most up-to-date version of the software while sometimes freeing up essential storage on the networks and allowing seamless collaboration between users in real time. Companies pay monthly or annual subscription fees for these programs, often based on the number of user licenses they want to purchase. Throughout this text, you will become familiar with the Google Suite of products and Microsoft Office 365, so that you can develop basic computing skills for the work world.</para>
+</section>
+<section id="sect-00010">
+<title>E-commerce</title>
+<para id="para-00048">Electronic commerce, or <term id="term-00078">e-commerce</term>, refers to conducting business transactions online—buying and selling goods or services in an online environment rather than in a traditional brick-and-mortar storefront. The first e-commerce transaction was in 1994, but it is helpful to think of e-commerce as a modern-day version of the catalog sales (Sears, JCPenney, Montgomery Ward) of times past, except that the ordering is done over a computer rather than over a telephone or by filling out a form and mailing it through the post office.</para>
+<para id="para-00049">E-commerce transactions can occur between all customers in the marketing mix. In a business-to-business transaction, one business might purchase office supplies from another business. In a business-to-customer transaction, an individual purchases a product from a retailer online and has it delivered to their home. Consumer-to-consumer purchases can also be made through e-commerce—for example, when an individual purchases a product directly from another individual through a resale website.</para>
+<para id="para-00050">E-commerce does not necessarily involve shipping the purchased items; for instance, you may purchase and download an electronic product, such as an e-book or music. E-commerce simply means that the purchase transaction occurs online rather than in person. Today, virtually all products or services can be purchased online. Some entrepreneurs have started exclusively online businesses with virtual storefronts and no physical inventory. Today, e-commerce makes up about 15 percent of all retail sales across the world, with over twenty million e-commerce sites worldwide, representing nearly $4 trillion in sales. E-commerce jobs are expected to reach nearly 500,000 by the end of the 2020s; it is predicted that by 2040, 95 percent of purchases will be through e-commerce.</para>
+<note class="real-application" id="note-00005">
+<title>A New Kind of Entrepreneurship</title>
+<para id="para-00051">Crowdfunding is a concept wherein many people contribute to fund a particular product launch or cause. Kickstarter is one such online platform where entrepreneurs can post their business idea and ask for contributions to make it happen. Some products have raised millions of dollars to fund their ideas. Pebbletime Smartwatch and the Coolertime Cooler garnered $20 million, $13.3 million respectively from Kickstarter donations.</para>
+</note>
+</section>
+<section id="sect-00011">
+<title>The Cloud and Cloud Computing</title>
+<para id="para-00052">Technological advances have made working remotely, or <term class="no-emphasis" id="term-00079">telecommuting</term>, a possibility for many employees. In fact, one recent survey estimated that nearly 90 percent of U.S. employees would like to work remotely. Today, there are almost five million workers in the United States (nearly 40 percent of the U.S. workforce) who telecommute. Since 2015, the number of businesses that have allowed telecommuting has increased over 40 percent. Even for those who do not telecommute full time, access to the internet and such technologies as cloud computing in the workplace enable many employees to work from home at least once per month, with nearly 50 percent doing so once a week.</para>
+<para id="para-00053">With <term id="term-00080">cloud computing</term> many of the resources that were traditionally stored on individual computers, including software programs, data management and storage systems, and networking tools, are moved to internet servers. This technological advance was prompted by the need to store large amounts of information and data and to enable collaboration by individuals across the world. The resources and their associated data are stored in a data center that is managed by a <term class="no-emphasis" id="term-00081">cloud service provider (CSP)</term>. The benefits of cloud computing are that it can handle larger amounts of data than any physical storage device can, and it also allows users to access their data from any computer, no matter the location, and from any device, as <link target-id="fig-00008"/> illustrates.</para>
+<figure class="scaled-down" id="fig-00008">
+<title/>
+<media alt="A white cloud at the top of the image has icons located inside representing play video, images, contacts, documents, files, music, and email. An arrowed line at the right extends to the bottom and connects to a circle with a laptop image, then to a cell phone, a desktop computer, a camera, and a tablet, and then connects back to the cloud above.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_03_CloudComp.jpg"/></media>
+<caption>Cloud computing enables you to store much more data than can be kept on any physical computing device. (credit: “Cloud-Computing” by Learntek/Flickr, Public Domain)</caption>
+</figure>
+<para id="para-00054">The <term id="term-00082">cloud</term> is the term used to describe servers that are located at different locations and that are accessed via the internet. These servers are housed in data centers to provide storage and computer processing operations. The term <emphasis effect="italics">cloud</emphasis> was first used in 1996 by a researcher at <term class="no-emphasis" id="term-00083">Compaq</term>, and the first cloud computing service was <term class="no-emphasis" id="term-00084">Amazon Web Services (AWS)</term>, which launched in 2002 as a public cloud system. The cloud offers some distinct cost advantages to businesses. Companies can save money by not having to constantly upgrade individual users’ storage capacity, and they can lower their IT costs because the subscription fee for use of the cloud service includes many troubleshooting and technical assistance functions. When we use the cloud for storage, we no longer need to store and maintain CDs with backups of the system or flash drives to transport documents from one computer to another. Cloud computing increases the speed of computing and gives all users real-time access to information stored in the cloud. Use of the cloud allows greater security for information storage as well as speedy distribution of new software and software upgrades. Finally, the cloud offers flexibility that enables businesses to operate more efficiently.</para>
+<para id="para-00055">The security of information stored in the cloud can be of concern, but due diligence by individual users and the company can mitigate these risks. Here are some basic steps for ensuring the security of information:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00006">
+<item>Select a CSP that encrypts its data. Computers use the process of <term id="term-00085">encryption</term> to rewrite readable information into a code that can be deciphered only by using the key to the code, similar to solving a word puzzle that uses a secret code (see <link target-id="fig-00009"/>). Encryption is an important step in ensuring the security of the information transmitted and stored in the cloud.</item>
+<item>
+<figure class="scaled-down" id="fig-00009">
+<title/>
+<media alt="A box with Hello! inside is at the left. An arrow points to the right where a key is shown with a closed lock drawn in the middle. Another arrow points to the right to another blank box with %&amp;#*?#/$&amp;? inside. Another arrow points to the right to a key with an open lock drawn in the middle. An arrow points to the right to another box with Hello! inside.">
+<image mime-type="image/jpg" src="../../media/OSX_BCA_01_03_Encryption.jpg"/></media>
+<caption>Each key has the code to the secret (encrypted) information, allowing messages to be sent safely.</caption>
+</figure></item>
+<item>Back up information regularly. Most CSPs will include this with the services they provide.</item>
+<item>Use strong passwords and change the passwords regularly. Some businesses will set up a system that requires a password change at set time intervals.</item>
+<item>Use <term class="no-emphasis" id="term-00086">two-factor authentication</term>. This means that to access the system, you will need two pieces of identification, typically your username and password as well as one additional means of identification, such as an email to verify your identity, a code sent to your cell phone, or an answer to a personal question.</item>
+<item>Make sure your system is protected by antivirus/antimalware software. These programs prevent unauthorized attempts to gain access to the system.</item>
+<item>Avoid using public Wi-Fi access points to conduct critical business or personal transactions. Using public Wi-Fi exposes users to the potential for personal information to be compromised.</item>
+</list>
+<section id="sect-00012">
+<title>Cloud Computing in Business</title>
+<para id="para-00056">Some companies set up a cloud-based <term id="term-00087">intranet</term>—a private network for internal company use. Unlike the internet, it is not available to the public and typically requires authorized users to enter a username and password. Many companies also require employees to make use of a <term class="no-emphasis" id="term-00088">virtual private network (VPN)</term> to gain access to the company’s intranet when they are off-site.</para>
+<note class="link-to-learning" id="note-00006">
+<para id="para-00057">The use of virtual private networks enables businesses to control who gains access to their computer network. Using cloud services can offer some of the same security advantages for business. Read this <link url="https://openstax.org/r/78VPNCloud">article on VPN and cloud computing</link> to learn how the two are related and some differences between the two.</para>
+</note>
+<para id="para-00058">Many businesses today use cloud computing to manage their information technology needs. Through the cloud, businesses can more efficiently analyze, manage, and store data. They are able to deliver software to their employees on demand and make updates to programs more rapidly. Finally, cloud computing enables seamless collaboration between business units that may be located miles apart.</para>
+<para id="para-00059">Three types of clouds are involved in cloud computing:</para>
+<list list-type="enumerated" number-style="arabic" id="list-00007">
+<item>The <term class="no-emphasis" id="term-00089">public cloud</term> is managed by a CSP. All of their services are delivered via the internet, and they charge for their service. The resources are owned and maintained by the CSP. <term class="no-emphasis" id="term-00090">Microsoft Azure</term> and <term class="no-emphasis" id="term-00091">IBM Cloud Services</term> are examples of public cloud service providers.</item>
+<item>A <term class="no-emphasis" id="term-00092">private cloud</term> is used within a single business or organization. Its resources, which are owned by the business and maintained within the organization, are stored on a private network, or the company can pay a third party to host the private cloud. With a private cloud, there are often restrictions on who can use it and what permissions are given to the users. Businesses that use sensitive information, such as financial institutions or health-care providers, prefer private clouds because they offer more security than a public cloud system.</item>
+<item>The final type of cloud system is a <term class="no-emphasis" id="term-00093">hybrid cloud</term>—a blend of public and private. Some resources are utilized through a public cloud and others are secured through a private cloud.</item>
+</list>
+</section>
+<section id="sect-00013">
+<title>Cloud Computing for Personal Use</title>
+<para id="para-00060">You are probably using the cloud already in your professional or personal life, even if you are unaware that you are doing so. For example, <term class="no-emphasis" id="term-00094">cloud computing</term> is used behind the scenes for Google and Microsoft programs, so if you are using <term class="no-emphasis" id="term-00095">Gmail</term> or <term class="no-emphasis" id="term-00096">Outlook</term>, you are using the cloud. Likewise, if you use <term class="no-emphasis" id="term-00097">Google Photos</term> to store family memories, you are using the cloud. And if your family members play video games, stream movies, or listen to music on the internet, they are more than likely using the cloud. The cloud is working behind the scenes with much of the work we do both personally and professionally. This is a natural outgrowth of advances in internet capabilities and computing power to enable us to manage information more efficiently, conveniently, and cost-effectively.</para>
+</section>
+</section>
+<section id="sect-00014">
+<title>Internet of Things (IoT): Integration and Collaboration</title>
+<para id="para-00061">The <term id="term-00098">Internet of Things (IoT)</term> refers to the extension of internet connectivity beyond computers, to enable the transfer of information between machines and other objects, people, and animals by connecting them to the internet in some way. With the IoT, the physical connects to the virtual. Today, many consumers seek out products that connect to the internet, and some simple adjustments enable many nontechnical, inanimate objects, from light bulbs to dishwashers, to be part of the IoT.</para>
+<para id="para-00062">As businesses see the value of the additional data that is gathered through IoT, many companies are marketing these technologies to consumers to make their lives easier and to save money. Having a reminder to put the laundry in the dryer or having the house thermostat adjust automatically based on outside temperature is more than a novelty—these features can save time and money, allowing consumers to feel more secure, better equipped to handle life’s demands, and able to focus more on their pleasures in life. Businesses, too, can realize distinct improvements using real-time data and analytics, performance tracking, inventory/cost controls, and the automation of simple tasks. These capabilities can also allow businesses to adapt to challenging times.</para>
+<note class="real-application" id="note-00007">
+<title>Pivoting during the Pandemic</title>
+<para id="para-00063">COVID-19 drastically affected in-person business and services, many of whose owners found themselves struggling just to keep their businesses afloat. Some businesses chose to start offering their products or services online while some began or greatly enhanced their delivery operations. Others decided to close their business in the short term. Some businesses, such as <term class="no-emphasis" id="term-00099">Spotify</term> and <term class="no-emphasis" id="term-00100">Netflix</term>, put more resources into creating original content (podcasts, movies, series shows) rather than relying primarily on the sale of ads as a major revenue stream. Small restaurants offered delivery services and meal subscription services to keep their business thriving even during the pandemic. And larger corporations found that remote work allowed their employees to stay healthy while still meeting the needs of the business.</para>
+</note>
+</section>
+<section class="section-summary" id="sect-00015">
+<title>Summary</title>
+<list id="list-00008">
+<item>The internet was initially rooted in government and military applications.</item>
+<item>Advances in technology such as HTML, URL, and DNS made the internet more accessible to the average user.</item>
+<item>Programs such as Zoom, Google Docs, and Twitter foster new types of interactions between businesses and their customers.</item>
+<item>Through sites such as eBay and Amazon, e-commerce has become an efficient way to purchase products and services, not just from companies but also from individuals.</item>
+<item>Cloud computing refers to storing IT resources on a virtual server rather than on the actual computers where the resources are used.</item>
+<item>The use of cloud computing in the workplace has increased productivity and saved money for many businesses.</item>
+<item>Cloud computing enables individuals to access a wide variety of resources such as media files, documents, and photos without the need for computers with massive storage capacities.</item>
+<item>The Internet of Things (IoT) connects the physical to the virtual; with simple changes to product designs, many products can be connected to the internet.</item>
+</list>
+</section>
+<section class="review-questions" id="sect-00016">
+<title>Review Questions</title>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00064"><link class="os-embed" url="#exercise/01-03-BCA-RQ01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00065"><link class="os-embed" url="#exercise/01-03-BCA-RQ02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00066"><link class="os-embed" url="#exercise/01-03-BCA-RQ03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005">
+<problem id="prob-00005">
+<para id="para-00067"><link class="os-embed" url="#exercise/01-03-BCA-RQ04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00006">
+<problem id="prob-00006">
+<para id="para-00068"><link class="os-embed" url="#exercise/01-03-BCA-RQ05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00007">
+<problem id="prob-00007">
+<para id="para-00069"><link class="os-embed" url="#exercise/01-03-BCA-RQ06"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00008">
+<problem id="prob-00008">
+<para id="para-00070"><link class="os-embed" url="#exercise/01-03-BCA-RQ07"/></para>
+</problem>
+</exercise>
+</section>
+<section class="written-questions" id="sect-00017">
+<title>Written Questions</title>
+<exercise id="exer-00009">
+<problem id="prob-00009">
+<para id="para-00071"><link class="os-embed" url="#exercise/01-03-BCA-WQ01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00010">
+<problem id="prob-00010">
+<para id="para-00072"><link class="os-embed" url="#exercise/01-03-BCA-WQ02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00011">
+<problem id="prob-00011">
+<para id="para-00073"><link class="os-embed" url="#exercise/01-03-BCA-WQ03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00012">
+<problem id="prob-00012">
+<para id="para-00074"><link class="os-embed" url="#exercise/01-03-BCA-WQ04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00013">
+<problem id="prob-00013">
+<para id="para-00075"><link class="os-embed" url="#exercise/01-03-BCA-WQ05"/></para>
+</problem>
+</exercise>
+</section>
+<section class="practice-exercises" id="sect-00018">
+<title>Practice Exercises</title>
+<exercise id="exer-00014">
+<problem id="prob-00014">
+<para id="para-00076"><link class="os-embed" url="#exercise/01-03-BCA-PE01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00015">
+<problem id="prob-00015">
+<para id="para-00077"><link class="os-embed" url="#exercise/01-03-BCA-PE02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00016">
+<problem id="prob-00016">
+<para id="para-00078"><link class="os-embed" url="#exercise/01-03-BCA-PE03"/></para>
+</problem>
+</exercise>
+</section>
+<section class="case-exercises" id="sect-00019">
+<title>Case Exercises</title>
+<exercise id="exer-00017">
+<problem id="prob-00017">
+<para id="para-00079"><link class="os-embed" url="#exercise/01-03-BCA-CE01"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+
+
+<glossary>
+<definition id="def-00001">
+<term>cloud</term>
+<meaning>servers housed in data centers to facilitate remote storage and computer operations</meaning>
+</definition>
+<definition id="def-00002">
+<term>cloud computing</term>
+<meaning>delivering computer resources such as programs and data storage through the internet rather than storing resources directly on a computer</meaning>
+</definition>
+<definition id="def-00003">
+<term>domain name system (DNS)</term>
+<meaning>phone book for the internet, enabling a user to send a message using their name, the symbol @, and the location of the computer as identified by its domain name</meaning>
+</definition>
+<definition id="def-00004">
+<term>e-commerce</term>
+<meaning>conducting business transactions online</meaning>
+</definition>
+<definition id="def-00005">
+<term>encryption</term>
+<meaning>process of taking information transmitted through the internet and converting it into an unrecognizable code to prevent unauthorized access</meaning>
+</definition>
+<definition id="def-00006">
+<term>hyperlink</term>
+<meaning>link on a page or document that, when clicked, navigates the user to that location; a connection between two web pages or documents</meaning>
+</definition>
+<definition id="def-00007">
+<term>Internet of Things (IoT)</term>
+<meaning>extension of internet connectivity beyond computers, enabling the transfer of information between machines and other objects, people, and animals by connecting them to the internet in some way</meaning>
+</definition>
+<definition id="def-00008">
+<term>internet protocol address (IP address)</term>
+<meaning>unique combination of characters used to identify the location of a host computer</meaning>
+</definition>
+<definition id="def-00009">
+<term>internet service provider (ISP)</term>
+<meaning>company that provides individuals or organizations with access to the internet</meaning>
+</definition>
+<definition id="def-00010">
+<term>intranet</term>
+<meaning>private network for internal company use; can be combined with cloud technology</meaning>
+</definition>
+<definition id="def-00011">
+<term>packet switching</term>
+<meaning>technology that enabled the development of the internet; computer files are broken up into segments, which are transmitted over the network and reordered into a single file at their destination</meaning>
+</definition>
+<definition id="def-00012">
+<term>social media</term>
+<meaning>digital technology that allows users (individuals and organizations) to share information about themselves such as posts, photos, and videos</meaning>
+</definition>
+<definition id="def-00013">
+<term>triangulation</term>
+<meaning>research technique whereby information is verified and validated through multiple sources</meaning>
+</definition>
+<definition id="def-00014">
+<term>web browser</term>
+<meaning>a program used to find content stored on the WWW</meaning>
+</definition>
+</glossary>
 </document>
