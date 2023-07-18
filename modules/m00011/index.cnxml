@@ -140,7 +140,7 @@
     <media alt="In the spreadsheet, columns A and B are selected. The Formulas tab is selected along the top ribbon and an orange arrow points to Define Name on the toolbar at the right. A dialog box shows at the bottom right titled New Name. The options inside the box include: Name: (Price), Scope: (Workbook), Comment: (blank), and Refers To: (=Sheet3!$B$2:$B$6.) OK and Cancel buttons are on the bottom right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_CellRang02.jpg"/>
     </media>
-    <caption>The Define Name option is in the center of the Formulas tab Ribbon area. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>The Define Name option is in the center of the Formulas tab Ribbon area. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00008">
@@ -152,7 +152,7 @@
     <media alt="In Part a, Columns A and B are selected. The Formula tab along the top ribbon is selected and a box is around Create from Selection at the right side of the toolbar. A dialog box titled Create Names from S… displays the option to “Create names from values in the:” These options can be checked below: Top row, Left column (checked), Bottom row, and Right column. In Part b, cell B1 is selected and an arrow points to the Name box which displays Years_N. 10 shows in the formula bar and cell B1.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_DataRange3.jpg"/>
     </media>
-    <caption>(a) To activate the Create from Selection command, click on the area shown after first selecting the data table. (b) Notice that cell B1 has been renamed Years_N based on the title for that row listed in the left column (column A). (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>(a) To activate the Create from Selection command, click on the area shown after first selecting the data table. (b) Notice that cell B1 has been renamed Years_N based on the title for that row listed in the left column (column A). (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     </section>
@@ -166,7 +166,7 @@
     <media alt="In the spreadsheet in Part a, cell D2 is selected and =B*C2 is in the formula bar. In Part b, Column D is blank and Cell C7 is selected with {=SUM(Price*C2:C6)} in the formula bar. In the cell the number $614,870 is listed.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_Array01.jpg"/>
     </media>
-    <caption>The array formula enables Excel to derive the same results using less space in the sheet. (a) You can calculate each model’s revenue and then add those values to get the total revenue. (b) You can also use an array, which determines each model’s revenue and adds them up in one step. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>The array formula enables Excel to derive the same results using less space in the sheet. (a) You can calculate each model’s revenue and then add those values to get the total revenue. (b) You can also use an array, which determines each model’s revenue and adds them up in one step. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section class="section-summary" id="sect-00010">

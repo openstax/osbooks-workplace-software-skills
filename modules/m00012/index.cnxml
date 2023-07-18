@@ -38,7 +38,7 @@
     <media alt="In the spreadsheet, Cell D7 is selected and =(E2+E3+E4 displays in the formula box. Cell D7 shows the formula and E2 is highlighted blue and the entire cell E2 is highlighted blue. E3 is red and the cell E3 is highlighted red. E4 is highlighted purple and cell E4 is highlighted purple.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_Complex.jpg"/>
     </media>
-    <caption>The color-coding system for complex formulas is also applied when using multiple sets of parentheses in a formula. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>The color-coding system for complex formulas is also applied when using multiple sets of parentheses in a formula. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00003">
@@ -65,7 +65,7 @@
     <media alt="In part a of the spreadsheet, formulas is selected on the ribbon and an arrow points to Insert Function on the toolbar at the left. In part b, cell F6 is selected and =SUM(F2:F5) shows in the formula bar and in cell F6. A dialog box labeled Function Arguments shows with SUM in the top left. Two options show in the top half: Number1 (F2:F5 in the drop-down and ={743920;2078798.4;2827590.9;18895… to the right) and Number2 (=number is to the right of the drop-down window). The lower half provides this information: = 7539906.1, Adds all the numbers in a range of cells., and Number1: number1,number2,…are 1 to 255 numbers to sum. Logical values and text are ignored in cells, included if typed as arguments. The Formula result = $ 7,539,906.10 lists at the bottom left.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_03_FORBU01.jpg"/>
     </media>
-    <caption>The Insert Function tool includes tips on how to apply each function. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>The Insert Function tool includes tips on how to apply each function. (Used with permission from Microsoft)</caption>
     </figure>
     <section id="sect-00004">
     <title>Order of Operations</title>
@@ -76,7 +76,7 @@
     <media alt="A spreadsheet provides the following columns of information: Model, Price, Cost, Margin, Volume Sold, and Marginal Profit. The last row provides a total for the Marginal profit column.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_MARPR01.jpg"/>
     </media>
-    <caption>Several simple formulas were used to calculate the profit margin for each model. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>Several simple formulas were used to calculate the profit margin for each model. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00014">To calculate the total profit margin, you can use the <term class="no-emphasis" id="term-00010">SUM function</term> on the Marginal Profit column. This simply adds up all of the profit margin amounts for each model. Alternatively, you can get this same total by creating a <term class="no-emphasis" id="term-00011">complex formula</term>. Subtract the cost from the price, then multiply the difference by the volume sold, then add the product of each model and the quantity. Remember to use parentheses to make sure that each section of the formula is completed in the right order. The formula would look something like this: =((Price1-Cost1)*Volume Sold1)+((Price2-Cost2)*Volume Sold2)+((Price3-Cost3)*Volume Sold3) [etc.].</para>
     <para id="para-00015">The calculation in <link target-id="fig-00004"/>a shows the wrong answer that would result from not using parentheses in the formula. It uses the formula =Price1-Cost1*Volume Sold1+Price2-Cost2*Volume Sold2+Price3-Cost3*Volume Sold3 [etc.], which means the cost is multiplied by the volume sold <emphasis effect="italics">first</emphasis>, before being subtracted from the price, which is not correct. <link target-id="fig-00004"/>b shows the formula written the correct way (with the parentheses). It uses =((B4-C4)*D4)+((B5-C5)*D5)+((B6-C6)*D6)+((B7-C7)*D7), which gives the correct result.</para>
@@ -85,7 +85,7 @@
     <media alt="In Part a, cell D8 is selected in the spreadsheet and =B4-C4*D4+B5-C5*D5+B6-C6*D6+B7-C7*D7 shows in the formula bar. $(6,582,923.90) displays in the cell. In Part b, cell D8 is selected with =((B4-C4)*D4)+((B5-C5)*D5)+((B6-C6)*D6)+((B7-C7)*D7) in the formula bar. $7,539,906.10 is inside cell D8.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_MARPR02.jpg"/>
     </media>
-    <caption>In (a) the volume sold is incorrect because the parentheses that determine the order of operations in the formula are missing; (b) is correct. These formulas show how easy it is to make a mistake in the order of operations. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>In (a) the volume sold is incorrect because the parentheses that determine the order of operations in the formula are missing; (b) is correct. These formulas show how easy it is to make a mistake in the order of operations. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     </section>
@@ -101,7 +101,7 @@
     <media alt="Two tables are shown in Parts a and b with identical headers, but data in “Volume Sold” columns is different. In Part a, Cell D8 is selected and =((B4-C4)*D4)+((B5-C5)*D5)+((B6-C6)*D6)+((B7-C7)*D7) is seen in the formula box. Cell D8 displays $7,539,906.10 and cell D15 is blank. In Part b, Cell D15 is selected and =((B11-C11)*D11)+((B12-C12)*D12)+((B13-C13)*D13)+((B14-C14)*D14) is in the formula box. Cell D15 shows $6,507,235.00.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_CREF01.jpg"/>
     </media>
-    <caption>Because the tables are identical in size and column values, the formula from (a) the first table will work perfectly when copied to (b) the second table. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>Because the tables are identical in size and column values, the formula from (a) the first table will work perfectly when copied to (b) the second table. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00003">
     <exercise class="unnumbered" id="exer-00009">
@@ -121,7 +121,7 @@
     <media alt="In Part a, cell C5 is selected and =PMT(C3,C2,-C4,0) is displayed in the formula bar. $104,328.52 shows in the cell. In Part b, Cell F9 is selected and =PMT(E9,$C$2,-$C$4,0,0) is in the formula box. $111,772.12 is in the cell.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_CREF02.jpg"/>
     </media>
-    <caption>Using absolute cell references allows you to copy the formula to other cells without having to update your formula. (a) The PMT formula in cell C5 calculates it using relative cell references. (b) Using the absolute cell references for cells C2 and C4, you can create a table that shows the payment for various interest rates. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>Using absolute cell references allows you to copy the formula to other cells without having to update your formula. (a) The PMT formula in cell C5 calculates it using relative cell references. (b) Using the absolute cell references for cells C2 and C4, you can create a table that shows the payment for various interest rates. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00023">Let’s examine this formula without absolute cell references; in other words, using relative cell references. If cell F3 is =PMT(E3,C2,-C4,0,0), and you drag the fill handle to cell F9, then all the values from F4 to F9 will be incorrect (<link target-id="fig-00007"/>). Essentially, you have copied the same formula, but the relative cell references have moved location along with the location of the formula. Instead of referring to cells C2 and C4 for each iteration of the formula, the reference moved down one row for each row you copied the formula down the table.</para>
     <figure id="fig-00007" class="scaled-down">
@@ -129,7 +129,7 @@
     <media alt="In the spreadsheet, “SUM” is located in the Name box. =PMT(E9,C8,-C10,0,0) is in the formula box. E9 is in blue, C8 is in red, and C10 is in purple. Cell C8 is highlighted red and empty, cell C10 is highlighted purple and empty. Cell E9 is highlighted blue with 8.00% inside and cell F9 is selected and inside is the formula. Cells F7 and F8 show #NUM! inside with a green triangle in the top left corner.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_CREF03.jpg"/>
     </media>
-    <caption>Using absolute cell references will avoid errors in your formulas when you are using the same cell in each of your formulas. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>Using absolute cell references will avoid errors in your formulas when you are using the same cell in each of your formulas. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="real-application" id="note-00004">
     <title>Excel Horror Stories</title>
@@ -146,7 +146,7 @@
     <media alt="In the spreadsheet, column B lists TV Model information starting in Row 8. Column C lists Months, and Shipping and Price information. Columns D to O list months as well as percentages for Profits. =$C9*(1-D$4) is in the formula bar.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_CREF04.jpg"/>
     </media>
-    <caption>Calculating outputs from tables with two sets of variables can be a good use of mixed cell references. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>Calculating outputs from tables with two sets of variables can be a good use of mixed cell references. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00028">In <link target-id="fig-00009"/>, the discounted retail price for model 32" LCD #E-900s is $168.30 to be calculated in cell D9. This is obtained by multiplying the Price in column C9 by (1-discount rate found in cell D5). For this example, this would be 170*(1-0.01) or C9*(1-D5). Without absolute cell references for either the column or row, the table will not calculate correctly when the formula is copied (see <link target-id="fig-00008"/>). Placing the $ before the column (column C) for the price will fix the formula to always calculate the output based on column C, and the table will fill properly with the discounted prices when you copy the formula from D9 into the remaining cells.</para>
     <figure id="fig-00009">
@@ -154,7 +154,7 @@
     <media alt="Cell R12 is selected and $168.30 is in the cell. Columns Q to X and beyond are two identical tables with the same headers, with the upper table showing numerical values while in the lower table, the data for the Discount is shown with a - in all the months except for one model in January.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_CREF05.jpg"/>
     </media>
-    <caption>By having the columns fixed, the formula always references the Price column. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>By having the columns fixed, the formula always references the Price column. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     </section>
@@ -171,7 +171,7 @@
     <media alt="In Part a, the spreadsheet lists dates, locations, and items, prices, and quantities sold. Column G is titled “Difference”. TEXTJOIN is in the Name box and =E4:E12 - D4:D12 is in the formula box. E4:E12 is in blue font and D4:D12 is in red. Cells D4 through D12 are highlighted red. Cells E4 to E12 are highlighted blue. Cells G4 to G12 are selected and D4:D12 shows in cell G4. Part b has cell G4 selected and {=E4:E12 - D4:D12} in the formula box. Numbers populate Column G with positive and negative numbers. ">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_ARR01.jpg"/>
     </media>
-    <caption>Make sure to highlight all the cells you want the formula to be entered into. (a) Notice the color coding of the formula that corresponds to the colors in the columns below. (b) If you don’t press the CTRL+Shift+Enter combination, the array will not work. You will see the curly braces when you have a formula as an array. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license; Used with permission from Microsoft)</caption>
+    <caption>Make sure to highlight all the cells you want the formula to be entered into. (a) Notice the color coding of the formula that corresponds to the colors in the columns below. (b) If you don’t press the CTRL+Shift+Enter combination, the array will not work. You will see the curly braces when you have a formula as an array. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="link-to-learning" id="note-00005">
     <para id="para-00032">For those who are new to using the Excel math syntax and notation, the first section of <link url="https://openstax.org/r/78MathExcel">this video tutorial on using math in Excel</link> has a series of handwritten math exercises set alongside the same calculations using Excel. Seeing math equations written out in the “traditional” way may help you better understand how to devise Excel formulas. You can access the <link url="https://openstax.org/r/78CompHandout">companion handout</link> to use as a reference.</para>
