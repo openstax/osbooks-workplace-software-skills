@@ -23,38 +23,38 @@
     <title>Basic Statistical Functions</title>
     <para id="para-00005">There are several commonly used <term class="no-emphasis" id="term-00003">statistical functions</term> that can give you a basic summary and understanding of the information in your spreadsheet. You can access the functions through the Formulas tab. From this tab, you can either choose Insert Function on the far left of the tab or use the grouped functions in the Function Library (<link target-id="fig-00001"/>). The <term class="no-emphasis" id="term-00004">Function Library</term> is helpful if you are not quite sure of the appropriate function for your needs. The functions are organized by application (e.g., financial) and include the ones that are most commonly used.</para>
     <figure id="fig-00001" class="scaled-down-30">
-    <media alt="Formulas is selected on the Ribbon and an arow points to the Insert Function button on the toolbar. The following icons are circled with drop down arrows on the toolbar: Auto Sum, Recently Used, Financial, Logical, Text, Date &amp; Time, Lookup &amp; Reference, Math &amp; Trig, and More Functions.">
+    <media alt="Formulas is selected on the Ribbon and an arow points to the Insert Function button on the toolbar. The following icons are shown with drop down arrows on the toolbar: Auto Sum, Recently Used, Financial, Logical, Text, Date &#38; Time, Lookup &#38; Reference, Math &#38; Trig, and More Functions.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_Functions.jpg"/>
     </media>
-    <caption>Functions can be found in the Insert Function tool or in the Function Library. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Functions can be found in the Insert Function tool or in the Function Library. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00006">Using the <term class="no-emphasis" id="term-00005">Insert Function</term> command has some advantages. When you click on Insert Function, a window appears with the functions grouped by category like in the Function Library, and then listed alphabetically within each category. When you click on a function, a brief description of the function appears in the window. There is also an option to search for functions by typing a description or keyword. This is useful if you are unsure of the function’s purpose (<link target-id="fig-00002"/>).</para>
     <figure id="fig-00002" class="scaled-down-30">
     <media alt="An Insert Function window is visible with options. The first option is Search for a function: (Type a brief description of what you want to do and then click Go). A Go button is at the right. Next is Or select a category: (Statistical is selected from the drop down). Select a function: is next with a window listing multiple options (COUNT is selected). Below this window these items are visible: COUNT(value1,value2,…) and “Counts the number of cells in a range that contains numbers.” Help on this function is in underlined blue font at the bottom left and OK (selected) and Cancel buttons are on the bottom right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_InsertF.jpg"/>
     </media>
-    <caption>The Insert Function window lists all the built-in functions in Excel. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The Insert Function window lists all the built-in functions in Excel. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00007">To use functions, first, click in the empty cell where you want to put the function. Then, use either the Insert Function option or the Function Library to select the function. For this example, you will choose the <term class="no-emphasis" id="term-00006">AVERAGE</term> function to calculate the average of a list of data. When you select a function from the Insert Function window, an input window will appear where you will select the range of data for analysis (<link target-id="fig-00003"/>). After you select the range, click OK. Notice that the result of the function is displayed in the lower left of the input window. Also notice that a dotted line will surround the data identified for analysis. The function will also be visible in the Formula Bar.</para>
     <figure id="fig-00003">
     <media alt="In the spreadsheet, Formulas is selected on the Ribbon and the AutoSum button is visible on the toolbar. An arrow points to a dotted line surrounding cells B2 to B21 with numbers listed. The formula bar shows =AVERAGE(B2:B21). Cell E3 is selected with E(B2:B21) inside the cell. A Function Arguments window is open with AVERAGE having two options available: Number 1 and Number2. The window next to Number1 has B2:B21 inside and = [4;8;5;3;8;0;12;3;4;2;9;6;3;6;9;11;1;3;… to the right. The window for Number2 is blank and = number is seen to its right. In the lower half of the window, = 5.55 and “Returns the average (arithmetic mean) of its arguments, which can be numbers of names, arrays, or references that contain numbers.” are written as well as “Number1: number1,number2,… are 1 to 255 numeric arguments for which you want the average.” An arrow points to Formula result = 5.55 in the left corner with Help on this function below. OK (selected) and Cancel buttons are on the bottom right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_FnWindow.jpg"/>
     </media>
-    <caption>The input window to insert a function will display the answer for the given function at the bottom of the window. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The input window to insert a function will display the answer for the given function at the bottom of the window. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00008">When you select a function from one of the groups in the Function Library, the function will appear in the spreadsheet (<link target-id="fig-00004"/>). You can select the data for analysis and press Enter. A dotted line will still appear around the selected range of cells, and the function still displays in the Formula Bar.</para>
     <figure id="fig-00004" class="scaled-down">
     <media alt="In the spreadsheet, cells B2 to B21 are highlighted and AVERAGE shows in the selection bar and =AVERAGE(B2:B21) is seen in the formula bar. The selected cell E3 with =AVERAGE(B2:B21) inside is circled and a small window below shows: AVERAGE(number1,[number2],…).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_Library.jpg"/>
     </media>
-    <caption>The selected cells for the function are displayed on the spreadsheet. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The selected cells for the function are displayed on the spreadsheet. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00009">One of the most commonly used functions is <term class="no-emphasis" id="term-00007">SUM</term>. It even has its own button on the Home tab as the <term class="no-emphasis" id="term-00008">AutoSum</term> feature (<link target-id="fig-00005"/>). The function gives the total for a selected range of cells. Other commonly used functions in data analysis are <term class="no-emphasis" id="term-00009">MODE</term>, <term class="no-emphasis" id="term-00010">RANGE</term>, <term class="no-emphasis" id="term-00011">MEDIAN</term>, and <term class="no-emphasis" id="term-00012">AVERAGE</term>, which returns the mean of a selected range of data.</para>
     <figure id="fig-00005" class="scaled-down-30">
     <media alt="An arrow points to the AutoSum shortcut on the toolbar.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_AutoSum.jpg"/>
     </media>
-    <caption>The AutoSum shortcut is a very useful tool. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The AutoSum shortcut is a very useful tool. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00003">

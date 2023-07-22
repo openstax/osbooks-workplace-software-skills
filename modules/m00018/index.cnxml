@@ -261,32 +261,43 @@
     <caption>For a one-variable Data Table, you will model a single variable such as Net Income. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00061">You are interested in seeing the impact to profit, or cell C10, in this example. The value in this cell becomes the top row of the Data Table, so repeat it below the model. Next, identify the new prices to investigate. With a one-variable Data Table, those values are placed in the column to the left of the impacted cell. In this example, put the values in column B, starting in the row below the impacted cell. At this point, you can format the values using the Currency style to be more representative of what is being investigated. Then, select the cells to include in the Data Table, including all the price-level changes being evaluated.</para>
-    <para id="para-00062">Now, construct the Data Table. Go to the Data tab, click the arrow next to What-If Analysis, and select Data Table from the list. When the input window appears, choose the input value (price in this example) in the Column input cell box. You only use the Column input cell for a one-variable Data Table (<link target-id="fig-00023"/>). Notice the dotted line around the input cell and the highlighted region for the Data Table. Click OK.</para>
-    
+    <para id="para-00062">Now, construct the Data Table. Go to the Data tab, click the arrow next to What-If Analysis, and select Data Table from the list (<link target-id="fig-00027"/>). When the input window appears, choose the input value (price in this example) in the Column input cell box. You only use the Column input cell for a one-variable Data Table (<link target-id="fig-00023"/>). Notice the dotted line around the input cell and the highlighted region for the Data Table. Click OK.</para>
+    <figure id="fig-00027">
+      <media alt="(a) Data is selected on the Ribbon and a box highlights the What-If Analysis icon. (b) Data is selected on the Ribbon and the What-If Analysis icon is selected. A drop-down menu shows Scenario Manager..., Goal Seek..., and Data Table.... An arrow points to Data Table.">
+        <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_Input2.jpg"/>
+      </media>
+      <caption>(a) For the new data table, first choose the What-If Analysis option from the Data tab. (b) Then select Data Table from the drop-down menu. (Used with permission from Microsoft)</caption>
+    </figure>
     <figure id="fig-00023" class="scaled-down">
     <media alt="In the spreadsheet, a dotted line surrounds cell C2 with $170.00 (Price per unit). Cells B13 to C18 are selected. Column B’s data is prices starting at $160.00 and rising in increments of $5 and $10 and cell C13 is $738, 920.00. A Data Table window is seen at the right. Two options are available in the Data Table: Row input cell: and Column input cell: ($C$2 is entered). OK (selected) and Cancel button are located across the bottom.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_Input.jpg"/>
     </media>
-    <caption>The impact of the Price per unit on overall Net Income is the desired output. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The impact of the Price per unit on overall Net Income is the desired output. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00063">When you click OK, Excel will use the information from the model to calculate the Net Income at each of the price points (<link target-id="fig-00024"/>).</para>
     <figure id="fig-00024" class="scaled-down">
     <media alt="In the spreadsheet, cells B14 to B18 list costs from $160.00 to $185.00 in $5 and $10 increments. An arrow points to a bracket highlighting cells C14 to C18, which list the numerical data.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_Results.jpg"/>
     </media>
-    <caption>The change in net income due to the change in the price per unit is automatically generated. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The change in net income due to the change in the price per unit is automatically generated. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00064">Excel shows that if the price point per unit is adjusted to $165.00, the Net Income will be $695,160, as shown in cell C15. When Excel creates the Data Table, the results are not automatically formatted. You can format the information after the Data Table is created, or you can set the number style to accounting or currency for the cells C14:C18 prior to creating the table. This simple example demonstrates the value of creating a Data Table. Excel quickly calculates the impacted cell values based on the predetermined formulas. This allows the decision maker to see all options in a single table.</para>
     </section>
     <section id="sect-00015">
     <title>Two-Variable Data Tables</title>
     <para id="para-00065">Often in data analysis, there is more than one variable. You may need to investigate the interaction between two variables to get more information. For example, a <term class="no-emphasis" id="term-00036">two-variable Data Table</term> could analyze the performance of various locations during each quarter of the year or could examine different production levels at various price points to investigate the impact on profit.</para>
-    <para id="para-00066">Let’s continue with the example of product price and impact on profit, and add various quantities sold into the analysis. Again, the target impacted cell is C10, Net Income. Put the quantity values across the top of the table and the prices down the side, as with the one-variable Data Table. Format the output cells (D14:H17) as currency. Next, highlight the table area and go to the Data Table tool in What-If Analysis. For the Row input cell, choose the # units, C4, and for the Column input cell, use the unit price, C2. Click OK (<link target-id="fig-00025"/>a). Notice the output cells are formatted to the Currency style. As a manager, you can see the impact on your profit outlook when you change the two variables (<link target-id="fig-00025"/>b). For example, if the price is lowered to $165 and you sell 9,500 units, your profit would be 755,000 (cell G15).</para>
+    <para id="para-00066">Let’s continue with the example of product price and impact on profit, and add various quantities sold into the analysis. Again, the target impacted cell is C10, Net Income. Put the quantity values across the top of the table and the prices down the side, as with the one-variable Data Table. Format the output cells (D14:H17) as currency. Next, highlight the table area and go to the Data Table tool in What-If Analysis. For the Row input cell, choose the # units, C4, and for the Column input cell, use the unit price, C2. Click OK (<link target-id="fig-00025"/>). Notice the output cells are formatted to the Currency style. As a manager, you can see the impact on your profit outlook when you change the two variables (<link target-id="fig-00028"/>). For example, if the price is lowered to $165 and you sell 9,500 units, your profit would be 755,000 (cell G15).</para>
     <figure id="fig-00025">
-    <media alt="In Part a, a dotted line surrounds cell C2 ($170.00). A Data Table in cells C13 to G18 is selected (Column C lists costs from $160.00 to $185.00 in $5 and $10 increments and numeric quantities across Row 13). A Data Table pop up window at the right lists two options available: Row input cell: ($C$4 is entered) and Column input cell: ($C$2 is entered). OK (selected) and Cancel button are located across the bottom. In Part b, the Data Table in cells C13 to G18 is populated with monetary values in cells D14 to G18.">
+    <media alt="A dotted line surrounds cell C2 ($170.00). A Data Table in cells C13 to G18 is selected (Column C lists costs from $160.00 to $185.00 in $5 and $10 increments and numeric quantities across Row 13). A Data Table pop up window at the right lists two options available: Row input cell: ($C$4 is entered) and Column input cell: ($C$2 is entered). OK (selected) and Cancel button are located across the bottom.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_TwoVariab.jpg"/>
     </media>
-    <caption>Two-variable Data Tables can manipulate two cells. (a) Use the Data Table tool to enter your input cells. (b) The final Data Table shows the impact of changing one or both variables. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Two-variable Data Tables can manipulate two cells. Use the Data Table tool to enter your input cells. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00028">
+      <media alt="The Data Table in cells C13 to G18 is populated with monetary values in cells D14 to G18.">
+        <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_TwoVariab2.jpg"/>
+      </media>
+      <caption>The final Data Table shows the impact of changing one or both variables. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00016">
@@ -296,7 +307,7 @@
     <media alt="A spreadsheet lists headers in Row 1 with drop down arrows at the right of every bolded header. Data in the spreadsheet is a mix of dates, text, and numbers.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_Agent.jpg"/>
     </media>
-    <caption>Information in a Data Table can be numerical or categorial. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Information in a Data Table can be numerical or categorial. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00068">One strategy to adjust categorical data is to replace the text with a numerical value. Using the data in <link target-id="fig-00026"/>, you could replace all instances of “Antonio” with the number 1, “Izabelle” with the number 2, and “James” with the number 3. When making a substitution like this, be sure the spreadsheet includes a legend that identifies each category and its corresponding number. This could be a simple chart on the same worksheet or on another worksheet that explains what each number represents. When there are only two categories, such as a Yes/No question, you can use the binary system with 0 for No and 1 for Yes. Using the Find and Replace tool makes the process of changing text to numbers easier. Categorical data combined with numerical data can also be analyzed using PivotTables.</para>
     </section>
