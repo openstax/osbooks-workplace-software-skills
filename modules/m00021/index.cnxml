@@ -21,7 +21,7 @@
     <media alt="PivotTable Analyze is selected on the Ribbon and shows these command groups: PivotTable (PivotTable Name: and Options), Active Field (Field Settings, Drill Down, and Drill Up), Group (Insert Slicer, Insert Timeline, and Filter Connections), Data (Refresh, and Change Data Source), Actions (Clear, Select, and Move PivotTable), Calculations (Fields, Items, &amp; Sets, OLAP Tools, and Relationships) Tools (PivotChart and Recommended PivotTables), and Show (Field List, +/- Buttons, and Field Headers).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_PTAnalyze.jpg"/>
     </media>
-    <caption>The PivotTable Analyze tab provides several tools that make data analysis streamlined. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The PivotTable Analyze tab provides several tools that make data analysis streamlined. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00004">The Timeline and Slicer tools offer a more visual way to filter the data in the PivotTable. The Fields, Items, &amp; Sets menu allows you to include more calculations in your analysis. There are additional options in this menu that can help facilitate data analysis in the PivotTable.</para>
     <section id="sect-00002">
@@ -31,14 +31,14 @@
     <media alt="PivotTable Analyze is selected on the Ribbon and an arrow points to the Filter command group on the toolbar which consists of Insert Slicer, Insert Timeline, and Filter Connections. In the spreadsheet, cell B7 is selected and 62.64 populates the cell and 62.361111111111 is in the formula bar. A PivotTable Fields window is at the right and Choose fields to add to report: is written across the top with an empty Search bar below. In the window below the Search Bar, the following list is available for selection: DATE, Major 1 (selected), Count, EN IndexScore (selected), and hsGPA. Drag fields between areas below: is next and four boxes are shown: Filters, Columns, Rows (with Major 1 and Years visible in drop downs), and Values (with Average of EN Index visible in a drop down). Defer Layout Update is along the bottom and available for selection. A faint Update button is on the bottom right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_PivotTable.jpg"/>
     </media>
-    <caption>A date filter can be applied to a dataset with the Insert Timeline tool. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>A date filter can be applied to a dataset with the Insert Timeline tool. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00006">Click in the PivotTable to bring up the PivotTable Analyze tab. Choose Insert Timeline from the Filter command group. Click the checkbox next to the field title that contains the date. In this example, the field is called DATE. Click OK. The timeline scroll bar will appear (<link target-id="fig-00003"/>). In this case, you only have annual data, so you can change the unit to years instead of quarters, months, or days.</para>
     <figure id="fig-00003">
     <media alt="Timeline is selected in the Ribbon and in the Timeline command group DATE is selected under Timeline Caption:. Date 1 is selected on the spreadsheet, which lists years as well as Average of EN Index as headers. A pop-up titled DATE listing All Periods provides a YEARS drop down at the top right with Years (selected), Quarters, Months, and Days as options. Years from 2015 through 2020 can be seen inside the window.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_ScrollBar.jpg"/>
     </media>
-    <caption>The timeline scroll bar offers a quick way to filter data using time such as years. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The timeline scroll bar offers a quick way to filter data using time such as years. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00007">Currently, the PivotTable shows all years available in the dataset. You can deselect those years that you do not want and keep only those that you are interested in examining. Let’s select 2017 and 2018, which filters the table using those dates only. You can then use this filtered data for more in-depth analysis and calculations. To remove the timeline, right-click on the timeline scroll bar and choose <term class="no-emphasis" id="term-00004">Remove Timeline</term>. If you had already filtered the data with the timeline, the data in the PivotTable will remain filtered to those dates. If you want the table to return to its original form with all of the dates included, be sure to click on the <term class="no-emphasis" id="term-00005">Remove Filter</term> button prior to removing the timeline.</para>
     </section>
