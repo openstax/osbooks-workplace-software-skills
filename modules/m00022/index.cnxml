@@ -72,7 +72,7 @@
     <title>Stacked Column Chart</title>
     <para id="para-00008">The <term class="no-emphasis" id="term-00003">stacked column chart</term> compares data like the clustered column chart but displays it in a different format. It shows the relationship between groups using the same scales. Instead of the columns being next to each other, the data is stacked, one series on top of the other, in a single column. A stacked column chart can be used to show part-to-whole relationships. Using contrasting colors will help make the distinction between the groups more visible. Using one of the 3D options for displaying a stacked column chart can give it a professional appearance that is easy to interpret (<link target-id="fig-00003"/>). This stacked column chart shows WorldCorp’s sales agents’ FOB $ during a three-week period.</para>
     <figure id="fig-00003" class="scaled-down">
-    <media alt="A column chart with stacked blocks of information is titled “FOB$ By Agent.” Along the bottom, the labels are: Week 1, Week 2, and Week 3. Blocks of three different colors (blue, red, green) are stacked in the three Week columns in varying sizes with numbers on them—the bigger the number, the taller the block. Blue represents Antonio, red represents Izabelle, and green represents James.">
+    <media alt="A column chart with stacked blocks of information is titled “FOB$ By Agent.” Along the bottom, the labels are: Week 1, Week 2, and Week 3. Blocks of three different colors (orange, blue, purple) are stacked in the three Week columns in varying sizes with numbers on them—the bigger the number, the taller the block. Orange represents Antonio, blue represents Izabelle, and purple represents James.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_StackedCol.jpg"/>
     </media>
     <caption>A stacked column chart is a different way to display multiple series of data.</caption>
@@ -85,7 +85,7 @@
     <media alt="On the spreadsheet of information, a chart with bars is seen on the right, titled “Volume Sold.” The x axis is labeled number of units with numbers from 0 to 12000 in increments of 2000 and the y axis is labeled with model numbers. Blue bars run from left to right and are labeled with numbers at the ends.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_BarChart.jpg"/>
     </media>
-    <caption>Bar charts can be good for displaying complex sets of data. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Bar charts can be good for displaying complex sets of data. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00006">
@@ -99,7 +99,7 @@
     </figure>
     <note class="real-application" id="note-00002">
     <title>Misleading Graphs</title>
-    <para id="para-00011">Earlier, you learned the importance of accurately representing data in a chart to prevent misinterpretation of the information. When you are presenting charts and graphs as opposed to the actual data, special care should be taken to make sure the data representation is valid. By adjusting the scaling on either axis, you can drastically change the interpretation of the information presented in a chart. Take a look at this<link url="https://r/78MisleadGraphs">article on how mistakes have been made in representing data</link> to learn more. Now select one chart represented in the preceding link and re-create the chart so that it is not misleading, and then answer the following questions:</para>
+    <para id="para-00011">Earlier, you learned the importance of accurately representing data in a chart to prevent misinterpretation of the information. When you are presenting charts and graphs as opposed to the actual data, special care should be taken to make sure the data representation is valid. By adjusting the scaling on either axis, you can drastically change the interpretation of the information presented in a chart. Take a look at this <link url="https://r/78MisleadGraphs">article on how mistakes have been made in representing data</link> to learn more. Now select one chart represented in the preceding link and re-create the chart so that it is not misleading, and then answer the following questions:</para>
     <list id="list-00002">
     <item>What was the major issue(s) with the selected chart?</item>
     <item>What are some of the incorrect conclusions drawn from the chart?</item>
@@ -146,19 +146,25 @@
     </section>
     <section id="sect-00010">
     <title>Chart Template</title>
-    <para id="para-00016">If you are creating the same type of chart on a regular basis, creating a <term class="no-emphasis" id="term-00011">chart template</term> will save time. You can save features, themes, colors, and formats as a template that you can use with other data files. To begin, create the chart as you would normally create it. Add the desired customization to the chart. This could include formatting the chart with company colors or including the company logo as a watermark in the chart. When you are finished, right-click on the chart you just created and formatted (<link target-id="fig-00010"/>). Choose Save As Template. You will then be prompted to enter a name for the chart template you just created (<link target-id="fig-00010"/>). Consider a name for the template that will help identify the template’s use. Make sure the type is listed as Chart Template Files. Input a name and click Save.</para>
+    <para id="para-00016">If you are creating the same type of chart on a regular basis, creating a <term class="no-emphasis" id="term-00011">chart template</term> will save time. You can save features, themes, colors, and formats as a template that you can use with other data files. To begin, create the chart as you would normally create it. Add the desired customization to the chart. This could include formatting the chart with company colors or including the company logo as a watermark in the chart. When you are finished, right-click on the chart you just created and formatted (<link target-id="fig-00010"/>). Choose Save As Template. You will then be prompted to enter a name for the chart template you just created (<link target-id="fig-00023"/>). Consider a name for the template that will help identify the template’s use. Make sure the type is listed as Chart Template Files. Input a name and click Save.</para>
     <figure id="fig-00010">
-    <media alt="A Clustered Column Chart representing information highlighted from the spreadsheet in the background is titled “Sales by Month by Location.” At the right, a dialog box lists the following options: Cut, Copy, Paste Options:, Reset to Match Style, Font, Change Chart Type, Save as Template (an arrow points to this option), Select Data, Move Chart, 3-D Rotation, Group, Bring to Front, Send to Back, Save as Picture, Assign Macro, and View Alt Text. The Save Chart Template window below lists options for a location to save the file on the left side. Along the bottom, options for a File name: (Chart1) and Save as type: (Chart Template Files) are circled. Hide Folders and Tools options are available for clicking across the bottom and Save (selected) and Cancel buttons are located at the bottom right.">
+    <media alt="A Clustered Column Chart representing information highlighted from the spreadsheet in the background is titled “Sales by Month by Location.” At the right, a dialog box lists the following options: Cut, Copy, Paste Options:, Reset to Match Style, Font, Change Chart Type, Save as Template (an arrow points to this option), Select Data, Move Chart, 3-D Rotation, Group, Bring to Front, Send to Back, Save as Picture, Assign Macro, and View Alt Text.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ChartTempl.jpg"/>
     </media>
-    <caption>If you use a chart format and design on a regular basis, it might be easier to save it as a template for future use. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>If you use a chart format and design on a regular basis, it might be easier to save it as a template for future use. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00023">
+      <media alt="The Save Chart Template window lists options for a location to save the file on the left side. Along the bottom, options for a File name: (Chart1) and Save as type: (Chart Template Files) are circled. Hide Folders and Tools options are available for clicking across the bottom and Save (selected) and Cancel buttons are located at the bottom right.">
+        <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ChrTemplat2.jpg"/>
+      </media>
+      <caption>Remember to give it a file name and that the Save as file type is a chart template file. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00017">To access the saved template, go to the Insert tab and choose Recommended Charts (<link target-id="fig-00011"/>). Then, select All Charts and Templates. The saved template should be listed, and you can select that template to apply to the new dataset. Click on the template, then click OK, and Excel creates the chart based on your new dataset.</para>
     <figure id="fig-00011" class="scaled-down-30">
     <media alt="The Insert Chart window offers two tab options: Recommended Charts and All Charts. An arrow points to All Charts and lists available options on the left: Recent, Templates (an arrow points to this selection), Column, Line, Pie, Bar, Area, X Y (Scatter), Map, and Stock. At the right, the My Templates selected shows a saved Clustered Column Chart titled Sales by Location.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ChartTemp2.jpg"/>
     </media>
-    <caption>Chart templates are found under All Charts, then choose Templates. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Chart templates are found under All Charts, then choose Templates. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00011">
@@ -168,14 +174,14 @@
     <media alt="A spreadsheet of information is selected and an arrow points to a small square icon located at the bottom right of the data with a lightning bolt inside.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_QAnalysis.jpg"/>
     </media>
-    <caption>The Quick Analysis tool can be used to add sparklines to the Data Table. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The Quick Analysis tool can be used to add sparklines to the Data Table. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00019">When you access the tool, a menu of options appears (<link target-id="fig-00013"/>). Choose the appropriate tab and click on the option you want to use.</para>
     <figure id="fig-00013" class="scaled-down-30">
     <media alt="A menu window lists Formatting (selected), Charts, Totals, Tables, and Sparklines across the top. In the middle, these options are available: Data Bars, Color Scale, Icon Set, Greater Than, Top 10%, and Clear Format. Along the bottom “Conditional Formatting uses rules to highlight interesting data.” is written.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_QAMenu.jpg"/>
     </media>
-    <caption>There are various formatting options in the Quick Analysis tool. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>There are various formatting options in the Quick Analysis tool. (Used with permission from Microsoft)</caption>
     </figure>
     <section id="sect-00012">
     <title>Formatting</title>
@@ -184,35 +190,35 @@
     <media alt="In the spreadsheet of data, column E is labeled FOB$ and lists monetary values. Horizontal bars are shown in various lengths in the column over the data.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_DataBars.jpg"/>
     </media>
-    <caption>Data bars provide a visual representation of the magnitude of the data in a cell in relation to the other cells. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Data bars provide a visual representation of the magnitude of the data in a cell in relation to the other cells. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00021">The <term class="no-emphasis" id="term-00015">Color Scale</term> option adds colors to the cells based on the values relative to each other. There are several different color scales you can choose. For example, one color scale uses greens to represent the higher values and reds to represent the lower values in the dataset (<link target-id="fig-00015"/>). Again, to remove the colors, click on Clear Formats in the Quick Analysis tools or Clear Rules under Conditional Formatting.</para>
+    <para id="para-00021">The <term class="no-emphasis" id="term-00015">Color Scale</term> option adds colors to the cells based on the values relative to each other. There are several different color scales you can choose. For example, one color scale uses blues to represent the higher values and reds to represent the lower values in the dataset (<link target-id="fig-00015"/>). Again, to remove the colors, click on Clear Formats in the Quick Analysis tools or Clear Rules under Conditional Formatting.</para>
     <figure id="fig-00015" class="scaled-down-30">
     <media alt="In the spreadsheet of data, Column D is labeled Quantity and lists numeric data. Various colors highlight the data.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ColorScale.jpg"/>
     </media>
-    <caption>Color scales are colors added to the cells based on the values relative to each other. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Color scales are colors added to the cells based on the values relative to each other. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00022">Icon sets are a more visual way to see differences between the values in a dataset (<link target-id="fig-00016"/>). The default icon is an arrow that is either red, yellow, or green based on the value in the cell. The icon can be changed by accessing the Conditional Formatting menu on the Home tab.</para>
     <figure id="fig-00016" class="scaled-down-30">
-    <media alt="In the spreadsheet of data, Column D is labeled Quantity and lists numeric data. Icons of red arrows pointing down and green arrows pointing up are seen on the left sides of the data in the cells.">
+    <media alt="In the spreadsheet of data, Column D is labeled Quantity and lists numeric data. Icons of red arrows pointing down and blue arrows pointing up are seen on the left sides of the data in the cells.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_IconSet.jpg"/>
     </media>
-    <caption>Adding an icon set is yet another way to visually examine the differences within a dataset. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Adding an icon set is yet another way to visually examine the differences within a dataset. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00023">The <term class="no-emphasis" id="term-00016">Greater Than</term> option in the Quick Analysis tools will highlight data that is greater than the value you set (<link target-id="fig-00017"/>). You set this value in the input window, choose the color scheme for the highlighted cells that meet the criteria, and then click OK. Using the default color scheme, the cells that are greater than the value you set will be highlighted with a light red fill and a dark red text.</para>
     <figure id="fig-00017" class="scaled-down-30">
     <media alt="A Greater Than window states “Format cells that are GREATER THAN:” across the top. A window below lists 16 as the selection. “with” is next and then a drop-down with Light Red Fill with Dark Red Text selected. OK (selected) and Cancel buttons are located at the bottom right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Greater.jpg"/>
     </media>
-    <caption>Using Greater Than, data that is outside the criteria you select is highlighted. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Using Greater Than, data that is outside the criteria you select is highlighted. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00024">The final option in the Formatting tab of the Quick Analysis tools is the <term class="no-emphasis" id="term-00017">Top 10%</term> tool. This tool highlights the values that are in the top 10 percent in the dataset. The default is to highlight those with light red fill and dark red text. This can be changed as desired (<link target-id="fig-00018"/>).</para>
     <figure id="fig-00018" class="scaled-down-30">
     <media alt="In the spreadsheet of data, cells D7 and E6 are highlighted light red with dark red text.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Top10.jpg"/>
     </media>
-    <caption>The Top 10% tool is helpful to quickly see the top values in a dataset. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The Top 10% tool is helpful to quickly see the top values in a dataset. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00013">
@@ -222,7 +228,7 @@
     <media alt="A menu window lists Formatting, Charts (selected), Totals, Tables, and Sparklines across the top. In the middle, these options are available: Line (selected), Clustered Column, Stacked Area, Stacked Column, Scatter, and More Charts. “Recommended Charts help you visualize data.” reads across the bottom.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Charts.jpg"/>
     </media>
-    <caption>The Quick Analysis tool allows you to easily access several charting options. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The Quick Analysis tool allows you to easily access several charting options. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00014">
@@ -232,7 +238,7 @@
     <media alt="In Part a, a menu window lists Formatting, Charts, Totals (selected), Tables, and Sparklines across the top. In the middle, these options are available: Sum (selected), Average, Count, % Total, Running…, and Sum. An arrow points to a small > after the second listing for Sum. “Formulas automatically calculate totals for you.” reads across the bottom. In Part b, a spreadsheet of information lists numeric values in column D and monetary values in column E from rows 2 to 10. Cells D11 and E11 list bolded numbers that are circled.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Totals.jpg"/>
     </media>
-    <caption>The Quick Analysis tool tab gives several ways to summarize the dataset. (a) The Totals tab has many options; more tools are available if you click on the arrow. (b) Adding the sum of a column inserts a new row with the total. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The Quick Analysis tool tab gives several ways to summarize the dataset. (a) The Totals tab has many options; more tools are available if you click on the arrow. (b) Adding the sum of a column inserts a new row with the total. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00015">
@@ -242,14 +248,14 @@
     <media alt="A menu window lists Formatting, Charts, Totals, Tables, and Sparklines (selected) across the top. In the middle, these options are available: Line, Column, and Win/Loss. “Sparklines are mini charts placed in single cells.” reads across the bottom.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Sparklines.jpg"/>
     </media>
-    <caption>Sparklines are another option to add visual interest to your Data Table. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Sparklines are another option to add visual interest to your Data Table. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00028">By default, sparklines are inserted at the end of each row. Once the sparkline is inserted, you have access to the Sparkline formatting tab. Here, you can format the sparkline’s style, change the input data, or change the type of sparkline. You can also add markers to the sparkline to show the highest and lowest points. In <link target-id="fig-00022"/>, the Line sparkline was inserted. With just a quick glance, you can see that Antonio had the most sales in week two but did not do as well in week three, whereas Izabelle and James improved consistently.</para>
     <figure id="fig-00022">
     <media alt="Sparkline is selected in the Ribbon at the top and these command groups are available for selection on the toolbar: Sparkline (Edit Data), Type (Line, Column, Win/Loss), Show (High Point, Low Point, Negative Points, First Point, Last Point, and Markers), Style (Sparkline Color and Marker Color), and Group (Axis, Group, Ungroup, and Clear). Various colored lines are visible in Column E on the spreadsheet.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_SparkRet.jpg"/>
     </media>
-    <caption>There are several design options for Sparklines. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>There are several design options for Sparklines. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="link-to-learning" id="note-00003">
     <para id="para-00029">Marimekko charts are a way to visually examine market share. They are used often in consulting and finance companies. You can also include different segments within an industry. Read <link url="https://openstax.org/r/78Marimekko">this article to find out more about this special type of chart and how to create it</link> in Excel.</para>

@@ -50,21 +50,27 @@
     <media alt="An Insert Slicers window lists these options available for selection: DATE, Major 1 (selected), Count, EN IndexScore, HS GPA, ACTEnglish, ACTMath, ACTReading, ACTScience, ACTComp., Quarters, and Years. OK (selected) and Cancel buttons are located at the bottom.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_Slicer.jpg"/>
     </media>
-    <caption>The Insert Slicer tool allows you to choose which variable to filter. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The Insert Slicer tool allows you to choose which variable to filter. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00010">The slicer will appear on the spreadsheet with selection buttons for each of the majors in the list. You can resize and format the slicer to meet your needs. You can also choose various slicer styles under the Slicer tab that becomes accessible when you click inside the slicer (<link target-id="fig-00005"/>).</para>
     <figure id="fig-00005">
     <media alt="Slicer is selected on the Ribbon and these command groups are available on the toolbar: Slicer (Slicer Caption: with Major 1 selected, Slicer Settings, and Report Connections), Slicer Styles (different color options are available for selection from a window), and Arrange (Bring Forward, Send Backward, Selection Pane, Align, and Group are available for selection).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_Slicer2.jpg"/>
     </media>
-    <caption>The Slicer tab appears when you have inserted a slicer into a PivotTable. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The Slicer tab appears when you have inserted a slicer into a PivotTable. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00011">When you insert the slicer, the default is for all majors to be selected, as indicated by the blue highlighted buttons (<link target-id="fig-00006"/>a). You can click on the Multi-Select option to remove all the majors and start building your table for analysis. For this example, you want to look at the differences in HS GPA for Biology, Chemistry, Accounting, and Business Administration. You will choose only those majors to be displayed in your PivotTable (<link target-id="fig-00006"/>b).</para>
+    <para id="para-00011">When you insert the slicer, the default is for all majors to be selected, as indicated by the blue highlighted buttons (<link target-id="fig-00006"/>). You can click on the Multi-Select option to remove all the majors and start building your table for analysis. For this example, you want to look at the differences in HS GPA for Biology, Chemistry, Accounting, and Business Administration. You will choose only those majors to be displayed in your PivotTable (<link target-id="fig-00013"/>).</para>
     <figure id="fig-00006">
-    <media alt="In Part a, Slicer is selected on the Ribbon and on the toolbar in the Slicer Command Group, Major 1 is selected under Slicer Caption:. In the Slicer Styles command group, blue colors are selected. On the spreadsheet, Major 1 is selected and the pop-up window is named Major 1 at the top left and the list is highlighted in blue. At the top right the Slicer button is circled. In Part b, the pop-up window for Major 1 is shown with the Slicer button and the checkmarks next to lines button, both circled. Four of the eight items in the list are highlighted blue while the rest are plain white.">
+    <media alt="Slicer is selected on the Ribbon and on the toolbar in the Slicer Command Group, Major 1 is selected under Slicer Caption:. In the Slicer Styles command group, blue colors are selected. On the spreadsheet, Major 1 is selected and the pop-up window is named Major 1 at the top left and the list is highlighted in blue. At the top right the Slicer button is circled.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_Slicer3.jpg"/>
     </media>
-    <caption>(a) By inserting a slicer, a user can quickly filter data by simply clicking on the major of interest in this example. (b) To remove a filter, click on the Remove Filter button. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>By inserting a slicer, a user can quickly filter data by simply clicking on the major of interest in this example. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00013">
+      <media alt="The pop-up window for Major 1 is shown with the Slicer button and the checkmarks next to lines button, both circled. Four of the eight items in the list are highlighted blue while the rest are plain white.">
+        <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_Slicer3b.jpg"/>
+      </media>
+      <caption>To remove a filter, click on the Remove Filter button. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00012">Choosing only these majors filters the table for an easier and more direct comparison. Remember, you could simply use the filter option in the column heading, but slicers are a convenient and interactive way to filter data. To remove the filter, click on the <term class="no-emphasis" id="term-00009">Remove Filter</term> button in the top right of the slicer window. To remove the slicer entirely, right-click on the slicer and choose <term class="no-emphasis" id="term-00010">Remove Slicer</term>. Be sure to remove the filters first if you want the data to return to its original form. Simply removing the slicer window will not also remove the filters you set in place.</para>
     <para id="para-00013">Slicers are also available when you have data in a Data Table. With the data formatted as a Data Table, click inside the Data Table to bring up the Table Design tab. The Insert Slicer option is in the Tools command group (<link target-id="fig-00007"/>). The process to insert, format, use, and remove slicers is the same as it is for PivotTables.</para>
@@ -72,7 +78,7 @@
     <media alt="An arrow points to the Table Design tab selected on the Ribbon. The Insert Slicer button on the Tools command group is circled. Cell A1 is selected in the spreadsheet and DATE is in the formula bar.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_Slicer4.jpg"/>
     </media>
-    <caption>Slicers can be used with Data Tables as well through the Table Design tab. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Slicers can be used with Data Tables as well through the Table Design tab. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="link-to-learning" id="note-00001">
     <para id="para-00014">PivotTable slicers are a great way to set up an interface so that users can better navigate the data file. You can make a dashboard of slicers to make it easier for users to select the data they need to see from the PivotTable. Read this <link url="https://openstax.org/r/78ExDashboard">article that provides a detailed example of setting up a dashboard with both slicers and timelines</link> to learn more.</para>
@@ -85,28 +91,28 @@
     <media alt="PivotTable Analyze is selected on the Ribbon and Fields, Items, &amp; Sets is selected on the toolbar and opens to these choices: Calculated Fields… (shown with an arrow), Calculated Item…, Solve Order…, List Formulas, Create Set Based on Row Items…, Create Set Based on Column Items…, and Manage Sets…. The Fields, Items, &amp; Sets button and the choices are all circled.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_Fields.jpg"/>
     </media>
-    <caption>Calculated fields are added to a PivotTable through the PivotTable Analyze tab. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Calculated fields are added to a PivotTable through the PivotTable Analyze tab. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00016">These calculated field columns cannot be used with slicers, but they allow you to analyze the data in other ways. Using the dataset of enrollments and ACT scores, assume you want to get the average ACT scores across the various content areas (English, Math, etc.). You will need to get an average of the four ACT scores as a calculated field column. Click inside the PivotTable to access the PivotTable Analyze tab; choose Fields, Items, &amp; Sets; and click on Calculated Field. An input window will appear (<link target-id="fig-00009"/>).</para>
     <figure id="fig-00009" class="scaled-down-30">
     <media alt="An Insert Calculated Field window lists options for Name: (blank drop down to the right) and Formula: (blank window to the right). Add and Delete buttons are seen on the right. Fields: lists these options: DATE (selected), Major 1, Count, EN IndexScore, HS GPA, eng, math, and reading. An Insert Field button is located at the bottom right of the window and OK (selected) and Cancel buttons are on the bottom right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_Fields2.jpg"/>
     </media>
-    <caption>Select the variable for the calculated field in the Insert Calculated Field window. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Select the variable for the calculated field in the Insert Calculated Field window. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00017">You will need to name the calculated field—use “ACT average” for this example—and then you can input the formula. Remember that all formulas in Excel need to begin with an equals sign. You can use functions such as AVERAGE, SUM, and IF, as appropriate for your needs. For this example, you want the average of the English, Math, Reading, and Science fields. To accomplish this, type in the Formula input box “=AVERAGE(” to begin. Then, choose “eng” from the Fields list and select Insert Field. Then, type a comma and insert the next field, “math.” At the end of the formula, make sure to close your parentheses and then check for extra spaces in the formula (<link target-id="fig-00010"/>). Then, click Add to create the calculated field. Finally, click OK to include the calculated field column in your PivotTable (<link target-id="fig-00010"/>).</para>
+    <para id="para-00017">You will need to name the calculated field—use “ACT average” for this example—and then you can input the formula. Remember that all formulas in Excel need to begin with an equals sign. You can use functions such as AVERAGE, SUM, and IF, as appropriate for your needs. For this example, you want the average of the English, Math, Reading, and Science fields. To accomplish this, type in the Formula input box “=AVERAGE(” to begin. Then, choose “eng” from the Fields list and select Insert Field. Then, type a comma and insert the next field, “math.” At the end of the formula, make sure to close your parentheses and then check for extra spaces in the formula. Then, click Add to create the calculated field. Finally, click OK (<link target-id="fig-00010"/>a). You will now see the calculated field column in your PivotTable (<link target-id="fig-00010"/>b).</para>
     <figure id="fig-00010">
     <media alt="In Part a, an Insert Calculated Field window lists options for Name: (ACT Average is selected) and Formula: (=AVERAGE(eng,math,reading,science) is in the window) and an arrow points to the formula. A separate arrow points to the Add button. The Delete button is below. Fields: lists these options: DATE, Major 1 (selected), Count, EN IndexScore, hsGPA, eng, math, and reading. An arrow points to the Insert Field button (selected) located at the bottom right of the window and OK and Cancel buttons are on the bottom right. In Part b, PivotTable Analyze is selected on the Ribbon and in the Active Field command group the Average of science is selected in the Active Field:. In the spreadsheet, cell G3 is selected (Average of science). An arrow points to cell H3 (Sum of ACT avg).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_AvgACT.jpg"/>
     </media>
-    <caption>Using the (a) Calculated Field feature will add (b) a new column to the PivotTable. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Using the (a) Calculated Field feature will add (b) a new column to the PivotTable. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00018">The default setting for the column headings in PivotTables is “Sum of” even though you are calculating an average. When you created the calculated field, you named the field ACT average, but that is not the column heading Excel will use. Excel will automatically add on “Sum of” to the column heading. You can change that by simply clicking on the column heading and deleting the words “Sum of.” Notice the data in the first cell in the ACT average column for each major is much larger than the other numbers in the major. This cell represents the sum of all the averages for the subgroup. For accounting, 131.49 is the sum of the average ACT numbers for the years 2015 to 2020. Excel automatically adds the subtotal to the first field in the Rows list. This number is probably not as valuable as the averages per year under each major. You can delete this value by choosing the field settings for Major 1 and under Subtotals, select None (<link target-id="fig-00011"/>).</para>
     <figure id="fig-00011">
     <media alt="In the spreadsheet, cell A4 is selected (Accounting). A Field Settings window lists Source Name: as Major 1 and Custom Name: as Major 1. Two tabs are below: Subtotals &amp; Filters (selected) and Layout &amp; Print. The selected tab is labeled Subtotals and lists these options for selections: Automatic, None (selected and an arrow points to it), and Custom (Select one of more functions: is stated below and a window with these options for selection is visible: Sum, Count, Average, Man, Min, and Product). Filter is below the window and “Include new items in manual filter” is available for selection. OK (selected) and Cancel buttons are on the bottom right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_Sub.jpg"/>
     </media>
-    <caption>The default setting is “Automatic.” This adds the subtotal for the first field in Rows in the PivotTable. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The default setting is “Automatic.” This adds the subtotal for the first field in Rows in the PivotTable. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00019">Adding this calculated field for the accounting majors, you can see that the average ACT was at its lowest in 2019 and at its highest in 2018. Calculated fields can be used with sales and expense information to determine your profit, profit margin, and other similar calculations.</para>
     <para id="para-00020">There are other options in the Insert Calculated Field input window that may also be useful. You can select the calculated field from the list and modify it to make changes. You can also select that calculated field and delete it entirely. Click OK after making your changes or deleting the calculated field. If you delete the field, the column will be removed from the PivotTable.</para>
@@ -118,7 +124,7 @@
     <media alt="A spreadsheet with Calculated Field in cell A1 lists Solve Order, Field, and Formula headers in row 3. Cells A3 to C5 are populated with accompanying information. Calculated Item lists in cell A7 with Solve Order, Item, and Formula in row 8. No data is listed below. Notes are seen at the bottom of the spreadsheet beginning in row 11.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_04_ListForm.jpg"/>
     </media>
-    <caption>If there are multiple users for a spreadsheet, use the List Formulas tool to make sure all users are aware of the calculated fields and solve order in a PivotTable. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>If there are multiple users for a spreadsheet, use the List Formulas tool to make sure all users are aware of the calculated fields and solve order in a PivotTable. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="real-application" id="note-00002">
     <title>Tracking Spending</title>
