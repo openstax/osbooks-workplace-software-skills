@@ -1,10 +1,17 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Chapter Scenario</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Chapter Scenario</md:title>
     <md:content-id>m00032</md:content-id>
     <md:uuid>21508d2e-a9cc-41af-a82e-281bdae5f919</md:uuid>
   </metadata>
-  <content>
-  </content>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <media alt="Alt text">
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/></media>
+    <caption>Many people use word processing software for a variety of purposes, such as writing a paper for an assignment, or creating a report for a manager. Companies often use both Microsoft Word and Google Docs in the workplace.</caption>
+    </figure>
+    <para id="para-00001">You have been tasked with writing a market trends report on the manufacturing division of WorldCorp’s consumer goods company, which produces products such as televisions and computer monitors. A market trends report summarizes the current status of an industry, details the major competitors and their market share, and provides some information on where the industry is moving. You are the main document editor, but you need to get information from other WorldCorp employees in different departments, such as the manufacturing and the accounting departments, as well as from international business statistics databases. Creating this report will require a considerable amount of collaboration and sharing of information, as well as layout and design skills, to make the final report look good. The process of creating this market trends report will require a thorough, working knowledge of the program you are using to generate it.</para>
+    <para id="para-00002">Microsoft Word and Google Docs are two of the more popular document preparation and editing software programs. Both programs have a distinct look and feel, as well as their own advantages. Word is full of powerful tools that can be used across different fields, from education to accounting. In contrast, Docs, a free application, has more user-friendly and collaborative features. Offices around the world use both tools for different purposes. First, you will learn about Word, and then Docs, building on the basics from the chapter on the [link]Essentials of Software Applications for Business[/link].</para>
+    </content>
 </document>
