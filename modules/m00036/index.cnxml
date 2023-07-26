@@ -6,5 +6,179 @@
     <md:uuid>650b65d1-4efb-4dfb-a30b-a31cc23b82ca</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Use the tools in the Review tab</item>
+    <item>Use the Editor tool</item>
+    </list>
+    </section>
+    <para id="para-00002">To put together the market trends report, you will need to gather information from several departments. This information will likely include past sales data, information about current major vendors and customers, an evaluation of the major competitors, and other related content. To ensure the accuracy and integrity of the content, you want to have each department review the data specific to their sector. You also want to have the report reviewed by a peer colleague and your supervisor to ensure it is correct and of the quality expected. Word offers collaborative tools in the Review tab that make it easy to solicit, see, and implement feedback from other stakeholders.</para>
+    <section id="sect-00002">
+    <title>Review Tab</title>
+    <para id="para-00003">The <term class="no-emphasis" id="term-00001">Review</term> tab is vital for teamwork between collaborators of documents. Many documents are created in collaboration across functional departments, and each contributor to the document needs to record their changes and suggestions so others can review them. The Review tab also has several <term id="term-00002">proofreading</term> tools you might need for editing a document, such as a thesaurus.</para>
+    <section id="sect-00003">
+    <title>Proofing Tools</title>
+    <para id="para-00004">As a student, you have probably been instructed to spell-check your work before handing it in. Word offers spell-check by simply selecting <term class="no-emphasis" id="term-00003">Spelling and Grammar</term> on the Review tab. This tool will automatically check your spelling and grammar according to the dictionary and other language parameters in Word (which you can adjust from the default settings if desired). A dialog box will appear, and Word will give the option to accept or reject each of its corrections. It should be noted that spell-check will not always check when a word is misused.</para>
+    <para id="para-00005">For example, if you have typed “four” instead of “for”, spell-check will not indicate a misspelled word. The document creator will still need to proofread the document and not rely entirely on the Spelling and Grammar check tool.</para>
+    <para id="para-00006">Word gives its users many options for customizing their dictionary and language preferences. For example, you may frequently use the abbreviation “e.g.,” in your business documents, which means “<emphasis effect="italics">exempli gratia</emphasis>,” or “for example.” If you don’t add this abbreviation to your Word dictionary, it may be labeled as a spelling mistake. “<emphasis effect="italics">Id est</emphasis>” is another Latin term you might see, which means “that is to say.” After you add these words to your dictionary, Word will stop flagging them as an error (<link target-id="fig-00001"/>).</para>
+    <figure id="fig-00001" class="scaled-down-30">
+    <media alt="In the document, the words “id est” are seen, with a cursor between the letters e and s. A pane open in front of the text lists: Est, set, east, eat, best, Ignore All, Add to Dictionary (selected), Smart Lookup, Hyperlink, and New Comment.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_04_Spell.jpg"/>
+    </media>
+    <caption>Adding regularly used new words to your dictionary will save you time when spell-checking a document. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00007">Another language customization feature is setting the proofing language. Word comes with dictionaries for several languages, as well as a variety of English dialects, including British, Canadian, Australian, Caribbean, Singaporean, New Zealander, and American English. After you set your preferred dialect, Word will check your spelling and grammar according to that dialect. For example, if you choose American English as your preferred dialect, the Spelling and Grammar tool will mark the word “favour” as an error and suggest the American spelling “favor.”</para>
+    </section>
+    <section id="sect-00004">
+    <title>Comments</title>
+    <para id="para-00008">Comments are used for calling attention to any content in your document that you want to solicit input on or note for yourself. You can also use <term id="term-00004">comments</term> to flag spelling or usage queries, provide instructions to others reviewing your document, remind yourself to address something later like adding a graphic or fact-checking a statement, or ask questions about the content. To add a comment, select the segment of text in question, and then select <term class="no-emphasis" id="term-00005">New Comment</term> from the Review tab, as shown in <link target-id="fig-00002"/>. You can then type within the comment and click the arrow when you’re done to make sure the comment sticks.</para>
+    <figure id="fig-00002">
+    <media alt="The Review tab is selected and in the Comments command group, Show Comments is selected. In the document visible on the screen, the words “New Comment” are highlighted pale purple with purple lines at each end of the comment. A purple speech bubble is visible directly to the right of the highlighted words. At the right, a comment box is open with the name of the person making the comment as well as the comment. The date and time the comment was made is shown as well as an empty Reply box. Three dots in a row and a pencil icon are seen at the top right of the comment box.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_04_Comment.jpg"/>
+    </media>
+    <caption>Comments can be used to communicate collaboratively within a document, or to add notes to yourself. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00009">When working in a document with comments, you can reply to any comment to add additional information or start a dialogue about a specific item. Once comments are addressed and are no longer needed in the document, you can either delete or resolve them, as <link target-id="fig-00003"/> shows. Deleting a comment removes it completely from the document, whereas resolving a comment retains the comment in a history stored digitally with the document.</para>
+    <figure id="fig-00003">
+    <media alt="In the document visible on the screen, the word “across” is highlighted pale purple with purple lines at each end of the comment. A purple speech bubble is visible directly to the right of the highlighted word. At the right, a comment box is open with the name of the person making the comment as well as the comment. The date and time the comment was made is shown as well as an empty Reply box. Three dots in a row and a pencil icon are seen at the top right of the comment box. The three dots are selected and the pane that opens up shows Delete thread and Resolve thread for selection.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_04_Comment3.jpg"/>
+    </media>
+    <caption>Comments can be either deleted or resolved when they are no longer needed. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00010">In a collaborative business document like your market trends report, you may find that another collaborator added content that was not ideal. The next collaborator or editor in the process could flag this content with a comment and send the document back to be revised. When the collaborator is done making the changes, you or they can resolve the issue.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Tracking Changes</title>
+    <para id="para-00011">The shared effort of writing a document across departments and functions is achieved through the <term id="term-00006">Track Changes</term> tool on the Review tab. Once turned on, this tool literally tracks the changes a user makes to a document, using a different color to highlight each user’s edits. Once the document is saved and passed along to the next collaborator, that next user can clearly see what has changed from the original document. This makes collaborating on a document asynchronously—that is, not at the same time—easy to do.</para>
+    <para id="para-00012">Sometimes, you might work in a document that goes back-and-forth between you and one or two colleagues, and you review each other’s changes and resolve comments at each pass. In other cases, all feedback may be collected and processed by one person. In the latter situation, after all collaborators have added their inputs to the document, a final author decides what changes are going to be kept for the final draft. This person might be a project manager or higher-level editor, depending on the workflow and organization of your company’s editing process. This type of editing cycle—sending documents to various stakeholders for revisions and/or input—is common in many industries. An editing cycle may repeat multiple times before the document is finalized. Using Track Changes and comments allows for many iterations of the editing cycle, all while maintaining clear version history and control.</para>
+    <para id="para-00013">The Tracking command group offers options for which changes or markups are shown. You can toggle between No Markup and All Markup to see tracked and clean versions of a document (<link target-id="fig-00004"/>). The <term class="no-emphasis" id="term-00007">Show Markup</term> selections allow you to turn off Formatting revisions so you can focus more easily on content changes. There is also an option to turn on/off feedback from specific reviewers. These possibilities are helpful when you have a document with a lot of markup and want to focus on one area of input in particular.</para>
+    <figure id="fig-00004" class="scaled-down">
+    <media alt="(a) The Display for Review option is selected on the Tracking command group. The drop down lists Simple Markup, All Markup (selected), No Markup, and Original for selection. (b) The Show Markup option is selected on the Tracking command group. The drop down lists Insertions and Deletions (check marked), Formatting (check marked), Balloons, Specific People (selected), Highlight Updates, and Other Authors. From Specific People selected, a pane opens on the right listing All Reviewers, and the names of the four people who are reviewing the document. All Reviewers and all four names are selected with a checkmark.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_04_Comment2.jpg"/>
+    </media>
+    <caption>(a) Users can adjust how much markup they see, as well as (b) what types or markups are shown and which reviewers’ feedback is displayed. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00014">Collaborators, or a final author, have the option to accept or reject each change that has been tracked. While reviewing changes, you can hover over any individual edit to see who made the edit and when, as shown in <link target-id="fig-00005"/>. The Changes command group on the Review tab has the option of accepting or rejecting the various tracked edits as they are reviewed. You can also select to accept all changes in the document without reviewing them individually.</para>
+    <figure id="fig-00005" class="scaled-down">
+    <media alt="(a) A document displays words “collaborating on a document” in purple font crossed out with a strikethrough line followed by the words “working with a” in purple font and underlined. A small window displays at the right with a name, date, time, and the words “working with a group of people” in pale gray. (b) The Accept button on the Changes command group on the Ribbon is selected. A drop down pane lists these options for selection: Accept and Move to next, Accept This Change, Accept All Changes Shown, Accept All Changes, and Accept All Changes and Stop Tracking. In the document, a cursor is between the letters “c” and “o” in the word company, which is highlighted purple and underlined.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_04_Accept.jpg"/>
+    </media>
+    <caption>(a) Track Changes tells you who made a revision, and at what time, and (b) lets you accept or reject each suggested edit. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="real-application" id="note-00001">
+    <title>Résumé Peer Evaluation</title>
+    <para id="para-00015">A résumé is a summary of your work experience that you use when applying for a job. You might not have a résumé at this point, but you will probably need to create one in the near future. One option is to start with a template that you find online or in Word or Google Docs and create one on your own. However, you might consider starting at the career services office at your college. The career counselors in that department can help you craft a professional résumé for your job search. You will first be asked to develop a list of your previous jobs and the responsibilities that you had while working in those positions. Then, the career counselor will ask about what type of job you are looking for now and your career goals in general. All of these aspects will be reflected in the résumé you develop. The next step will be to create a first draft of your résumé. The counselor will likely give you some tips and maybe even a couple of examples to reference when creating your résumé. You can expect that your résumé will go through several edits and evaluations before you have a final product.</para>
+    <para id="para-00016">Both Word and Docs have the tools you need to get feedback on your résumé drafts from the career services department. You can share the file with others and have them insert comments or make revisions to your résumé. Through the tools in the programs, you are able to see revisions made, who made the revisions, and respond to comments. The collaboration tools in Word and Docs make it easy to get feedback so that you can create a polished résumé to help you secure the perfect job.</para>
+    </note>
+    </section>
+    <section id="sect-00006">
+    <title>Protect</title>
+    <para id="para-00017">If you do not want certain collaborators to change a document, you may configure your document so that future readers of a document can change only certain components. In the <term class="no-emphasis" id="term-00008"> Protect</term> command group on the Review tab, select <term class="no-emphasis" id="term-00009">Restrict Editing</term>. This will offer two types of restrictions that you can set, as <link target-id="fig-00006"/> shows. The first, Formatting restrictions, lets you specify which elements of a document can be edited (see <link target-id="fig-00007"/>). For example, you might allow editing only to the main text and not allow it to headers or tables. The second option, Editing restrictions, limits the level of editing others can do—from none, to commenting only, to only tracked revisions. Those restrictions can be further customized to allow different restrictions for different users.</para>
+    <figure id="fig-00006" class="scaled-down">
+    <media alt="The Restrict Editing button is selected in the Protect command group on the Ribbon. A pane is open for Restrict Editing with these options for selection: 1. Formatting restrictions (includes a box for Limit formatting to a selection of styles and Settings), 2. Editing restrictions (includes a box for selecting Allow only this type of editing in the document: and a drop down with selections, including No changes (Read only)), and 3. Start enforcement (includes Are you ready to apply these settings? (You can turn them off later) and includes a drop down with selections, including Yes, Start Enforcing Protection).">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_04_RestrictA.jpg"/>
+    </media>
+    <caption>Document protections can be added by restricting editing to certain components of a document, or to limited levels of editing. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00007">
+    <media alt="(a) A Formatting Restrictions pane is visible. The Styles tab is at the top. A button is selected for Limit formatting to a selection of styles followed by this paragraph: By restricting formatting to the styles you select, you prevent the ability to modify styles and the ability to apply direct formatting to the document. Select the styles you want to allow to be used in this document. A drop down labeled Checked styles are currently allowed: follows with various styles available for selection. All, Recommended Minimum and None buttons follow. A formatting section includes these items for selection: Allow AutoFormat to override formatting restrictions, Block Theme or Scheme switching, an Block Quick Style Set switching. OK and Cancel buttons are located at the bottom right. (b) A portion of a pane with 2. Editing restrictions is visible. Below the title, an option labeled Allow only this type of editing in the document: is checked and the drop down below lists: No changes (Read only), Tracked changes, Comments, Filling in forms, and No Changes (Read only)(selected).">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_04_RestrictBC.jpg"/>
+    </media>
+    <caption>(a) Formatting restrictions can get quite detailed; however, they’re important to set to keep your document’s style from becoming inconsistent. (b) Editing restrictions for other users can range from allowing others to work freely, to work in Track Changes, or to “read only” and not make any changes. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="mac-tip" id="note-00002">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00018">Protect menu options on a Mac also include password protections, document review protections, and privacy. There is also a menu button for Always Open Read-Only.</para>
+    </problem>
+    </exercise>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00007">
+    <title>Editor Tool</title>
+    <para id="para-00019">The <term id="term-00010">Editor</term> tool in Word adds another level of document support with a more comprehensive editorial review. Essentially, it is like a virtual editor, which goes beyond simple spelling and grammar checking. The Editor tool is on the Home tab and can also be found on the Review tab. Simply click on the icon, and it will review your document and provide a report and score. You can set the Editor to review for formal writing, professional writing, or casual writing.</para>
+    <para id="para-00020">The Editor tool will check for spelling and grammar errors, as well as potential improvements, providing an explanation of the issue and a suggested revision (<link target-id="fig-00008"/>). In addition to spelling and grammar, it will check for clarity, conciseness, formality, punctuation conventions, inclusiveness, vocabulary, conciseness, clichés, and many more. In fact, the Editor tool checks for over 150 different issues with readability in documents. For each item, it will give a rationale and suggested improvement that you can accept or reject.</para>
+    <figure id="fig-00008">
+    <media alt="A document is visible with the word “differences” highlighted pale gray and underlined in blue font. An Editor pane is open with Grammer at the top. A sentence below reads: After an introductory word or phrase, a comma is best. In the review pane the paragraph from the document is shown with the word “differences” underlined with blue font. A suggestions heading follows with “differences,” in bold font.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_04_Editor2.jpg"/>
+    </media>
+    <caption>Editor will provide explanations and suggested revisions for errors of spelling, grammar, clarity, inclusivity, conciseness, and more. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section class="section-summary" id="sect-00008">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>The Review tab includes proofing tools like spelling and grammar check, commenting, Track Changes, and document protection.</item>
+    <item>The Editor tool conducts deep grammar and style checks on your document.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00009">
+    <title>Review Questions</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00021"><link class="os-embed" url="#exercise/03-04-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00022"><link class="os-embed" url="#exercise/03-04-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00010">
+    <title>Written Questions</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00023"><link class="os-embed" url="#exercise/03-04-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00024"><link class="os-embed" url="#exercise/03-04-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00011">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00025"><link class="os-embed" url="#exercise/03-04-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00026"><link class="os-embed" url="#exercise/03-04-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00012">
+    <title>Case Exercises</title>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00027"><link class="os-embed" url="#exercise/03-04-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>comments</term>
+    <meaning>digital margin notes that collaborators can create, reply to, resolve, or delete</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>Editor</term>
+    <meaning>virtual editing tool that reviews several aspects of your document’s writing, and can be set for different styles</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>proofreading</term>
+    <meaning>process of checking a document for spelling and grammar mistakes</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>Track Changes</term>
+    <meaning>feature in Word that records what changes different users make to a document, allowing a group of people to collaborate in writing and editing the same document</meaning>
+    </definition>
+    </glossary>
 </document>
