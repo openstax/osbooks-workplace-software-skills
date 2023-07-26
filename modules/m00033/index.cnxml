@@ -6,5 +6,153 @@
     <md:uuid>7a3a628a-db91-4864-b7a8-8ba15292daa8</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify the most commonly used tabs in Microsoft Word</item>
+    <item>Use the Navigation pane</item>
+    </list>
+    </section>
+    <para id="para-00002"><term class="no-emphasis" id="term-00001">Microsoft Word</term> is a sophisticated word processing application. It completely transformed the document-creation process, replacing typewriters and existing word processing programs, such as WordPerfect and WordStar, with a user-friendly digital interface and hundreds of options for formatting. The comprehensive features allow users to easily adjust fonts and page layouts, insert graphics, track revisions, communicate collaboratively via comments, check spelling, search for text, and much more.</para>
+    <para id="para-00003">Let’s get started on our market trends report. As you learned in the chapter on [link]Essentials of Software Applications for Business[/link], you should first open a new, blank document in Word. Using the default settings, type the following into the document:</para>
+    <quote id="quote-00001">
+    <para id="para-00004">Industry and Market Analysis</para>
+    <para id="para-00005">The laptop industry is growing at a rather slow rate with sales expected to grow around 1% annually. Sales in the industry currently are over $20 billion. A large part of sales comes from consumer demand. There are several key players in the laptop industry. The largest companies in the industry in terms of consumer laptop ownership in the United States (market share) are HP, Dell, Apple, Acer, and Lenovo. Individuals can purchase a laptop at various price points based on the features, speed, and storage capabilities of the laptop. These companies also compete in the tablet industry and some consumers might make the decision to choose a tablet over a laptop. There are also laptops that are considered “convertible,” meaning that they can be more like a tablet or a laptop with the screen feature that allows full rotation.</para>
+    </quote>
+    <para id="para-00006">You will use this text to build the framework for the market trends report as you move through the sections in this chapter and in subsequent chapters.</para>
+    <section id="sect-00002">
+    <title>Tabs</title>
+    <para id="para-00007">Word comes with a set of default tabs (or menus), which are the interface for most of the functions and features you will use. Those tabs are File, Home, Insert, Draw, Design, Layout, References, Mailings, Review, View, and Help.</para>
+    <note class="mac-tip" id="note-00001">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00008">These same tabs are on the Mac Menu Bar, but the menu bar varies when you are in Word. There is no File tab on Word’s toolbar in Mac. The default tabs you see depend on the settings you have selected. They usually are Home, Insert, Draw, Design, Layout, References, Mailings, Review, View, and Tell Me. You can access Word preferences and settings via the taskbar at the top of the screen.</para>
+    </problem>
+    </exercise>
+    </note>
+    <para id="para-00009">Many of the features that are common among the tabs in Office were covered in the [link]Essentials of Software Applications for Business[/link] chapter. In this chapter, you will learn more about how the tabs work in Word.</para>
+    <para id="para-00010">You can customize your menu bar by adding or hiding tabs, and by modifying the tools that appear on each tab. There are hundreds of commands you can choose from; the Word interface is highly customizable. Customization of the tabs was covered in the chapter on [link]Essentials of Software Applications for Business[/link]. The next sections introduce some of the most important default tabs and their overall function, as well as the most-used commands, as <link target-id="fig-00001"/> shows.</para>
+    
+    <figure id="fig-00001">
+    <media alt="A Ribbon for a Word Doc is displayed. The Tabs across the top are: File, Home, Insert, Design, Layout, References, Mailings, Review, View, and Help. Each tab includes various commands. A Comments and a Share button are located at the top right on the bar.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_01_WordRibbon.jpg"/></media>
+    <caption>Notice there are several tabs, such as Home and Insert, that are common to all Office programs, as covered in Chapter 2. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <section id="sect-00003">
+    <title>Home Tab</title>
+    <para id="para-00011">The <term class="no-emphasis" id="term-00002">Home</term> tab is where you will spend most of your time, as it contains the formatting of fonts, alignment, headings, numbering, and lists, as well as the Find commands. It is also the default tab that displays when you open your document. We will go over the Home tab commands in detail in [link]Formatting Document Layout in Microsoft Word[/link].</para>
+    </section>
+    <section id="sect-00004">
+    <title>Insert Tab</title>
+    <para id="para-00012">The <term class="no-emphasis" id="term-00003">Insert</term> tab is useful for adding certain material into your document. The Insert tab also allows the user to include elements such as headers and footers, page numbers, page breaks, and bookmarks. We will review using these features in more detail in the chapter on [link]Document Preparation[/link].</para>
+    <para id="para-00013">Knowing how to use the Insert tab is particularly important for designing business documents, such as your WorldCorp market trends report. Your report will contain many pages and sections, as well as a table of contents and page numbers. It will also likely contain charts, graphs, and images, all of which need to be inserted into the document. For example, you could insert a chart of the top-selling TV screens (by using the Charts drop-down menu), then add a callout or label explaining the chart (by using the Shapes drop-down menu).</para>
+    </section>
+    <section id="sect-00005">
+    <title>Layout Tab</title>
+    <para id="para-00014">The <term class="no-emphasis" id="term-00004">Layout</term> tab is where you will configure your page setup. It includes commands for adjusting margins and the paper size, as well as options for shaping the text on the page with columns. The Paragraph command group is for adjusting the alignment of lists, body text, and objects such as pictures in your document. This tab also gives the user options for adding page breaks and line numbers.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Review Tab</title>
+    <para id="para-00015">If you are working with a team on your documents, you’ll likely use the <term class="no-emphasis" id="term-00005">Review</term> tab. This tab has a commenting function that allows users to add comments to a file, and to respond to each other’s comments, as also discussed in the [link]Essentials of Software Applications for Business[/link] chapter. As <link target-id="fig-00002"/> shows, the Review tab contains the <term class="no-emphasis" id="term-00006">Track Changes</term> feature, which is helpful when many people are taking turns reviewing and contributing to a document. When Track Changes is turned on, edits to the document appear underlined and in colored text. Each user’s edits will be colored differently to easily distinguish input from multiple people. This is particularly helpful when documents go through several revisions and are reviewed by many people. The market trends report for WorldCorp is a team effort, requiring several people to contribute to the final product. You can expect that as the document is created and revised, comments will be used to help reach the final version of the report.</para>
+    <para id="para-00016">The Track Changes process might feel familiar to you, as it is designed to mimic the act of marking up a paper document with a pen. You might have had someone work on your résumé or mark up a homework assignment of yours, using a red pen to make suggestions and revisions on the document itself. In a Word document, comments and Track Changes serve the same purpose as using a red pen on a paper document. This process will be covered in more detail later in the chapter.</para>
+    <para id="para-00017">The Review tab also has many commands that allow commenting and suggesting changes in documents that are used and edited by multiple people. <link target-id="fig-00002"/> shows two comments that users made by choosing the <term class="no-emphasis" id="term-00007">New Comment</term> function. As people work on the document, they can read and respond to those comments, or remove them by clicking on them and selecting Delete in the Comments menu. There are also options in the <term class="no-emphasis" id="term-00008">Show Markup</term> button found in the Tracking command group to display (or not display) formatting changes such as boldfacing or underlining.</para>
+    <figure id="fig-00002">
+    <media alt="The Review tab is selected. In the Comments command group, Show comments is selected and in the Tracking Command Group Track Changes is selected. In the document, words are colored green that have been altered and a line is shown through words that have been deleted. The word “Review” is highlighted a pale purple and lines are seen at both ends of the word. Below the doc, a pale purple speech bubble is visible with comments about the text from two different people. The first comment is then followed by a response from a second person.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_01_Review.jpg"/></media>
+    <caption>The Review tab in Word is helpful when multiple people are working on a document. It allows them to add comments and track revisions. The second comment is the lower one and is the reply to the one above it. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00018">Also on the Review tab, the <term class="no-emphasis" id="term-00009">Proofing</term> command group contains helpful tools that you will use often when writing and editing a document. You can check your spelling and grammar, look up words in a dictionary or thesaurus, and keep track of your word count.</para>
+    <para id="para-00019">You will learn more about the Review tab and its features in [link]Formatting Document Layout in Microsoft Word[/link].</para>
+    </section>
+    <section id="sect-00007">
+    <title>View Tab</title>
+    <para id="para-00020">The <term class="no-emphasis" id="term-00010">View</term> tab is useful for changing how you see your document. For instance, it gives you the option of looking at your document one or two pages at time. You can also activate the zoom option from here, as well as add rulers and gridlines, which are helpful when placing objects, such as a table or picture, in the report you may be writing. You can also access the Navigation pane in the View tab. You may also use the read, print, or web viewing modes when typing, which give you different ways of seeing your document, as <link target-id="fig-00003"/> shows.</para>
+    <figure id="fig-00003">
+    <media alt="The View tab is selected and in the Zoom command group Zoom and Multiple Pages are selected. Two and a half pages of the document are visible in a row across the screen zoomed out to be smaller so they fit on the screen.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_01_View.jpg"/>
+    </media>
+    <caption>The View tab allows users to view documents in a variety of ways. The multiple pages selection, shown here, lets you see several pages at once. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00008">
+    <title>Navigation Pane</title>
+    <para id="para-00021">The <term id="term-00011">Navigation pane</term> serves various purposes. The Navigation pane is accessed directly by checking the box on the View tab in the Show command group. You can also get the Navigation pane by selecting Find from the Home tab. With either of these options, a pane will open on the left side of the screen. There are three tabs in the Navigation pane: Headings, Pages, and Results. The first tab, Headings, is the first thing you will see when you open the Navigation pane. This tab shows the outline of your document, but only if you have placed headings for each section and subsection (which you will learn more about in the section on [link]Formatting Document Content in Microsoft Word[/link]). The Pages tab shows a thumbnail representation of the pages of the document. The Results tab is used for searching for a particular word, phrase, or number throughout the document, as <link target-id="fig-00004"/> shows. You can always activate the <term class="no-emphasis" id="term-00012">Find</term> function with the <term class="no-emphasis" id="term-00013">Ctrl+F</term> keyboard shortcut.</para>
+    <note class="mac-tip" id="note-00002">
+    <exercise class="unnumbered" id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00022">To activate the Find function on a Mac, press <term class="no-emphasis" id="term-00014">Command+F</term>.</para>
+    </problem>
+    </exercise>
+    </note>
+    <figure id="fig-00004">
+    <media alt="The View tab is selected and in the Show command group the Navigation Pane box is selected. The Navigation pane is visible on the left side with tabs titled Headings, Pages, and Results visible for selection. The word “group” is typed in the search bar above the tabs. The Results tab is selected and below are sentence fragments with the word “group” highlighted. A document with the word “group” highlighted in yellow is visible on the right side of the screen.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_01_Navigat.jpg"/>
+    </media>
+    <caption>The Navigation pane is a sidebar that helps you move quickly from one section of your document to another, or locate a specific term or phrase through its search feature. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="real-application" id="note-00003">
+    <title>What Is a Document?</title>
+    <para id="para-00023">You will likely work in creating, editing, and consuming documents throughout your personal life and professional career. But what exactly is a document? Generally, a document is any type of file that contains information or transferred thoughts/ideas. While historically these documents were transferred to some type of paper or physical presentation on a chalkboard or displayed with an overhead projector, nowadays these are largely found in electronic format. However, when we are referring to a document with respect to Word, we are referring to a very specific type of file. This document file will contain primarily text and images that have been formatted and processed electronically. Hence, Word is a word processor, a type of program that contains a number of different text formatting capabilities for producing primarily text-based files and documents. This is an important distinction, as you can create any number of different text-based files in several different programs.</para>
+    <para id="para-00024">There will be times when you may not have access to Word or another word processing program. Many computers, and even some portable devices, will come with a preinstalled basic text processing as part of their operating system. Notepad is one example. While you will not be able to format the text (not even bold, italic, or underline), you can capture basic text information and save it as a basic text file (.txt) to your computer. This can be useful for jotting down quick notes—hence the name Notepad. Then, later, when you have access to Word, you can copy and paste the text from Notepad into Word, where you can format it and incorporate it into other documents if needed.</para>
+    </note>
+    </section>
+    <section class="section-summary" id="sect-00009">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Word’s functions and features are located in customizable tabs at the top of the user interface. The most frequently used tabs include Home (to set document styles), Insert (to insert graphics or other elements), Layout (to adjust margins and page settings), Review (to use comments and track change), and View (to adjust how you see a document).</item>
+    <item>The Navigation pane is a sidebar that allows the users to view the document in various ways. It gives the option to see an outline of the document, see thumbnails of the pages, and lets users find and replace text.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00010">
+    <title>Review Questions</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00025"><link class="os-embed" url="#exercise/03-01-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00026"><link class="os-embed" url="#exercise/03-01-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00011">
+    <title>Written Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00027"><link class="os-embed" url="#exercise/03-01-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00012">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00028"><link class="os-embed" url="#exercise/03-01-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00029"><link class="os-embed" url="#exercise/03-01-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00013">
+    <title>Case Exercise</title>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00030"><link class="os-embed" url="#exercise/03-01-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    
+    <glossary>
+    <definition id="def-00001">
+    <term>Navigation pane</term>
+    <meaning>Word feature that lets users view documents as thumbnail pages or outlines, or to search for specific text within a document</meaning>
+    </definition>
+    </glossary>
 </document>
