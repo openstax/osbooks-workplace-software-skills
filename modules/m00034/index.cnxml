@@ -6,5 +6,176 @@
     <md:uuid>9289d79c-95be-4135-8ed7-4f5c3d59f9b6</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Format page setup and margins</item>
+    <item>Create different types of sections and modify section formatting</item>
+    </list>
+    </section>
+    <para id="para-00002">At WorldCorp, each major division represents a product line. All these divisions have their own functional departments, such as finance, marketing, manufacturing, research and development (R&amp;D), and logistics. To write your report on market trends, you will need to get information on the products from these different departments. For example, the marketing department might provide sales data for a particular product, while the finance department can provide the profit made for each product sold. Practically speaking, this means creating a document that is readable and easy to use for everyone.</para>
+    <para id="para-00003">Setting the page layout for your document in Microsoft Word allows you to present material in a way that maximizes ease of use. Page layout includes setting margins and page size, choosing the page orientation, introducing features like columns, and breaking up a document into sections so that different parts can have different formats applied. These functions can be accessed using the tools on the <term class="no-emphasis" id="term-00001">Layout</term> tab (see <link target-id="fig-00001"/>).</para>
+    <figure id="fig-00001">
+    <media alt="The Layout tab is selected. These command groups are available for selection on the Ribbon: Page Setup (includes Margins, Orientation, Size, Columns, Breaks, Line Numbers, and Hyphenation), Paragraph (includes Left and Right indent and Before and After spacing), and Arrange (includes Position, Wrap Text, Bring Forward, Send Backward, Selection Pane, Align, Group and Rotate).">
+       <image mime-type="image/jpg" src="../../media/OSX_BCA_03_02_LayoutTab.jpg"/></media>
+    <caption>The Layout tab has clearly defined drop-down menus and buttons for its page layout tools. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <section id="sect-00002">
+    <title>Page Setup</title>
+    <para id="para-00004">The Layout tab contains commands and tools for adjusting the overall page setup of your document, located within the <term class="no-emphasis" id="term-00002">Page Setup</term> command group. Page setup typically includes adjusting the paper size, margins, and orientation, as well as adding features like section breaks and columns. There are accepted standards for document formatting, but these can vary by target audience and by industry. For business reports, such as your market trends report, a 12-point font for body text (Calibri, Times New Roman, and Cambria are some popular fonts), and one-inch margins on all sides (top, bottom, left, right) are typically standard. Most reports also have sections and section headings to help break up and organize the content. The line spacing in the reports can vary, but the most common spacing will be either single-spacing, 1.5-spacing, or double-spacing.</para>
+    <para id="para-00005">Each of these elements has an important role to play in presenting the document to its audience (e.g., business professionals), as well as an impact on readability. Some fonts are easier to read than others, or are more appropriate for a specific genre of document. You may use a <term class="no-emphasis" id="term-00003">style guide</term> (a manual for consistent styling and editorial treatment) like the <emphasis effect="italics">Chicago Manual of Style</emphasis> or the <emphasis effect="italics">Modern Language Association</emphasis> (MLA) style for published corporate reports, but many businesses do not strictly follow a manual of style for internal reports. For reports like your market trends report, it is usually left up to the employee or the supervisor to determine the best formatting and style for the report. For reports that will be distributed externally, such as at a conference, you should ask colleagues in charge of these events if they have formatting and style requirements for documents. It is important to keep the intended audience in mind when setting up the document.</para>
+    <note class="real-application" id="note-00001">
+    <title>Style Guides</title>
+    <para id="para-00006">Different industries will establish certain expectations around the types of documents that are typical of their field, as well as how these documents are formatted and presented. For instance, newspapers will use a certain type of font and use only certain types of formatting options. They will also define the paper size, margins, and how the content is laid out on the page. If you review a handful of different printed newspapers, you will find that each has a very specific style and that no two really look alike, although we recognize that they are newspapers because they share a subset of agreed-upon standards (such as page size). So too, will you find that your industry has a specific style, and in your studies, you will be asked to adopt different writing and formatting standards. These are known as style guides, or style manuals. Common ones you may encounter while in college are the APA (<emphasis effect="italics">American Psychological Association</emphasis>) and MLA style manuals; however, others exist, including ones used in specific industries, such as the CSE (<emphasis effect="italics">Council of Science Editors</emphasis>) style used in biology and other sciences. These guides will define how documents should be formatted in their entirety, from font type to the general layout of pages, including margin width and line spacing. It is important to know that these styles are updated regularly. You will want to stay abreast of these updates. To make this easier, most major style guides, such as APA and Chicago, have websites that provide information about updates. To ensure that you stay informed, some of these websites offer subscriptions for information about updates.</para>
+    <para id="para-00007">While Word does not come preset with these formatting requirements, you can create your own style sets, which you will learn more about in later chapters. What’s more, there are many online resources that can help guide you in these formatting requirements. For instance, the reference or citation page tends to be a sticky spot for many students. There are several citation styles in the citation tool in Word. There are also many free online services that can help you create your reference list by inputting relevant information into guiding categories. They then generate your reference list for you. A word of caution: You should also review and verify if the produced content does align with the formatting requirements of that style. Styles do change and are updated, and these services do not always remain current.</para>
+    </note>
+    <section id="sect-00003">
+    <title>Margins</title>
+    <para id="para-00008">All pages in a document have a <term id="term-00004">margin</term>, a blank area from the edge of each side of the page to the content. Margins make a page more readable, and in printed documents, allow space for bindings, notes, and so on. You may encounter projects that need different margins on different pages, or unconventional margins—that is, custom margins.</para>
+    <para id="para-00009">To adjust the margins of a page, go to the Layout tab. Select the Margins icon, and a drop-down menu will appear. The default margin is Normal (1 inch on all sides), but this can be adjusted via the prepopulated options, such as for different layouts with narrower margins. If you want to set your own margins, choose the Custom Margins option at the bottom of the drop-down menu. In the dialog box shown in <link target-id="fig-00002"/>, notice how you can adjust the margins to be various measurements.</para>
+    <figure id="fig-00002">
+    <media alt="(a) The Layout tab is selected and in the Page Setup command group the Margins button opens a drop-down pane with these margins available for selection (all with options for Top, Left, Bottom, and Right): Last Custom Setting, Normal, Narrow, Moderate, Wide, Mirrored, Office 2003 Default, and Custom Margins. Custom Margins is selected. (b) On the right, a Page Setup Pane is visible. The tabs available for selection are Margins, Paper, and Layout. The Margins tab is selected and the options available on this tab include: Margins (top, Left, Gutter, Bottom, Right, and Gutter Positions), Orientation (Portrait and Landscape), Pages (Multiple Pages with Normal selected from the drop down menu), Preview, and Apply to: (with Whole document selected in the drop-down menu)). A Set as Default, OK, and Cancel button are visible across the bottom of the pane.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Margins.jpg"/>
+    </media>
+    <caption>The Margins tab in the Page Setup dialog box lets you (a) choose from predetermined selections, or (b) create your own specifications through the custom margin dialog box. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Orientation</title>
+    <para id="para-00010">Page orientation refers to whether the page is vertical or horizontal. The default in Word is the vertical layout, called <term id="term-00005">portrait</term> orientation. This layout works best for everyday text documents, such as business reports and correspondence. The horizontal layout is known as <term id="term-00006">landscape</term> orientation, and works best for documents with tables and graphs that otherwise would not fit well on a vertical page. Using the <term class="no-emphasis" id="term-00007">Orientation</term> command in the Page Setup command group, you can alter the orientation of your entire document, or also limit the changes to certain pages or sections. <link target-id="fig-00003"/> shows the two layout options.</para>
+    <figure id="fig-00003" class="scaled-down-30">
+    <media alt="The Layout tab is selected and in the Page Setup command group the Orientation button displays a drop-down pane with Portrait and Landscape available for selection.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Orient.jpg"/>
+    </media>
+    <caption>Inserting sections in your document allows you to change the page orientation between sections. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Line Spacing</title>
+    <para id="para-00011">The space between lines of text as you move through the document is referred to as <term id="term-00008">line spacing</term>. You might be familiar with <term class="no-emphasis" id="term-00009">double-spacing</term>, which is often required when creating documents for a class assignment. However, the default in Word is <term class="no-emphasis" id="term-00010">single-spacing</term>. To change the line spacing, access the Line and Paragraph tool from the Paragraph command group on the Home tab (<link target-id="fig-00004"/>). To change the spacing of text that has already been typed, select the text and change the line spacing to the desired spacing. You can also set the spacing before typing anything in the document.</para>
+    <para id="para-00012">The line spacing can vary throughout the document. It does not have to be consistent. You can, at any point, change the line spacing by selecting the text you want to apply the different spacing to, and then selecting the spacing from the Line Spacing tool on the Home tab. But keep in mind the professionalism of the document you are preparing. It is not advisable to vary the line spacing throughout the document, as that can impact the readability of the report. It can also look as if you did not take care to ensure consistency in formatting when preparing the report. However, if you have a few sentences that need to stand out for some reason—such as a table caption, or a block quote—having these elements set with a different line spacing might be appropriate.</para>
+    <figure id="fig-00004">
+    <media alt="(a) On the Home tab, in the Paragraph command group on the ribbon, Line and Paragraph spacing is selected and a drop-down lists these spacing options: 1.0, 1.15, 1.5, 2.0, 2.5, 3.0, Line Spacing Options, Add Space Before Paragraph, and Remove Space After Paragraph. Line Spacing Options is selected. (b) a Paragraph pane is visible at the right with tabs for Indents and Spacing as well as Line and Page Breaks. The Line and Spacing tab is selected and shows these options available for selection: General (includes Alignment, Outline level, Collapsed by default), Indentation (includes Left, Right, Special/By, and Mirror indents), Spacing (includes Before, After, Line spacing/At, as well as a box to select for Don’t add space between paragraphs of the same style), and Preview (a pane previews the selections). Across the bottom buttons for Tabs, Set As Default, OK, and Cancel are visible.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Space.jpg"/>
+    </media>
+    <caption>(a) You can change the line spacing of a document by using the tool in the Paragraph command group. (b) There are additional options for indentation and line spacing by selecting Line Spacing Options. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00013">Through the <term class="no-emphasis" id="term-00011">Line Spacing Options</term> tool, you can change the spacing before and after lines of text, the spacing before and after paragraphs, and the indentation of lines of text.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Page Size</title>
+    <para id="para-00014">Understanding page size is particularly important when working at a global corporation like WorldCorp. Different countries use different standard page sizes, and it is helpful to know how documents might vary across various company locations. For example, the United States uses standard letter size (8.5 inches wide by 11 inches long), whereas Europe and East Asia typically use A4 size (8.25 inches wide by 11.75 inches long).</para>
+    <para id="para-00015">Similar to margin selection, when you select the <term class="no-emphasis" id="term-00012">Size</term> command, there is a drop-down list of default pages sizes, as <link target-id="fig-00005"/> shows. You can select from these options or choose to create a custom page size. Note that the size selections include materials other than standard pages, such as envelopes.</para>
+    <figure id="fig-00005">
+    <media alt="The Layout tab is selected. In the Page Setup command group the Size button is selected and a drop down lists the following options for selection: Letter, Legal, A4, Executive, 8.5 x 13 (custom), A5, A6, B5 (JIS), 16K 195x270, 16K 184x260, 16K 197x273, Japanese Postcard, Double Japan Postcard Rotated, Envelope #10, Envelope Monarch, Envelope B5, Envelope C5, Envelope DL, and More Paper Sizes.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Size.jpg"/>
+    </media>
+    <caption>You can select from a variety of predetermined page sizes for your document, or create a custom paper size if desired, such as for a poster or invitation. This figure shows the entire drop-down list as two panels. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00007">
+    <title>Columns</title>
+    <para id="para-00016">You may be familiar with the column format in print media such as newspapers and magazines, where the text on a page is separated into multiple, vertical columns. Sometimes columns are desired in specific types of Word documents, such as newsletters or brochures. They can also be useful if you have a long list of short terms and want to optimize page space by utilizing columns instead of having a large expanse of white space.</para>
+    <para id="para-00017">Word has many options for creating columns. To do this, you can select a section of text, go to the <term class="no-emphasis" id="term-00013">Columns</term> drop-down menu, and select from common column layouts. Menu options include columns of equal size, or options where there is one narrower column on the side of a wider column. If you want to customize a column to be of a specific width, or you want more than three columns in one page, choose More Columns. In <link target-id="fig-00006"/>, you can see the options. The dialog box shows a preview of how the document will look. A line between the columns is possible, as seen in the dialog box.</para>
+    <figure id="fig-00006" class="scaled-down">
+    <media alt="(a) The Columns button is selected and the drop-down pane lists these items for selection: One, Two, Three, Left, Right, and More Columns. More Columns is selected. (b) A Columns pane opens with the following items for selection: Presets (includes One, Two, Three, Left, and Right), Number of columns (drop down with numbers available for selection), Line between (box available for checking), Width and spacing (includes Col. #, Width, Spacing, and a box for Equal column width selection), Preview (a panel previews the selections), Apply to (a drop-down menu is available), and Start new column (a box is available for selection). OK and Cancel buttons are visible on the bottom right of the pane.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Columns.jpg"/>
+    </media>
+    <caption>Columns are common in certain types of documents, such as newsletters and brochures.(attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00008">
+    <title>Working with Section Breaks</title>
+    <para id="para-00018">Sections in Word are especially useful for long documents. A <term id="term-00014">section</term> allows the user to partition part of the document, such as front matter, body text, and back matter, and apply different styles and formatting to each section, while still maintaining all the text in one document. Sections are also important when creating a table of contents and assigning page numbers in a large report. These concepts will be covered in more detail in the chapter on [link]Document Preparation[/link].</para>
+    <para id="para-00019">The division of a document into front matter, body text, and back matter is more common in longer documents, such as extensive reports, booklets, and manuals. Front matter typically includes the title page, the table of contents, and prefaces or forewords. The body contains the main text of the document. The back matter may include appendixes, an index, a glossary, or references.</para>
+    <para id="para-00020">Regardless of how you partition a document, having sections allows you to apply different styles to each separately, including page numbering, page orientation, and formatting. Consider an example where your document has a title page and a table of contents, and the main text begins on the third page. You don’t want a page number to appear on the title page, but you would like the main content to start on page 1. You can achieve this with a section break.</para>
+    <para id="para-00021">First, go to the Insert tab, select Page Number, and add page numbers to your document. The market trends report is expected to be quite lengthy. Including page numbers in the WorldCorp market trends report will be essential to help readers navigate through the document to the areas that are of interest to their needs.</para>
+    <para id="para-00022">To insert a section break, go to the Layout tab, click on the <term class="no-emphasis" id="term-00015">Breaks</term> drop-down menu, and select the Next Page section break, as <link target-id="fig-00007"/>a shows. This will start a new section on the next page. Then, choose where you want your page number to appear. As <link target-id="fig-00007"/>b shows, it will be on the bottom right. Then, right-click on the page number in that new section and choose “Start at 1” from the dialog box that appears. You can use this feature to apply different page numbering styles, such as using Roman numerals in front matter.</para>
+    <figure id="fig-00007">
+    <media alt="(a) The Layout tab is selected and in the Page Setup command group Breaks is selected. The open pane lists these items for selection: Page Breaks (includes Page, Column, and Text Wrapping) and Section Breaks (includes Next Page, Continuous, Even Page, and Odd Page). (b) On the Ribbon, the Header &amp; Footer command group is selected and the Page Number button open to a list that includes: Top of Page, Bottom of Page (selected), Page Margins, Current Position, Format Page Numbers, and Remove Page Numbers.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Sections.jpg"/>
+    </media>
+    <caption>Section breaks (a) allow you to have different page formats for different areas of the document. Panel (b) shows that the number will be at the bottom of the page. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00023">Another advantage to having different sections in a document is that you can accommodate different graphics well. This can be helpful when working with graphics that are best suited for landscape orientation, for example. As with the page numbering, you can change the orientation for a specific section. <link target-id="fig-00008"/> shows successive pages of a document with different orientations.</para>
+    <figure id="fig-00008">
+    <media alt="The Layout tab is selected. Two document pages are visible on the screen, one in a portrait style (the document at the top that is thinner) and one in an orientation style (the one on the bottom that is wider).">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_02_Orient2.jpg"/></media>
+    <caption>Inserting sections in your document allows you to change the page orientation between sections. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section class="section-summary" id="sect-00009">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Document formatting includes page setup configurations, such as paper size, page margins, orientation, and the use of columns or sections.</item>
+    <item>Section breaks allow different formatting to be applied to different sections of a document.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00010">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00024"><link class="os-embed" url="#exercise/03-02-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00025"><link class="os-embed" url="#exercise/03-02-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00011">
+    <title>Written Questions</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00026"><link class="os-embed" url="#exercise/03-02-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00027"><link class="os-embed" url="#exercise/03-02-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00012">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00028"><link class="os-embed" url="#exercise/03-02-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00013">
+    <title>Case Exercise</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00029"><link class="os-embed" url="#exercise/03-02-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+        <glossary>
+    <definition id="def-00001">
+    <term>landscape</term>
+    <meaning>horizontal orientation of a page so that it is wider than it is tall</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>line spacing</term>
+    <meaning>spacing between lines of text in a document</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>margin</term>
+    <meaning>edges of the document page that are left blank</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>portrait</term>
+    <meaning>vertical orientation of a page so that it is taller than it is wide</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>section</term>
+    <meaning>partition of a document used to apply different formatting to different sections of text</meaning>
+    </definition>
+    </glossary>
 </document>
