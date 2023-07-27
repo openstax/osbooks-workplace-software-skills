@@ -6,5 +6,173 @@
     <md:uuid>7d213ceb-eb29-4f5b-a68a-6afefd02338f</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Access and use versioning features in Google Docs</item>
+    <item>Access and use versioning features in Microsoft Word</item>
+    </list>
+    </section>
+    <para id="para-00002">This section delves into a feature of Microsoft Word and Google Docs called <term id="term-00001">versioning</term>. Versioning refers to the technology where programs store multiple iterations of files until they are approved and saved. Essentially, several edited versions of the file are maintained on an online server, as well as the original document. Versioning technology can give you some peace of mind that your original document is saved somewhere, and that any changes will need to be accepted (approved) before the final document is saved.</para>
+    <para id="para-00003">There are many user-friendly options in Docs’s versioning, as you can clearly see all of the changes created within each version, as well as the time stamps for when each version was made. With this versioning technology, your team can edit a document simultaneously, and everyone will see the changes happening and what changes were made before you started working with the document. You will also see when other collaborators add or edit the text. This sharing of the views of the document adds accountability to the work on the final version of the document. It can be used to enhance communication about the rationale for suggestions when comments are used. In Word, there are fewer options for accessing and using version history features, but they do exist if you keep your documents stored on Microsoft’s cloud service, <term class="no-emphasis" id="term-00002">OneDrive</term>, or on a <term class="no-emphasis" id="term-00003">SharePoint</term> server.</para>
+    <para id="para-00004">When you are creating the market trends report, you will be sending the draft to key personnel in various departments to contribute to the report. Using these collaboration features will help as the document moves through each stage toward a final, accurate report.</para>
+    <section id="sect-00002">
+    <title>Versioning in Docs</title>
+    <para id="para-00005">With versioning, you no longer have to worry about losing your files if your laptop battery dies. You do not have to be concerned if your program suddenly shuts down before you had a chance to save that last paragraph you typed. Docs has a feature that, as long as you are connected to the internet, autosaves every change you make to the file. There is no Save or Save As command because Docs is constantly saving in Google Drive, which creates version histories. This <term class="no-emphasis" id="term-00004">version history</term> can be accessed by going to the File menu, then hovering over “Version history,” then selecting “See version history.” A sidebar will spring up to the right, as shown in <link target-id="fig-00001"/>, listing many versions of the file, each with a time stamp and the name of the person or people using it at the time it was saved. With this Docs feature, it is not necessary to save multiple drafts of the same document. An alternative way to access the version history is by clicking on the title bar that says, “Last edit was . . .”.</para>
+    <figure id="fig-00001">
+    <media alt="On the Menu bar, the File tab is selected. The drop-down pane lists these items for selection: New, Open, Make a copy, Share, Email, Download, Rename, Move, Add shortcut to Drive, Move to trash, Version history, Make available offline, Details, Language, Page setup, and Print. Version history is selected and Name current version and See version history is displayed. An arrow points to See version history. The Revision history next to the Menu bar lists when the last edit was made (Last edit was 57 minutes ago). Below, a black box states Open version history. At the right, a Version history is shown with three dates and times along with the names of the people who edited the document.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_09_ACCSSVE01.jpg"/>
+    </media>
+    <caption>You can see the last edit of the document from version history. You can also access version history by clicking above the Action Bar. Version history is a Docs’s feature that lets you see all your little changes in a document writing process. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00006">To quickly see new changes in a file, Docs has a <term class="no-emphasis" id="term-00005">See New Changes</term> alert. It appears where the date normally appears, next to the Help menu. If you select that, you’ll be able to see the recent changes from other editors—specifically, you will see all the changes that you haven’t seen since the last time you opened the file. This functionality is useful for quickly and easily seeing changes from collaborators without having to access the version history.</para>
+    <note class="real-application" id="note-00001">
+    <title>Is Transparency Always the Right Choice?</title>
+    <para id="para-00007">Suggesting mode in Docs and Track Changes in Word serve the same purpose: Both help teams collaborate and share documents. These functions also help teams maintain accountability on the document’s grammar, usage, style, guidelines, and subject matter inaccuracies or faults. Google automatically logs the chain of events of the addition or editing of text by time and collaborator, tracking who made each change and when they did it. Between the Suggesting mode tool and Docs’s version history, the person in charge of the document or team can monitor the progression of the document and increase the efficiency and speed of its completion.</para>
+    <para id="para-00008">When sharing documents between a client and a vendor, there could be concerns about access to all the information in the document or the version history. Similarly, a supervisor might not want an employee to see the comments and edits in a document summarizing their job performance and proposed salary increase until they are ready to present it to the employee. That information might be important for the human resources department to keep but does not need to be shared with the employee. So, although Suggesting mode and Track Changes can assist with transparency and accountability, it can also be problematic if information is shared to the wrong audience or before the document is ready to be shared with others.</para>
+    <para id="para-00009">Now think about different circumstances in your life in which tracking changes and version history could be helpful, harmful, or both. How would you store your different versions?</para>
+    </note>
+    <section id="sect-00003">
+    <title>Browsing Versions</title>
+    <para id="para-00010">In Docs, all these versions of the same file are organized by date, with the newest on top (<link target-id="fig-00002"/>). The top version in the history is the most current and is open by default. You can check the date of the current version on the title bar, right beside the name of the file. You can check the name of the collaborator who made the edits by their name on the bottom of the time stamp, but also by the color of the circle next to the name, as each collaborator will have a different color circle. If multiple people worked on the file, their usernames will be listed below the time stamp, along with their color circle on the side.</para>
+    <para id="para-00011">The changes on the versions themselves are shown in highlighted font, similar to the Track Changes feature in Word. But unlike Track Changes, each editor’s changes will not be identified with a different color. Just the changes overall will be highlighted. If you want to find out who made the changes, hover the mouse above the text you want to query, and the name of the collaborator will appear. If you don’t want to look at this highlight, as it may be distracting, go to the bottom of the sidebar and uncheck Show changes.</para>
+    <figure id="fig-00002">
+    <media alt="(a) In the Google Doc, a sentence is highlighted green. At the right, a pane is open titled Version history. All version is selected from the drop down and all of the edits made are listed below with the date, time and person who made the edits. (b) In the Google Doc, a sentence is highlighted green. Over the highlighted text there is a box with As you hover over the highlighted text, the writer’s name is displayed written inside. Right below the orange box is the name of the person who made the edit. At the right, a pane is open listing all of the edits made with the date, time and person who made the edits. At the bottom, a box is checked for Show changes.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_BROWSEVE01.jpg"/></media>
+    <caption>(a) You can check the date of the current version and the collaborator who made the edits. The changes are highlighted and show who made them. (b) If you want to find out who made the changes, make sure Show changes option is checked so you can hover the mouse above the text you want to query. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Naming Versions</title>
+    <para id="para-00012">In Docs, the versions do not have a name; they simply just show a time stamp. If you like a certain version and want to keep it for future reference, or if you want to save it because it shows the progress of the file, select that particular version and give it a specific name so that it’s easy to find. Select the three dots next to the time stamp and a context menu will appear, from which you can choose to Name this version, as shown in <link target-id="fig-00003"/>. As you finish typing the name, the time stamp will still appear, yet above it will be the name of that version. This will keep track of the important changes in a collaboration.</para>
+    <figure id="fig-00003">
+    <media alt="(a) The left side of this image displays a list of edits made to a document with the date, time, and person’s name who made the edits. A small pane is open that lists Restore this version, Name this version, and Make a copy. An arrow points to Name this version. (b) At the right, one of the names of the version has been replaced with a title: Marketing Four Ps.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_NAMINGVE01.jpg"/></media>
+    <caption>(a) Naming the version can be useful, as there are many steps and processes in completing a business report. (b) Here, the business report happens to be on marketing what are known as “the four Ps:” product, price, place, and promotion. You may learn about these in the workplace. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00013">To name the current version, go to the File menu, then Version history, then Name current version. Next, type the name of this version in the dialog box and click Save.</para>
+    <para id="para-00014">After you finish your document, you might have named some of the versions, and you might just want to see only the named versions on the Version History sidebar. You can toggle the unidentified versions on and off, on the top of the sidebar with the option Only show named versions, as you can see in <link target-id="fig-00004"/>.</para>
+    <figure id="fig-00004" class="scaled-down-30">
+    <media alt="Version history is shown and Only show named versions is selected with a blue button. The day listed is Thursday and below are: Version 2 May 6, 10:38pm Rick Arguello and Marketing Four Ps May 6, 7:37pm Rick Arguello.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_NAMINGVE03.jpg"/></media>
+    <caption>The named versions might be the most important or relevant ones. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Making a Copy of a Version</title>
+    <para id="para-00015">To make a copy of a version, you will also use the context menu for the specific version. The menu has the option to make a copy, in which you can make a new separate file from this document. (It is like Save As in Word, in which you can save a version with a different file name.) If you use the Name this version command, you will not create a separate file; it will still be the same document. However, it may be better in some situations to have separate files with descriptive names to them, as you would with different saved Word versions of a document. Many companies have file naming conventions to help them keep track of versions, such as “project#_document_name, ver#”, followed by the initials of the collaborators who made the changes (e.g., “WC05_Market_Trends_Report_ver1_AC”).</para>
+    <para id="para-00016">Having copies of the same file, but as different versions, is an option if you want to download these versions to your business’s computer desktop or hard drive, instead of keeping them online. Having a different version can also be useful if you want to send this version to a client or any third party. When a copy is made of any version of a document, it is saved as a new Doc, without the version history attached to it. The comments and suggestions are also not copied.</para>
+    <para id="para-00017">You might find that at some point, you would like to preserve some content from an older version, but not the whole document. In this case, you can go to the older version and look for the information that you want to keep, then right-click to show the context menu, and select Copy. Then, go to the newest version and place the cursor where you want the recovered paragraphs to be, and right-click to the context menu Paste. This will keep your newest version, while adding the older paragraphs.</para>
+    <para id="para-00018">In addition to saving a copy by the context menu of the three dots, there are other commands available in the list of versions. Right on top of the window of each version there are two different commands you can choose from, zoom in and print, as shown in <link target-id="fig-00005"/>. Some people like to have hard copies of versions of documents for archiving purposes.</para>
+    <figure id="fig-00005">
+    <media alt="Along the top a date and time is visible as well as a Restore this version blue button. The print button is visible on the toolbar with a black box underneath with Print (Ctrl+P) inside. At the right of the print icon is 100% and an arrow points to the print function and states: You can zoom, or print any version. At the right the words Total: 8 edits is visible with forward and backward toggles.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_COPYVE03.jpg"/>
+    </media>
+    <caption>When browsing versions, you can always print a version you want save. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Restoring Versions</title>
+    <para id="para-00019">There may be instances when you want to revert to a previous version of the document. This is called <term id="term-00006">version restore</term>. This could occur for a variety of reasons. For example, you might realize some key information that is now needed was in a previous iteration of the document. Your team could also agree that a previous version might be preferred after additional edits are made. This feature of versioning in Docs can offer you some assurance that even if a document has gone through several stages, the previous work on the document is not lost and can be accessed through Restore.</para>
+    <para id="para-00020">On the main window, where the versions are being read, there is a notification on the top right corner displaying the number of edits of that particular session, as <link target-id="fig-00006"/> shows. Next to the number of edits are two arrows; these are toggles for viewing the session changes. The first change of the May 6, 6:19pm session was to change the date of the marketing report.</para>
+    <para id="para-00021">You can also restore a version without having it on the main window display by selecting the three dots beside the version and selecting Restore this version. The newer version will not be the current version anymore, as the older version now supersedes it.</para>
+    <figure id="fig-00006">
+    <media alt="(a) Along the top a date and time is visible as well as a Restore this version blue button. The print button is visible on the toolbar as well as 100%. An arrow points to Total: 8 edits is visible with forward and backward toggles. (b) Along the top a date and time is visible as well as a Restore this version blue button. The print button is visible on the toolbar as well as 100%. An arrow points to Edit 1 of 8. A forward and backward toggle is to the right. A bubble indicates: Toggle from one change to the next. In the document, the cursor is visible and a person’s name is visible above the cursor.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_RESTORE01a.jpg"/></media>
+    <caption>(a) Google keeps track of the number of edits in the document, as you can see on the top right. (b) You can use the arrows to move through the edits to determine if you want to keep the changes. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00022">If, after reviewing each change, you decide that one of the older versions is better than the current one, you can select the large Restore this version button at the top of the window (<link target-id="fig-00007"/>).</para>
+    <figure id="fig-00007">
+    <media alt="Along the top a date and time is visible as well as a Restore this version blue button. An arrow and speech bubble points to the Restore this version button and states: After rechecking changes, you can restore this version using this button. At the bottom right of the document, an editor’s name is shown with a bubble pointing to it with this text inside: Final change in this session.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_RESTORE01c.jpg"/></media>
+    <caption>Google gives you the option also to restore the document to a previous version. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00023">Keep in mind that the number of versions displayed on the sidebar does not show all the versions available. If you go to the sidebar, you’ll see that the time stamps are typically a certain length of time apart, as you can see in <link target-id="fig-00008"/> That means that there are hidden versions from when the editing was taking place. Each version has many changes that were happening seconds or minutes apart. You can access these micro changes in each session by clicking on the triangle on the left of the version.</para>
+    <figure id="fig-00008">
+    <media alt="(a) The left side of this image displays a list of edits made to a document with the date, time, and person’s name who made the edits or document titles. A small pane is open that lists Restore this version, Rename, Remove name, and Make a copy. An orange arrow points to Restore this version. (b) At the right, one of the names of the version has been replaced with a title: Marketing Four Ps with six different versions listed under the title.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_RESTORE01e.jpg"/></media>
+    <caption>(a) The versions are both time and date stamped. (b) You can restore to a particular version, make a copy of the version, or rename the version. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00024">To quickly see new changes in a file, Docs has a <term class="no-emphasis" id="term-00007">See New Changes</term> alert. It appears where the date normally appears, next to the Help menu. If you select that, you’ll be able to see the recent changes from other editors—specifically, you will see all the changes that you haven’t seen since the last time you opened the file. This functionality is useful for quickly and easily seeing changes from collaborators without having to access the version history.</para>
+    </section>
+    </section>
+    <section id="sect-00007">
+    <title>Versioning in Microsoft Word</title>
+    <para id="para-00025">Microsoft Office has many options for accessing version histories but can be done only if the file is stored in <term class="no-emphasis" id="term-00008">OneDrive</term> or <term class="no-emphasis" id="term-00009">SharePoint</term> <link target-id="fig-00009"/>.</para>
+    <figure id="fig-00009">
+    <media alt="A OneDrive screen is displayed with a pane on the left listing these options for selection: Home, New, Open, Info, Save a copy, Print, Share, Export, Transform, and Close. A back button (an arrow facing left inside a circle) is seen above New. Info is selected. At the right, the Info screen displays a document titled market trends report draft. Options available for selection on the screen include: Share, Copy path, Open file location, Protect Document, Inspect Document, Version History, and Manage Document. At the right, Properties of the document are listed such as size, pages, word, total Editing Time, Title, Tags, Comments, Related Dates (Last Modified, Created, and Last Printed), Related People (Author and Last Modified By), and Related Documents (Open File Location) as well as Show All Properties.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_REVHDES01a.jpg"/></media>
+    <caption>The version history in Microsoft Word desktop is activated if the document is located in OneDrive. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00026">If you have a desktop version of Word, you have to sign in to your Microsoft account. You will be able to access the last 25 versions of your file on OneDrive (that is, if your file is stored on OneDrive), as you can see in <link target-id="fig-00010"/>.</para>
+    <figure id="fig-00010">
+    <media alt="A Word Doc is shown. At the right a pane is open with the Version History. The dates listed also show who edited the document as well as the time. If the version is open, Open version is listed in blue font.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_REVHDES01b.jpg"/></media>
+    <caption>When you choose Version History from Info, you will see a pane open on the right side of the document with the versions that are saved. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00027">You can access your version histories in Word by going to the File tab and selecting History. If you have an Office 365 Word subscription, you can access the version history by going to the File tab, then Info, followed by Version History. There you can see the versions available and browse through them. You can also choose to restore a previous version, as <link target-id="fig-00011"/> shows. Moreover, if you have SharePoint Server or SharePoint365, the possibilities of versioning are much more powerful, allowing as many as 500 versions to be retained, as you can track a version’s history, view multiple earlier iterations, determine who can edit or write on the files, control the number of versions stored, and more.</para>
+    <figure id="fig-00011">
+    <media alt="(a) Word is open and the pane on the left lists these options for selection: Close, Home, New, Open, Info, Save as, Export, Print, Share, and About. Info is selected and at the right the open pane lists these options for selection: Open in Desktop App (Use the full functionality of Microsoft Word.), Protect Document (Always open view-only to prevent accidental changes by asking readers to opt-in to editing.), and Version History (View previous versions.). Open in Desktop App is selected. (b) A blank screen displays Select a version from the Version History pane. At the right, a Version History pane lists a Show Changes button (unselected) and various versions of the document with the date and time of the version as well as the editor.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_09_REVH36501.jpg"/>
+    </media>
+    <caption>(a) Office 365 also has Version History that is also accessed through the File tab. (b) Select a version from the pane on the right to see that version of the document. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00028">SharePoint is more pliable than Google Drive, but it is not free. Unless your company is paying for a corporate license, you would need to pay a fee per month per user for the standard version (Plan 1), and you would need to have the desktop Microsoft Office. The current plans are priced between $5 and $23 per month. Visit the<link url="https://openstax.org/r/78SharePtPlans">Microsoft page comparing SharePoint plan options</link> for more information.</para>
+    <para id="para-00029">If you want the Microsoft 365 applications integrated with SharePoint, you should choose Office 365 E3. This article gives you an idea of the <link url="https://openstax.org/r/78SharePtVersion">additional capabilities SharePoint has</link> and how users can benefit from versioning.</para>
+    </note>
+    </section>
+    <section class="section-summary" id="sect-00008">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Both Docs and Word have versioning capabilities that can save and restore previous versions of your document. Docs frequently autosaves your document, capturing minute-by-minute changes. These versions can be accessed, named, copied, and restored, which gives the user much flexibility when it comes to keeping track of different versions.</item>
+    <item>Word versioning only occurs if you keep your document stored on one of its cloud services like OneDrive or SharePoint. It contains many of the same features as Docs versioning.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00009">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00030"><link class="os-embed" url="#exercise/03-09-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00031"><link class="os-embed" url="#exercise/03-09-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00010">
+    <title>Written Questions</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00032"><link class="os-embed" url="#exercise/03-09-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00011">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00033"><link class="os-embed" url="#exercise/03-09-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00034"><link class="os-embed" url="#exercise/03-09-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>versioning</term>
+    <meaning>technology where programs store multiple iterations of files until they are approved and saved</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>version restore</term>
+    <meaning>feature in cloud server services like Google Drive and OneDrive that allows the user to restore previous versions of their document</meaning>
+    </definition>
+    </glossary>
 </document>
