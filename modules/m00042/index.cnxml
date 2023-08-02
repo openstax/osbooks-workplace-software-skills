@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+  <title>Chapter Scenario</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Chapter Scenario</md:title>
+    <md:content-id>m00042</md:content-id>
+    <md:uuid>fadcce40-dc55-4e8c-9a47-e9e3f2ad116f</md:uuid>
+  </metadata>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <media alt="Alt text missing">
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/></media>
+    <caption>For most basic office documents, organizations use either Microsoft Word or Google Docs. There are functions that each does particularly well, and knowing what those are can help you in your career.</caption>
+    </figure>
+    <para id="para-00001">Your supervisor has read the first pages of the WorldCorp market trends report, which you have written with the collaboration of your coworkers. Your supervisor adds some edits and comments, and is ready for you to finalize it. This means inserting final art, updating charts and graphs, adding navigational tools such as bookmarks and headings, tidying up the organization and appearance of the document using lists, and formatting the bibliography.</para>
+    <para id="para-00002">Using the advanced formatting tools in <term class="no-emphasis" id="term-00001">Microsoft Word</term> and <term class="no-emphasis" id="term-00002">Google Docs</term> means understanding these programs and their features in more detail. These tools enable the user to go beyond writing and formatting a basic text document, and will lead to the production of documents and reports that look and feel professional.</para>
+    </content>
+</document>
