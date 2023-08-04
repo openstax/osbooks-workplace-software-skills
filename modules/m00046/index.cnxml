@@ -6,5 +6,180 @@
     <md:uuid>1d818114-9329-4b03-a9cc-a4aed987828d</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Insert and format page numbers</item>
+    <item>Insert and modify a header/footer</item>
+    <item>Insert and format a list</item>
+    </list>
+    </section>
+    <para id="para-00002">The market trends report has been composed thus far in Microsoft Word. However, it could have just as easily been composed in <term class="no-emphasis" id="term-00001">Google Docs</term>. Docs has many of the same features that we see in Word. Some people prefer working in Docs as it can be more user-friendly than Word, particularly its features involving collaborating with others.</para>
+    <para id="para-00003">Many of Docs’s advanced formatting features are similar to those in Word. Just like in Word, you can insert and format page numbers, headers, footers, and multilevel lists. Some customizable features that are present in Word may not be present in Docs, but some users might prefer fewer choices, as it facilitates a more user-friendly program. Here, we will revisit many of the tools we covered earlier and apply them to the market trends report in Docs. We will start with an earlier draft of the report where we began the chapter (<link document="m00043" target-id="fig-00001"/>).</para>
+    <note class="mac-tip" id="note-00001">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00004">Mac computers come with Safari as the default internet browser. While Docs works just fine in Safari, it functions better in Google Chrome. Chrome is also a Google product and, as such, comes with integrations that work seamlessly with Docs, such as browser extensions and notifications, as well as supports Chrome-only features, like voice typing.</para>
+    </problem>
+    </exercise>
+    </note>
+    <section id="sect-00002">
+    <title>Page Numbers</title>
+    <para id="para-00005">The tool for placing <term class="no-emphasis" id="term-00002">page numbers</term> into a Google document has fewer customizable formatting options than the tool in Word. There are only two page number styles: top right or bottom right. These are both available in the Insert menu. Let’s start with the market trends draft and add page numbers (<link target-id="fig-00001"/>). If you select More options, a few more customization options appear. You can choose to have your page numbers start counting from the second page of your document, which could be useful if your first page is a cover page or a table of contents. You can also start your page numbering at a certain number (i.e., other than the number 1). The page number is always placed in the header or footer.</para>
+    <figure id="fig-00001">
+    <media alt="(a) In Google Docs, the Insert tab is selected and the drop down lists these options for selection: Date, Dropdown, Footnote, Building Blocks, Special characters, Equation, Watermark, Headers &amp; Footers, Page numbers and Break. Page numbers is selected and opens to a pane with choices of locations for placing the numbers in the document: top right on all pages, page 1 on top right starting on page 2, bottom right on all pages, and page 1 on bottom right starting on page 2. More options and Page count are listed as well. (b) A Page numbers pane is open with a drop-down menu for locations in the document to Apply to, Header and Footer button selection for Position, a box to check to Show on first page and button selections for Numbering to Start at (and a drop down with numbers) and Continue from previous section. Cancel and Apply buttons are visible on the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_PAGEN01ab.jpg"/>
+    </media>
+    <caption>(a) Although the default page number doesn’t seem to allow the user to insert the number on the left or in the center, you can align it later using the alignment tools in the Action Bar. (b) You can choose to have the page numbering continue from a previous section, which can be useful when creating long documents with multiple sections. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00006">One convenient feature of Docs is its ability to easily add a page count to your page number (see <link target-id="fig-00002"/>). First, you insert your page number, then manually type the word “of” after it. Then, go to the Insert menu, click <term class="no-emphasis" id="term-00003">Page numbers</term>, and select Page count. This will add a field that gives the total number of pages in the document. Now, your page count should appear as “# of #” (e.g., “1 of 5”).</para>
+    <figure id="fig-00002">
+    <media alt="(a) Along the bottom of a Google Docs page is a page count feature: 1 of (cursor that is blank). (b) In Google Docs, the Insert tab is selected and the drop down lists these options for selection: Image, Table, Dropdown, Footnote, Building Blocks, Special characters, Equation, Watermark, Headers &amp; Footers, and Page numbers. Page numbers is selected and the pane at the right lists More options and Page count. An arrow points to Page count. (c) At the bottom of the document, the page count feature reads 1 of 2.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_PAGEN02.jpg"/>
+    </media>
+    <caption>(a) Use the Insert menu to insert page numbers. (b) The Page count feature allows the reader to see how many total pages there are in the document or that section. (c) Adding a page count to your footer helps the reader know how far they’ve read. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Headers and Footers</title>
+    <para id="para-00007">You can add headers and footers to your document in Docs. The <term class="no-emphasis" id="term-00004">Headers &amp; footers</term> command is also located in the Insert menu. Once you have added your header or footer, you can choose to further configure it by choosing Options, the blue command that is located on the header or footer itself. This Options button opens to a drop-down menu with a few choices. If you select Header format or Footer format, you will see a dialog box with the option of applying certain header/footer settings to a section of the entire document, as seen in <link target-id="fig-00003"/>. You can also control the height of each header/footer in inches, as well as choose to not have the header or footer appear on the first page. This latter choice is useful in documents for which you have a cover page. Simply tick the box Different first page. When you are finished configuring the headers/footers, select Apply.</para>
+    <para id="para-00008">You can edit and format the text contained in the header/footer as you would text in any other part of the document: by manually changing the font type; applying bold, italic, or underlined format; adding an image; or choosing a different alignment.</para>
+    <figure id="fig-00003" class="scaled-down-30">
+    <media alt="A pane for Headers &amp; Footers is open and lists options for: Margins (Header (inches from the top) and Footer (inches from bottom)), and Layout (boxes available for selecting Different from first page and Different odd &amp; even). Cancel and Apply buttons are visible at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_HEAFOO01.jpg"/>
+    </media>
+    <caption>Once the header or footer is inserted, you can use the formatting tools on the Action Bar, such as centering the header, just like with page numbers. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00009">You can also add a horizontal line that visually separates your header or footer from the rest of the text. This can add a neat and professional look to your document. Just put the cursor where you want the line, go to the Insert menu, and choose <term class="no-emphasis" id="term-00005">Horizontal line</term>, as shown in <link target-id="fig-00004"/>.</para>
+    <figure id="fig-00004">
+    <media alt="(a) The Insert tab is selected and the pane opens to these options for selection: Image, Table, Drawing, Chart, and Horizontal line. (b) In the document, a horizontal line is visible between the title WorldCorp Market Trends Report, 2022 and the cursor in the center of the next line.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_HEAFOO02.jpg"/>
+    </media>
+    <caption>(a) Insert the horizontal line via the Insert menu, just as you did for the header or footer itself. (b) The horizontal line creates a nice separation between the document and the header. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00010">Once you have made all your adjustments in the header/footer, just place your cursor anywhere in the body of the document to exit from the header/footer editing mode, or, alternatively, press the Esc (escape) key on the keyboard.</para>
+    <para id="para-00011">Remember that using the View menu, you can change the preview of the header/footer. Make sure that you are viewing the document with Print layout checked so that you can view your headers and footers. If you choose to work without the Print layout option checked, you won’t see the headers/footers.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Lists</title>
+    <para id="para-00012">The chapter <link document="m00032">Creating and Working in Documents</link> briefly discussed how to insert a bulleted or numbered list in Docs. In this section, we will use the document outline we used earlier in this chapter to create a multilevel list in Docs.</para>
+    <para id="para-00013">To access numbered, lettered, or bulleted lists, go to the Format menu and choose the <term class="no-emphasis" id="term-00006">Bullets &amp; numbering</term> option. This will open a drop-down menu, where you can see your choices for customization. You can also access lists (numbered and bulleted) from the Action Bar (<link target-id="fig-00005"/>).</para>
+    <figure id="fig-00005">
+    <media alt="In Google Docs, the Format tab is selected and the pane lists these options for selection: Text, Paragraph Styles, Align &amp; indent, Line &amp; paragraph spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, and Borders &amp; lines. Bullets &amp; numbering is selected and the pane at the right displays List options, Numbered list, Bulleted list, and Checklist. Numbered list is selected and the pane at the right displays six different tiered lists using combinations of numbers, letters, and Roman numerals.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST01a.jpg"/>
+    </media>
+    <caption>There are two ways to insert a list into your Doc: through the Insert menu, or via the Action Bar. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00014">Because adding lists to your document is generally done for organization and visual purposes, you want to make sure they are easy to read and showcase the most important information. For all list types, you can increase or decrease the space between the lines. This can help with readability. To do this, select the whole list and go to the <term class="no-emphasis" id="term-00007">Line and Paragraph spacing</term> command and choose a wider or narrower space, as shown in <link target-id="fig-00006"/>. You can also change the color of the text, which could be useful for helping your list stand out from the rest of your document. Select the text you want to format and use the Action Bar command for Text color.</para>
+    <figure id="fig-00006">
+    <media alt="In the Google Doc, a numbered list is visible and the text is selected. On the Action Bar spacing is selected. The drop down lists these options for selection: Single, 1.15, 1.5 (selected), Double, Add space before list item, Add space after list item, Custom spacing, Keep with next, Keep lines together, Prevent single lines (selected), and Add page break before.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST01c.jpg"/>
+    </media>
+    <caption>In Docs, all types of lists can be formatted just like normal text. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <section id="sect-00005">
+    <title>Numbered and Lettered Lists</title>
+    <para id="para-00015">To create a <term class="no-emphasis" id="term-00008">multilevel list</term>, choose the style of list you want, then use the Tab key to indent your lines. We want to create an outline of the headings and subheadings for our marketing trends report. This will give collaborators an idea of the format for the report, as well as allow us to use the outline to allocate sections to certain people or departments to fill in the content. For example, <link target-id="fig-00006"/> shows a straightforward Numbered list from the Insert menu, but <link target-id="fig-00007"/> shows one with multiple levels. You can create these list levels by using the Tab key, which will increase the indent on the line, creating a sublevel. If you want a further sublevel, press the Tab key twice, making it a subcategory of the category. You can also do this by using the Increase indent command in the Action Bar.</para>
+    <figure id="fig-00007">
+    <media alt="In the Google Doc, information is displayed in a tiered list with 1., 2., a., b., c., i., ii., d., i., ii., and e.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST02.jpg"/>
+    </media>
+    <caption>Multilevel lists are helpful for showing hierarchies and how categories are structured. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Bulleted Lists</title>
+    <para id="para-00016">Unlike numbered and lettered lists, bulleted lists do not have an obvious sequence. Docs offers different types of bullets to indicate the multilevel layers, which you can customize (<link target-id="fig-00008"/>).</para>
+    <para id="para-00017">The process for creating a <term class="no-emphasis" id="term-00009">multilevel bulleted list</term> is the same as for numbered and lettered lists: To create another sublevel below your current level, press Enter to go to the next level, then press Tab or use the Increase indent command to add it. In <link target-id="fig-00009"/>, you can see the result of the new multilevel list using bullets instead of numbers. The best practice is to use bulleted lists only if they are no longer than half a page; after that, a numbered list is more effective. You can change the bullet type by clicking in the bulleted list, going to the Format menu, then choosing List options from the Bullets &amp; numbering tool (<link target-id="fig-00010"/>).</para>
+    <figure id="fig-00008">
+    <media alt="In Google Docs, the Format tab is selected and the open pane lists these options for selection: Text, Paragraph Styles, Align &amp; indent, Line &amp; paragraph spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, and Borders &amp; lines. Bullets &amp; numbering is selected and the pane at the right displays List options, Numbered list, Bulleted list, and Checklist. Bulleted list is selected and the pane at the right displays six different tiered lists using combinations of different shapes (dark and white circles, dark and white squares, arrows, diamonds, and stars).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST03a.jpg"/>
+    </media>
+    <caption>Several choices are available for multilevel bulleted lists. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00009">
+    <media alt="In the Doc, information is displayed in a tiered list with diamonds, arrows (one indent) and squares (two indents), in that order, on the tiers.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST03b.jpg"/>
+    </media>
+    <caption>Rather than using a numerical order, the bullets change for each level when you use the Tab key. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00010">
+    <media alt="In Google Docs, the Format tab is selected and the open pane lists these options for selection: Text, Paragraph Styles, Align &amp; indent, Line &amp; paragraph spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, Borders &amp; lines, and Clear formatting. Bullets &amp; numbering is selected and the pane at the right displays List options, Numbered list, Bulleted list, and Checklist. List options is selected and the pane at the right displays the options available for labeling the tiers of a list: 1, A, a, I, i, dark circle, white circle, dark square, arrow, star, and checkmark. Options also available include: Restart numbering, Continue previous numbering, More bullets, and Edit prefix and suffix. A portion of the document is visible in the background with a diamond pattern and arrows for the tiers.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST03c.jpg"/>
+    </media>
+    <caption>Docs offers a lot of customizability for its bulleted lists. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00007">
+    <title>Checklists</title>
+    <para id="para-00018">A <term id="term-00010">checklist</term> is a useful type of list option in Docs that has several everyday applications. You may use them to make a printed to-do list, such as a list of tasks or errands to carry with you when you are away from a computer. Or you may want to add a checklist to a guidelines document for other people to be able to print out and reference, or use digitally. For example, it could also be useful for the multiple rounds of editing that will be needed for the market trends report. As the document progresses through the various departments for editing and revision, each department could tick a box when their round is complete, indicating that the document has been approved by the various departments.</para>
+    <para id="para-00019">A checklist is inserted the same way as any other type of list, except that it is technically listed as a subtype of a bulleted list in Docs. That is, you follow the same process as adding a bulleted list, but then just make sure to choose the option that shows the checklist. As you can see in <link target-id="fig-00011"/>, the to-do checklist is complete.</para>
+    <figure id="fig-00011">
+    <media alt="In a Doc, a list of information is highlighted. On the Action bar, Bulleted list is selected and opens to list six different tiered lists using combinations of different shapes (dark and white circles, dark and white squares, arrows, diamonds, and stars). Checklist menu is available at the bottom. It is selected opens to list two options for listing and completing a checklist: blank box with text and a check marked box/struck through text below and a blank box with text with a check marked box and no struck through text below.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST04.jpg"/>
+    </media>
+    <caption>A checklist can be printed and used with pen and paper, or the boxes can be checked digitally. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00008">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Docs gives the user a few ways to customize page numbers in the document.</item>
+    <item>Headers and footers can be added to the Doc and formatted using the tools in the Action Bar.</item>
+    <item>Making multilevel lists in Docs is similar to the same process in Word. But Docs also has checklists, which are unique to Docs and are a form of bulleted list.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00009">
+    <title>Review Questions</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00020"><link class="os-embed" url="#exercise/04-04-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00021"><link class="os-embed" url="#exercise/04-04-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00022"><link class="os-embed" url="#exercise/04-04-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00010">
+    <title>Written Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00023"><link class="os-embed" url="#exercise/04-04-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00024"><link class="os-embed" url="#exercise/04-04-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00011">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00025"><link class="os-embed" url="#exercise/04-04-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00026"><link class="os-embed" url="#exercise/04-04-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>checklist</term>
+    <meaning>type of bulleted list that adds a checkbox to the beginning of each line</meaning>
+    </definition>
+    </glossary>
 </document>
