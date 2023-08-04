@@ -6,5 +6,278 @@
     <md:uuid>191f1635-b3b9-404d-9ac7-926c38658996</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Use the tools in the Pages command group</item>
+    <item>Utilize Format Painter to apply formatting in a long document</item>
+    <item>Use some of the tools on the References tab</item>
+    <item>Create bookmarks for document navigation</item>
+    </list>
+    </section>
+    <para id="para-00002">Long documents underscore the importance of good navigation tools. Imagine working through a 200-page report, only to have to scroll endlessly through chapter headings to find what you are looking for. This is why tools like cross-references, bookmarks, tables of contents, and tables of figures are so important. They allow you to quickly access different parts of your document, as does the document outline, available in the Navigation pane.</para>
+    <para id="para-00003">In a business setting, these navigation tools are especially important. Think about your market trends report for WorldCorp. The high-level executives reading your report will need to be able to quickly glance at the table of contents and read a few pages of the report, without having to scroll or flip through many pages of text. In fact, they likely don’t need to read the whole report; they will read the executive summary and skip around the report to graphs that interest them. (The executive summary is a short overview at the beginning of the report that highlights the main points of a long report.)</para>
+    <para id="para-00004">This section discusses the different command groups and tools that make long documents more user-friendly.</para>
+    <section id="sect-00002">
+    <title>The Pages Command Group</title>
+    <para id="para-00005">The <term class="no-emphasis" id="term-00001">Pages</term> command group is on the Insert tab, and it contains three commands. The most used one is <term class="no-emphasis" id="term-00002">Page Break</term>; this command allows the user to finish writing on the current page and start writing on a new page. (You can also access many of these same tools on the Layout tab in the Page Setup command group.) Adding a page break can be particularly useful at the end of a chapter or section. To insert a page break, place the cursor where the break will be (the start of the new page), and select the Page Break option. You may also just use the keyboard shortcut Ctrl+Enter to place a page break. If you turn on the ability to view hidden characters, you can see exactly where the page break is on your page (see <link target-id="fig-00001"/>). You can also view it easily in the Print layout option on the View tab. Here, we can add a page beak at the end of each major section of the market trends report.</para>
+    <figure id="fig-00001">
+    <media alt="The Insert button is selected on the Ribbon and in the Pages command group, Page Break is selected. In the document, the page on the left displays a -----Page Break----- after the first paragraph with a blank rest of the page. The identical document on the right shows no Page Break after the first paragraph and the document continues with the rest of the text.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_PAGES01.jpg"/>
+    </media>
+    <caption>Page breaks make the subsequent text start on the next page. Here, it was placed at the end of the Introduction/Executive Summary, so that the Industry and Market Analysis section started on a new page. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00006">There is another command, <term class="no-emphasis" id="term-00003">Blank Page</term>, which is not as commonly used as Page Break, but can be impactful in long documents such as reports and textbooks. These intentionally blank pages are added to provide a sense of closure or finality before a new chapter or section begins; they make a bigger impact than just a page break because they leave a full page empty. This convention is more often used in the publishing world when needing to, say, start a new chapter on a right-hand page.</para>
+    <para id="para-00007">To insert a blank page, go through the same steps as inserting a page break: Put the cursor where you want the blank page to be, and select the Blank Page icon.</para>
+    <para id="para-00008">The last command to discuss in the Pages group is <term class="no-emphasis" id="term-00004">Cover Page</term>. Adding a cover page, or <term id="term-00005">title page</term>, is a common practice for long documents. It is an informative page that contains basic information about the report, such as the title, authors, publishing date, and the department or/and division. Some companies or organizations follow specific guidelines about title pages; formally written reports that follow the <emphasis effect="italics">Chicago Manual of Style</emphasis>, for instance, do not include any graphics, and the components must follow a set alignment and format. Yet many business reports do not strictly follow any set manual of style, or may simply follow their company’s brand guidelines. It is appropriate in many business settings to use graphics, such as a logo or photograph, on a title page, as in <link target-id="fig-00002"/>.</para>
+    <para id="para-00009">Insert a title page to your market trends report. To insert a title page, select the drop-down menu of the Cover Page command, and choose a design. Word offers many different options for layouts, fonts, colors, and styles. Just update the text and add an image, if applicable.</para>
+    <figure id="fig-00002">
+    <media alt="The Insert tab is selected on the Ribbon and in the Pages command group Cover Page is selected. The drop down Built-in pane displays various cover page styles for selection as well as these options: More Cover Pages from Office.com, Remove Current Cover Page, and Save Selection to Cover Page Gallery. In the document, [DOCUMENT TITLE] is visible in large blue font below a blue band that spans across the top of the document.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_PAGES03.jpg"/>
+    </media>
+    <caption>Word comes with some built-in styles and layouts for cover pages, some of which include spaces for graphics. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Format Painter</title>
+    <para id="para-00010">Another tool in Word that helps manage long documents is the Format Painter. <term id="term-00006">Format Painter</term> is a command on the Home tab. It is used to copy formatting from another document or section of the same document. This can be useful when you have formatting in one section of the document that you want to copy over to another section, saving you the time and effort of having to format the new document or section again manually.</para>
+    <para id="para-00011">To use the Format Painter, select the area of the document from which you want to copy the formatting, then choose the Format Painter command. If you single-click the Format Painter, it will only allow it to be used once. To use it multiple times, double-click the Format Painter. It can then be used until you click the Format Painter icon again or press the Esc key. The mouse pointer will change to a little brush, then with the brush, you select all the areas you want to apply the formatting to. Word will automatically mirror and apply the new formatting. If the document has a lot of chapters, if the document outline is multilevel, or if there is a lot of different elements in the previous document, then the Format Painter will not work perfectly. You might need to fix some pages or areas of the newer document. For example, when you have bullets, the Format Painter will not copy over the bullets, but instead will only copy the formatting of the text.</para>
+    <para id="para-00012">Format Painter is a useful tool for when you want a whole document to have the same formatting, particularly if that document contains copied and pasted text from multiple sources or collaborators. In <link target-id="fig-00003"/>, we selected a phrase from the first paragraph, then chose Format Painter and used the brush to select the entire target paragraph. As you can see, the selected text now has matching formatting to the header.</para>
+    <figure id="fig-00003">
+    <media alt="The Home tab is selected on the Ribbon and in the Clipboard command group Format Painter is selected. In the document, a paragraph with blue font is selected (highlighted in gray).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FORMATP01.jpg"/>
+    </media>
+    <caption>The Format Painter is useful for applying multiple types of formatting to a single chunk of text. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>References Tab</title>
+    <para id="para-00013">The <term class="no-emphasis" id="term-00007">References</term> tab is for working with citations and the front/back matter of books. This is an important tab for anyone who is creating a document with many sources, such as a journal article or economic report. It is also helpful when dealing with long documents that include many sections such as the market trends report. Managing a table of contents, a citation list, or a bibliography manually can be unwieldy, and, fortunately, Word provides lots of tools to help users keep these organized and looking professional.</para>
+    <para id="para-00014">Let’s review the different command groups on this tab. The first command group is the <term class="no-emphasis" id="term-00008">Table of Contents</term> group. This contains tools for helping the user insert or modify a table of contents. The Footnotes command group is for managing and inserting footnotes and endnotes. The <term class="no-emphasis" id="term-00009">Research</term> command group has two useful tools. The <term class="no-emphasis" id="term-00010">Search</term> tool can be used to find information, definitions, and images online. The Researcher tool allows you to search for sources for information contained in the document. You can then insert the citation or link to the source using the tool. You simply click on the Research tool and type the search term or phrase into the navigation window. The <term class="no-emphasis" id="term-00011">Citations &amp; Bibliography</term> command group is for inserting, formatting, and managing your references. The <term class="no-emphasis" id="term-00012">Captions</term> command group is for when you are working with figures and tables and want to add captions to later create a summary of the figures in your document. The <term class="no-emphasis" id="term-00013">Index</term> command group is for building an index, like what you would find at the end of a textbook. The <term class="no-emphasis" id="term-00014">Table of Authorities</term> is a command group that lawyers use when they need to cite cases and statutes. This next section walks through some of the commands you might find most helpful in this tab.</para>
+    <section id="sect-00005">
+    <title>Table of Contents</title>
+    <para id="para-00015">If your document is formatted properly, Word will automatically generate a table of contents for you. You can select from a few different styles, which is useful for ensuring that your table of contents matches the look and feel of the rest of your document. Let’s examine the requirements for a table of contents and what you need to have in your document to create a good one.</para>
+    <section id="sect-00006">
+    <title>Headings for Tables of Contents</title>
+    <para id="para-00016">In the <link document="m00032">Creating and Working in Documents</link> chapter, we discussed how to insert headings and why these are important for navigating long documents. We also mentioned how to access your document outline in the <term class="no-emphasis" id="term-00015">Navigation Pane</term>. Recall that as you insert different levels of headings (H1, H2, H3, etc.), the Navigation Pane will read the document automatically and display them for you in the form of a document outline. This is particularly useful for long documents, as you can see the outline of the entire document without having to scroll all the way through hundreds of pages of text.</para>
+    <para id="para-00017">The reason these headings are relevant to generating a table of contents is that the table of contents uses the headings in the same way as the document outline. When you set up your H1s, H2s, and H3s, Word will automatically use those to generate a multilevel table of contents.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Section Breaks for Tables of Contents</title>
+    <para id="para-00018">In the chapter on <link document="m00032">Creating and Working in Documents</link>, we also briefly reviewed how to insert section breaks and why they are important. Recall that there are two types of <term class="no-emphasis" id="term-00016">section breaks</term>: <term class="no-emphasis" id="term-00017">continuous section breaks</term> and <term class="no-emphasis" id="term-00018">page breaks</term>. Continuous section breaks are used when you want a new section but want to remain on the same page. They can also be used if you want to have different margins on two different areas of the same page, or to add columns for one section of the text. Page breaks, however, begin a new section on the next page. These do everything the continuous section break does, but simply adds a new page. These are useful for when you want to start a new chapter, for example.</para>
+    <para id="para-00019">Both types of section breaks are important for generating your table of contents. When you create a table of contents in Word, the program automatically generates page numbers based on the page numbers in your sections. You may have continuous page numbering throughout your document, and so in this case, the table of contents will not be concerned with your sections. However, if there is different page numbering in different sections, the table of contents will reflect this.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Inserting a Table of Contents</title>
+    <para id="para-00020">You need to have added your headings and sections for the table of contents to work. In the market trends report, we formatted the headings for each major section and the subsections in those sections. Recall the headings were formatted using the Style command group on the Home tab. To insert a table of contents using the headings we have defined, go to the first page of the first section. For the report, we want to include the table of contents after the cover page. So we will go to the Introduction/Executive Summary heading. Leave a blank line before the section heading by pressing Enter to move the first section downward as least one line, as shown in <link target-id="fig-00004"/>. This will determine the placement of the table of contents. It should appear before the actual report starts, so before the first section of the document. Now, go to the References tab, choose the drop-down menu called <term class="no-emphasis" id="term-00019">Table of Contents</term>, and choose any of the preset formats. Choose Automatic Table 2 for the market trends report; it will look like <link target-id="fig-00005"/>. Conveniently, the table of contents has clickable hyperlinks by default, meaning that you can press Ctrl on the keyboard while clicking the mouse on any part of the table of contents and it will take you to that part of the document.</para>
+    <figure id="fig-00004">
+    <media alt="The References tab is selected on the Ribbon and in the Table of Contents command group the Table of Contents button is selected and opens to a Built-In pane with various options for choosing a Table of Contents style as well as options for More Table of Contents from Office.com, Custom Table of Contents, Remove Table of Contents, and Save Selection to Table for Contents Gallery.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOC01a.jpg"/>
+    </media>
+    <caption>Creating a hyperlinked table of contents in Word allows the reader to click right to each section, directly from the table of contents. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00005">
+    <media alt="A Table of Contents is visible with headings, subheadings, and page numbers.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOC01b.jpg"/>
+    </media>
+    <caption>The table of contents is arranged using the headings we defined when composing the document. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00021">Note that any time you update your document, and add or delete any headings, you will also need to update your table of contents. You can do this simply by putting your cursor anywhere on the table of contents and selecting the Update Table button. This will automatically update your headings and page numbers.</para>
+    </section>
+    </section>
+    <section id="sect-00009">
+    <title>Footnotes and Endnotes</title>
+    <para id="para-00022">A <term id="term-00020">footnote</term> is a way to add notes to a document, and/or a way to cite a <term id="term-00021">reference</term>. A footnote appears at the bottom of the page where the reference occurs. When you add a footnote, a small superscript number or symbol will appear above your text, and then the footnote will automatically be added to the bottom of the page. This is an easy way to add a reference to a source or other general notes. For example, the author may want to add a related thought or comment about the text and have it appear at the bottom of the page in the form of a footnote, so that the reader can quickly and easily read it.</para>
+    <para id="para-00023">An <term id="term-00022">endnote</term> is similar to a footnote, except that the note appears on a page at the end of the document. Endnotes are typically part of the back matter. They are useful for when you want to have all of your references and comments in one place. However, having them at the end of the document makes it harder for the reader to read them in the moment.</para>
+    <para id="para-00024">To insert a footnote or endnote, place your cursor at the end of a sentence, and choose the <term class="no-emphasis" id="term-00023">Insert Footnote</term> or <term class="no-emphasis" id="term-00024">Insert Endnote</term> command on the References tab. Word will automatically take you to the bottom of the page (for a footnote) or the end of the document (for an endnote) and add a short line to indicate where the footnote/endnote space will be.</para>
+    <para id="para-00025">For the market trends report, we need to add a footnote to provide the reference for the information about laptop sales in the industry. We will place the cursor at the end of the sentence (at the end of the word “billion”) as the place where the footnote notation will be inserted (<link target-id="fig-00006"/>). The actual footnote will be inserted at the bottom of the page as a blank footnote. You can then insert the appropriate citation for the footnote. In this case, the website for the reference was copied and pasted into the footnote (<link target-id="fig-00007"/>). To format the text in the footnote, click on it twice, and the whole line will be selected, then right-click on it and select Style. You can change the font type if you click on Modify. You can further change the footnote type, as there are many standard layouts of how to present a footnote, as <link target-id="fig-00008"/> shows. Enter the citation/text for the footnote.</para>
+    <figure id="fig-00006">
+    <media alt="In the document, the words “$20 billion” are followed with a superscript 1.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01a.jpg"/>
+    </media>
+    <caption>The superscript “1” indicates that there is a footnote at the bottom of the page. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00007">
+    <media alt="In the document, the words “$20 billion” are followed with a superscript 1. At the bottom of the document there is a short line separating the document text from the footnote. A superscript 1 is below the line followed by a website link.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01c.jpg"/>
+    </media>
+    <caption>Footnotes will be numbered in the body of the document and numbered at the bottom of the page where the footnote is inserted. Include the citation for the reference in the footnote. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00008">
+    <media alt="In the document, the footnote text is selected and in the pane that opens these options are available for selection: Font, Font Size, Increase Font Size, Decrease Font Size, Format Painter, Bold, Italics, Underline, Text Highlight Color, Font Color, Bullets, Numbering, Styles, New Comments, Line and Spacing, and Justify. Styles is selected and a pane opens to various font style options as well as selections for: Create a Style, Clear Formatting, and Apply Styles.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01d.jpg"/>
+    </media>
+    <caption>The style of the footnote font can be formatted using a wide variety of built-in styles. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00026">An endnote will look exactly the same as a footnote. The only difference is that it is at the end of the document instead of at the bottom of the page. For the market trends report, we could use endnotes to identify the departments that contributed the specific information in the sections or to add additional context to a statement in the report.</para>
+    <para id="para-00027">For both footnotes and endnotes, you have the option of changing the numbering system. Word will automatically use numbers (for footnotes) or Roman numerals (for endnotes), but you can change this. Double-click to select the endnote or footnote, then right-click it to activate the context menu, and select Note Options where you can change the numbering format, as shown in <link target-id="fig-00009"/>. If you want to change the font or layout, select Style from the context menu.</para>
+    <figure id="fig-00009">
+    <media alt="In the document, an endnote is visible under a line at the end of the page represented by a lowercase i. The cursor is set to the right of the letter i and a pane is open listing the following options for selection: Cut, Copy, Paste Options, Font, Paragraph, Style, Go to Endnote, Note Options, Convert to Footnote, Block Authors, Search, Link, and New Comment. At the bottom of the page a horizontal pane is open which includes these options for selection for the text: Font, Font Size, Increase Font Size, Decrease Font Size, Format Painter, Bold, Italics, Underline, Text Highlight Color, Font Color, Bullets, Numbering, Styles, New Comment, Line and Paragraph Spacing, Center, and Justify.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_ENDN01b.jpg"/>
+    </media>
+    <caption>Endnotes can save space in a long document. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00010">
+    <title>Table of Figures</title>
+    <para id="para-00028">A <term id="term-00025">table of figures</term> is similar to a table of contents, except that instead of listing your document’s headings and section breaks, it lists the captioned figures, such as tables and images. This is useful in documents with a lot of statistical analyses, for instance, in which readers will need to easily and quickly find specific graphs or charts. It can also be useful in documents like business reports, where you might want to have a list of the different data tables. Like a table of contents, there are a few requirements that must be met before the table of figures can be generated.</para>
+    <section id="sect-00011">
+    <title>Captions</title>
+    <para id="para-00029">For Word to automatically generate your table of figures, you need to insert captions for each of them. Let’s first insert a summary chart of data using the skills learned earlier in the chapter into the market trends report. To “<term class="no-emphasis" id="term-00026">caption</term>” a figure, select the entire figure, then choose <term class="no-emphasis" id="term-00027">Insert Caption</term> (see <link target-id="fig-00010"/>). In the dialog box that appears (see <link target-id="fig-00011"/>), the caption is automatically generated to be “Figure 1,” but you can rename it to whatever you like. There are also options where you can choose the placement of the caption. Do the same for all the figures in your document. Once all your figures are captioned, then you can insert your table of figures.</para>
+    <figure id="fig-00010">
+    <media alt="References is selected on the Ribbon and in the Captions command group, Insert Caption is selected. In the document, a cursor sits at the start of a blank line underneath a table of information.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF01a.jpg"/>
+    </media>
+    <caption>You must use the Insert Caption tool to make sure all of your captions will appear in the table of figures. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00011">
+    <media alt="(a) References is selected on the Ribbon and a Caption pane is open. A window is available for entering in the Caption (Table 1 is entered) and Options below include Label and Position (both with drop down menus for item selection) and a box to check for Exclude label from caption. Buttons for New Label, Delete Label, Numbering, AutoCaption, OK and Cancel are visible in two rows across the bottom. (b) In the document, the caption Table 1: Industry Sales Data is visible on the left side underneath a table of information.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF01bc.jpg"/>
+    </media>
+    <caption>(a) You can use the default text for captions or type in your own information. (b) The caption is placed below the table in this example, and is formatted according to the Style formatting used for the rest of the document. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00012">
+    <title>Inserting a Table of Figures</title>
+    <para id="para-00030">As with inserting a table of contents, first go to the top of your document where you will want your table of figures to appear. Typically, a table of figures is placed right below the table of contents. Now that we have labeled our table with a caption, we can create a table of figures to see how it works. As seen in <link target-id="fig-00012"/>, insert a page break, and choose the <term class="no-emphasis" id="term-00028">Insert a Table of Figures</term> command from the References tab. Word will automatically “read” the existing captions, and a table of figures will be generated.</para>
+    <para id="para-00031">To make your document neat and organized, add the title <term class="no-emphasis" id="term-00029">Table of Figures</term> on top, and insert another page break to separate the Table of Figures page from the beginning of the document.</para>
+    <figure id="fig-00012">
+    <media alt="(a) The Reference tab is selected on the Ribbon and in the Captions command group the Table of Figures button is selected. A Table of Figures pane is open with tabs available for Index, Table of Contents, Table of Figures and Table of Authorities. The Table of Figures tab is selected and displays a Print Preview window (which displays what is in the document) along with button options underneath for Show page numbers and Right align page numbers. A drop down menu for Tab leader follows next. A General heading with Formats and Caption label selections (with drop down menus) and a button option for Include label and number. At the right half there is a pane for Web Preview and a button option for Use hyperlinks instead of page numbers. Buttons for Options, Modify, OK and Cancel are located in two rows at the bottom right. (b) A document displays two pages, side by side, with a header in a blue band across the top. At the left is a page displaying a Table of Contents with tiered headings and page numbers. At the right is a Table of Figures displaying a title, Table name, and page number.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF02.jpg"/>
+    </media>
+    <caption>(a) You can change some formatting options when you choose Insert Table of Figures. (b) The table of figures should look similar to a table of contents, but without the multilevel tiers. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    </section>
+    <section id="sect-00013">
+    <title>Linked Bookmarks</title>
+    <para id="para-00032">Another helpful tool for navigating long documents is the <term id="term-00030">bookmark</term>. You can add bookmark links throughout your document for better navigation. Place the cursor where you want the bookmark to link up to—a section header, for example, or the beginning of an important paragraph—and go to the Insert tab and click Bookmark. In the dialog box, type a name for your bookmark <link target-id="fig-00013"/>. In this case, we chose to bookmark the start of the body text. Now, select a word that will link up to the bookmark, right-click on it, and select <term class="no-emphasis" id="term-00031">Hyperlink</term> from the context menu. The same hyperlink dialog box will appear, but this time select Place in Same Document. Click on the bookmark you just made, and then click OK; the link will be set. Conversely, if you want to remove a bookmark from Word, click the <term class="no-emphasis" id="term-00032">Bookmark</term> command in the Insert menu, locate it, and then select Delete.</para>
+    <figure id="fig-00013">
+    <media alt="(a) A Links command group is visible and an arrow points to the Bookmark button within. A Bookmark pane is open and displays a text bar with bodytext typed inside. Checkable buttons for Sort by Name and Location are below as well as a selection button for Hidden bookmarks. At the top right are buttons for Add, Delete, and Go To and a Cancel button is visible at the bottom right. (b) An Insert Hyperlink pane is open and at the left offers options to Link to: Existing File or Web Page, Place in This Document, Create New Document, and E-mail Address. At the top is a space to enter Text to Display and a button for ScreenTip. A pane below offers locations to Select a place in this document (an outline of the document headers is visible in the pane) as well as a button on the right for Target Frame. OK and Cancel buttons are located at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKMARK.jpg"/>
+    </media>
+    <caption>Linking a section of text to a bookmark eases navigation through a long document. If you have many bookmarks, you can sort them by name or location to help you find and organize them. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00033">Another reason to use bookmarks is to help digital readers of your document navigate back to important sections of the document while they read. For example, you can add a link at the end of each chapter that says, “Go to Table of Contents.” To do this, first place a bookmark in front of the table of contents as <link target-id="fig-00014"/> shows. To locate the roster of bookmarks, click the Bookmark command on the Insert tab, and then click Go to. If you want to relocate the bookmark, place the cursor where you want the bookmark to be relocated to, then open the Bookmark dialog box, click the original bookmark’s name, and then click Add. This will update the new location.</para>
+    <figure id="fig-00014">
+    <media alt="In the Table of Contents document, the cursor is located before the word Table. A pop up shows an Update Table button. A Bookmark Pane is open in front and lists the word tableofcontents in the Bookmark name bar. Add, Delete, and Go To buttons are on the right and Sort by Name and Location buttons are located below. A Hidden bookmarks button is available and a Cancel button is visible at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKM01a.jpg"/>
+    </media>
+    <caption>When you create the bookmark at the table of contents, you will be able to see it in your roster of bookmarks. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00034">Next, move to the area of the document where you want to link the table of contents. Go to the Insert tab and select Link. From the <term class="no-emphasis" id="term-00033">Insert Link</term> window, choose the bookmark you just created. In the text box that appears, write the text you want readers to see (“Go to Table of Contents”), then choose Place in this Document as shown in <link target-id="fig-00015"/> and <link target-id="fig-00016"/>. Choose the placement in the document and click OK.</para>
+    <figure id="fig-00015">
+    <media alt="An Insert Hyperlink pane is open and at the left offers options to Link to: Existing File or Web Page, Place in This Document, and E-mail Address. At the top is a space to enter in Text to Display (Go to Table of Contents is entered) and a button for ScreenTip is at the right. A pane below offers locations to Select a place in this document (Multi level tiers in the document are visible) as well as a button on the right for Target Frame. OK and Cancel buttons are located at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKM01b.jpg"/>
+    </media>
+    <caption>Caption missing. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00016">
+    <media alt="Go to Table of Contents is located at the bottom left of the document in a green font and hyperlinked.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKM01c.jpg"/>
+    </media>
+    <caption>Readers can simply click on the inserted hyperlink to go straight to the table of contents. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="spotlight-ethics" id="note-00001">
+    <title/>
+    <para id="para-00035">When you are creating documents, especially long documents that might include research or data that has been created by others, it is essential that you give proper credit. You might have encountered citing sources when completing a research report for a class. We have an ethical obligation to cite sources to acknowledge the work of researchers and their findings from the studies. If proper citation is not given to material that is not your own, this is called plagiarism. Plagiarism is part of a broader category called “academic integrity.” Academic integrity goes beyond giving credit for work that is not your own, but it also covers issues such as cheating on a test or paying to have someone create a research report for you.</para>
+    <para id="para-00036">This is not to say that we cannot use information from others to support our thoughts or to help us develop a new understanding of the material. Instead, it means we have to acknowledge that the information came from another source and we are using their research in our work. From the researcher’s standpoint, a measure of the quality of the research is the number of times the work is cited by others. This is similar to a product online having a large number of five-star reviews. The more the research is cited by others, the higher the credibility of the information.</para>
+    </note>
+    </section>
+    <section class="section-summary" id="sect-00014">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>The Pages command group has the Page Break, Blank Page, and Cover Page commands. These tools are used for adding and managing pages in your document.</item>
+    <item>The Format Painter is a useful tool that lets users copy the exact formatting from one section of text and apply it to another place in the document.</item>
+    <item>The References tab contains many useful tools for navigating long documents. From this tab, you can generate a table of contents, a table of figures, and add footnotes and endnotes.</item>
+    <item>Adding bookmarks helps readers easily navigate within a long document.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00015">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00037"><link class="os-embed" url="#exercise/04-03-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00038"><link class="os-embed" url="#exercise/04-03-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00039"><link class="os-embed" url="#exercise/04-03-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00016">
+    <title>Written Questions</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00040"><link class="os-embed" url="#exercise/04-03-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00041"><link class="os-embed" url="#exercise/04-03-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00042"><link class="os-embed" url="#exercise/04-03-BCA-WQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00017">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00043"><link class="os-embed" url="#exercise/04-03-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00044"><link class="os-embed" url="#exercise/04-03-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00045"><link class="os-embed" url="#exercise/04-03-BCA-PE03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>bookmark</term>
+    <meaning>tool that lets the user connect different parts of the document using links</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>endnote</term>
+    <meaning>note or citation at the end of the document</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>footnote</term>
+    <meaning>note or citation at the bottom of the page</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>Format Painter</term>
+    <meaning>tool in Word that lets you copy the formatting of one area of a document to another area of the same or other file</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>reference</term>
+    <meaning>method of giving credit to the texts and other sources you used to furnish your document with information or data</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>table of figures</term>
+    <meaning>list of graphs, tables, or images that are in the document</meaning>
+    </definition>
+    <definition id="def-00007">
+    <term>title page</term>
+    <meaning>cover page of a document</meaning>
+    </definition>
+    </glossary>
 </document>
