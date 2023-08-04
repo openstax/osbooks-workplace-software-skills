@@ -6,5 +6,363 @@
     <md:uuid>da91234c-62cd-493d-8019-df1d62dfcb1b</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Insert and modify a table</item>
+    <item>Use tools in the Illustrations command group to enhance documents’ visual appeal</item>
+    <item>Use the Text command group to enhance and format documents</item>
+    <item>Use the Symbols command group to insert special characters and equations</item>
+    </list>
+    </section>
+    <para id="para-00002">The WorldCorp market trends report will include more than just text. It will incorporate graphics and images to visually convey the information in the report. Some of these graphics are needed to show the relationship between product lines and distribution centers. Other graphics are used to visually summarize information. In this section, you will learn about the tools for creating engaging, professional graphics within Word.</para>
+    <section id="sect-00002">
+    <title>Tables</title>
+    <para id="para-00003">Tables are a critical feature of many business documents. They are typically the most popular way of presenting results and/or data. They are particularly useful for presenting simple data with only one or two variables. You can easily glance at a table to see, for example, how many sales were made in a given month by a given group of salespeople. In other words, tables are a good way of presenting a limited amount of information in an easy-to-read format. Keep in mind that they are not best suited for complex data or information sets with multiple variables, as the tables can quickly become overloaded with information and hard to read.</para>
+    <para id="para-00004">You need to create a table to summarize WorldCorp sales information for the market trends report. The following columns will be needed: Product, Quantity, Price, Revenue. This information will be arranged in four rows to represent the four different product lines. (Remember that rows are represented horizontally from left to right, and columns vertically from top to bottom.) To insert a table, go to the <term class="no-emphasis" id="term-00001">Table</term> drop-down menu on the Insert tab and select the number of rows and columns you want for the table by hovering over the squares (see <link target-id="fig-00001"/>). For this example, you need four columns and five rows (the products plus the column heading row). You can add more rows or columns after the table is created if needed.</para>
+    <figure id="fig-00001">
+    <media alt="Insert is selected on the Ribbon and in the Tables command group, the Table drop-down menu is selected. A pane opens listing a selection of a 4 x 5 Table. 5 rows and 4 columns are highlighted out of a 10 x 8 selection of boxes. Below the table cell selection are options for: Insert Table, Draw Table, Convert Text to Table, Excel Spreadsheet, and Quick Tables. In the document, a blank table is visible with four columns and five rows.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TABLES01.jpg"/>
+    </media>
+    <caption>The Table tool provides an easy-to-use visual guide for creating tables. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00005">When you insert the table, the Ribbon changes, giving you two additional tabs for changing the formatting and layout of the table. In <link target-id="fig-00002"/> you can see two new tabs: <term class="no-emphasis" id="term-00002">Table Design</term> and <term class="no-emphasis" id="term-00003">Layout</term>. These tabs open automatically when a table is inserted into the document. You can modify the table as a whole by selecting one of the Table Styles in the new Design tab. Select the whole table, then Table Styles, and then choose style; we have chosen one with alternating white and blue rows. You can now add the desired text to the table with the new table style.</para>
+    <figure id="fig-00002">
+    <media alt="Table Design is selected on the Ribbon and Layout is visible next to it on the right. In the Table Styles command group, options are available for Plain Tables (various images are displayed for selection), Grid Tables (various images are displayed for selection), Modify Table Style, Clear, and New Table Style. In Grid Tables, a table is selected with information centered amid alternating blue and white rows. In the document in the background, a table with alternating blue and white rows is visible.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TABLES02a.jpg"/>
+    </media>
+    <caption>With the built-in styles, you can customize the table for a more visually appealing look. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00006">To add new rows or columns to your table, go to the other new tab, Layout. There are options for adding rows and columns above and below, or to the right and left, of the one you currently have your cursor on. This makes it easy to expand your table as you add more information. Select the area in the table you want to expand such as the column or row. Then, choose the applicable tool from the Layout menu. In this example, we chose Insert Below and Insert Right. In <link target-id="fig-00003"/>, you can see an added row to the bottom of the table, and a new column named YoY Same Month. (“YoY” stands for “Year over Year.”)</para>
+    <figure id="fig-00003">
+    <media alt="Layout is selected on the Ribbon File and in the Rows and Columns command group, these options are available for selection: Insert Above, Insert Below, Insert Left, and Insert Right. Insert Below and Insert Right are indicated with an orange circle. In the document, a cursor sits at a blank row below the other five populated rows of information in a grid table with blue and white alternating rows. A new column is visible at the right side of the table and labeled “YoY Same Month” and is currently unpopulated.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TABLES02b.jpg"/>
+    </media>
+    <caption>The Layout tab tools are used to make physical adjustments to the table, such as inserting or deleting rows or columns. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Illustrations Command Group</title>
+    <para id="para-00007">The <term class="no-emphasis" id="term-00004">Illustrations</term> command group is for inserting images, shapes, SmartArt, or charts. For the market trends report, you will be inserting some graphs and charts that show the size of the market and other related information. You might also want to include images of new developments in the industry or current products on the market from competitors. The <link document="m00032">Creating and Working in Documents</link> chapter covered the arrangement and aligning of objects. This section will cover how to insert different types of objects.</para>
+    <section id="sect-00004">
+    <title>Inserting Pictures</title>
+    <para id="para-00008">When inserting a picture into your document, you can choose to get a picture from the internet, from stock images in Office, or from a picture saved on your computer. (Always make sure you are not violating copyright or using pictures from proprietary sites without giving proper credit to the image creator or site.) In a business report, you might want to include images of your products or your office building. These photos will probably already be saved on your computer or be available on your shared company hard drive. To add a picture from a file saved on your computer, go to the Insert tab, choose <term class="no-emphasis" id="term-00005">Pictures</term>, then select This Device from the drop-down menu (<link target-id="fig-00004"/>). From the dialog box, choose the picture file you want to insert. The picture will be inserted at the location of your cursor.</para>
+    <para id="para-00009">You may also choose to insert some stock images available through Office. Stock images are photos or other images that are already licensed for general use through whatever platform you are using. There are stock image repositories, such as Getty; Office has its own repository of stock images, which you can access by selecting Stock Images from the Pictures drop-down menu. These images are searchable and include photos, icons, and cartoons.</para>
+    <figure id="fig-00004">
+    <media alt="(a) Insert is selected on the Ribbon and in the Illustrations command group, the Pictures button is selected. An Insert Picture From pane is open with these options: This Device, Stock Images, and Online Pictures. (b) A window is open with tabs for: Images (selected), Icons, Cutout People, Stickers, Illustrations, and Cartoon People. A blank search bar is located under the tabs. Next, tabs titled New, Beauty, Industry, Nature, and Abundance are visible. New is selected and two rows of images are visible. An Insert and Cancel button are visible on the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PICab.jpg"/>
+    </media>
+    <caption>(a) Word makes it easy for you to insert images from a variety of locations into their document. (b) The Office stock images give you different options for more generic images or cartoons. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00010">Word also gives you the option of inserting a picture directly from the internet. If you choose <term class="no-emphasis" id="term-00006">Online Pictures</term>, a dialog box will open, with Microsoft Bing’s image search available, as <link target-id="fig-00005"/> shows. This might be a nice option if you want to include a picture of a competitor’s product in the market trends report.</para>
+    <figure id="fig-00005">
+    <media alt="Insert is selected on the Ribbon File and an Online Pictures window is open. A Search Bar states Search Bing and categories of images are available for selection, including: Airplane, Animals, Autumn, Background, Balloons, Baseball, Birds, Birthday Cake, Books, Car, Celebration, and Coffee. Powered by Bing is visible under the Search Bar.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PICc.jpg"/>
+    </media>
+    <caption>Bing’s image search tool helps you look for images by categorizing them by topic. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00011">Let’s find images of laptops for the WorldCorp market trends report. Let’s include one stock image and one online picture. For now, insert the images in a blank document just for practice. Later, you can insert the images into the market trends report if you desire. Open a blank document and go to the Insert tab.</para>
+    <para id="para-00012">Choose Picture and then choose Stock Images. Choose the Icons tab and, in the search bar, type “laptop” (<link target-id="fig-00006"/>). This will narrow our search to icons, or simple black-and-white illustrations, rather than photographs. This type of image might be useful in a report because it is clear and simple. Notice that when an icon is inserted into the document, a new tab, <term class="no-emphasis" id="term-00007">Graphics Format</term>, appears on the Ribbon. The Graphics Format tab will appear when you insert something like an icon or a cartoon into your document. This tab gives you the tools to make adjustments to the icon that you inserted.</para>
+    <figure id="fig-00006">
+    <media alt="(a) Insert is selected on the Ribbon file and the open window lists these tabs for selection: Images, Icons (selected), Cutout People, Stickers, Illustrations, and Cartoon People. The search bar has laptop visible and below the search bar, there are four different icons of computers visible. The first one is selected with a blue checkmark. (b) The computer icon selected in (a) is displayed in the document in (b). The image is highlighted in the document and a Graphic Format tab is visible on the Ribbon, displaying the following command groups: Graphics Styles (includes icons color selections, Graphics Fill, Graphics Outline, and Graphics Effects), Accessibility (includes Alt Text), Arrange (includes Position, Wrap Text, Bring Forward, Send Backward, Selection Pane, Align, Group, and Rotate), and Size (includes Crop, Height, and Width).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PIC2.jpg"/>
+    </media>
+    <caption>(a) Word gives you different categories to help you narrow down your search. (b) The Graphics Format tab offers tools for applying different styles, effects, and other features to your image. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00013">Now, let’s find a picture of a laptop from the internet. Choose Online Pictures and type “laptop” in the search bar. This will initiate a Bing web search for that key term. Notice that you can also search by license; here, we have chosen to search for images under the Creative Commons license only. To select an image, click on the picture and choose Insert (<link target-id="fig-00007"/>).</para>
+    <figure id="fig-00007">
+    <media alt="Insert is selected on the Ribbon and an Online Pictures window is open. Laptop is visible in the Search Bar and Powered by Bing is visible under the bar. A filter is applied to the search (Creative Commons only) and pictures of various laptops are visible. An image of an open laptop with an open Start screen is selected. Below the images it reads: You are responsible for respecting others’ rights, including copyright. Learn more here (blue font and hyperlinked). An Insert (1) and Cancel button are visible on the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PIC3a.jpg"/>
+    </media>
+    <caption>Bing is the search engine used for images because it is also a Microsoft product. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00014">In this case, because you are inserting an actual full-color image, such as a photograph, the tab added to the Ribbon is the <term class="no-emphasis" id="term-00008">Picture Format</term> tab, not the Graphics Format tab. As with the Graphics Format tab, this tab gives you the tools to make adjustments to the picture and its placement in the document, as <link target-id="fig-00008"/> shows.</para>
+    <figure id="fig-00008">
+    <media alt="A picture of an open laptop with the Start screen visible is inserted into the document under an icon of a computer. The laptop picture is highlighted and a Picture Format tab is visible on the Ribbon. The command groups visible are Adjust (includes Corrections, Color, Artistic Effects, and Transparency), Picture Styles (includes Framing Styles, Picture Border, Picture Effects, and Picture Layout), Accessibility (includes Alt Text), and Arrange (includes Position, Wrap Text, and Bring Forward). In the bottom left corner of the picture it rads: This Photo by Unknown Author is licensed under CC BY.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PIC3b.jpg"/>
+    </media>
+    <caption>When images are used from the web, be sure to recognize copyrights and give credit for images when appropriate. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Shapes</title>
+    <para id="para-00015">The <term class="no-emphasis" id="term-00009">Shapes</term> drop-down menu is a useful command if you are designing an ad, flyer, newsletter, or other graphic-heavy document. Shapes are graphical symbols, like arrows, rectangles, circles, and lines, that can be formatted in different ways. These can be useful in business documents because they can help call attention to certain topics or data without being as eye-catching as a photograph. For example, you might want to insert an arrow shape in the market trends report to draw attention to a specific item in a graph or chart. Or you might want to use a circle to outline a key part of a table. However, keep in mind the professionalism and visual appeal of the document you are preparing. Shapes might not be appropriate in all situations.</para>
+    <para id="para-00016">In <link target-id="fig-00009"/>, you can see the wide range of shapes that you can add to your document. Let’s add an arrow to a table that we might use in the market trends report to highlight an important number in the table. This table contains television sales data for WorldCorp. We will revisit some of this data as we move through the spreadsheet chapters.</para>
+    <para id="para-00017">We want to point out the highest quantity sold in the table. To insert an arrow, go to the Insert tab, Illustrations command group, and select Shapes. Select the arrow you want to insert. In this example, the single line arrow (third over from the left) is selected, as shown in the figure. When you select the shape, you will get a black “+” as the cursor. Use that plus sign to insert the shape and to size the shape as you choose.</para>
+    <figure id="fig-00009">
+    <media alt="The Insert tab is selected on the Ribbon and in the Illustrations command group the Shapes button opens to a pane with categories of various shapes for selection: Recently Used Shapes, Lines, Rectangles, Basic Shapes, Block Arrows, Equation Shapes, and Flowchart. On the table visible in the background, all of the cells are populated with text and numerical data.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SHAPEa.jpg"/>
+    </media>
+    <caption>There are many shapes for adding emphasis and visual appeal to your documents. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00018">After you select and insert a shape, the <term class="no-emphasis" id="term-00010">Shape Format</term> tab is added to the Ribbon, as shown in <link target-id="fig-00010"/>. You can change the color of the shape, add visual effects, align the object, use a word wrap, and change the position of the item.</para>
+    <figure id="fig-00010" class="scaled-down">
+    <media alt="The Shape Format tab is selected on the Ribbon and the following command groups are available: Shape Styles (includes Color, Shape Fill, Shape Outline, and Shape Effects), WordArt Styles (includes Quick Styles, Text Fill, Text Outline, and Text Effects), Text (includes Text Direction, Align Text, and Create Link), Accessibility (includes Alt Text), and Arrange (includes Position, Wrap Text, and Bring Forward). In the table in the document, an arrow is visible outside of the last column and pointing to the number in the cell in the 6th row of the 7th column.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SHAPEb.jpg"/>
+    </media>
+    <caption>The Shape Format tab is used to change the color, size, and other features of the shape. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>SmartArt</title>
+    <para id="para-00019"><term id="term-00011">SmartArt</term> is a tool in Word that lets the user design organizational charts or flowcharts. It is also part of the Illustrations command group. It is similar to Shapes, but has the shapes prearranged in useful graphic formats, such as flowcharts. In <link target-id="fig-00011"/>, you can see the different organizational graphs and charts available. This section covers three important types of SmartArt: Lists, Process Charts, and Hierarchy Charts.</para>
+    <figure id="fig-00011">
+    <media alt="A Choose a SmartArt Graphic window is open and the selections available at the left include: All, List, Process, Cycle, Hierarchy, Relationship, Matrix, Pyramid, and Picture. All is selected and at the right a List panel showcases various prearranged graphics for selection by clicking. The Basic Block List is selected and at the right the selection is visible with a description underneath (Use to show non-sequential or grouped blocks of information. Maximizes both horizontal and vertical display space for shapes.) An OK and Cancel button are visible on the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMARTART01.jpg"/>
+    </media>
+    <caption>There are various business charts that you can design in SmartArt. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <section id="sect-00007">
+    <title>SmartArt Lists</title>
+    <para id="para-00020"><link document="m00043">Microsoft Word: Advanced Formatting Features</link> covered basic numbered and bulleted lists. But there are other, more visually complex options in SmartArt that an employee might have to use when creating documents that contain deeper levels of content than, say, a memo or introductory letter to a customer. SmartArt can also be used to outline an organizational structure to show reporting relationships between employees and managers.</para>
+    <para id="para-00021">To insert a SmartArt list, select the SmartArt icon from the Insert tab and click on the List menu to see all the options for Lists. <link target-id="fig-00012"/>a shows a Horizontal Bullet List, which we can use to list the strengths and weaknesses of WorldCorp in the market trends report. Click OK to insert the SmartArt. As you insert it, the SmartArt Design tab is added to the Ribbon, which has options for modifying the SmartArt. <link target-id="fig-00012"/>b shows what a Horizontal Bullet List SmartArt looks like.</para>
+    <figure id="fig-00012">
+    <media alt="(a) The Insert tab is selected on the Ribbon, and in the Illustrations command group, SmartArt is selected. A pane opens to Choose a SmartArt Graphic with these options at the left for selection: All, List, Process, Cycle, Hierarchy, Relationship, Matrix, Pyramid, Picture, and Office.com. List is selected and at the right a List selection pane showcases various prearranged graphics for selection. A Horizontal Bullet List is selected and at the right an image of the list is visible with a description underneath (Use to show non-sequential or grouped lists of information. Works well with large amounts of text. All text has the same level of emphasis, and direction is not implied.) OK and Cancel buttons are visible on the bottom right. (b) A Horizontal Bullet List (three vertical boxes with a dark blue band at the top with a [Text] box visible and a light blue larger band along the bottoms with two bulleted [Text] boxes visible) is inserted into a document. A SmartArt Design tab is selected on the Ribbon and Layouts (includes various layout options) and SmartArt Styles (includes Change Color options) command groups are visible on the Tool Bar.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMARTART02.jpg"/>
+    </media>
+    <caption>(a) SmartArt also includes helpful hints on how to use each type of list best. (b) Using the text boxes, you can enter the relevant information into the SmartArt graphic. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00008">
+    <title>Process Charts</title>
+    <para id="para-00022">Another type of SmartArt is a <term id="term-00012">process chart</term>. This is one of the types of charts that Word offers to enhance documents and is commonly used in business. A process chart is a way of graphically representing a multistep process. Most business processes or workflows can be diagrammed; think about the many steps needed to publish a book or deliver a parcel. These process charts visually organize the steps or major components in a process so that everyone involved can understand what their role is in the workflow. Workers involved in the process may use process charts to check project status or determine which worker or department to consult to move a task along. For your market trends report, you might want to use a process chart to show the sequence of departments that the report will need to move through for approval.</para>
+    <para id="para-00023">Complex engineering, such as in manufacturing plants, has numerous processes happening at the same time, with each set of processes being dependent on another set. The charts offered in the Process option can help encapsulate the different types of workflows in a company.</para>
+    <para id="para-00024">In <link target-id="fig-00013"/>, you can see a flowchart that needs to be filled. As with the Horizontal Bullet List, the boxes are empty when the SmartArt is initially inserted. To add text, simply click on the text brackets and enter the desired information. Notice there is a line that connects each box to the next one in a down than up pattern, indicating the flow sequence.</para>
+    <figure id="fig-00013">
+    <media alt="The Design tab is selected on the Ribbon and in the Layouts command group, a Vertical Bending Process chart is selected. In the document, the chart is depicted with three blue rounded boxes across and three down. A pale blue, thick line connects the blue boxes in a down, across, up, across, and down flow. The blue rounded boxes have [Text] boxes in white font inside.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMARTART03.jpg"/>
+    </media>
+    <caption>This type of SmartArt is called a Vertical Bending Process chart. It can be used to show many different steps in a linear workflow, without taking up too much space on the page. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00025">Check out this tutorial to <link url="https://openstax.org/r/78CrtFlowchart">learn about creating flowcharts</link> in detail. This site provides basic terminology and a step-by-step walk-through on how to create a simple flowchart using the Shapes commands and a more complicated flowchart using the SmartArt commands.</para>
+    </note>
+    <para id="para-00026">Now let’s add a process chart to the market trends report. Open a blank document and go to the Insert tab, SmartArt, and click Process. Choose the first option, Basic Process, and click OK. You can also change the colors using the tools on the SmartArt Design tab using the change colors palette on the tab (<link target-id="fig-00014"/>).</para>
+    <figure id="fig-00014">
+    <media alt="(a) A Choose a SmartArt Graphic window is open with these options at the left for selection: All, List, Process, Cycle, Hierarchy, Relationship, Matrix, Pyramid, Picture, and Office.com. Process is selected and various options of process charts are available for selection in a pane at the right. A Basic Process chart is selected and visible at the right with the following description: Use to show a progression or sequential steps in a task, process, or workflow. OK and Cancel buttons are visible on the bottom right. (b) The SmartArt Design tab is selected on the Ribbon and in the SmartArt Styles command group Change Colors is selected. A color style is selected and a drop down pane showcases various options of color schemes in these topic areas: Primary Theme Colors, Colorful, and Accent 1 as well as an option to Recolor Pictures in SmartArt Graphic. In the document, a process chart is shown with orange, gray, and yellow rounded boxes and white text inside the boxes. Arrows pointing to the right are visible between the boxes.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMARTART04.jpg"/>
+    </media>
+    <caption>The default color scheme is blue and white when the process chart is inserted, but there are many color options to make the process chart look more professional and visually appealing. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00009">
+    <title>Hierarchy Charts</title>
+    <para id="para-00027">Another chart often used in corporate settings is the <term id="term-00013">hierarchy chart</term>. These charts typically show the chain of command at a business; in other words, who supervises whom. In a large corporation like WorldCorp, there may be hundreds of hierarchy charts. Every manufacturing center may have dozens, one for each functional department. You could consult these hierarchy charts in a company organizational manual, or online, on the company’s intranet. In <link target-id="fig-00015"/>, you can see the inserted hierarchy chart of WorldCorp’s marketing department.</para>
+    <figure id="fig-00015">
+    <media alt="The SmartArt Design tab on the Ribbon is selected and in the Layouts command group a hierarchy chart is selected. In the SmartArt Styles command group, Change Colors is selected and the chart visible in the document is blue and white. The chart is one box at the top with lines down to two more boxes. The box at the left connects to two boxes below and the box at the right connects to one box below.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMARTART05.jpg"/>
+    </media>
+    <caption>You can see the chart formatting and design options on the Ribbon on this hierarchy chart. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="real-application" id="note-00002">
+    <title>Understanding Types of Organizational Charts</title>
+    <para id="para-00028">Many companies will include an organizational chart (“org chart” for short) within their internal documentation provided to employees. These serve as important documents that visualize the structure of the company, as well as the chain of command within its service units. Hierarchy charts can help you construct an organizational chart quickly. Before you begin, you will want to identify the type of organizational structure your company has adopted.</para>
+    <para id="para-00029">Hierarchical organizations will have a clear and linear chain of command, usually organized by product or function, with power primarily held at the top. These are mechanistic, or bureaucratic, organizations. They tend to be formal, with a narrow span of control within each unit. Organic structures are more fluid and flexible. Matrix organizations are a great way to try out a more organic organizational structure, while still maintaining some aspects of a mechanistic structure. In a matrix, employees may report to more than one reporting line and therefore power (and responsibility) is distributed. Dotted lines in such a chart would show informal or secondary relationships. So, before embarking on creating an organizational chart for an organization, first understand its structure to select the most appropriate chart type.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Charts</title>
+    <para id="para-00030">Charts are another type of visual representation available in Word. While tables present just data, and SmartArt figures show relationships, charts can show both. Word charts include many types of charts that are likely familiar to you, such as bar charts, line graphs, and pie charts. Charts can use data from another source, such as a Microsoft Excel spreadsheet, to create the visual representation.</para>
+    <para id="para-00031">You can create charts in Word using the tool in the Illustrations command group. You will use some of the data from the sales data in <link target-id="fig-00009"/> and <link target-id="fig-00010"/>a to create a bar <term class="no-emphasis" id="term-00014">chart</term> of the quantity sold for each product. First, select the Chart command in the Illustrations command group, and choose the type of chart that you want to design. Let’s choose a bar chart, also known as a Clustered Column chart (<link target-id="fig-00016"/>). As you select OK, Word will immediately open an Excel window so that you can enter the data. When you finish inputting the data, you will see the chart in your document. As with the other types of graphical representations that we’ve covered, once you click on the chart, a new tab will appear in the Ribbon. Click on the chart and you can further format the chart using the Chart Format tab that appears. You can also edit the data in the chart or table using the Edit Data tool on the Chart Format tab, as shown in [<link target-id="fig-00017"/>b. You can choose to edit the data in Word. If you choose this option, an Excel window will open in Word with the data used to build the chart. If you would like to save the data as an Excel file, choose Edit Data in Excel. This will open the Excel application. Here, you can edit the data, but also save the information as an Excel file.</para>
+    <figure id="fig-00016" class="scaled-down">
+    <media alt="An Insert Chart window is open and the All Charts tab is selected. The options at the left available for selection include: Recent, Templates, Column, Line, Pie, Bar, Area, X Y (Scatter), Map, Stock, Surface, Radar, Treemap, Sunburst, Histogram, Box &amp; Whisker, Waterfall, Funnel, and Combo. Column is selected and at the right various column charts are available for selection. The Clustered Column chart is selected. OK and Cancel buttons are visible at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_CHARTa.jpg"/>
+    </media>
+    <caption>Within each chart type, there are many further options for customization. (attribution: Used with permission from Microsoft)
+    </caption>
+    </figure>
+    <figure id="fig-00017">
+    <media alt="(a) A column chart is visible in the document with TV types along the x-axis and Quantity numbers from 0 to 120 along the y axis. At the top of the document, a green Excel file is open titled Chart in Microsoft Word. In the cells, information from the column chart in the document is listed in a two column table with TV Type (from the x-axis) and Quantity (from the y-axis). (b) The Chart Design tab is selected on the Ribbon and in the Chart Styles command group a design is selected to alter the colors of the chart in the document. In the document, the chart is highlighted and at the right are icon options for selection: Layout Options, Chart Element, Chart Styles, and Chart Filters.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_CHARTbc.jpg"/>
+    </media>
+    <caption>(a) As you create a chart, Word will create a new Excel file embedded in the document. You can choose to open the data in Excel using the Edit data tool. (b) You can change the design and type of chart using the Chart Format tab. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00032">It is worth noting that when you are looking to design a chart, typically you can use <term class="no-emphasis" id="term-00015">Excel</term> as a starting point for creating your chart. This is often a much easier approach than starting your chart in Word; this process is covered in the chapter on <link document="m00001">Working with Spreadsheets</link>. After creating the chart in Excel, you would then copy and paste the chart from Excel into Word or import the file into Word.</para>
+    </section>
+    </section>
+    <section id="sect-00011">
+    <title>Text Command Group</title>
+    <para id="para-00033">Like the Illustrations command group, the <term class="no-emphasis" id="term-00016">Text</term> command group is located on the Insert tab. It houses the Text Box, Quick Parts, WordArt, Drop Cap, Signature Line, Date &amp; Time, and Object commands. These commands are all related in their functionality, as they are tools to insert autogenerated text or specially designed text.</para>
+    <section id="sect-00012">
+    <title>Text Box</title>
+    <para id="para-00034">You may have seen a <term class="no-emphasis" id="term-00017">text box</term>, either in a Word document, on a website, or in a print article. It is simply a self-contained square with some text inside. <link target-id="fig-00018"/> shows text box options. The text box is often used in highly graphical documents, such as an email ad, but you may also add a text box for inserting a meaningful phrase, idea, or data that you want to stand out from the rest of your document. The advantage of a text box is that you can format the rest of the text in your document to wrap around it in different ways, which you will learn about later in this chapter. In essence, it treats a box of text as if it were an image.</para>
+    <figure id="fig-00018" class="scaled-down">
+    <media alt="In the Text command group on the Tool Bar, Text Box is selected and the drop-down Built-in pane displays various text box options for selection. The Banded Sidebar (Bold color band with coordinated heading and reverse text) is selected. In the document visible at the left, a blue background can be seen with white text.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM04.jpg"/>
+    </media>
+    <caption>Text boxes such as this Banded Sidebar can help make your report more visually appealing and easy to read. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00013">
+    <title>Quick Parts</title>
+    <para id="para-00035">The <term class="no-emphasis" id="term-00018">Quick Parts</term> command in the Text command group was also part of the Header &amp; Footer tab that you get when you insert a header or footer. This is an alternative path to quickly add information to the document. Through this menu, you can add a number of items to your document. The first option, AutoText, will automatically add either the author’s initials or name to the header of the document. Another option under Quick Parts is to add additional information such as the company mailing address (as shown in <link target-id="fig-00019"/>). The Fields option adds fields for a more specialized feature of Word called Mail Merge, which will be covered in the [link]Advanced Document Preparation[/link] chapter. This information will only be added if this information was added to the document properties, as you learned in [link]Essentials of Software Applications for Business[/link].</para>
+    <figure id="fig-00019">
+    <media alt="In the Text command group the Quick Parts button is selected and opens to a pane with these options: AutoText, Document Property, Field, Building Blocks Organizer, and Save Selection to Quick Part Gallery. Document Property is selected and opens to a list of options for selection: Abstract, Author, Category, Comments, Company, Company Address, Company E-mail, Company Fax, Company Phone, Keywords, Manager, Publish Date, Status, Subject, and Title. A blank document with a cursor is visible on the left.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_QUICK.jpg"/>
+    </media>
+    <caption>Key company information, such as address, email, and phone number, can also be added through the Quick Parts tool. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00014">
+    <title>WordArt</title>
+    <para id="para-00036"><term id="term-00019">WordArt</term> is a type of stylized font available in Word. WordArt can be used to add colors, shadows, or borders to text. In can also be used to change the text to be vertical or even diagonal. While it is appropriate to use in graphic-heavy formats, such as front pages of business reports, newsletters, or brochures, it is not appropriate for more text-heavy or professional documents, such as business correspondences, the inside of a business report, a résumé, or a cover letter. That said, using WordArt in your document can be a fun way to experiment and add color and creativity to it. WordArt could also be used to start the creation process for a logo, although many businesses will use a graphic design company to create corporate logos.</para>
+    <para id="para-00037">Let’s practice with the company name, WorldCorp, to get an idea of what WordArt can do for plain text. To insert WordArt, select the WordArt icon from the Text command group. Choose a style, and a box with “Your text here” will appear on the page, as shown in <link target-id="fig-00020"/>. The Ribbon will change to add a <term class="no-emphasis" id="term-00020">Shape Format</term> tab, where you can change the color, the font effects, and the position of the WordArt object. Replace the text in the box with “WorldCorp” and choose a design that incorporates blue as the color because this is the company’s primary color. Changes are made using the options in the WordArt Styles command group. You may place the WordArt object behind or in front of other objects, or align it in a certain position within the document, as you would with an image.</para>
+    <figure id="fig-00020">
+    <media alt="(a) On the Ribbon the Shape Format tab is selected and the following command groups are available: Shape Styles (includes Color, Shape Fill, Shape Outline, and Shape Effects), WordArt Styles (includes Quick Styles, Text Fill, Text Outline, and Text Effects), Text (includes Text Direction, Align Text, and Create Link), Accessibility (includes Alt Text), and Arrange (includes Position, Wrap Text, Bring Forward, Send Backward, Selection Pane, Align, Group, and Rotate). In the document, a WordArt box is inserted and Your text here visible in orange font in the box. (b) The text inside the WordArt box has been changed to WorldCorp and the font is now blue. A Layout Options box is visible to the right of the WordArt.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM05.jpg"/>
+    </media>
+    <caption>(a) When you insert WordArt, you will get another tab on the Ribbon to further customize the text. (b) You can send the WordArt forward or backward using the Arrange command group. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00015">
+    <title>Drop Cap, Signature Line, Date &amp; Time</title>
+    <para id="para-00038">The formatting options in the Text command group can be seen in books, reports, and other kinds of stylized texts. For instance, you have probably seen a <term id="term-00021">drop cap</term> in a novel or journal article: It’s when the first letter of the first sentence is large or in a stylish font, and the rest of the text is wrapped around it. To achieve this effect, select the first letter and choose the <term class="no-emphasis" id="term-00022">Drop Cap</term> drop-down menu from the Text command group (<link target-id="fig-00021"/>). Once there, you will see options for font style and placement. You can choose Drop Cap Options to change the font type and size. Generally, drop cap is not used in professional documents such as the market trends report. We are just using it here for illustrative purposes. As you can see from the figure, the large letter T is a bit distracting in the report.</para>
+    <figure id="fig-00021">
+    <media alt="(a) In the Text command group on the Tool Bar, the Drop Text button is selected and these options are visible in the pane for selection: None, Dropped, In margin, and Drop Cap Options. In the document at the left, text and headers are visible. (b) In the document, the first letter of the paragraph is shown large (spanning three lines of text) with the rest of the text wrapped in regular size to the right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM01.jpg"/>
+    </media>
+    <caption>(a) You can choose from among a few different drop cap styles. (b) The drop cap design is a decorative style that you might have seen at the start of a novel or magazine editorial. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00039">You have probably seen a signature line in many emails and letters in Word. The <term class="no-emphasis" id="term-00023">signature line</term> is an autogenerated graphical object that has your name, job title, and email address, as <link target-id="fig-00022"/> shows.</para>
+    <figure id="fig-00022">
+    <media alt="(a) A Signature Setup pane is open and lists these options followed by blank boxes for inserting information: Suggested signer (for example, John Doe), Suggested signer’s title (for example, Manager), Suggester signer’s e-mail address, and Instructions to the signer. Options to select by checking a box include: Allow the signer to add comments in the Sign dialog and Show sign date in signature line. OK and Cancel buttons are visible along the bottom. (b) A blank signature line is visible with an X at the beginning and John Doe and Manager listed below the line.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM02.jpg"/>
+    </media>
+    <caption>The signature line on (b) is what you will see once you fill the dialog box in (a). (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00040">The <term class="no-emphasis" id="term-00024">Date &amp; Time</term> command is an autogenerated time stamp of the date or/and time format of your choosing, as <link target-id="fig-00023"/> shows. You might want to include the date and time stamp to your market trends report as it moves through the development process. This can help you keep track of the edits that are made in the document at various stages of writing or through the different departments at WorldCorp that will contribute to the report. You could include this information as a header or footer in your document. Note that if you use the Date &amp; Time command, it will update to the current date and time, even if you did not make any changes to the document.</para>
+    <figure id="fig-00023">
+    <media alt="A Date and Time pane is open and lists Available formats (various time, date, and day of the week combinations are visible for selection) and Language (a drop down lists languages available for selection). An Update automatically checkable box follows and Default, Cancel, and OK buttons are visible along the bottom.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM03.jpg"/>
+    </media>
+    <caption>You can choose among different date and time formats, depending on the style of your company and what kind of information you want captured. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00016">
+    <title>Inserting an Object</title>
+    <para id="para-00041">The final item in the Text command group is <term class="no-emphasis" id="term-00025">Object</term>. An object is anything that is inserted into the document rather than simply typing text. An object can be a wide variety of things, including graphics (WordArt), images, charts and graphs from Excel, links to a web page, files from a program such as Adobe Reader, among others. When you insert an object, Word will create a link to the object and you will be directed to this object when you click on it; it will open in a separate window. This action might be helpful if you want to direct someone to a file, such as an Excel spreadsheet, without having to actually include all the information in the Word document.</para>
+    <para id="para-00042">You can also insert an object that links to an outside source, such as a web page. The Object tool can also take text from another file and place that in the current document. This can help you save some time, instead of copying and pasting information from one document to the next. You might consider using this feature for the market trends report because you will have different departments working on different sections of the report.</para>
+    <para id="para-00043">To insert an object, go to the Object tool in the Text command group on the Insert tab. There are two options in the tool: Object and Text from File, as shown in <link target-id="fig-00024"/>. When Object is chosen, a dialog box appears, in which you can select all sorts of file formats if you were to Create New, or Create from File. Create New means that you will create the file within the Word document in the chosen format such as Excel or Adobe. You could also choose to have the link to the object as an icon in your document rather than the first page of the inserted object being displayed. Create from File means that you can use an existing file to insert into the document. The [link]Integrating Applications[/link] chapter covers inserting objects in more depth, as it includes the integration of Office programs.</para>
+    <figure id="fig-00024">
+    <media alt="(a) In the Text command group on the Tool Bar, Object is selected and the drop down lists Object and Text from File for selection. (b) An Object window is open with tabs for Create New and Create from File at the top. Create New is selected and a drop down for Object Type is shown with various document types available for selection (Adobe, Bitmap, Microsoft Excel, etc.). A checkable box to Display as icon is at the right and a Result window has this visible: Inserts a new Adobe Acrobat Document object into your document. OK and Cancel buttons are visible at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM06.jpg"/>
+    </media>
+    <caption>(a) You can insert an object or use text from another file in your document. (b) When you choose Object, you can create a new object or use an existing file. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00017">
+    <title>Symbols Command Group</title>
+    <para id="para-00044">The <term class="no-emphasis" id="term-00026">Symbols</term> command group is also part of the Insert tab. A <term id="term-00027">symbol</term> is a special character not found on most keyboards, and includes characters such as currency symbols, en dashes and em dashes, arrows, Greek letters (often used in economic or financial math), and many other characters. <link target-id="fig-00025"/> shows some of the character choices available in Word.</para>
+    <figure id="fig-00025" class="scaled-down">
+    <media alt="A Symbol window is open and tabs for Symbols and Special Characters are visible at the top. Symbols is selected and at the top are drop downs for Font and Subset selection. A window shows the symbols available for selection and a Recently used symbols bar follows. At the bottom are options for viewing the Unicode name, and selecting a Character code/from (drop down lists options). AutoCorrect and Shortcut Key buttons follow and an Insert and Cancel button are visible at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SYMBOLS01.jpg"/>
+    </media>
+    <caption>You can use the Subset combo box to look for the category you are looking for, to help narrow down your choices. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00045">The <term class="no-emphasis" id="term-00028">Equation</term> command is for inserting mathematical equations into the document. The drop-down arrow by the Equation tool allows you to see some built-in equations from common calculations, as <link target-id="fig-00026"/> shows.</para>
+    <figure id="fig-00026" class="scaled-down">
+    <media alt="The Insert tab is selected on the Ribbon and in the Symbols command group, Equation is selected. The drop-down pane is titled Built-In and lists these options for selection: Area of Circle, Binomial Theorem, Expansion of a Sum, More Equations from Office.com, Insert New Equation, Ink Equation, and Save Selection for Equation Gallery.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SYMBOL02a.jpg"/>
+    </media>
+    <caption>Several built-in equations are available in the Equation tool. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00046">You can also choose to insert a new equation if none of the built-in options meet your needs. When you insert the equation (either new or built-in), a new tab appears on the Ribbon called Equation. Here, you can choose the math notation of your choice and build your own equations. This is especially useful for economic and finance research, engineering reports, or any other kind of quantitative discipline or science. You can even draw the equation that you want to insert, and Word will recognize the numbers and symbols. Select Ink Equation from the Equation drop-down menu. This allows you to use the mouse or your finger to draw the equation symbols if your touch screen or pad allows this (<link target-id="fig-00027"/>).</para>
+    <figure id="fig-00027">
+    <media alt="(a) Equation is selected on the Ribbon and command groups for Symbols (various symbols are available for selection) and Structures (includes Fraction, Script, Radical, Integral, Large Operator, Bracket, and Function) are visible. In the document, a box is seen with Type equation here and a drop down at the right. (b) A Math Input Control pane is open and displays a typed formula (π × Σ) in the first pane along with a hand drawn image of that same formula (π × Σ) in the second pane. Options for Write (selected), Erase, Select and Correct, and Clear follow and Insert and Cancel buttons are visible at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SYMBOL02bc.jpg"/>
+    </media>
+    <caption>(a) The Equation tool can be helpful in making your documents look professional when you need to incorporate mathematical equations. (b) Word has the ability to read your drawings and recognize the symbols. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section class="section-summary" id="sect-00018">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Tables can be inserted into the document to summarize information into rows and columns. The tables can be customized with a wide variety of styles, colors, and fonts.</item>
+    <item>You may insert images, shapes, SmartArt, charts, and screen captures into Word using the tools in the Illustrations command group. SmartArt is a tool that lets you design different types of organizational charts, such as process and hierarchy charts.</item>
+    <item>The Text command group contains commands that let you insert autogenerated fields into your document, like Quick Parts, Signature Line, and Date &amp; Time. It also has text-designing tools like Drop Cap, WordArt, and Text Box.</item>
+    <item>Word also has a large collection of symbols and equations that can be inserted in the document.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00019">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00047"><link class="os-embed" url="#exercise/04-02-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00048"><link class="os-embed" url="#exercise/04-02-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00049"><link class="os-embed" url="#exercise/04-02-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00020">
+    <title>Written Questions</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00050"><link class="os-embed" url="#exercise/04-02-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00051"><link class="os-embed" url="#exercise/04-02-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00021">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00052"><link class="os-embed" url="#exercise/04-02-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00053"><link class="os-embed" url="#exercise/04-02-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00022">
+    <title>Case Exercise</title>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00054"><link class="os-embed" url="#exercise/04-02-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>drop cap</term>
+    <meaning>when the first letter of the first sentence in a paragraph is in a large, stylized font</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>hierarchy chart</term>
+    <meaning>type of chart that visualizes the chain of command or supervision at an organization</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>process chart</term>
+    <meaning>way to represent a multistep process in a document; it shows the steps in the process, the order in which to do them, and the dependencies for an outcome</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>SmartArt</term>
+    <meaning>tool in Word that lets you design organizational charts or flowcharts</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>symbol</term>
+    <meaning>special character not found on the keyboard such as currency symbols or Greek letters</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>WordArt</term>
+    <meaning>tool in Word that lets you create artistic text</meaning>
+    </definition>
+    </glossary>
 </document>
