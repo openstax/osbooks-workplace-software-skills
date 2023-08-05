@@ -6,5 +6,152 @@
     <md:uuid>120d33cf-c85d-410a-9c53-9bcafd414129</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Utilize Paint format to apply formatting in a long document</item>
+    <item>Insert and modify a table of contents</item>
+    <item>Use linked bookmarks and hyperlinks</item>
+    </list>
+    </section>
+    <para id="para-00002">Google Docs has tools that can help users construct and navigate through long documents. The market trends report will have multiple sections containing information that is best presented in varied ways. There are three tools in Docs that this section will cover that are especially helpful: Paint format, Table of contents, and Hyperlinks.</para>
+    <section id="sect-00002">
+    <title>Paint Format</title>
+    <para id="para-00003">The <term class="no-emphasis" id="term-00001">Paint format</term> command in Docs is the equivalent of the Format Painter in Microsoft Word. You use it in the same way: selecting a format you want to copy from the original source, choosing the Paint format icon from the Action Bar (it looks like a small paint roller), and using the cursor to apply it on the target text.</para>
+    <para id="para-00004">In Docs, you can even copy and apply the same original source format multiple times. Once you make your selection, you are able to apply it many times in different areas of the document. To do this, you need to double-click the Paint format icon, after which it will stay locked, as shown in <link target-id="fig-00001"/>. (Word’s Format Painter behaves the same way.) After you are done formatting all the text you need, you can unlock it by clicking once on the icon again; then, the mouse pointer will return to normal.</para>
+    <para id="para-00005">It is not advised to use the Paint format tool to apply a style to an entire document with multiple different features, such as tables and multilevel lists. The Paint format tool may not apply the style in exactly the way you want with these kinds of special formatting. Additionally, note that in Docs, you can use the Paint format tool with one open document only.</para>
+    <figure id="fig-00001">
+    <media alt="(a) A document in Google Docs has a header in a blue bar with white font, a blue header in larger font, and text in black regular font. An arrow points to the Paint format button on the Action bar and the cursor sits at the start of the paragraph. (b) The first paragraph in the document is highlighted and the text is now a blue color. The Text color button on the Action bar reflects the blue of the text.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_06_PAINTF01.jpg"/>
+    </media>
+    <caption>(a) First, select the text with the formatting you want to copy, then click on the Paint format tool. (b) Use the tool to highlight all the text to apply the new formatting to. As you can see, the body text now has the same format as the header text. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Table of Contents</title>
+    <para id="para-00006">As in Word, a <term class="no-emphasis" id="term-00002">table of contents</term> in Docs requires that you have your headings properly styled, your section breaks in place, and page numbers.</para>
+    <section id="sect-00004">
+    <title>Headings for Tables of Contents</title>
+    <para id="para-00007">What Word calls Styles is called <term id="term-00003">Paragraph Styles</term> in Docs. We previously touched on the importance of these styles in Docs in the <link document="m00032">Creating and Working in Documents</link> chapter when we discussed the use of the View menu to activate or hide the document outline. Moreover, we carefully went over headings and their significance for the document when we described the font formatting, and how it can be accelerated with the use of styles. Here, we will discuss how the use of styles helps you manage long documents by helping to structure your table of contents.</para>
+    <para id="para-00008">Docs will automatically read your styles and headings and autogenerate the table of contents from that. For instance, you may have an H1 (Heading 1) for a chapter title, and H2 and H3 headings for subsections. You can see Google’s default heading styles in <link target-id="fig-00002"/>. We can add the table of contents to our WorldCorp market trends report because we have already formatted the various sections of the report with headings.</para>
+    <figure id="fig-00002">
+    <media alt="In Google Docs, the Styles button is selected and the drop down lists these items for selection: Normal text, Title, Subtitle, Heading 1, Heading 2, Heading 3, Heading 4, Heading 5, and Options all is different styles and colors. The document at the right shows different text and header styles and fonts.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_06_STYLES01.jpg"/>
+    </media>
+    <caption>Docs comes with a few default styles, but you can customize them all to suit your needs. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00009">All of these styles can be modified using the Options menu. You can modify any of the heading styles, or even the Normal style. If you like these styles and will use them frequently, select Save as my default styles. These will be the default styles for every new document you create.</para>
+    <para id="para-00010">Changing your styles can be useful when working with long documents. Say that you want to change the font type of all the document’s Normal style text. The first thing to do is to change a particular paragraph by selecting it, and then changing its font type to your desired font. While the text is still selected, go to Styles and hover over Normal text. Then, click Update ‘Normal text’ to match, as <link target-id="fig-00003"/> shows. That will change all the document’s Normal paragraphs to have the new font type. Labeling the text Normal every time gives the user the power to automatize the font formatting.</para>
+    <figure id="fig-00003">
+    <media alt="In Google Docs, the Styles button is selected and the drop down lists these items for selection: Normal text, Title, Subtitle, Heading 1, Heading 2, Heading 3, and Options. Normal text is selected and the pane at the right opens to these options for selection: Apply ‘Normal text’ and Update ‘Normal text’ to match (an arrow is pointing to this option). In the document in the background, a paragraph is highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_06_STYLES03.jpg"/>
+    </media>
+    <caption>Updating your styles can make automating font changes throughout a long document simpler. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00011">Once you have labeled your headings and styled your document properly, the headings will appear in the document outline. This is a good place to check that your headings are correct before you create a table of contents. You can preview all the headings and should be able to quickly catch if something is styled incorrectly. If you see a mistake, simply select that heading and Docs will take you there. From there, you can select the incorrectly styled text and make it the correct heading style.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Inserting Section Breaks for Tables of Contents</title>
+    <para id="para-00012">We stressed the importance of <term class="no-emphasis" id="term-00004">section breaks</term> in the chapter <link document="m00032">Creating and Working in Documents</link>. Section breaks are necessary when creating a table of contents if you want to have different page numbering in different sections. If your page numbering is continuous throughout the entire document, you would not need section breaks to create a table of contents. You only need the section titles to be formatted as a <term class="no-emphasis" id="term-00005">Heading Style</term>. However, if you want the page numbering to restart with each section of the document, you would need to also include a break at the end of each section.</para>
+    <para id="para-00013">Once you have applied correct formatting to all of your headings and placed your section breaks, inserting your table of contents is easy. Go to the Insert menu and choose <term class="no-emphasis" id="term-00006">Table of contents</term>. There are two types: one with page numbers and one with blue links and no page numbers. The option with page numbers is a good choice for either print or digital publishing. If you plan on printing out your report, you want your readers to be able to use the table of contents effectively and be able to flip to the correct page. Digital readers can still click on the page number and be taken there automatically. The option with only blue links and no page numbers is a good choice if your document will only be used by digital readers.</para>
+    <para id="para-00014">Let’s now add the table of contents to the WorldCorp report in Docs. First, go to Insert, then go to the bottom of the menu and choose Table of contents (see <link target-id="fig-00004"/>). Select a type, and the table of contents will be inserted at the location of your cursor.</para>
+    <figure id="fig-00004">
+    <media alt="(a) In Google Docs, Insert opens to this list of options for selection: Drawing, Chart, Horizontal line, Emoji, Smart chips, Date, Dropdown, Footnote, Building blocks, Special characters, Equation, Watermark, Headers &amp; footers, Page numbers, Break, Link, Comments, Bookmark, and Table of Contents. Table of Contents is selected and opens at the right to a pane with options for Plain text, dotted or linked. (b) A Table of Contents is visible. The heading titled Uniqueness is selected and a bar action items is visible.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_06_TOC01.jpg"/>
+    </media>
+    <caption>(a) Docs shows the two different options for tables of contents in the Insert drop-down menu. (b) The table of contents is automatically generated if you have established the section headings with the appropriate formatting from the Styles menu. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00015">Normally, business report writers add the table of contents when they are finished with the report. But in Docs, it is easy to add the table of contents at the beginning and update it as you go along. For example, each collaborator might add new headings to the document as they write or revise, which you would want to see reflected in the table of contents. Once their work is complete, you would simply select the refresh button (“Update table of contents”) or right-click to “Update table of contents,” to update the table of contents (<link target-id="fig-00005"/>). This will tell Docs to recheck the document, and reread for new, modified, or deleted headings. The table of contents will automatically update with the new document structure.</para>
+    <para id="para-00016">If you want to change the table of content’s appearance, just select it, and then use the Action Bar to apply formatting changes as you would to normal text. You can change the font type, change the size of the font, or choose to bold or italicize the font.</para>
+    <figure id="fig-00005">
+    <media alt="In Google Docs a Table of Contents is visible in the background. A pane is open with these options for selection: Cut, Copy, Paste, Paste without formatting, Delete, Comment, Suggest edits, Edit link, Open link, Copy link URL, Remove link, Define ‘Segmentation’, Save to Keep, Update table of contents, Delete table of contents, Format options, and Clear formatting. An arrow points to Update table of contents.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_06_TOC02.jpg"/>
+    </media>
+    <caption>The table of contents can be updated as collaborators contribute to the document. But they will need to make sure they format section headings appropriately. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00006">
+    <title>Hyperlinks, Bookmarks, and Links to Other Files</title>
+    <para id="para-00017">Hyperlinks can be input in various ways in Docs. As in Word, these help with citations and navigation in long documents. First, you need to select the text you want to make into a link, then you can choose to use the menus or the right-click context menu to create the link. You can see both methods in <link target-id="fig-00006"/>. They both lead to a dialog box that asks for the web address, which you input, and then click Apply.</para>
+    <figure id="fig-00006">
+    <media alt="(a) In Google Docs, Insert opens to this list of options for selection: Date, Dropdown, Footnote, Building blocks, Special characters, Equation, Watermark, Headers &amp; footers, Page numbers, Break, Link, Comment, and Bookmark. An arrow points to the Ctrl+K function located right of the Link option. (b) An open pane lists these options for selection: Cut, Copy, Paste, Paste without formatting, Delete, Suggest edits, Insert link, Format options, and Clear formatting. An arrow points to the Ctrl+K function located right of the Insert link options.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_06_LINK01.jpg"/>
+    </media>
+    <caption>You can make a link (a) using the menu method or (b) right-click method. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00018">If you want to add a link to another part of the same document, you can create a link to a specific heading. Use the <term class="no-emphasis" id="term-00007">Headings and bookmarks</term> option that comes up in the <term class="no-emphasis" id="term-00008">Link</term> dialog box. Select the text that will be the link, then right-click to Link, and you will see all the titles that the user styled to be headings, as <link target-id="fig-00007"/> displays. You will choose the part of the document that you want to link to.</para>
+    <para id="para-00019">You may also link to a certain part of the document that is not a heading. This requires first creating a bookmark. For example, suppose you want to reference a table or figure in your document. You must first add a bookmark next to the table or figure, then you can link to that bookmark. To add the bookmark, place your cursor next to the table or figure you want to link to, then go to the Insert menu and click <term class="no-emphasis" id="term-00009">Bookmark</term>. Then, when you want to link to that bookmark later on in the document, you do the same steps you did for creating a link to a heading: Select the text you want to turn into a link and right-click to Link. The dialog box will show the Headings and the bookmarks option. You can choose the pertaining bookmark, as <link target-id="fig-00008"/> shows. (To undo the bookmark you just made, click on it to select it, and then click Remove.)</para>
+    <para id="para-00020">For linking to another document, you need to already have the document in Google Drive. Go to Drive’s file options to make a public shareable link. The linked document will not be accessible to someone unless they have access to the document, meaning that the document has been shared with them. Copy this link address. Next, open the document where the link will be placed, and select the text to be linked, then right-click to Link. In the dialog box, paste the public shareable address of the other document, and click Apply. Or, skip the pasting method, and select one that has been shared already in the link dialog box, as in <link target-id="fig-00008"/>.</para>
+    <figure id="fig-00007">
+    <media alt="(a) A Google Docs document with a header, tables, and text (including heading) is visible in the background. A Text window is open listing a Search feature and a list of Headings for the document. An arrow points to the first heading on the list (Introduction/Executive Summary). (b) A Bookmark tag is visible before the header Industry Characteristics. A small options pane is open with options for Copy Link and Delete.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_06_LINK02ab.jpg"/>
+    </media>
+    <caption>(a) Having your headings already styled can be helpful when (b) creating links and bookmarks to them. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00008">
+    <media alt="(a) An open pane lists the headings in a document as well as the Bookmarks. An arrow points to the bookmark Industry Characteristics. (b) A Google Docs document with a header, tables, and text (including heading) is visible in the background. A Text pane is open. A Search Bar is visible at the top and a list of files to select in the document to link is visible below. An arrow points to Business letter.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_06_LINK02cd.jpg"/>
+    </media>
+    <caption>Creating bookmarks can help digital readers of your document navigate to different parts of the document without having to scroll through many pages. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section class="section-summary" id="sect-00007">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>The Paint format command in Docs is the same as Format Painter in Word. It can copy text formatting to apply it to another area of the document.</item>
+    <item>Section breaks and headings are important for producing tables of contents automatically.</item>
+    <item>Hyperlinks and bookmarks can be used the same way in Docs as in Word; they help the user navigate the document.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00008">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00021"><link class="os-embed" url="#exercise/04-06-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00022"><link class="os-embed" url="#exercise/04-06-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00009">
+    <title>Written Questions</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00023"><link class="os-embed" url="#exercise/04-06-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00024"><link class="os-embed" url="#exercise/04-06-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00010">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00025"><link class="os-embed" url="#exercise/04-06-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00011">
+    <title>Case Exercise</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00026"><link class="os-embed" url="#exercise/04-06-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>Paragraph Styles</term>
+    <meaning>Google formatting tool similar to Word’s Styles; used to create headings and apply document-wide formatting so that you can generate a table of contents (and document outline)</meaning>
+    </definition>
+    </glossary>
 </document>
