@@ -8,6 +8,18 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
+      <md:title>Essentials of Software Applications for Business</md:title>
+      <col:content>
+        <col:module document="m00049"/>
+        <col:module document="m00050"/>
+        <col:module document="m00051"/>
+        <col:module document="m00052"/>
+        <col:module document="m00053"/>
+        <col:module document="m00054"/>
+        <col:module document="m00055"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>TechUse</md:title>
       <col:content>
         <col:module document="m00027"/>

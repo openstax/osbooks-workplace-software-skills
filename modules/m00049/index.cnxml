@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+  <title>Chapter Scenario</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Chapter Scenario</md:title>
+    <md:content-id>m00049</md:content-id>
+    <md:uuid>b8b57d2d-1a4d-464f-98b1-800f1043b975</md:uuid>
+  </metadata>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <media alt="Alt text">
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/></media>
+    <!--OSX_BCA_02_00_Descriptor.jpg-->
+    <caption>Caption: Opener image title and caption go here.</caption>
+    </figure>
+    <para id="para-00001">WorldCorp is a multinational conglomerate that produces and works in consumer goods, health care, and technology. Its functional service areas include research and development, strategy, operations, production and distribution, human resources, information technology and equipment, marketing and sales, finance and accounting, and customer service.</para>
+    <para id="para-00002">The corporation has a strong commitment to social responsibility and environmental protection. Employees are encouraged to participate in company-wide and individual charity initiatives, with paid time off to participate in each once a month.</para>
+    <para id="para-00003">With employees located across the globe, WorldCorp understands a successful workplace is supported by a commitment to equity, diversity, and inclusion (EDI). It has a strong ethics policy that is enforced throughout the company hierarchy, with senior leaders and management expected to serve as models in all actions and interactions.</para>
+    <para id="para-00004">You have just been hired as a management trainee at the company and will be exposed to all functional areas. In this chapter, you have just been hired and are tasked with learning the basics of the software programs WorldCorp uses to run its operations, most notably Microsoft 365—or more commonly known as its longtime former name, Microsoft Office—and Google Workspace.</para>
+    </content>
+</document>
