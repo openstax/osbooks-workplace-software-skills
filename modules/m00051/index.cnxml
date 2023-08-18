@@ -6,5 +6,366 @@
     <md:uuid>c7db2020-efe2-4213-a73c-9f24b00ba830</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Describe the purpose and use of files and folders</item>
+    <item>Identify different file formats and their common uses</item>
+    <item>Apply best practices in file and folder organization, including saving</item>
+    <item>Understand the differences between Google Drive, SharePoint, and OneDrive</item>
+    </list>
+    </section>
+    <para id="para-00002">Being organized is a key skill in the business world. Disorganized workspaces, whether real or virtual, can lead to a host of negative outcomes: lost productivity, wasted money and resources, and a poor worker reputation. A study by professional staffing company Express Employment Professionals revealed that approximately six hours per week can be lost to poor organizational skills, and that employees earning $50,000 a year can cost their employers upward of $10,000 annually in lost time. You don’t want to be one of those employees. So, here, we will learn how to organize your computer software files. This is a basic, key skill.</para>
+    <para id="para-00003">Right now, as a student, you need a way to organize the items from your classes such as the syllabus, homework papers, and class notes. Some students choose to use a physical binder to organize all the material needed for a class. You may have one binder to hold the information for all your courses, or multiple binders, one for each course. Just as you would organize class material in a binder, a computer needs a way to organize the information stored in the hard drive. Through computer coding and programming, the computer uses a system of files and folders to organize the information and run its programs correctly.</para>
+    <para id="para-00004">Most people will never use many of the files and folders stored on the hard drive. For example, you probably will not access the information in the Windows folder or the Program Files folder. Those files that are needed for operating the computer are generally not necessary for the average computer user to access. You will use files and folders for specific software programs for information you have created. Understanding how to navigate the files and folders on the computer is crucial.</para>
+    <section id="sect-00002">
+    <title>Using and Organizing Folders and Files</title>
+    <para id="para-00005">A <term id="term-00001">file</term> is a collection of data, such as a document or a program. Files are stored within a folder, which can contain subfolders as well as individual files. Files contain information, unlike folders, which are used to organize the files. For example, you might organize the photos on your phone into folders labeled by year or by type of photo (family, friends, events). In addition to those folders of photos, your phone contains other folders, each named based on its contents.</para>
+    <para id="para-00006">In this course, you will work frequently with four types of files:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00002">
+    <item><term class="no-emphasis" id="term-00002">Document files</term> are used in word processing applications to save documents such as school assignments, communications, and lists. Microsoft Word and Google Docs are two of the programs businesses use most. WorldCorp would use document files for company memos to employees or to write up contracts with new vendors.</item>
+    <item><term class="no-emphasis" id="term-00003">Spreadsheet files</term> are produced by spreadsheet applications, such as Microsoft Excel and Google Sheets. This type of file is often used to analyze data and for numerical recordkeeping and calculations. Worksheet files could be particularly useful for WorldCorp when summarizing sales data for the last quarter or to create charts to show sales trends in different regions.</item>
+    <item><term class="no-emphasis" id="term-00004">Database files</term> are created by database management applications. Many companies have high-level, specialized databases that store information about customers or specific products they sell. In this course, you will learn about Microsoft Access.</item>
+    <item><term class="no-emphasis" id="term-00005">Presentation files</term> consist of pages that may be used as slides or handouts. Google Slides and Microsoft PowerPoint are popular presentation applications.</item>
+    </list>
+    <section id="sect-00003">
+    <title>What Is a Folder?</title>
+    <para id="para-00007">A <term id="term-00006">folder</term> is a defined area of a computer or drive that stores subfolders and files (<link target-id="fig-00001"/>). Organizing files into folders and subfolders makes it easier to locate a specific file and to keep files organized for the long term. Folders and subfolders are a hierarchical way of organizing your files.</para>
+    <figure id="fig-00001" class="scaled-down">
+    <media alt="An image shows metal shelves filled with paper-filled file folders. The visible sides of the folders display tabs with various colored tabs of letters, colors, and numbers.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_02_Folders.jpg"/>
+    </media>
+    <caption>A computer stores files in the same way you might store files in a filing cabinet (although maybe a little neater). (credit: “document file, folders, carton, paper” by PPD/Pixnio, CC0)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Using and Organizing Files</title>
+    <para id="para-00008">As you create and use files, you will develop a system of organization that works for your needs. In some cases, the entity that you work for will have a system that is used for all employees. The goal is to gather files in such a way that facilitates finding and using those files. You could organize files by type (all Word documents in one folder), by date, or even by project. Your system will depend on how you interact with your computer and how you plan to use the files you create or download. There is no one standard way to organize files, but here are a few tips to get you started:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00003">
+    <item>Decide on an organizational system that works for you.</item>
+    <item>Use descriptive folder names and be consistent with naming.</item>
+    <item>Make use of subfolders within the main folder.</item>
+    <item>When files are created, place them in the appropriate folder.</item>
+    <item>Regularly delete or archive files or folders that you no longer need.</item>
+    </list>
+    </section>
+    <section id="sect-00005">
+    <title>Opening a File</title>
+    <para id="para-00009">To open an existing file, locate the file wherever it is saved. It may be saved on your computer hard drive, in the cloud, or on an external drive such as a flash drive. The easiest method for locating an existing file is by using the <term class="no-emphasis" id="term-00007">File Explorer</term> folder. See <link target-id="fig-00002"/>.</para>
+    <note class="mac-tip" id="note-00001">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00010">Folders can be found in the <term class="no-emphasis" id="term-00008">Finder</term> or the Documents tab.</para>
+    </problem>
+    </exercise>
+    </note>
+    <para id="para-00011">To access File Explorer, either double-click the manila folder icon on the desktop or access File Explorer through the Windows menu. You can also search for a specific filename using the search bar at the bottom of the screen or the search bar at the upper-right side of File Explorer. As you can see, there are several ways to find the file you are looking for.</para>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="An image of the File Explorer window shows tabs File (selected), Computer, and View. In the next row are arrows for Back, Forward, Recent Locations, and Go Up to. The bar displays This PC. An arrow points to This PC in the bar. A Search Bar is at the right. Next, a menu on the left displays these locations for selection: This PC, with subcategories of: Desktop, Documents, Downloads, Music, Pictures, Videos, Local Disk (C:), VMs (D:), and Spare (E:). The large window at the right displays categories for Folders(6) (includes Desktop, Documents, Downloads, Music, Pictures, and Videos) and Devices and drives (5) (includes: Local Disk (C:), VMs (D:), Spare (E:), Backup Drive (F:), and USB Drive (G:).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_02_Find.jpg"/>
+    </media>
+    <caption>File Explorer shows the folders on your hard drive and the devices that are connected to your computer. The Search This PC search bar finds specific files on your local hard drive. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00012">Once you have located your file, you can either right-click or double-click on the file to open it.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Creating a File</title>
+    <para id="para-00013">To create a file, you will likely begin in the application program itself. For example, to create a new presentation file, open PowerPoint or Slides. Or you can create a new file directly from the desktop: Simply right-click on the desktop screen itself, select <term class="no-emphasis" id="term-00009">New</term>, and choose the file type you want, as <link target-id="fig-00003"/> shows.</para>
+    <note class="mac-tip" id="note-00002">
+    <exercise class="unnumbered" id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00014">For Mac users, the procedure to create a file is the same, except you would use Finder.</para>
+    </problem>
+    </exercise>
+    </note>
+    <para id="para-00015">The new file will be created when the application program opens. Once a new file opens, you can add text, images, and other items to your file as needed.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="An open window lists these items for selection: View, Sort by, Refresh, Paste, Paste shortcut, Share, View online, Always keep on this device, Free up space, New, Display settings, and Personalize. New is selected and opens at the right to a window with these options for selection: Folder, Shortcut, Microsoft Access Database, Bitmap image, Microsoft Word Document, Microsoft Access Database, Microsoft PowerPoint Presentation, Microsoft Publisher Document, Rich Text Format, Text Document, Microsoft Excel Worksheet, and Compressed (zipped) Folder.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_02_Create.jpg"/>
+    </media>
+    <caption>The various application programs are listed for you to select when creating a new file. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00007">
+    <title>Saving a File</title>
+    <para id="para-00016">Saving files might seem like a mundane task, but it is one of the most basic skills to master in computer work. In general, there are three broad categories of saving files: <term id="term-00010">Save</term>, <term id="term-00011">Save As</term>, and <term id="term-00012">AutoSave</term>. Save and Save As both give you the option to choose the file type and the name of the file. You would use Save if you are saving a file for the first time and also, as you go along if you are saving the file to your computer, rather than to the cloud. You can use Save As to save an existing file under a different name. This can be useful if you are keeping track of different versions or revisions of the same file. You would also use Save As to save the file in a different location on your computer. Finally, AutoSave does just what it implies—saves continuously as you make changes to the file. This is a nice feature in both Microsoft and Google applications, making it easier to retain changes in a file without having to constantly remember to save the file you are working with.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Moving and Deleting a File</title>
+    <para id="para-00017">From time to time, you will need to move and delete files as part of good computer housekeeping practices. To delete a file, right-click on the file you want to delete and choose <term class="no-emphasis" id="term-00013">Delete</term>. Once deletion is confirmed, select OK. You can select multiple files by using either the Shift or Control keys. Use Shift to select files that are listed together. You would click the first file and then hold Shift and click the last file in the list you want to move or delete. To select files that are not listed together, use the Control key. Click on the first file, and then, to select additional files, hold the Control key and then click on each filename.</para>
+    <note class="mac-tip" id="note-00003">
+    <exercise class="unnumbered" id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00018">You can delete the file, which will move it to the trash bin, or you can simply drag the file to the trash bin. To completely delete the file, you must empty the trash bin.</para>
+    </problem>
+    </exercise>
+    </note>
+    <para id="para-00019">To move a file, you can use one of two methods. You can click and drag the file to the new location. This is particularly useful if you have saved a file on the desktop and now want to move that file to a designated folder. Alternatively, you can <term class="no-emphasis" id="term-00014">Cut</term> the file from its current location (see the Home tab) and then Paste the file to the new folder or location. This can be tricky if you do not immediately paste the file in another spot. Use caution when totally deleting files.</para>
+    </section>
+    <section id="sect-00009">
+    <title>Recovering a File</title>
+    <para id="para-00020">After you have deleted a file, you may still be able to recover it. This is not always possible, but in some cases, you can recover files that have been deleted or, at least, locate a previous version that may be saved on your computer. First, check the <term class="no-emphasis" id="term-00015">Recycle Bin</term>. Generally, you will find it on the desktop. Open the Recycle Bin by double-clicking on the Recycle Bin icon on the computer desktop. When you see the file that you deleted and now want to retrieve, select it by double-clicking on the filename. Then, choose <term class="no-emphasis" id="term-00016">Restore</term> from the dialog box. You can also right-click on the filename and choose Restore from there. Another strategy is to simply search for the file on your computer in <term class="no-emphasis" id="term-00017">File Explorer</term>. In the search bar, type in the name of the file (even a partial name will work). You may be able to locate the file or a version of the file through the search tool.</para>
+    <note class="mac-tip" id="note-00004">
+    <exercise class="unnumbered" id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00021">A file that is in the <term class="no-emphasis" id="term-00018">Trash</term> can be restored. If the file has been removed from the Trash, and you use Time Machine, Apple’s backup program, you can recover an earlier version of the file even after it has been removed from the Trash.</para>
+    </problem>
+    </exercise>
+    </note>
+    <para id="para-00022">Windows systems have another option for retrieving deleted files, which involves restoring files from the file history. This is in the Systems and Security area of your computer’s <term class="no-emphasis" id="term-00019">Control Panel</term>. The easiest way to access this tool is to type <term class="no-emphasis" id="term-00020">File History</term> in the search bar by the Start menu (see <link target-id="fig-00004"/>). If you have File History enabled on your computer, you can choose Restore your files with File History to search for the file you have deleted.</para>
+    <figure id="fig-00004" class="scaled-down">
+    <media alt="The tabs visible across the top of the screen include All, Apps, Documents, Web, and More. An Avatar button, Options menu, and a Close button are visible at the top right. The All tab is selected and the menu at the left includes Best Match (Restore your files with File History; Control panel), Settings (Backup settings) and Search school and web (includes file history – See school and web results, file history drive, file history recovery, file history drive reconnect, file history in control panel, file history windows 11, and file history drive reconnection). At the right, a window displays a folder and clock icon and Restore your files with File History; Control panel and Open). Along the bottom left is a search bar with file history typed inside. At the bottom right are icons for various computer programs.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_02_HISTORY.jpg"/>
+    </media>
+    <caption>File History can also be accessed through your computer’s Control Panel. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00023">As a final option, there are apps that you can download to help you search and recover deleted files. Several apps that serve this purpose are free and can be helpful when searching for a deleted file.</para>
+    </section>
+    <section id="sect-00010">
+    <title>Compressing and Extracting Files</title>
+    <para id="para-00024">Sometimes you’ll be working with a file that is too big to send as an email attachment. In that case, you can shrink the file down. It’s analogous to letting the air out of a raft so you can store it in a tight spot and then reinflating it later for use. The process of reducing the size of one or more files by removing unnecessary data is called <term id="term-00021">file compression</term>. Compression also allows larger files to be sent faster and more efficiently. Large files usually contain lots of dense graphics or video clips or photos. With compression, no content in the file is lost; the file is simply compressed in size by the computer to make it more manageable. These compressed files are often referred to as <emphasis effect="italics">zipped</emphasis> files. But be aware that in some instances, email recipients may not be set up to receive <term class="no-emphasis" id="term-00022">zipped files</term>. This is a setting that is managed by their information technology (IT) administrator. In this case, you may have to send the uncompressed file or share the file with the recipient in another way.</para>
+    </section>
+    <section id="sect-00011">
+    <title>How to Compress and Extract Files</title>
+    <para id="para-00025">Locate the file or files that need to be zipped. Press and hold or right-click the file to select it, click <term class="no-emphasis" id="term-00023">Send To</term>, and then select the compressed folder. Locate the zipped file that needs to have files extracted from it. You can extract a single file, open it, and then drag it from the extracted folder to a new location. Or, to extract all contents of the zipped folder, you can press and hold or right-click the folder and select <term class="no-emphasis" id="term-00024">Extract All</term>.</para>
+    <note class="mac-tip" id="note-00005">
+    <exercise class="unnumbered" id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00026">To compress a file on a Mac, select the file you want to compress and then hold Control and click on the mouse and choose <term class="no-emphasis" id="term-00025">Compress</term>.</para>
+    </problem>
+    </exercise>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00012">
+    <title>File Types</title>
+    <para id="para-00027">Information in computers is stored in a system of files. Each file will have a unique filename followed by an extension, using the filename.extension format. The <term id="term-00026">file format</term> depends on the usage of the file, the program in which the file was created, and/or the size of the file. The computer will store the data in a particular file format, which is the way the data is encoded, depending on the type of data and the application the computer will use to read it. There are many different file formats. You may be familiar with some of them, such as .doc or .txt. The .txt file format is a general format for a text file that can be recognized by almost any word processing application. The text contained in a .txt file does not contain any formatting such as underlines, special spacing, and other related items.</para>
+    <para id="para-00028">There are many other file types within the computer filing system that you will probably never see. These file types are necessary instructions created to make the computer function. Those operating file types are beyond the scope of this text and are not essential for you to understand how to use a computer and the software programs on your computer effectively.</para>
+    <para id="para-00029"><link target-id="table-00001"/> lists some common software program file extensions that you may already be familiar with. You can choose the file type in the Save dialog box so that you do not have to type the file extension as part of the filename. Generally, the application you are using will have the file extension already chosen in the Save dialog box as a default. In general, an “x” is added to the end of a file extension for newer versions of the application. For example, when documents are created in Word in versions 2007 or newer, the file will have the .docx extension rather than .doc only.</para>
+    <table id="table-00001" summary="">
+    <title>Types</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Application</entry>
+    <entry valign="top" align="left">File Extensions</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Microsoft Word</entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00027">.doc</term>, <term class="no-emphasis" id="term-00028">.docx</term></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Google Docs</entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00029">.gdoc</term>, <term class="no-emphasis" id="term-00030">.gdocx</term></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Microsoft Excel</entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00031">.xls</term>, <term class="no-emphasis" id="term-00032">.xlsm</term>, <term class="no-emphasis" id="term-00033">.xlsx</term></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Google Sheets</entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00034">.gsheet</term></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Microsoft PowerPoint</entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00035">.ppt</term>, <term class="no-emphasis" id="term-00036">.pptx</term></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Google Slides</entry>
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00037">.gslides</term></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Computer application files are saved with the filename and an extension that identifies the type of file it is.</caption>
+    </table>
+    <section id="sect-00013">
+    <title>Rich Text Format</title>
+    <para id="para-00030">Microsoft developed <term id="term-00038">Rich Text Format (RTF)</term>, or <term class="no-emphasis" id="term-00039">.rtf</term>, files in 1987 to enable other Microsoft applications to read Word output more easily. Today, the .rtf format can be used to make your .docx file more compatible so that other software can use the information in the file more readily. For example, information from a Word document that is saved as an .rtf file type can be fed into a database program. Text in .rtf appears fairly “plain”—that is, with minimal formatting. .rtf files have stayed more or less the same as when they were first released, but Word .docx files are frequently updated. To put it another way, an .rtf is less sophisticated than a .docx file and may not support all the features of a newer .docx. To save a file as an .rtf, go to the File tab, click on Export, hover over Rich Text Format, and then click Save As.</para>
+    <note class="mac-tip" id="note-00006">
+    <exercise class="unnumbered" id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00031">To open .rtf files on a Mac:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00004">
+    <item>In the TextEdit app on your Mac, choose TextEdit > Settings, and then click Open and Save.</item>
+    <item>Select Display RTF files as RTF code instead of formatted text.</item>
+    <item>Open the .rtf file.</item>
+    </list>
+    </problem>
+    </exercise>
+    </note>
+    </section>
+    <section id="sect-00014">
+    <title>PDF</title>
+    <para id="para-00032">In the business setting, you will see many documents in <term id="term-00040">Portable Document Format (PDF)</term>, or <term class="no-emphasis" id="term-00041">.pdf</term>. Unlike .docx format, the .pdf format is designed as a publishing platform, so .pdf documents are not easily editable. This is an advantage because it means that everyone who opens the .pdf document will see the same format, alignment of objects, font style and size, images, tables, graphs, and so on. The appearance of the document will not change across any computer, phone, tablet, or other device. The Word file format, by contrast, is designed to be fully editable, so if you use Word 2019 or Word 365 (part of Microsoft 365), for example, to open a .docx created in Word 2013 or Word 2016, you may see unintended and unwelcome changes, such as a shifted object.</para>
+    <para id="para-00033">Countless companies and other institutions typically release their annual reports and other public documents in .pdf format. WorldCorp publishes its annual report using the .pdf format. Local townships, public schools, and community agencies also are likely to distribute their newsletters and other information as .pdf documents. Further, many job seekers produce a .pdf version of their résumé, as <link target-id="fig-00005"/> shows, to prevent style or alignment changes when the prospective employer opens the file.</para>
+    <figure id="fig-00005">
+    <media alt="A window is visible with a document titled resume example.pdf displayed. The résumé document has purple decorative lines at the top, a blank name space, with a phone number, address, and email listed. The body of the document lists Education as well as Work experience.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_PDF.jpg"/>
+    </media>
+    <caption>Saving as a .pdf file can preserve formatting and spacing in documents such as résumés and newsletters when they are shared with others and opened in other programs. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00015">
+    <title>Web Page/HTML</title>
+    <para id="para-00034">Many professionals have their own web page, featuring their professional experience, skills, contact information, and samples of work or testimonials. The content of such a website can be created in Word. For more than a decade, Word has doubled as a What You See Is What You Get (WYSIWYG) HTML editor—a web page design application that lets users make their own web pages without needing to know <term class="no-emphasis" id="term-00042">hypertext markup language (HTML)</term>. HTML is one of the major programming languages that web designers use to make websites. Essentially, Word lets you write the content of your web page as if you were writing any document in Word; you can add images, objects, and graphs, then Save As an .html file. However, there are better ways to create content for websites rather than using Word. We will discuss more about this later in the book.</para>
+    <para id="para-00035">Today, many people use packaged services such as WordPress or Squarespace to create their own websites. You may still find some people who prefer to use Word to create their website or at least to design the initial content and layout of the site. Also, note that just creating a website doesn’t make it available on the web. The website will need to be published, a domain name purchased (e.g., www.yourwebsite.com), and it hosted through a paid service such as GoDaddy.</para>
+    </section>
+    <section id="sect-00016">
+    <title>Graphics</title>
+    <para id="para-00036">Graphics file formats are for pictures and moving images. In general, graphics can mean any program that allows a computer to display these types of images. But for our purposes here, it means a file format. Without going into detail that is beyond the scope of this text, these graphics file formats organize their information in different ways. You just need to be able to recognize what they are in the workplace.</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00005">
+    <item><term class="no-emphasis" id="term-00043">JPEG</term>, which stands for Joint Photographic Experts Group, is the most common of the formats. Its benefit is that the files can be quickly uploaded to any platform, even if the images are large. However, if the files are compressed and decompressed multiple times when sending, the images can lose quality.</item>
+    <item><term class="no-emphasis" id="term-00044">PNG</term> files (<term class="no-emphasis" id="term-00045">.png</term>) are higher quality than JPEGs. PNG stands for portable network graphics. This file type is best for images with sophisticated backgrounds, making them denser and therefore needing more storage space on the hard drive, and more time to load on your computer.</item>
+    <item><term class="no-emphasis" id="term-00046">GIF</term> (<term class="no-emphasis" id="term-00047">.gif</term>) stands for graphics interchange format. It is a file format that works well for graphics with few colors.</item>
+    <item><term class="no-emphasis" id="term-00048">PDF</term> stands for portable document format. It is a common file format that works best for online documents that you don’t want altered. They print well, too. A PDF (<term class="no-emphasis" id="term-00049">.pdf</term>) file format is not only used for text, but for images such as photos, as well as audio and video. Adobe Photoshop, InDesign, Word, and Docs are some of the applications that allow you to create PDFs.</item>
+    <item><term class="no-emphasis" id="term-00050">SVG</term> (Scalable Vector Graphics) file formats support digital illustrations made up of geometric shapes. SVG (<term class="no-emphasis" id="term-00051">.svg</term>) file formats retain the highest quality even when resized, but they are not applicable to social media platforms.</item>
+    <item><term class="no-emphasis" id="term-00052">MP4</term> (Moving Picture Experts Group) is a multimedia format that stores internet videos. MP4 (<term class="no-emphasis" id="term-00053">.mp4</term>) files can contain audio and subtitles. They take up a manageable amount of computer storage space and you can easily upload them on a social media channel or a website.</item>
+    </list>
+    </section>
+    </section>
+    <section id="sect-00017">
+    <title>Best Practices in Using and Organizing Folders and Files</title>
+    <para id="para-00037">Remember that Word allows users to save documents in different file formats and in multiple versions within a single format, designated by changing the filename—for example, from “version1” to “version2.” Word also lets you choose between different file formats depending on how you want to use the file. You may also want to publish your document on the web, using a file format that allows it to be read correctly by web browsers.</para>
+    <note class="real-application" id="note-00007">
+    <title>Tips for Organizing and Maintaining Files</title>
+    <para id="para-00038">Imagine you have been asked by your professor to resubmit a homework assignment that you originally turned in at the beginning of the semester. The professor cannot find your submitted assignment, so you currently have received zero credit in the gradebook. Having a well-organized system for keeping track of your school notes and assignments will help you quickly find this assignment.</para>
+    <para id="para-00039">This scenario can also be applied to the workplace. Suppose you need to quickly locate a document for a customer or a coworker. A good organizational system makes this task much easier. Here are some tips for effective file management:</para>
+    <list id="list-00006">
+    <item>After creating and naming a file, place it in the appropriate folder based on your organization system. If you want quick access to a file, you can store it on the desktop. But if you store too many files on the desktop, it can be hard to locate a specific file. It is generally preferable to store files within folders and to reserve the desktop for icons to access particular apps. Ultimately, this is a matter of personal preference.</item>
+    <item>Group files by category. For example, your categories might be Business Plans, Résumé Services, Memos, Letters, and Meeting Notes.</item>
+    <item>Create subfolders for all files and give them descriptive names. For example, you might want to label a subfolder Business Plan – Client 2 – June 2023.</item>
+    <item>Use effective filename conventions for folders. Specific, informative file names like Resumes – 2022 and Employee Files – A–M will save you the time of having to search within a folder with a more generic name.</item>
+    </list>
+    </note>
+    <para id="para-00040">It is important to keep your files current. In many cases, you may have files that you no longer use or that have been updated. In that case, delete the previous versions of the file. Unless you need to refer to a previous version of a document or think you might need the information in the future, generally there is no need to keep older files that you no longer use. You can save multiple versions of a file and rename them in such a way that they identify the version of the original file referencing the version or even the date of the version of the file.</para>
+    <para id="para-00041">To make this process effective, be consistent in naming versions of files. Always use the same approach. For example, you could have the filename with the version number and the date (filenameV2Mar212023). What is more important is having a consistent approach that is used by everyone who uses the files.</para>
+    <para id="para-00042">If you are hesitant to delete the files entirely, consider backing them up to an external drive such as a flash drive or a cloud-based storage option. This will free up space on your computer’s hard drive, while still reassuring you that your files are secure. As a best practice, regularly back up all your files/folders on your computer, not just the items you are no longer using.</para>
+    <para id="para-00043">Create a <emphasis effect="italics">folder</emphasis> organization system that works for your needs. For example, you might want to create folders by software program, by date, or by client. Establishing an organization system for your folders will save you time when searching for specific files. Consider writing out the system on paper first to get an idea of what it will look like. Just the process of writing out how your folders will be organized may give you additional ideas on how to structure your system. For example, if you have a few larger folders organized by client, you may want to have several subfolders within each of them that house specific files for that client by software program or usage.</para>
+    <para id="para-00044">Suppose WorldCorp asks you to keep track of correspondence with four of its clients. You can create four main folders (Clients 1–4) and then, within each of those folders, subfolders labeled Invoices, Email Correspondence, and Work Tasks. It is often easier to have the folders and the files within those folders sorted alphabetically so that you can easily find information.</para>
+    <para id="para-00045">It is better to use full names and words rather than abbreviations in your folder names. This makes using the search function more effective in locating the folders you need. This is especially important if files are shared and may need to be accessed in your absence. Most computers have the capability to mark or flag certain folders or files for quick access so that you can readily find them. Generally, this capability is found in the File Explorer feature in your computer, which looks like a manila folder and is located on your desktop. You could also place those files or folders that you use daily on the desktop for quick access to them when you need them. Finally, organize your files as you create them rather than saving that task for later. When you create a new file in a software program, determine the folder where the file will be placed, and save the information there.</para>
+    </section>
+    <section id="sect-00018">
+    <title>Google Drive, SharePoint, and OneDrive</title>
+    <para id="para-00046">Both Microsoft and Google have applications to help you manage, organize, and share your computer files. <term class="no-emphasis" id="term-00054">Drive</term> is the online, cloud-based file storage system in Google. Drive is free and allows you to store, organize, manage, and create files online through the Google platform. Drive also has the capabilities to sync with multiple devices and has convenient sharing tools to share files and images with others. You will get your Drive when you create a Google account. There are limits to the storage capacity on Drive, but you can pay for more storage if needed.</para>
+    <para id="para-00047">Microsoft’s versions of Drive are <term class="no-emphasis" id="term-00055">OneDrive</term> and <term class="no-emphasis" id="term-00056">SharePoint</term>. Like Drive, both are cloud-based systems. However, each serves a different purpose. OneDrive is most similar to Drive in its intended use. It is a storage system for files in the cloud, which enables you to access files on a variety of platforms and to share documents with others. You can also store and manage documents through SharePoint, but it has many more capabilities, designed for business and team communication. SharePoint helps build a shared library of resources to be used company-wide, such as links to employee documents or forms common to the organization. You can also use it to distribute comments or announcements company-wide and to create content and web pages to share. Within a company, you may have both OneDrive and SharePoint. For personal use, when you create a Microsoft account, you will be given a OneDrive account. SharePoint is more of an enterprise system for company teams.</para>
+    </section>
+    <section class="section-summary" id="sect-00019">
+    <title>Summary</title>
+    <list id="list-00007">
+    <item>Some best practices for organizing and cleaning your files include never storing files on your desktop, removing files from the download folder, and using descriptive folder names.</item>
+    <item>The different types of files include document, worksheet, presentation, and graphics files.</item>
+    <item>Files can be managed, shared, organized, and stored in the cloud using the applications provided by Google or Microsoft.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00020">
+    <title>Review Questions</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00048"><link class="os-embed" url="#exercise/02-02-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00049"><link class="os-embed" url="#exercise/02-02-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00050"><link class="os-embed" url="#exercise/02-02-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00051"><link class="os-embed" url="#exercise/02-02-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00021">
+    <title>Written Questions</title>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00052"><link class="os-embed" url="#exercise/02-02-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00053"><link class="os-embed" url="#exercise/02-02-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00054"><link class="os-embed" url="#exercise/02-02-BCA-WQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00055"><link class="os-embed" url="#exercise/02-02-BCA-WQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00022">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00056"><link class="os-embed" url="#exercise/02-02-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00057"><link class="os-embed" url="#exercise/02-02-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00023">
+    <title>Case Exercise</title>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00058"><link class="os-embed" url="#exercise/02-02-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>AutoSave</term>
+    <meaning>a function that saves continuously as you make changes to a file</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>file</term>
+    <meaning>electronic system used to store data and programs</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>file compression</term>
+    <meaning>process of reducing the size of one or more files by removing unnecessary data</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>file format</term>
+    <meaning>way data is encoded based on the application that the computer will use to read the file</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>folder</term>
+    <meaning>defined area of a computer that stores files and subfolders</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>Portable Document Format (PDF)</term>
+    <meaning>file format designed for publishing documents; maintains the same text and object alignment when read in different software versions of .pdf readers</meaning>
+    </definition>
+    <definition id="def-00007">
+    <term>Rich Text Format (RTF)</term>
+    <meaning>older text file format that is plainer and less sophisticated than .docx</meaning>
+    </definition>
+    <definition id="def-00008">
+    <term>Save</term>
+    <meaning>way of saving a document that resaves the file with its existing name</meaning>
+    </definition>
+    <definition id="def-00009">
+    <term>Save As</term>
+    <meaning>way of saving a document that enables you to rename the file or save it in another format</meaning>
+    </definition>
+    </glossary>
 </document>
