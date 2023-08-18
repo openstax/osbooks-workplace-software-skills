@@ -6,5 +6,275 @@
     <md:uuid>b585d939-636a-4717-9565-87410663a62c</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify common communication applications for email and messaging</item>
+    <item>Apply best practices to crafting an email</item>
+    <item>Describe features and uses of calendar applications</item>
+    </list>
+    </section>
+    <para id="para-00002">Effective communication is a key component of any organization. Today’s technologies enable us to communicate nearly seamlessly across thousands of miles, so that organizations can operate more efficiently and respond quickly to their customers’ changing needs.</para>
+    <para id="para-00003">Communication technologies fall into three broad categories: <term id="term-00001">email</term>, <term id="term-00002">instant chat/messaging</term>, and <term id="term-00003">videoconferencing</term> programs. Some companies might also conduct communication by placing calls over the internet. Email is electronic mail. It is like writing a letter and delivering it via the internet rather than through the postal service. Instant chat/messaging is designed for brief, typed messages that are delivered in real time as if you were chatting with someone face-to-face. Finally, videoconferencing programs use video to mimic a face-to-face meeting where you can see and hear the other participants, but in a virtual environment (rather than in the same physical location).</para>
+    <para id="para-00004">There are advantages and disadvantages to each type of communication technology. Email is not ideal for conveying emotion clearly. Instant chat/messaging, though quick, as its name implies, may not preserve the entire conversation for later reference. (This may depend on the messaging service used.) Many email and instant messaging applications include a video chatting/meeting option as well.</para>
+    <para id="para-00005">With video communication programs, engagement from participants could be limited, especially if participants keep their video cameras turned off or if there are a large number of participants. It may be difficult to interject to speak in such a setting. But video communication software has made it possible to hold departmental meetings where all members do not have to be gathered in the same location. This technology has transformed communication on a large scale as well, especially on the world stage, as <link target-id="fig-00001"/> shows.</para>
+    <figure id="fig-00001" class="scaled-down-30">
+    <media alt="Two people are looking at a laptop screen. The laptop displays eight people’s faces in squares and rectangles on the screen. At the right of the screen is a list of participants who have dialed in to the meeting.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_Vid.jpg"/>
+    </media>
+    <caption>Technical Cooperation Members of the COP26 Climate Change Conference hold a virtual meeting in 2021 in Glasgow, Scotland, enabling stakeholders from 200 countries to come together whether in person or over the internet. (credit: “IAEA Staff Behind the Scenes at COP26” by IAEA Imagebank/Flickr, CC BY 2.0)</caption>
+    </figure>
+    <section id="sect-00002">
+    <title>Communication in the Digitized Office</title>
+    <para id="para-00006">Effective communication is essential for enhancing organizational performance. Communication is needed from upper management to effectively convey the strategic goals of the organization. Communication among colleagues is needed to ensure that work tasks are being completed in a timely manner. And, finally, external communication of an organization to key stakeholders such as customers or vendors is necessary to increase the customer base or garner additional funding if needed. External communication is essential when marketing your company. WorldCorp can use external communication via a variety of ways (such as a website and emails to potential customers) to raise awareness about a new product line they are offering. With technology today, business can be conducted without the individuals being in the same physical space. It is likely that you will encounter a digitized office environment in your career.</para>
+    <section id="sect-00003">
+    <title>Challenges of Digitized Collaboration</title>
+    <para id="para-00007">Some challenges of collaboration via technology include:</para>
+    <list id="list-00002">
+    <item>Building trust</item>
+    <item>Scheduling</item>
+    <item>Addressing communication issues</item>
+    <item>Overcoming cultural differences</item>
+    </list>
+    <para id="para-00008">Regular video calls with teams can be an effective way to build trust in an organization. In a digitized business environment, scheduling will need to account for time zone differences and this can be facilitated with the technologies today. <link target-id="fig-00002"/> shows one map of the world time zones that most video conferencing programs will automatically account for when scheduling meetings in multiple countries and continents.</para>
+    <figure id="fig-00002">
+    <media alt="A map labeled Standard Time Zones of the World is displayed. The map displays all the time zones of the world and which countries they affect in a variety of colors with numbers across the top indicating + or – hours from the Prime Meridian.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_timezone.jpg"/>
+    </media>
+    <caption>An understanding of time zones is important in running video meetings in multinational corporations. (credit: “Standard World Time Zones map (as of August 2015)” by UnaitxuGV/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <para id="para-00009">Communications issues such as language barriers can be addressed using translation capabilities within some applications. This can allow businesses to recognize cultural differences that may exist within their organization or customer base. Organizations that operate remotely should consider offering training to help overcome some of these cultural differences so that they do not become barriers to effective teamwork. The training could include cultural awareness training or even language classes to assist employees working across borders.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Essentials of Business Communication</title>
+    <para id="para-00010">Communication in the workplace is an essential part of the day-to-day functions for any employee. Keep in mind that communication conducted using company equipment (even if private) can be recorded and is the property of the company that can be accessed at any time. So keep this in mind when you are communicating while at work. This includes chats, instant messages, emails, video calls, and computer files.</para>
+    <para id="para-00011">Although the exact content of the communication will vary, there are some best practices to follow to make the communication more effective. First, one of the most important aspects of communicating is to know your audience. The way you communicate with your coworker could be completely different than how you would communicate with a senior level manager in the company. The communication style, needs, and method can vary widely based on the audience. Next, you need to understand your communication objectives: Is the intent to inform or persuade? What are you hoping to achieve with the communication? Knowing the answer to these questions can help you format the content of your communication and clearly articulate the message.</para>
+    <para id="para-00012">Determining the audience and the purpose of the communication leads to creating the content of the communication. First, consider the level of formality needed in the message. Communicating lunch plans with your coworkers is a different level of formality than communicating quarterly sales results with a manager. You might also consider the timing of communication in your thought process. Sending critical information via email at 5:15 p.m. on a Friday afternoon may not be the best timing for the message to go out. Some applications might give you the ability to schedule delivery of emails at a more appropriate time. Timing is especially important when communicating across time zones. Be sure to spell-check your content and read it out loud for professionalism when appropriate. This is also applicable to all attachments to the communications that you might send.</para>
+    </section>
+    </section>
+    <section id="sect-00005">
+    <title>Communication Applications</title>
+    <para id="para-00013">WorldCorp uses email, instant messaging, and video applications because it has several employees who work remotely. Technologies of this kind are called <term id="term-00004">communication applications</term>, or software that facilitates communication between individuals or groups.</para>
+    <para id="para-00014">Email has become its primary means to communicate. Instant messaging also plays a role in the company as a fast way to communicate with coworkers who might not be located in the same office space as you are. Finally, video communication applications work well when not everyone can be in the same place to meet face-to-face. Within each communication type, there are several applications available, and many are integrated into one program. Most of the software for the communication type will have similar functionality. For example, many email applications offer similar tools and capabilities for communicating.</para>
+    <section id="sect-00006">
+    <title>Email</title>
+    <para id="para-00015">Email is a digital means to send messages, ranging from a short memo to a longer narrative, which can be sent to a single recipient or to thousands (or more). You’ve most likely used or at least heard of popular email programs such as Outlook, Gmail, Apple Mail, and Yahoo! mail. Emails can also include attachments, such as Word or Excel documents.</para>
+    <para id="para-00016">Regardless of which email program you use, all emails have certain common elements. The main components of an <term class="no-emphasis" id="term-00005">email</term> include: To, Cc, Bcc, subject, body of the email, and attachments, as shown in <link target-id="fig-00003"/>. The To field is where you enter the address of the primary intended recipient(s). You can include multiple recipients for the email; their email addresses will be separated either by a “,” or a “;” depending on which program you are using. All <term id="term-00006">carbon copy (Cc)</term> recipients will get the identical email and all recipients will know all that have received the email, but they are merely “copied” on the message to be informed of it. There is no action required by Cc’d recipients. A <term id="term-00007">blind carbon copy (Bcc)</term> means that the recipients in the To and Cc fields will not know the Bcc individual has received the email. This function serves to inform someone else confidentially and usually means there is a crucial need for it. It’s not a function to use lightly or liberally.</para>
+    <figure id="fig-00003">
+    <media alt="An email window is displayed. Across the top are options for Save, Undo Typing, Repeat Typing, Go Up, Go Down, File, and options. Untitled - Message (HTML) displays in the middle of the top. Tabs in the next row include File, Message (selected), Insert, Options, Format Text, Review, Help, and Tell me what you want to do. The options on the next row include New, Paint, Font, Font size, Bold, Italics, Underline, Highlight, Text color, options, Attach file, Insert link, Write, Flag, and options. The next row includes a Send button and spaces for To, CC, and Subject, followed by the body of a thank you letter.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_emailcomps.jpg"/>
+    </media>
+    <caption>When composing a professional email, format the email in a similar manner to a business letter. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00017">The <term class="no-emphasis" id="term-00008">subject line</term> of the email is a brief description of the content or purpose of the email. The body of the email is composed in the large space. Composing an email in an email application is similar to using word processing software such as Google Docs.</para>
+    <para id="para-00018">The final component of most emails is attachments. Not all emails have to include attachments, but you may want to include an attachment such as a document to review or an image you want to share. To attach a file to an email, you will usually find a tool or icon that looks like a paper clip. Attachments are just as they sound—additional information that is saved in a computer file outside of the actual email, such as spreadsheets, pictures, and PDFs. These digital files can then be saved by the recipient on their computer for future use.</para>
+    <para id="para-00019">When responding to an email you have received, you have several options. You can choose <term class="no-emphasis" id="term-00009">Reply</term>, <term class="no-emphasis" id="term-00010">Reply All</term>, or <term class="no-emphasis" id="term-00011">Forward</term>, as <link target-id="fig-00004"/> shows. Reply will allow you to compose a response, which will go to the sender of the email only. When you choose Reply All, everyone who received the original email from the sender will also get your reply. Use caution when choosing Reply All. Make sure you are comfortable with all on the email distribution list reading your response.</para>
+    <figure id="fig-00004">
+    <media alt="An email window is visible. The command groups in the Toolbar include Delete (includes Ignore, Junk, Delete, and Archive), Respond (includes Reply, Reply All (indicated), Forward, Go to Meeting, and Add to calendar), Teams (includes Share to Teams), Quick Steps (includes Create New), Move (includes Move, Create rule, and Move to unread), and Tags (includes Mark Unread, Categorize, and Follow Up). The body of an email lists From, To, and Subject. Reply, Reply All, Forward, Microsoft Teams, and Options buttons are available at the top right along with the date and time of the email. A sentence with: Start your reply all with: Sure, here you go!, Sure, here it is., and Yes, I will check., along with a hyperlinked Feedback option follows. The body of the email follows as a student asks a teacher for their grade in a Business Stats class.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_ReplyFor.jpg"/>
+    </media>
+    <caption>When responding to an email, be careful to choose the appropriate option. As an example, you may not want to choose Reply All when responding to an email that was sent to all employees. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00020">For example, the human resources (HR) director at WorldCorp has just sent a company-wide email about the upcoming holiday schedule. If you had a question about the schedule and chose Reply All, everyone in the company would get your email with the question. You really intended only to ask the question of the HR director, so you should have used Reply.</para>
+    <para id="para-00021">Finally, Forward allows you to forward the original email to someone else. You might choose this option if you want to get some input on a topic before responding. Sales personnel at WorldCorp might use the Forward option to send accounts payable receipts for products they have purchased.</para>
+    <para id="para-00022">Generally, email is not the best communication channel for long discussions that require input from multiple people, because you will get multiple replies that clog your email inbox (more on that later). In general, a business email should take a formal tone. Like a business letter, it should be clear and concise. Emails should include a descriptive subject line that conveys the topic of the message. In fact, some email programs have a security feature that will flag any message without a subject line and will ask you to write one before clicking Send.</para>
+    <para id="para-00023">Professional business emails should start with a greeting or salutation—something like Dear Mr. Jones, Mr. Jones, or simply Jim, depending on the level of formality you desire.</para>
+    <para id="para-00024">The body of the email should be brief and concise. Anything longer than a few paragraphs should be put into an attachment file instead. Pay attention to spelling and grammar as you are constructing the email. Finally, end with a closing and your signature. The closing may be a sentence such as “Thank you for your time” or “I look forward to hearing your thoughts.” Some email programs have a built-in feature that allows you to include a preformatted signature on all emails, perhaps including your name, company, position, and contact information.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Common Email Applications</title>
+    <para id="para-00025">There are many email applications on the market. Your company will have chosen one, but that doesn’t mean you can’t have your own email addresses to use at home. Just be sure to keep those email accounts separate. It is not a good idea to use company email for personal matters because you have no privacy and it is the company’s property first and foremost. Because this text covers Microsoft and Google products, you will learn these email applications, Outlook and Gmail, respectively.</para>
+    <note class="mac-tip" id="note-00001">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00026">Visit this <link url="https://openstax.org/r/78AppleMail">Apple mail support page</link> for information about Apple Mail.</para>
+    </problem>
+    </exercise>
+    </note>
+    <section id="sect-00008">
+    <title>Microsoft Outlook</title>
+    <para id="para-00027"><term class="no-emphasis" id="term-00012">Outlook</term> is part of the Microsoft suite of applications. It contains many of the same features that you might find in Word or Excel. You can format the email text as you are composing the email. <link target-id="fig-00005"/> shows you the email composition screen in the application. You will notice there are common features in Outlook that you will find in most email applications. You have options to reply to the message, include attachments, and add signatures to your emails. Another handy feature in Outlook is setting a priority for your email. This allows you to give an email that needs immediate attention a high priority label. It can alert the recipient that the email is a “High Priority” email and needs to be addressed quickly.</para>
+    <para id="para-00028">Other features that you will see in Outlook and many other email applications are identifying emails as spam or junk. You can mark an email as junk and emails from that sender will no longer appear in your inbox. They will instead be immediately sent to the spam or junk folders. When you no longer need an email, you can choose to delete it. When you delete an email, it goes to the Trash folder. You can still access it in the Trash folder for some time based on the settings of Outlook to delete the content of the Trash folder. Finally, you have the ability to add folders to help keep your emails organized. Just as you would for folders on your computer, you can use an organization system that works for your needs. For example, a sales agent at WorldCorp might set up an email folder for each of its customers.</para>
+    <figure id="fig-00005">
+    <media alt="An email window is visible. The command group Tags is highlighted and includes Follow Up, High Importance, and Low Importance options for selection.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_Outlook.jpg"/>
+    </media>
+    <caption>If you set the priority to High, recipients can quickly see emails that need immediate attention. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00009">
+    <title>Gmail</title>
+    <para id="para-00029"><term class="no-emphasis" id="term-00013">Gmail</term> (see <link target-id="fig-00006"/>) is part of the Google suite of applications. You may have experience already using Gmail as many schools will assign Gmail email addresses to their students for use while they are enrolled. In Gmail, you have some ability to format text, but not to the extent that you have with Outlook. The basic setup of the email composition is similar. The functionality of Gmail is similar to that of most email programs. You can add attachments, organize emails into folders, and identify emails as junk or spam.</para>
+    <figure id="fig-00006">
+    <media alt="A Gmail screen is open. New Message reads across the top and there is are minimize, full screen, and close buttons at the right. To and Subject lines are available at the start of the email, with Cc and Bcc options to the right, and options for text are available below the body of the email: Undo, Redo, Font, Font Size, Bold, Italics, Underline, Text color, Align, Numbered list, Bulleted list, Indent less, Indent more, Quote, Strikethrough, and Remove formatting. A blue Send button is at the bottom left followed by options for Formatting options, Attach files, Insert link, Insert emoji, Insert files using Drive, Insert photo, Toggle confidential mode, and Insert signature. Options and Trash buttons are visible on the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_Gmail.jpg"/>
+    </media>
+    <caption>Gmail places the Send button at the bottom of the email composition screen. (Gmail is a trademark of Google LLC.)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00030">Email was invented in 1971 by Ray Tomlinson, a computer engineer who worked for Bolt Beranek and Newman in Massachusetts. Tomlinson developed a system that could send messages between computers using the @ symbol. The first organization to use email was the Department of Defense. Read this <link url="https://openstax.org/r/78HistoryEmail">article on the history of email</link> to learn more about how email has evolved since 1971.</para>
+    <list id="list-00003">
+    <item>How has email changed the way organizations function?</item>
+    <item>How has email changed the way individuals stay connected?</item>
+    </list>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Instant Chat/Messaging (IM) Applications</title>
+    <para id="para-00031">Instant chat/messaging applications offer users a quick way to send messages in real time, meaning the back and forth is directly on the screen rather than in an email you have to open first to read. Often, these applications are more text based and do not offer some of the same formatting features that you might find in email programs. Many do offer the ability to send files through the instant messaging application. However, the size of the file may be limited. Usually, communicating through instant messaging is less formal than communication in email. Also, you would not expect to format a message in instant messaging applications like a business email. You might also find that users will abbreviate words more when using instant messaging applications. This is like texting via your cell phone.</para>
+    <para id="para-00032">Some companies offer internal programs for instant messaging. Others use commercially available tools to facilitate communication in the workplace. For example, if you had a quick question to your manager about the format needed for a presentation you are preparing, using an instant messaging application might be a good tool. You could send the message to your manager in a short, concise question and the manager would receive the message directly. Think about instant messaging like having a face-to-face conversation with your manager, but just electronically—an online chat. Instant chat/messaging applications give users the ability to send to multiple people or to create a “chat room.” Most programs also have an indication if a user is online. This will allow you to know whether your message will be viewed when you send it.</para>
+    <para id="para-00033">Using <term class="no-emphasis" id="term-00014">instant chat/messaging</term> in the workplace can facilitate real-time communication between employees who are not in the same physical location. This can foster team building and foster trust among the employees. It can also reduce the number of emails an employee receives on a daily basis. Instant messaging can be a secure form of communication that can be archived by the information technology department. However, overuse of instant messaging can provide a distraction in the workplace. With instant messaging, we often do not place the same attention to proofreading and making sure we are conveying the message we intend. You might inadvertently send a message in error or with incorrect information. Because of the immediate nature of instant messages, take care to make sure the message is correct before sending.</para>
+    <para id="para-00034">Also, instant chat/messaging is not appropriate for critical discussions such as hiring decisions, strategic company decisions, or contract discussions. Instant messaging should be viewed as a means to facilitate quick conversations, not as a replacement for company meetings and other such discussions. Instant messaging, although similar in ways to a face-to-face conversation, cannot take the place of those human interactions. Emotions and body language are not conveyed through messages. Here are the major instant message programs.</para>
+    <section id="sect-00011">
+    <title>Microsoft Teams</title>
+    <para id="para-00035">Microsoft <term class="no-emphasis" id="term-00015">Teams</term> is a useful tool in business for instant messaging. It is included in the Microsoft suite of programs. Teams also offers video chat capability as well as file sharing. Many organizations today use Teams to conduct team meetings. Teams provides much more than just a chat function. You can take calls, schedule meetings through the calendar function, and much more in the Teams environment. <link target-id="fig-00007"/> shows what the Teams interface looks like with the chat function selected.</para>
+    <figure id="fig-00007">
+    <media alt="A Teams window is visible. Back and Forward buttons are visible at the top left and a Search Bar runs along the top. Options for selection from the menu at the left are Activity, Chat (selected), Teams, Assignments, Calendar, Calls, Files, Options, Apps, and Help. A column labeled Chat follows with Options and Write buttons. At the right, a window reads these items inside: Have private conversations. Sometimes you just want to chat or video call privately one-on-one or with a group. The text Private chat and calling is hyperlinked next to a Play button.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_Teams.jpg"/>
+    </media>
+    <caption>The Teams window will display your picture in the upper-right corner with a green check mark to show you are available. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00012">
+    <title>Slack</title>
+    <para id="para-00036">Another instant messaging platform, <term class="no-emphasis" id="term-00016">Slack</term>, is a free program with some extra features available for a fee. For example, with the free version, users are limited to view and access only the most recent 10,000 instant messages. This will work for many uses but may be limiting if you try to use the free version for workplace communications, where you may need to recall a conversation that goes back further. Slack is similar in many ways to Teams (see <link target-id="fig-00008"/>). It was designed specifically for use in the workplace. Slack allows users to add emojis to messages and to create workspaces for team collaboration. Files can be shared via Slack as they are in Teams. Private and public messages can be exchanged through Slack. Slack integrates well with other programs such as the Google suite of products, including Google Calendar.</para>
+    <figure id="fig-00008">
+    <media alt="A Slack window is displayed. Across the top are options for Options, Go back, Go forward, History, a Search bar, Help, Icon for person using Slack, Minimize, Screen size, and Close. The left column lists a Work heading with these options below: Browse Slack, Channels (includes #budget, #general, #random, and +Add channels), and Direct messages (includes names of people and +Add teammates). The right side of the screen shows the #budget channel with 1 member visible at the top right. A Today tab follows with angela.mitchell984 11:55 AM joined #budget. A window is open below that displays a Start here tab. A space inside reads Send a message to #budget inside. Options available at the top and bottom of the window include Bold, Italics, Strikethrough, Link, Numbered list, Bulleted list, Code, Code block, Attachments, Emoji, Mention someone, and Hide formatting. Send and Schedule for later options are located at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_Slack.jpg"/>
+    </media>
+    <caption>Notice that Slack uses the term “channels” to refer to different chats. (Copyright 2023 Slack Technologies, LLC.)</caption>
+    </figure>
+    </section>
+    </section>
+    </section>
+    <section id="sect-00013">
+    <title>Calendar Applications</title>
+    <para id="para-00037">There are several applications that can help you keep organized. One such category of applications is calendars. Suites such as Microsoft and Google include <term class="no-emphasis" id="term-00017">calendar applications</term>. One key feature of calendar applications is the ability to have both your personal and business schedules in one place that can be accessed from virtually anywhere. You can integrate the apps with your phone so that you no longer have to carry a separate day planner or schedule book with you. With the sophistication of the calendar apps today, you can enter appointment information into one place and it can be updated across many different programs and even shared to other people.</para>
+    <section id="sect-00014">
+    <title>Calendar Features and Functions</title>
+    <para id="para-00038">With the availability of various technologies today, many people have moved their calendar to an online format, rather than a more traditional paper planner. Many prefer the convenience of storing their work and personal appointments in a single place. These calendar apps allow users to bring together multiple calendars as well as scheduling meetings and blocking out time when you might be unavailable. Many calendar applications will permit users to determine which items are visible to others or to share your calendar with coworkers and family. You can also use calendar software to allow your customers to set up meetings with you during your available time. If you want to keep your personal appointments hidden from your coworkers, you can easily set this up in the program. The settings in the application also allow users to permit others to add appointments to their calendars.</para>
+    <para id="para-00039">Calendar applications can also be useful for managing work tasks for project management and setting reminders for key activities. Calendar items can be color coded and/or flagged based on their importance of due date. Calendars are used frequently in organizations to make scheduling easier when including multiple people for a meeting. Using a calendar application can also increase productivity because you can manage your time more efficiently. Many of the calendar apps also integrate well with cell phones so that you can receive notifications of upcoming appointments if you are not at your computer. You may also find when scheduling family or personal appointments such as dentist appointments, those appointments can be directly added to your calendar by the doctor’s office. While some may still prefer the traditional paper planner for keeping their schedule, the convenience of calendar applications has prompted many businesses to adopt them for use in their organization.</para>
+    <note class="spotlight-ethics" id="note-00003">
+    <title>Adjusting Privacy Settings in Your Electronic Calendar</title>
+    <para id="para-00040">While electronic calendars are incredibly useful and convenient, we must also recognize that these calendars may be viewed by others, especially if we are using our employer’s software. Google Calendar and Outlook/Calendar can be viewed by others easily, requiring us to use privacy options such as adjusting viewing permissions for different individuals. You may want to prevent some people from viewing your calendar entirely, provide only limited information (such as availability) to others, and allow full access to your calendar to some. You can also control what information you can make available on a calendar appointment. For instance, you can make an appointment private and not viewable by anyone; this slot will show up as private with no further details. This is helpful for keeping private appointments or sensitive appointments.</para>
+    </note>
+    </section>
+    <section id="sect-00015">
+    <title>Calendar Integration and Syncing</title>
+    <para id="para-00041">Syncing calendars stored in other applications is an essential component of getting the best use of a calendar application. You could have a calendar on your phone for personal appointments and reminders, a calendar for your work tasks on your work computer, and then perhaps another calendar to keep track of your extended family birthdays. Through <term class="no-emphasis" id="term-00018">calendar integration</term>, these calendars can be synced into one place. This often involves simple changes to the settings in the software to link all the calendars together. In fact, when you first install a calendar application on your device, you might be prompted to integrate existing calendars during the setup process.</para>
+    </section>
+    <section id="sect-00016">
+    <title>Common Calendar Applications</title>
+    <para id="para-00042"><link target-id="fig-00009"/> shows the calendar feature in Microsoft Outlook. The calendar function and email are integrated in the program. You cannot delete the calendar application, but you can choose not to use it. There are no preset events in the calendar application. You can set the program to give you notifications of meetings and tasks when you are in the email program. The <term class="no-emphasis" id="term-00019">Outlook Calendar</term> also has a meeting scheduler to assist with scheduling meetings and can even be used to determine if specific meeting spaces are available in the organization. Outlook Calendar has a useful feature to set up recurring meetings that happen at some frequency. For example, if your company has a set meeting each week for sales force updates, you can set this up in Outlook once and it will be added to all attendees’ calendars for the time frame you desire.</para>
+    <figure id="fig-00009">
+    <media alt="An online calendar is visible. The Ribbon across the top shows these options: File, Home, Send/Receive, Folder, View and Help. The Tool Bar has the following Command groups available: New (includes New Appointment, New Meeting, New Items), Teams Meeting (Meet Now and New Teams Meeting), Go To (includes Today and Next 7 Days), Arrange (includes Day, Work Week, Week, Month, Schedule View), Manage Calendars (includes Add Calendar and Share Calendar), Groups (includes Browse Groups), and Find (Search People and Address Book). At the left, small calendars for January 2023 and February 2023 are shown. January 24th is highlighted with a blue box. Below the calendars are options for My Calendars, Calendar, and United State holidays. Options for Switch email (enlarged for emphasis), Calendar, People, Tasks, and Options follow. At the right, a large January 2023 calendar is displayed. Toggle buttons to go forward and back in the year are at the top left and an option at the top right lets you change the view of the calendar. Within the calendar days, appointments are listed with times and in various color designations. The 24th is selected and a blue box shows.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_OLCalendar.jpg"/>
+    </media>
+    <caption>To switch back to Outlook Mail, just choose the envelope in the lower-left corner of the screen. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00043">If you already have a Google account, you have access to Google Calendar. <term class="no-emphasis" id="term-00020">Google Calendar</term> is easy to use and integrates well with a wide variety of platforms. With Google Calendar, you create multiple calendars to manage different events. You can then manage the settings for each of the calendars independently. All the created calendars are integrated into an overall calendar interface. You can use color coding to differentiate the different calendars when viewing in the main calendar view, as <link target-id="fig-00010"/> shows. You access Google Calendar by logging in to your Google account.</para>
+    <figure id="fig-00010">
+    <media alt="In Google Calendar, at the top left, a Create button with a drop down arrow at the right is visible. At the bottom left, the list of options under My calendars includes Angela Mitchell (selected), Reminders, and Tasks. Under Other calendars, Holidays in United States is listed.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_GCalendar.jpg"/>
+    </media>
+    <caption>To create a new calendar appointment, choose Create. All calendars displayed in the main calendar view are listed in the lower left of the screen. (Google Calendar is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00017">
+    <title>Summary</title>
+    <list id="list-00004">
+    <item>Communication in organizations today is facilitated with technology.</item>
+    <item>Many applications include features to facilitate communication across time zones and borders.</item>
+    <item>Email applications such as Outlook and Gmail make it possible to communicate and to send files via the internet.</item>
+    <item>Instant chat/messaging platforms such as Microsoft Teams and Slack have been used to create virtual workspaces for teams in organizations.</item>
+    <item>Productivity in teams can be enhanced by using calendar applications to manage team meetings and project tasks.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00018">
+    <title>Review Questions</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00044"><link class="os-embed" url="#exercise/02-03-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00045"><link class="os-embed" url="#exercise/02-03-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00046"><link class="os-embed" url="#exercise/02-03-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00019">
+    <title>Written Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00047"><link class="os-embed" url="#exercise/02-03-BCA-WE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00048"><link class="os-embed" url="#exercise/02-03-BCA-WE02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00049"><link class="os-embed" url="#exercise/02-03-BCA-WE03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00020">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00050"><link class="os-embed" url="#exercise/02-03-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00051"><link class="os-embed" url="#exercise/02-03-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00021">
+    <title>Case Exercise</title>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00052"><link class="os-embed" url="#exercise/02-03-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>blind carbon copy (Bcc)</term>
+    <meaning>recipient in email; the recipient will receive the same email as recipients in the Cc and To fields but will not be known to those recipients</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>carbon copy (Cc)</term>
+    <meaning>recipient in email; the recipient who is Cc’d on the email will receive the same email as the recipient in the To field, but the Cc recipient will be known to all other recipients</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>communication applications</term>
+    <meaning>software that facilitates communication between individuals or groups</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>email</term>
+    <meaning>mail sent and received electronically</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>instant chat/messaging</term>
+    <meaning>chat application that allows messages to be sent and received in real time</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>videoconferencing</term>
+    <meaning>allows you to communicate with individuals over the internet using sound and video</meaning>
+    </definition>
+    </glossary>
 </document>
