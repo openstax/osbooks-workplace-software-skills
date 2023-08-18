@@ -6,5 +6,377 @@
     <md:uuid>f1cf068f-a1de-4f8c-a5d0-e7590b9eab12</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Access Google Workspace’s applications</item>
+    <item>Describe the key functions within Google’s standard menus</item>
+    <item>Create, open, and save a document</item>
+    </list>
+    </section>
+    <para id="para-00002">The Google group of programs, called <term class="no-emphasis" id="term-00001">Google Workspace</term>, includes applications similar to those of Microsoft Office. But a key difference between Google and Microsoft programs is that Google is a cloud-based platform only. That means the programs are accessed through the cloud and not installed on your computer or device. Google first launched its platform in 2006 as Google Apps for your Domain. The collection of applications has been rebranded by Google, first as Google Suite and then as Google Workspace, as it is called today. Many of the programs in Google Workspace are free, but there are some additional programs and features that are available to businesses for a fee. You can also pay to have additional cloud storage through Google. Many schools and colleges use an educational version of Google called Google Classroom.</para>
+    <para id="para-00003">In your role at WorldCorp, you work closely with a team of six colleagues in the marketing department. The team leader has decided that for internal teamwork, you will use the Google suite of products because of their advanced capabilities for collaborating with others. Also, the user-friendly nature of Google products makes them appropriate for working with others in your small marketing team.</para>
+    <section id="sect-00002">
+    <title>Overview of Google Workspace</title>
+    <para id="para-00004">Google Workspace consists of several applications that are useful in the workplace. You may be most familiar with its communication and scheduling tools (Gmail and Google Calendar, discussed in <link document="m00052">Communication and Calendar Applications</link>). Google also offers a suite of applications similar to those in Office, including software for word processing (Google Docs), spreadsheets (Google Sheets), and presentations (Google Slides).</para>
+    <para id="para-00005">One distinctive feature of Google’s Docs, Sheets, and Slides applications is that your work is automatically saved to the cloud. This automatic save function helps prevent accidental file loss. Google also maintains a history of all versions of the file, so if you need to restore to an earlier version or check on the history of an edit formatting change, you can view that information in the Version history, which will be covered later in this section.</para>
+    <para id="para-00006">Although each application has specific purposes and performs different tasks, some features are shared across the entire Google suite of products. These include essential functions like opening and saving a file, formatting fonts and spacing, inserting objects like a visual image, and accessing help to learn new skills within the software.</para>
+    <section id="sect-00003">
+    <title>Accessing and Maintaining Google Products</title>
+    <para id="para-00007">To access Google’s products, you must first create an account with Google and acquire the free email program Gmail. You get to that through google.com. Once you have set up a Gmail account, you will have access to all the Google apps.</para>
+    <para id="para-00008">Since the software resides online rather than downloaded onto your device, maintenance is automated: Google regularly provides updates as new features and improvements are introduced. Whenever updates are rolled out, you will typically receive a notice along with a summary and walk-through of changes. It is a best practice to take the time to view these explanations, as they will allow you to take advantage of new features as they are released.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Applications</title>
+    <para id="para-00009">Once you have a Gmail account set up, you can access Google’s applications by opening the Google Chrome browser or any other browser by going to google.com and signing into your account. In the upper-right corner, you will see nine dots arranged in a 3 × 3 array, as shown in <link target-id="fig-00001"/>. Clicking on the dots opens a menu of all the <term class="no-emphasis" id="term-00002">Google apps</term>.</para>
+    <figure id="fig-00001">
+    <media alt="A Google window shows an icon of nine dots arranged in a 3 × 3 array on the upper right side to represent the menu of apps.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Open.jpg"/>
+    </media>
+    <caption>Click on the dots in the upper-right corner to open the menu of apps. (Gmail is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00010">You will see two sections of offerings. In the first, shown in <link target-id="fig-00002"/>(a), you can access your Google account settings and can use common tools such as the Google search engine for internet searches, Maps for locating places and navigating trips, Play for accessing apps for your mobile device, Meet for online meetings, Drive for storing your files, Gmail for email, and Calendar for scheduling.</para>
+    <para id="para-00011">The second section includes the offerings that are the focus of this course. You will see various applications, including Docs and Sheets. If you wanted to work on a presentation, you would select the Google Slides option, as shown in <link target-id="fig-00002"/>(b).</para>
+    <figure id="fig-00002">
+    <media alt="(a) A Window of Google Gmail apps displays these items: Account, Search, Maps, YouTube, Play, News, Gmail, Meet, Chat, Contacts, Drive, and Calendar. (b) A Window of Google Gmail apps displays various apps, including Slides (enlarged).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Menu.jpg"/>
+    </media>
+    <caption>(a) Google’s Gmail account includes many apps. (b) Slides, which is similar to PowerPoint, is one of them. (Gmail is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00012">Like most application suites, Google continually expands and changes its offerings. Older applications may be phased out over time, while the most popular applications undergo regular updates. <link target-id="table-00001"/> provides a summary of Google offerings. In this course, we will focus mostly on Google Docs, Sheets, and Slides.</para>
+    <table id="table-00001" summary="">
+    <title>Common Google Applications</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Application</entry>
+    <entry valign="top" align="left">Type</entry>
+    <entry valign="top" align="left">Description</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00003">Docs</term></entry>
+    <entry valign="top" align="left">Word processing</entry>
+    <entry valign="top" align="left">Create documents such as reports, memos, and agendas</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00004">Sheets</term></entry>
+    <entry valign="top" align="left">Spreadsheet</entry>
+    <entry valign="top" align="left">Create data-based spreadsheets for storing and analyzing data</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00005">Slides</term></entry>
+    <entry valign="top" align="left">Presentations</entry>
+    <entry valign="top" align="left">Create slide presentations such as for a workplace meeting or client showcase</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00006">Gmail</term></entry>
+    <entry valign="top" align="left">Email</entry>
+    <entry valign="top" align="left">Send and receive emails</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00007">Calendar</term></entry>
+    <entry valign="top" align="left">Calendar</entry>
+    <entry valign="top" align="left">Schedule individual events and collaborative meetings</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00008">Search</term></entry>
+    <entry valign="top" align="left">Internet search</entry>
+    <entry valign="top" align="left">Search the internet based on search terms</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Maps</term></entry>
+    <entry valign="top" align="left">Maps and navigation</entry>
+    <entry valign="top" align="left">Provide navigation directions based on location or address</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00010">Play</term></entry>
+    <entry valign="top" align="left">Application store</entry>
+    <entry valign="top" align="left">List apps on android devices that are available for download</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00011">Meet</term></entry>
+    <entry valign="top" align="left">Online meetings</entry>
+    <entry valign="top" align="left">Video Conference with others</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00012">Drive</term></entry>
+    <entry valign="top" align="left">File storage</entry>
+    <entry valign="top" align="left">Store files; similar to OneDrive; the cloud-based storage for files in Google</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00013">Contacts</term></entry>
+    <entry valign="top" align="left">Contact information</entry>
+    <entry valign="top" align="left">Organize and store contact information such as email addresses and phone numbers for people</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00014">Classroom</term></entry>
+    <entry valign="top" align="left">Educational interface</entry>
+    <entry valign="top" align="left">Create a classroom interface to share files, turn in assignments, and have class discussions virtually</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>The Google Workspace includes applications for all the tools you need in the workplace from communicating with colleagues to creating documents and presentations.</caption>
+    </table>
+    </section>
+    </section>
+    <section id="sect-00005">
+    <title>Menu Overview</title>
+    <para id="para-00013">As you’ve learned, all the applications in the Google Workspace share some general features and functions, which are found in the menus. Although there are slight differences between the apps, they all contain these essential menus: File, Edit, View, Insert, Format, Tools, Add-ons or Extensions, and Help, as <link target-id="fig-00003"/> shows. These menus are similar to the tabs in Office, but in Google they are called menus.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="(a) A Docs menu bar includes title of document (GSuite_Collaboration), Star, Move, and See Document status (Saved to Drive). The menu bar includes File, Edit, View, Insert, Format, Tools, Add-ons and Help. (b) A Sheets menu bar includes title of the document (Vendor Database), Star, Add shortcut to Drive, and Saved to Drive. The menu bar includes File, Edit, View, Insert, Format, Data, Tools, Extensions, and Help. (c) A Slides menu bar includes title of the document (Intake to Launch), Star, Add shortcut to Drive, and Saved to Drive. The menu bar includes File, Edit, View, Insert, Format, Slide, Arrange, Tools, Add-ons, and Help.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Menus3.jpg"/>
+    </media>
+    <caption>The main menu bars for (a) Docs, (b) Sheets, and (c) Slides are similar—from File to Help. (Google Workspace is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00014">Not only are there similarities between the various Google applications, but many of the menu options are also similar to those you learned about in <link document="m00053">Essentials of Microsoft Office</link>). As you progress through the course, you will learn and practice most of the specific features within each menu. Here, our focus is on the essential shared functions.</para>
+    </section>
+    <section id="sect-00006">
+    <title>File Menu</title>
+    <para id="para-00015">The <term class="no-emphasis" id="term-00015">File menu</term> is used to open files in Drive, to create new files, and to print materials. In addition, the Make Available Offline option lets you work on files when you do not have internet access. (See <link target-id="fig-00004"/>.)</para>
+    <figure id="fig-00004">
+    <media alt="A Google Docs ribbon displays these tabs: File, Edit, View, Insert, Format, Tools, Extensions, and Help. File is selected and opens to these options for selection: New, Open, Make a copy, Share, Email, Download, Rename, Move, Add shortcut to Drive, Move to trash, Version history, Make available offline, Details, Language, Page setup, and Print.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_FILEM01.jpg"/>
+    </media>
+    <caption>The File menu is mainly used for opening and saving documents. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00016">The File menu also has tools for saving and exporting files in different formats. Docs and Sheets are compatible with their Microsoft counterparts, so users have the option of either working on a Word or Excel file in Docs or converting the file into a Google file. This appears in the menu as the Save as Google Docs command. Google files can be opened and edited in only a browser window, from your Drive.</para>
+    <para id="para-00017">Recall that Google automatically saves your work for you in the cloud. If you want to save files locally or to other locations, you will need to use the <term id="term-00016">Download</term> command, which enables you to export the current version of the document onto your own computer as a Word document, Excel spreadsheet, PDF, or some other file format.</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00018">If you own a smartphone, you likely already use the cloud to capture your text messages and other activities performed on your cell phone. The cloud has become increasingly important in the business world, and it is helpful to understand how it works. To learn more, watch this <link url="https://openstax.org/r/78WhatIsCloud">video on what the cloud is and how it pervades our lives</link> from <emphasis effect="italics">Scientific American</emphasis>.</para>
+    </note>
+    <para id="para-00019">The <term class="no-emphasis" id="term-00017">Download</term> command brings up the menu shown in <link target-id="fig-00005"/>. Using Slides as an example, one of the download options enables you to download your presentation as a PowerPoint file.</para>
+    <figure id="fig-00005" class="scaled-down">
+    <media alt="A window to the left lists these options: Download, Make available offline, Version history, Rename, Move, Add shortcut to Drive, and Move to Trash. Download is selected and opens to these options for selection: Microsoft PowerPoint (.pptx), ODP Document (.odp), PDF Document (.pdf), Plain Text (.txt), JPEG image (.jpg, current slide), PNG image (.png, current slide), and Scalable Vector Graphics (.svg, current slide).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Download.jpg"/>
+    </media>
+    <caption>Download your presentation to one of seven other formats, including a PowerPoint file. (Google Slides is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00020">The File menu also allows you to explore your document settings. You can use the Email command to send the file to one or more collaborators. The Document Details option contains the file’s statistics and technical data. The Page Setup command can modify paper size or format; as in Word, you can make your document’s orientation either portrait (vertical) or landscape (horizontal).</para>
+    <para id="para-00021">The two most critical tools in the File menu are Version history and Share. <term id="term-00018">Version history</term> is a feature unique to Docs. Every time you make a change in a file, Google autosaves your document, keeping many versions of the file. Version history allows you to revert to a previous version of a file or simply to look back at previous versions for reference.</para>
+    <para id="para-00022">The <term id="term-00019">Share</term> command enables a document’s owner to invite others to work on it. It is used to tag or add collaborators who can read, comment, develop, or edit the file.</para>
+    <para id="para-00023">If you want to create a copy of an existing file, you can use the <term id="term-00020">Save a Copy</term> command. As <link target-id="fig-00006"/> shows, this command allows you to make a copy of your Doc and save the document under another name. You can save it to the Drive, which uses the cloud, as discussed. Or you can save the file to your hard drive, but your files are safer in the cloud, and using cloud storage allows you to free up storage on your local device.</para>
+    <figure id="fig-00006" class="scaled-down-30">
+    <media alt="A Copy document window lists the name of the document (Copy of marketing_report). The Folder lists My Drive as the location and checkable boxes are available for these selections: Share it with the same people, Copy comments and suggestions, and Include resolved comments and suggestions. Cancel and Make a copy buttons are located at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_SAVEAS01(c).jpg"/>
+    </media>
+    <caption>Creating a copy of an existing file by using the Save Copy command. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <section id="sect-00007">
+    <title>Opening an Existing File</title>
+    <para id="para-00024">To open an existing presentation in Slides, first, go to Drive (called <term class="no-emphasis" id="term-00021">My Drive</term> on your computer). You will see your recently saved presentations listed across the top. Even if you are working offline, you will still have access to your files. If you do not see your presentation file, click on Recent under My Drive in the left pane, or scroll down.</para>
+    <para id="para-00025"><link target-id="fig-00007"/> shows a typical Drive page. Your most recent presentations will be shown across the top, and below you will find all the files you created using one of the Google apps. Click on your presentation to open it.</para>
+    <figure id="fig-00007" class="scaled-down">
+    <media alt="A Google Drive tab is visible. The menu on the left includes My Drive, Computers, Shared with me, Recent, Starred, Trash, and Storage. My Drive is selected from the menu at the left and at the right recent presentations and other recent work is displayed with images as well as Name and Last modified.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_DrivePage.jpg"/>
+    </media>
+    <caption>This is a typical Drive page showing recent presentations and other recent work. (Google Drive is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00008">
+    <title>Creating a New File</title>
+    <para id="para-00026">In the File menu, selecting New opens a menu, as shown in <link target-id="fig-00008"/>. You can select a new Presentation From template, new Document, new Spreadsheet, new Form, or new Drawing.</para>
+    <figure id="fig-00008" class="scaled-down-30">
+    <media alt="A menu on the left lists these options: Share, New, Open, Import slides, Make a copy, Email, and Download. New is selected and opens to these options for selection at the right: Presentation, From template, Document, Spreadsheet, Form, and Drawing.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_New.jpg"/>
+    </media>
+    <caption>Select New Presentation, New Document, New Spreadsheet, New Form, or New Drawing. (Google Drive is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00027">After you have chosen the file type you want to create, a blank file of that type will appear on the screen. The document will open with a default name based on the program. For example, a new Doc will have the default name of “Untitled Document” and this will be listed at the top of the screen (see <link target-id="fig-00009"/>). To change this name to something more meaningful, double-click on the current title at the top of the screen. This will highlight the words “Untitled Document” so that you can delete that and rename the file. You can also access the Rename command in the File menu. The process is the same for Sheets and Slides.</para>
+    <figure id="fig-00009">
+    <media alt="The document title is selected and the name of the document (Untitled document) is visible in a blue background.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Untitled.jpg"/>
+    </media>
+    <caption>You can also rename the file you just created by using the Rename command in the File menu. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00028">Google also has a wide variety of templates to choose from. You can create a new file using a <term class="no-emphasis" id="term-00022">template</term> in a similar manner to how you use templates in Office. Templates can be a great place to start if you are designing a specialized document or file such as an invoice or a budget worksheet. They can also be useful when doing more creative work such as designing flyers. The templates can provide a starting point for you and you can customize to meet your needs. To access the templates in Google for each of the programs, use the expanded menu to the side of the program name when you choose New. See <link target-id="fig-00010"/>.</para>
+    <figure id="fig-00010" class="scaled-down">
+    <media alt="In Drive, a menu on the left lists these options: Folder, File upload, Folder upload, Google Docs, Google Sheets, Google Slides, Google Forms, and More. Google Slides is selected and opens to Blank presentation and From a template for selection.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Template.jpg"/>
+    </media>
+    <caption>When creating a new file in Google, you can either create a file from scratch or start with a template. (Google Drive is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00009">
+    <title>Printing a File</title>
+    <para id="para-00029">The <term class="no-emphasis" id="term-00023">Print</term> command in Google is found in the File menu. There are also two shortcuts to printing a file: Ctrl+P or the printer icon on the toolbar. When you select print, a window will open with similar settings that you might see in Office (<link target-id="fig-00011"/>). You can manage the various settings related to printing such as the number of copies, orientation, and paper size. Like with Office, you will also be able to see a preview of the file you are printing.</para>
+    <figure id="fig-00011">
+    <media alt="A Print settings page displays Total: 1 page at the top left and Cancel and Next buttons at the top right. An image of the document is visible on the left and the right side of the page lists these items for selection: Print (Current sheet), Paper size (Letter (8.5” x 11”)), Page Orientation (Landscape and Portrait (selected)), Scale (drop down with Custom number selected), Percent (100%), Margins (drop down with Normal selected), Set Custom Breaks, and Formatting.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Print.jpg"/>
+    </media>
+    <caption>When you have changed the appropriate settings, click Next to print the file. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Edit Menu</title>
+    <para id="para-00030">The <term class="no-emphasis" id="term-00024">Edit menu</term> contains the expected choices: Undo, Redo, Cut, Copy, Paste, Delete, Duplicate, Select All, and Find and Replace. Clicking on Find and Replace brings up the window shown in <link target-id="fig-00012"/>. You type in a word from your file. For each occurrence, you confirm whether you want to replace it with another word. Although most misspelled words will be caught by the spell-check function, if, for example, you have misspelled a title or name throughout the file, using Find and Replace is an efficient way to make sure you catch all the errors.</para>
+    <figure id="fig-00012" class="scaled-down-30">
+    <media alt="A Find and replace window displays these options for selection: Find, Replace with, and Search (a drop down with All Sheets selected). Checkable boxes are available for Match case, Match entire cell contents, Search using regular expressions (with a hyperlinked Help), Also search within formulas, and Also search within links. Find, Replace, Replace All, and Done options are located along the bottom.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Find.jpg"/>
+    </media>
+    <caption>You can use Find and Replace to find specific text in a file and replace it with other text. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00031">The Edit menu for each of the apps looks similar. <link target-id="fig-00013"/> shows the Edit menu.</para>
+    <figure id="fig-00013" class="scaled-down-30">
+    <media alt="Edit is selected on the Ribbon and opens to these options for selection: Undo, Redo, Cut, Copy, Paste, Paste without formatting, Select all, Delete, and Find and replace.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Edit.jpg"/>
+    </media>
+    <caption>The Edit menu will look the same in Docs, Sheets, and Slides. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00011">
+    <title>View Menu</title>
+    <para id="para-00032">The <term class="no-emphasis" id="term-00025">View menu</term> controls the way your document or file appears on your screen, allows you to show certain components to others, and lets you set three different modes in Docs: <term class="no-emphasis" id="term-00026">Editing</term>, <term class="no-emphasis" id="term-00027">Suggesting</term>, and <term class="no-emphasis" id="term-00028">Viewing</term>. The default mode is Editing, which allows the user to edit the document directly. The Suggesting mode is similar to Track Changes in Word, as shown in <link target-id="fig-00014"/>. In this mode, the changes you type into the document become suggestions rather than actual edits. You can then either accept each change by clicking on the check mark or reject it by choosing the X. You can also add comments to the edits, which is especially useful when you are collaborating with others on a document.</para>
+    <figure id="fig-00014">
+    <media alt="In the document displayed, a phrase is highlighted. To the right, a suggestion is visible and enlarged for that highlighted phrase to Format: bold, font is made and has a checkmark to accept or an X to reject the suggestion. A picture of the person making the suggestion is visible as well as the time and date of the suggestion. An option to Reply or add others with @ is also available.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Suggest.jpg"/>
+    </media>
+    <caption>Notice that when you are in Suggesting mode, changes are not saved until you first either accept or reject the edits, as represented by the check mark or X in the comment box. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00033">In Sheets, you can use the View menu to display the gridlines or not, or to display a ruler at the top. In Slides, you use the View menu to view the slideshow, zoom in if needed, or show the speaker notes for the presentation. <link target-id="fig-00015"/> shows the different View menus for each application.</para>
+    <figure id="fig-00015">
+    <media alt="(a) The View tab for Docs is selected and lists these items for selection: Mode, Text width, Show print layout, Show ruler, Show outline, Show equation toolbar, Show selection breaks, and Full screen. (b) The View tab for Sheets is selected and lists these items for selection: Show, Freeze, Group, Hidden sheets, Zoom, and Full screen. (c) The View tab for Slides is selected and lists these items for selection: Slideshow, Motion, Theme builder, Grid view, Zoom, Show ruler, Guides, Snap to, Show speaker notes, Show filmstrip, Show comments, and Full screen.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_View.jpg"/>
+    </media>
+    <caption>The View menus for (a) Docs, (b) Sheets, and (c) Slides will become more familiar to you as you navigate the programs. (Google Docs, Google Sheets, and Google Slides are trademarks of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00012">
+    <title>Insert Menu</title>
+    <para id="para-00034">The <term class="no-emphasis" id="term-00029">Insert menu</term> is used to insert a variety of items into a file. The different apps may offer different items that are best suited to the purposes and uses of that app. See <link target-id="fig-00016"/>. In Docs, the Insert menu includes items such as inserting images, footnotes, headers, and page numbers. Sheets insert options include inserting columns/rows, charts, and formulas. Finally, Slides includes options for inserting tables, drawings, text boxes, and WordArt. Other chapters will cover the Insert menu in more detail.</para>
+    <figure id="fig-00016">
+    <media alt="(a) The Insert tab in Docs opens to these options for selection: Image, Table, Drawing, Chart, Horizontal line, Date, Dropdown, Footnote, Building blocks, Special characters, Equation, Watermark, Headers &amp; footers, and Page numbers. (b) The Insert tab in Sheets opens to these options for selection: Cells, Rows, Columns, Sheets, Chart, Pivot table, Image, Drawing, Function, Link, Checkbox, People chip, Comment, and Note. (c) The Insert tab in Slides opens to these options for selection: Image, Text box, Audio, Video, Shape, Table, Chart, Diagram, Word art, Line, Special characters, Animation, Link, and Comment.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Insert.jpg"/>
+    </media>
+    <caption>The Insert menu in (a) Docs, (b) Sheets, and (c) Slides differ slightly from one another depending on the function of each program. (Google Docs, Google Sheets, and Google Slides are trademarks of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00013">
+    <title>Format Menu</title>
+    <para id="para-00035">The <term class="no-emphasis" id="term-00030">Format menu</term> enables you to alter the visual appearance of most elements within your document, spreadsheet, or slide. Most frequently, you will be formatting text, paragraph setting, spacing, and layout in Docs. In Sheets, you will be formatting the information in the cells and adding conditional formatting based on specific rules. For Slides, the Format menu is much like that of Docs. To see the differences between the Format menus, see <link target-id="fig-00017"/>.</para>
+    <figure id="fig-00017">
+    <media alt="(a) The Format tab in Docs opens to these options for selection: Text, Paragraph styles, Align &amp; indent, Line &amp; paragraph spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, Borders &amp; lines, and Clear formatting. (b) The Format tab in Sheets opens to these options for selection: Theme, Number, Text, Alignment, Wrapping, Rotation, Font size, Merge cells, Conditional formatting, Alternating colors, and Clear formatting. (c) The Format tab in Slides opens to these options for selection: Text, Align &amp; indent, Line &amp; paragraph spacing, Bullets &amp; numbering, Table, Clear formatting, Borders &amp; lines, Format options, and Image.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Format.jpg"/>
+    </media>
+    <caption>The Format menu in (a) Docs, (b) Sheets, and (c) Slides. While the options in Docs and Slides focus on formatting text, Sheets’s options allow you to format numerical information in the cells. (Google Docs, Google Sheets, and Google Slides are trademarks of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00014">
+    <title>Tools Menu</title>
+    <para id="para-00036">The <term class="no-emphasis" id="term-00031">Tools menu</term> is where you’ll find the tools you need to help ensure the quality of your document, sheet, or slide. Let’s examine some of the Docs offerings, shown in <link target-id="fig-00018"/>. “Spelling and grammar” allows you to check for misspelled words, to ensure phrasing and sentences are grammatically correct, and to create a personal dictionary to which you can add frequently used names or words that are not in a standard dictionary. There are also tools for quickly checking editorial matters, such as counting the number of words in your document or seeing a list of linked objects. Notice how the menu also includes keyboard shortcuts. The Tools menu also offers the option of typing by voice recognition, and it includes accessibility settings such as the ability to use a screen reader to read the text on a page aloud and a magnifier to see content at a very large scale. The Tools menu among the three Google apps is very similar.</para>
+    <figure id="fig-00018" class="scaled-down-30">
+    <media alt="The Google Workspace Tools tab opens to these items for selection: Spelling and grammar, Word count, Review suggested edits, Compare documents, Citations, Explore, Linked objects, Dictionary, Translate document, Voice typing, Script editor, Preferences, and Accessibility settings.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Tools.jpg"/>
+    </media>
+    <caption>The Tools menu contains some of the most useful features of the Google Workspace. (Google Workspace is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00037">The Tools menu is also where you can set standard preferences for your Google app. The General options allow for automatically capitalizing initial words, automatically applying certain quotation mark styles, and having spell-check running in the background, among other functions. In the Substitutions section, you can set certain manually entered items to be automatically formatted, such as fractions. See <link target-id="fig-00019"/>.</para>
+    <figure id="fig-00019">
+    <media alt="(a) A Preferences window displays tabs for General and Substitutions. General is selected and lists these options for selection: Automatically capitalize words, Use smart quotes, Automatically detect links, Automatically detect lists, Automatically correct spelling, Show Smart Compose suggestions (predictive writing suggestions appear as you write sentences), Show Smart Reply suggestions (suggested replies appear below comments), and Show link details. Cancel and OK buttons are at the bottom right. (b) A Preferences window displays tabs for General and Substitutions. Substitutions is selected and lists these options for selection: Automatic substitution and fraction options. Cancel and OK buttons are at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Preference.jpg"/>
+    </media>
+    <caption>The list on the left shows the general preferences, while the substitutions are listed on the right. (Google Workspace is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00015">
+    <title>Add-ons or Extensions Menu</title>
+    <para id="para-00038">The <term class="no-emphasis" id="term-00032">Add-ons menu</term> is where you will find accessory programs that can be used for additional features compatible with Google. For example, in Docs, if you need to work on a document with lots of mathematical formulas and equations, you can install an add-on like MathType, which has offerings that go beyond Docs’s equation feature. Or you might install Box, a cloud-based, file sharing, and storage app, to share files with colleagues or clients.</para>
+    </section>
+    <section id="sect-00016">
+    <title>Help Menu</title>
+    <para id="para-00039">The <term class="no-emphasis" id="term-00033">Help menu</term> is self-explanatory: It contains the body of available knowledge concerning each Google application, as well as all the fine print of the terms of use for the consumer or business. You can search for content related to your question and you can access training materials in the Help menu (see <link target-id="fig-00020"/>). Conveniently, Docs also offers the user a dialog box with a list of all the keyboard shortcuts. The Help menu in each of the Google apps is similar to the one shown for Docs.</para>
+    <figure id="fig-00020" class="scaled-down-30">
+    <media alt="A Help tab opens to these options for selection: Search the menus, Help, Training, Updates, Help Docs improve, Report abuse, Privacy Policy, Terms of Service, and Keyboard shortcuts.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Help.jpg"/>
+    </media>
+    <caption>Using keyboard shortcuts can be a time-saver. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00017">
+    <title>Other Menus</title>
+    <para id="para-00040">Some Google products have menus specific to the application. For example, Sheets contains a Data menu to help format and organize data. Slides has both a Slides tab, with a variety of options specific to the presentation page, and an Arrange menu for organizing the various slides within a presentation. You will learn how to use these specific menu features as you practice using the software later in the course.</para>
+    </section>
+    <section class="section-summary" id="sect-00018">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Apps in Workspace include Docs, Sheets, and Slides. These apps are similar in many ways to their Microsoft counterparts.</item>
+    <item>Google has some of the same functionality that you will find in Microsoft, but items may use different terminology.</item>
+    <item>A unique feature of creating files in Google is that the files are automatically saved in your Drive in the cloud.</item>
+    <item>Commands and settings in Google are arranged in menus, with the more frequently used commands appearing as icons on the toolbar.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00019">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00041"><link class="os-embed" url="#exercise/02-05-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00042"><link class="os-embed" url="#exercise/02-05-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00043"><link class="os-embed" url="#exercise/02-05-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00020">
+    <title>Written Questions</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00044"><link class="os-embed" url="#exercise/02-05-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00045"><link class="os-embed" url="#exercise/02-05-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00046"><link class="os-embed" url="#exercise/02-05-BCA-WQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00021">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00047"><link class="os-embed" url="#exercise/02-05-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00048"><link class="os-embed" url="#exercise/02-05-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>Download</term>
+    <meaning>command in Google Docs that lets the user Save As their .gdocx file by exporting the file in another file extension</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>Share</term>
+    <meaning>command that enables a document’s owner to invite others to work on it</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>Save a Copy</term>
+    <meaning>command that creates a duplicate version of an existing file</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>Version history</term>
+    <meaning>Google Drive feature that allows users to access past versions of the same document, created using AutoSave</meaning>
+    </definition>
+    </glossary>
 </document>

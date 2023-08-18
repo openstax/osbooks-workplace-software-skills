@@ -6,5 +6,602 @@
     <md:uuid>d11fc26c-286d-49f4-95b0-36642576aea5</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Know how to access Microsoft applications</item>
+    <item>Describe the key functions within Microsoft’s standard menus</item>
+    <item>Create, save, and open a document</item>
+    </list>
+    </section>
+    <para id="para-00002">Both personal and business productivity have increased as the result of technological advances. Computer technology has facilitated communication, information sharing, and data analytics. Although there have been several software programs developed over the years in these areas, two main leaders have emerged: Microsoft and Google are most common in organizations today and are suitable for a variety of purposes. Google and Microsoft have dominated the market for productivity software programs because they have adapted to the changing needs of businesses. Their success continues because of their forward-thinking and response to market needs.</para>
+    <section id="sect-00002">
+    <title>Overview of Microsoft Office</title>
+    <para id="para-00003">Microsoft launched <term class="no-emphasis" id="term-00001">Microsoft Office</term> in 1990. This suite of applications included three main programs: Word, Excel, and PowerPoint. These programs are bundled as a package to give the user the full range of productivity tools to meet a wide variety of needs. Office applications offer the flexibility to appeal to various preferences with the many ways to perform tasks within the software.</para>
+    <para id="para-00004">Office applications are compatible across a wide variety of platforms, including mobile devices and Apple/Mac operating systems. The applications also integrate well with other software. You may be aware of older versions of Office, such as Office 2016 or 2019, but the latest product (Microsoft 365) moves beyond these static versions, instead offering a subscription that updates automatically. With the introduction of <term class="no-emphasis" id="term-00002">Microsoft 365</term>, the programs use a cloud-based technology that can be accessed anywhere. Microsoft 365 also enhanced the collaborative features of the programs.</para>
+    <section id="sect-00003">
+    <title>Accessing and Maintaining Microsoft Products</title>
+    <para id="para-00005">When you register for a Microsoft 365 account, you are given access to <term class="no-emphasis" id="term-00003">OneDrive</term>, which is its product that provides online storage in the cloud. This offers many advantages. When you save a file to your OneDrive, you will be able to access it from any computer as long as you have an internet connection. There are different versions of Microsoft 365 available for purchase, but most software today uses this subscription-based model for a fee. The software programs are installed on your devices as “apps,” but can also be accessed through the web-based versions with some limitations to functionality. Updates to the programs are provided regularly by Microsoft and should be performed when prompted. Sometimes the information technology department (IT) will take care of these software maintenance issues with your company or school equipment. There are student editions of most versions of Office that can be purchased at a reduced cost or even for free. The student editions might also have some limitations to the functionality of the programs.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Applications</title>
+    <para id="para-00006">The Office suite includes software for many of the most common computer needs in today’s workplace, as well as for personal use, including word processing, spreadsheets, presentations, database management, an email and calendar interface, and a collaboration tool. <link target-id="table-00001"/> provides an overview of the applications within the Office suite. Other chapters in this text will cover these programs in detail. What comes next in this chapter is a breakdown of commands that are common to all the Office applications, so you can get a basic understanding of how to navigate.</para>
+    <table id="table-00001" summary="">
+    <title>Office Applications</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Application</entry>
+    <entry valign="top" align="left">Type</entry>
+    <entry valign="top" align="left">Description</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00004">Word</term></entry>
+    <entry valign="top" align="left">Word processing</entry>
+    <entry valign="top" align="left">Create documents such as reports, memos, agendas, résumés, flyers, and mailings.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00005">Excel</term></entry>
+    <entry valign="top" align="left">Spreadsheet</entry>
+    <entry valign="top" align="left">Create data-based sheets and workbooks for gathering data, performing functions, and analysis.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00006">PowerPoint</term></entry>
+    <entry valign="top" align="left">Presentations</entry>
+    <entry valign="top" align="left">Create slide presentations for use in workplace meetings or client showcases.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00007">Access</term></entry>
+    <entry valign="top" align="left">Database</entry>
+    <entry valign="top" align="left">Create and maintain databases of information.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00008">Outlook</term></entry>
+    <entry valign="top" align="left">Email</entry>
+    <entry valign="top" align="left">Manage email communications and calendars.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00009">Teams</term></entry>
+    <entry valign="top" align="left">Collaboration tool</entry>
+    <entry valign="top" align="left">Set up workspaces for collaboration, such as a team might use on a specific project.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    </section>
+    </section>
+    <section id="sect-00005">
+    <title>Overview: Ribbons, Tabs, and Commands Menu</title>
+    <para id="para-00007">Since its initial release, Microsoft’s suite of office products has been a driver of change, introducing new features in each subsequent version. Since the 2007 version, the apps have used the <term id="term-00010">Ribbon</term>—an interactive bar of commands at the top of the application—as their user interface. With the Ribbon, all the functions are clearly organized and user-friendly.</para>
+    <para id="para-00008">The Ribbon is organized into <term id="term-00011">tabs</term>, each of which houses a collection of thematically grouped commands. The default tabs are File, Home, Insert, Design, Layout, References, Mailings, Review, View, and Help. As you hover your mouse over the Ribbon, you will notice many small icons (pictures) that have a command over them. A <term id="term-00012">command</term> directs the program to complete a process, such as Save. When you select the Save icon, the command will start.</para>
+    <para id="para-00009">As you can see in <link target-id="fig-00001"/>, the commands in the Ribbon are organized into a <term id="term-00013">command group</term> of similar or related buttons, which appear together on the Ribbon tabs.</para>
+    <figure id="fig-00001">
+    <media alt="A Ribbon is visible with these tabs across the top: File, Home (selected), Insert, Draw, Design, Layout, References, Mailings, Review, View, Help, and Acrobat. The Command groups visible on the Ribbon are Undo (includes Undo Typing and Repeat Typing), Clipboard (includes Paste, Cut, Copy, and Format Painter), Font (includes Font, Font Size, Increase Font Size, Decrease Font Size, Change Case, Clear All Formatting, Bold, Italic, Underline, Strikethrough, Subscript, Superscript, Text Effects and Typography, Text Highlight Color, and Font Color), Paragraph (includes Bullets, Numbering, Multilevel List, Decrease Indent, Increase Indent, Sort, Show/Hide Paragraph, Align Left, Center, Align Right, Justify, Line and Paragraph Spacing, Shading, and Borders), Styles (includes a variety of styles for selection), Editing, Adobe Acrobat (includes Create and Share Adobe PDF, and Request Signatures), Voice (includes Dictate), Editor (includes Editor), and Reuse Files (includes Reuse Files).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_HOMETAB01.jpg"/>
+    </media>
+    <caption>The Home tab contains the command groups Font, Paragraph, and Styles, which are used for formatting text.</caption>
+    </figure>
+    <para id="para-00010">Each tab generates a different Ribbon with the appropriate commands and command groups. This section introduces the most used tabs. You will learn more details about them and practice using them in each specific application as the book goes on. <link target-id="fig-00002"/> shows the tabs available in Word and Excel, and <link target-id="fig-00003"/> shows the tabs available in PowerPoint and Access.</para>
+    <figure id="fig-00002">
+    <media alt="(a) A Ribbon for Word is visible with these tabs across the top: File, Home, Developer, Insert, Design, Layout, References, Mailings, Review, View, and Help. The Home tab is selected. The command groups visible include Clipboard (includes Paste, Cut, Copy, and Format Painter), Font (includes Font, Font Size, Increase Font Size, Decrease Font Size, Change Case, Clear All Formatting, Bold, Italic, Underline, Strikethrough, Subscript, Superscript, Text Effects and Typography, Text Highlight Color, and Font Color), Paragraph (includes Bullets, Numbering, Multilevel List, Decrease Indent, Increase Indent, Sort, Show/Hide Paragraph, Align Left, Center, Align Right, Justify, Line and Paragraph Spacing, Shading, and Borders), and Styles (includes a variety of styles for selection). (b) A Ribbon for Excel is visible with these tabs across the top: File, Home, Insert, Page Layout, Formulas, Data, Review, View, Help, and Inquire. The Home tab is selected. The command groups visible include Clipboard (includes Paste, Cut, Copy, and Format Painter), Font (includes Font, Font Size, Increase Font Size, Decrease Font Size, Bold, Italic, Underline, Borders, and Font Color), Alignment (includes Top Align, Middle Align, Bottom Align, Orientation, Wrap Text, Align Left, Center, Align Right, Decrease Indent, Increase Indent, and Merge and Center), Number (includes a drop down for Number Format, a drop down for Accounting Number Format, Percent Style, Comma style, Increase Decimal and Decrease Decimal), and Styles (includes Conditional Formatting).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Tabs_ab.jpg"/>
+    </media>
+    <caption>The main menu bars for (a) Word and (b) Excel share common tabs (File, Home, Insert, Help, for instance), but also contain tabs that are in character with their main functions (such as References in Word and Formulas in Excel) (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00003">
+    <media alt="(a) A Ribbon for PowerPoint is visible with these tabs across the top: File, Home, Insert, Design, Transitions, Animations, Slide Show, Review, View, and Recording. The Home tab is selected. The command groups include Clipboard (includes Paste, Cut, Copy, and Format Painter), Slides (includes New Slide, Reuse Slides, Layout, Reset, and Section), Font (includes Font, Font Size, Increase Font Size, Decrease Font Size, Clear All Formatting, Bold, Italic, Underline, Text Shadow, Strikethrough, Character Spacing, Change Case, Text Highlight Color, and Font Color), Paragraph (includes Bullets, Numbering, Decrease Indent, Increase Indent, Line Spacing, Align Left, Center, Align Right, Add or Remove Columns, Text Direction Align Text, and Convert to SmartArt Graphics. (b) A Ribbon for Access is visible with these tabs across the top: File, Home, Create, External Data, Database Tools, Help, Table Fields, Table, and Search. The Home tab is selected. The command groups include Views (includes View), Clipboard (includes Pasta, Cut, Copy, and Format Painter), Sort &amp; Filter (includes Filter, Ascending, Descending, Remove Sort, Selection, Advanced, and Toggle Filter), and Records (includes Refresh All, New, Save, Delete, Totals, Spelling, and More).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Tabs_cd.jpg"/>
+    </media>
+    <caption>The main menu bars for (a) PowerPoint and (b) Access also share common tabs with one another and with Word and Excel (File, Home, Insert, Help, for instance). They also contain tabs that are in character with their main functions (such as Animations in PowerPoint and Database Tools in Access). (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>File Tab</title>
+    <para id="para-00011">If you open a Microsoft product without opening any specific file, you will see the welcome screen, which provides a <term id="term-00014">Backstage view</term>. The Backstage view is located in an application for managing most tasks related to the documents. In Backstage view, you can open, close, rename, print, and control the settings for the application. There will be many commonalities within the Office programs for the tabs. When you have opened a file in an application such as Word or Excel, the Backstage view gives you information about that file you are working with. As you can see in <link target-id="fig-00004"/>, the file properties are shown on the right pane of the Backstage view, which displays critical metrics about your document, such as its size, number of pages, number of words, filename, last saved time, and when it was printed. Backstage view also includes important commands such as file protection, inspecting the document, and managing the document, which will be discussed later in this chapter.</para>
+    <figure id="fig-00004">
+    <media alt="A Backstage window view is visible. The left menu bar includes these items: Info, New, Open, Save, Save As, History, Print, Share, Export, Close, Account, and Options. In the middle of the screen, an Info section lists these options: Protect Document (control what types of changes people can make to this document), Inspect Document (Before publishing this file, be aware that is contains: Document properties and author’s name), and Manage Document (Check out document or recover unsaved changes. There are no unsaved changes.). At the right, Properties of the file are listed, which include Properties (includes Size, Pages, Words, Total Editing Time, Title, Tags, Comments, Template, Status, Categories, Subject, Hyperlink Base, and Company), Related Dates (includes Last Modified, Created, and Last Printed), and Related People (includes Manager (specify the manager), Author (Chapter Writer Rick Arguello and Add an author), Last Modified By (not saved yet)), and Show Fewer Properties in a hyperlink.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_FILETAB01.jpg"/>
+    </media>
+    <caption>Backstage view shows file properties, which are the statistics and technical details of your file. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="mac-tip" id="note-00001">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00012">The Backstage view is not included in the Mac Version of Office, but you can get the properties of a file by going to the File tab and choosing Properties.</para>
+    </problem>
+    </exercise>
+    </note>
+    <section id="sect-00007">
+    <title>Creating a New File</title>
+    <para id="para-00013">As you open an Office application, you will be introduced to the welcome screen, which shows your recent files on the left and your options on the right. See <link target-id="fig-00005"/>. Because you are in Word, you can choose Blank document to start a new document, or you can select a <term id="term-00015">template</term> from the default template list. A template is a document with many fields already filled and formatted, ready for the user to work on.</para>
+    <figure id="fig-00005">
+    <media alt="A Windows welcome screen is visible. The left column lists Word at the top and these items for selection: Home, New, Open, Account, Feedback, and Options. Across the top are options for Blank Document (emphasized with a Blank Document label), Welcome to Word, Insert your first table of contents, and Banner calendar (emphasized with a Templates label). A Search bar is visible below with a hyperlinked More templates next to it. Underneath the Search bar are options for Recent, Pinned, and Shared with Me. Recent (emphasized with a Recent documents label) is selected and lists recently accessed files with the Name and Date modified indicated.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_WEL01.jpg"/>
+    </media>
+    <caption>The welcome screen gives you three choices: Start from scratch with a new file, create a file from a template, or open a recent file you have already saved. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="mac-tip" id="note-00002">
+    <exercise class="unnumbered" id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00014">The Mac version does not have the same welcome screen. To create a new file, go to the File tab and choose New Document or New Document from Template.</para>
+    </problem>
+    </exercise>
+    </note>
+    <para id="para-00015">To create a new document without using a template, simply click on “Blank Document.” A new document will be opened with a blank screen for you to create your file. This new document will be opened in a new window. You can then add the content to the document and save the document if desired. More about document creation will be covered in later chapters in the book.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Saving a File</title>
+    <para id="para-00016">The <term class="no-emphasis" id="term-00016">Save</term> command is located at the upper-left corner of the window. Using the Save command saves your document in its same location, with its same filename. It is a way of making sure your work does not get lost in case your computer crashes or the application closes suddenly. A good best practice is to save your document occasionally, by either pressing on the Save icon or using Ctrl+S. You can also set up automatic saving at specified time intervals.</para>
+    <para id="para-00017">The <term class="no-emphasis" id="term-00017">Save as</term> command, located on the File tab, allows you to not only save the file with a different name but also to change its location and its type. When you save the file to a new type (for instance, Save As PDF), the file opens in the new file format. The previous file type remains open. When you click on the Save As command, a dialog box will appear, asking you to select the location where you want to save the new version and what you want to name it.</para>
+    <para id="para-00018">Large companies like WorldCorp will typically give their employees a schema or convention to follow when naming files so that the company will have a unified system that all employees can easily identify and understand. This also allows people within the organization to be able to keep track of different information about the file, such as its version and the project or department it is associated with. For example, if the name of your market trends report is “market_report_v1.docx,” the next version could be “market_report_v2.docx.” This gives you a version history of the file, which enables you to keep track of older and newer versions. <link target-id="fig-00006"/> shows the current folder and the name of the file you want to change.</para>
+    <figure id="fig-00006">
+    <media alt="In the window, the left menu bar displays these options: Go back button, Info, New, Open, Save, Save As, History, Print, Share, and Export. Save As is selected. At the right under the Save As menu, options for This PC and Browse are visible. This PC is selected and opens to the right with a window displaying the File location folder (emphasized with a File location folder label). In the file name bar, the name is being changed to marketing_report (emphasized with a File name change label) and the document is being saved as a Word Document (*.docx). Below the name bar are other versions of the report and the Date modified.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_SAVEAS01.jpg"/>
+    </media>
+    <caption>When you Save As, you can change the filename, the file format, or both. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019">Save As can also be helpful in other situations. For example, you may want to save your file in a different format so that it can be opened by a different application. You would also use the Save As command to save the file in a different folder, with a different name for categorization purposes. The default Word file format is .docx, but you could also save it as a .pdf or .rtf.</para>
+    <para id="para-00020">Microsoft also offers the option to save to a different location—for example, your local computer, a shared private location (such as a company drive), or the cloud OneDrive. This allows you to save your work easily even if the device you are working on does not have saving capacity, and also gives you the ability to share your work with others. (You will learn more about collaboration later.) To share a file with others, first save your presentation to OneDrive. Choose File, then Share, and then Share with People.</para>
+    </section>
+    <section id="sect-00009">
+    <title>Opening an Existing File</title>
+    <para id="para-00021">With the desktop version of Microsoft 365, your recent file list will be readily available in Backstage view. If the file you want does not appear in your recent file list, click on File and then <term class="no-emphasis" id="term-00018">Open</term>. Locate the file, select it, and click Open. If you want a file to always appear in your recent file list, you can “pin” it: Go back to File, and the file that is now open will have a pushpin icon next to its name. Click on the pushpin, and the file will be pinned.</para>
+    <para id="para-00022">To access a file in Microsoft 365 online, you must set up an account with Microsoft if you do not already have one. Then, you can go to the program you are working in and you will find your recent file list. OneDrive also gives you access to files not listed in your recent file list. Locate the file you want and click Open. Your document should appear.</para>
+    </section>
+    <section id="sect-00010">
+    <title>Printing a File</title>
+    <para id="para-00023">To print a file, choose the File tab. In the list of options on the left, you will see <term class="no-emphasis" id="term-00019">Print</term>. When you click on Print, you will be shown a preview of your document along with print options. See <link target-id="fig-00007"/>. The print options include a variety of settings, such as number of copies, printer selection, and paper size. You can also print on both sides of the paper or select only certain sheets to print. When you have chosen the desired settings, choose Print on the upper-left side of the screen.</para>
+    <figure id="fig-00007">
+    <media alt="In the Print window, the left menu bar displays these options: Go back button, Info, Save a copy, Print, Share, Export, Transform, Close, account, Feedback, and Options. The next column to the right is the Print function with a Print button and a selection for number of Copies. Options for Printer (includes type of printer connected and a hyperlinked Printer Properties) and Settings (includes options for Print All Pages (The whole thing), Pages:, Print One Sided (Only print one side of….), Collated (1,2,3 1,2,3 1,2,3), Custom Staple Setting, Portrait Orientation, and Letter (8.5” x 11”). At the right a preview of the Resume to be printed is visible listing Name, Address, Education and Work Experience. At the bottom page 1 of 1 is visible.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Print.jpg"/>
+    </media>
+    <caption>You can also choose to have your document stapled if that option is available on your printer. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="mac-tip" id="note-00003">
+    <exercise class="unnumbered" id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00024">Print screen on a Mac displays the options that are included with the user’s installed printer.</para>
+    </problem>
+    </exercise>
+    </note>
+    </section>
+    <section id="sect-00011">
+    <title>Options</title>
+    <para id="para-00025">The <term class="no-emphasis" id="term-00020">Options</term> command at the bottom of the File tab contains a multitude of choices that control the way your workspace appears, determine the way the text is corrected, and allow changes to many aspects of the program. A summary of the options available is shown in <link target-id="table-00002"/>.</para>
+    <table id="table-00002" summary="">
+    <title>Summary of the Options dialog box</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">General</entry>
+    <entry valign="top" align="left">Provides options that affect the user interface</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00021">Display</term></entry>
+    <entry valign="top" align="left">Changes how the content is shown on the screen and when it is printed</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00022">Proofing</term></entry>
+    <entry valign="top" align="left">Sets the way spelling and grammar are checked</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00023">Save</term></entry>
+    <entry valign="top" align="left">Sets up AutoSave to save a copy of your work at scheduled intervals</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00024">Language</term></entry>
+    <entry valign="top" align="left">Chooses the language in which menus and controls appear</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00025">Accessibility</term></entry>
+    <entry valign="top" align="left">Checks your documents for accessibility to people with visual or other challenges</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00026">Advanced</term></entry>
+    <entry valign="top" align="left">Sets how words are edited, replaced, or cut and pasted</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00027">Customize Ribbon</term></entry>
+    <entry valign="top" align="left">Allows users to choose which commands are shown on the Ribbon</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00028">Quick Access Toolbar</term></entry>
+    <entry valign="top" align="left">Allows users to choose what is displayed on the Quick Access Toolbar above the Ribbon</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00029">Add-ins</term></entry>
+    <entry valign="top" align="left">Manages the available Office add-ins</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><term class="no-emphasis" id="term-00030">Trust Center</term></entry>
+    <entry valign="top" align="left">Sets security settings, most of which should remain as set</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>The Options command appears in all Office applications and provides helpful settings.</caption>
+    </table>
+    <para id="para-00026">The Options command, present in all Office applications, opens an Options dialog box, as shown in <link target-id="fig-00008"/>. Before you start working, it’s advisable to click on each of the Options items to see what each covers.</para>
+    <para id="para-00027">An Options item that is critical to your work is a Save option called AutoRecover. Just ask yourself, “Has my computer ever frozen in the middle of a sentence?” This happens to everyone, but AutoRecover can prevent a catastrophe by allowing you to set the program to automatically save your work every two minutes, five minutes, or whatever interval you choose.</para>
+    <para id="para-00028">Another helpful option is proofing, which allows Microsoft to check your spelling as you type.</para>
+    <para id="para-00029">You will find some options that you may never need to change. In the future, however, you will be glad to know where to locate these hidden settings.</para>
+    <figure id="fig-00008">
+    <media alt="A Word Options window is visible. The menu at the left includes General (selected), Display, Proofing, Save, Language, Accessibility, Advanced, Customize Ribbon, Quick Access Toolbar, Add-ins, and Trust Center. The right of the window is labeled General options for working with Word. User Interface options is the first heading and includes these options for selection: When using multiple displays: Optimize for best appearance and Optimize for compatibility (application restart required), Show Mini Toolbar on selection, Enable Live Preview, Update document content while dragging, Collapse the ribbon automatically, Collapse the Microsoft Search box by default, Enable modern comments, and a drop down for ScreenTip style. The next group is titled Personalize your copy of Microsoft Office which includes: User name, Initials, a checkable box for Always use these values regardless of sign in to Office., Office Background, Office Theme, and a checkable box for Never change the document page color. Privacy Settings (includes a Privacy Settings button) and LinkedIn Features headings follow. OK and Cancel buttons are at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Options.jpg"/>
+    </media>
+    <caption>The Options command, present in all Office applications, opens an Options dialog box with many available options or settings that can be changed. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00030">Customize Ribbon and the Quick Access Toolbar are useful features. Because you are likely to use both functions on a regular basis, you want their commands to always be visible. This is most easily done by customizing the Ribbon or the Quick Access Toolbar.</para>
+    <para id="para-00031">There are probably some other commands that you wish you had immediate access to but did not know this was possible. For example, did you know that you can add an email command to either the Ribbon or the Quick Access Toolbar? Suppose you want to email someone and add a presentation to your email as an attachment. If you add Email to your Ribbon or Quick Access Toolbar, you can just click on the Email command, which will open your regular email program with access to your address book and add an attachment of the presentation to the email. No more need to open the email program independently, then search for the file on your computer, and finally attach it.</para>
+    <para id="para-00032">As another example, suppose you work with a lot of graphics. There are numerous commands associated with drawing and inserting graphics that are generally hidden. You may not even be aware that these functions exist, but when you change the scope to All Commands and look through the choices, you will find many commands that can save you a lot of time if you set them up for immediate access.</para>
+    <para id="para-00033">There are two ways to customize the Quick Access Toolbar. First, from the Options dialog box, select the Quick Access Toolbar, shown in <link target-id="fig-00009"/>.</para>
+    <figure id="fig-00009">
+    <media alt="A PowerPoint Options window lists these selections in the menu at the left: General, Proofing, Save, Language, Accessibility, Advanced, Customize Ribbon, Quick Access Toolbar (selected), Add-ins, and Trust Center. At the right, the heading reads Customize the Quick Access Toolbar. The left column reads: Choose commands from: and includes a drop-down menu. Underneath this menu is a list of options to select to add to the toolbar, including Action Settings, Add Animation, Add Table, Animation Pane, Animation Styles, Bring Forward, Bring to Front, Bullets, Copy, Cut, Decrease Font Size, Draw Table, Duplicate Slide, Email, Eyedropper [Eyedropper Text Fill], Font, Font Color, Font Size, Format Background, Format Object… [Format Shape], Format Painter, From Beginning [Start from Begin…]. A checkable box for Show Quick Access Toolbar below the Ribbon is located next. Add and Remove buttons are located in the middle of the screen and the column on the right side reads Customize Quick Access Toolbar. A drop-down menu is below (For all documents (default)) and underneath is a window with selected options (Turn AutoSave On/Off, Save, Undo, Redo, and From Beginning [Start from Begin…]). Underneath this window is a Modify button, and buttons for Reset and Import/export for Customizations. OK and Cancel buttons are at the bottom right of the screen.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_QATCustom1.jpg"/>
+    </media>
+    <caption>To customize the Quick Access Toolbar, add commands from the selections on the left to the list on the right. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00034">For example, to add a Quick Print option, scroll down to Quick Print in the list of commands on the left. Highlight Quick Print, click the Add button, and Quick Print will appear on the Quick Access Toolbar, as seen in <link target-id="fig-00010"/>, which shows the result of customizing the Quick Access Toolbar.</para>
+    <figure id="fig-00010">
+    <media alt="A PowerPoint Options window lists these selections in the menu at the left: General, Proofing, Save, Language, Accessibility, Advanced, Customize Ribbon, Quick Access Toolbar (selected), Add-ins, and Trust Center. At the right, the heading reads Customize the Quick Access Toolbar. The left column reads: Choose commands from: and Popular Commands is selected in the drop-down menu. Underneath this menu is a list of options to select to add to the toolbar. Quick Print is selected. The Add button located in the middle of the screen is selected. The column on the right side reads Customize Quick Access Toolbar. For all documents (default) is selected from the drop-down menu. The window below displays Quick Print added to the list of options previously selected (Turn AutoSave On/Off, Save, Undo, Redo, From Beginning [Start from beginning]). Underneath this window is a Modify button, and buttons for Reset and Import/Export for Customizations. OK and Cancel buttons are at the bottom right of the screen.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_QATCustom2.jpg"/>
+    </media>
+    <caption>Items added to the Quick Access Toolbar will appear at the top of the screen when you open the program. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00035">The second way to customize is to right-click on the Quick Access Toolbar, which opens a context menu. Choose Quick Print from the menu items, as shown in <link target-id="fig-00011"/>. The Quick Print option should appear on the Quick Access Toolbar.</para>
+    <figure id="fig-00011">
+    <media alt="On the Windows screen, a drop-down arrow for Customize Quick Access Toolbar is open and the list of options includes Automatically Save (checked), New (checked), Open, Save (checked), Email, Quick Print, Print Preview and Print (checked), Editor (F7), Read Aloud, Undo (checked), Redo (checked), Draw Table, Touch/Mouse Mode, More Commands, and Show Below the Ribbon. An arrow points to the Quick Print option that has been added and is now available on this menu.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_QATCustom3.jpg"/>
+    </media>
+    <caption>Using the context menu, you can easily add the Quick Print option to the Quick Access Toolbar. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="mac-tip" id="note-00004">
+    <exercise class="unnumbered" id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00036">The Quick Access Toolbar is found on the Preferences tab on the app main page.</para>
+    </problem>
+    </exercise>
+    </note>
+    <para id="para-00037">Customizing the Ribbon is a similar process. Start at the Customize the Ribbon command from Options in Backstage view. To add a command to the Ribbon, you first have to create a new group, as follows:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00002">
+    <item>Choose the tab on the right where you want to add the new command. (For the purposes of this demonstration, choose the Draw group, making sure there is a check mark next to the Draw box.)</item>
+    <item>Click on New Group, which will be listed when you click on the plus sign next to Draw.</item>
+    <item>In the box at the top left, select Commands Not in the Ribbon (see <link target-id="fig-00012"/>).</item>
+    <item>Scroll down to Borders and Shading and click Add.</item>
+    <item>Then, select another command, Brightness, and click Add.</item>
+    </list>
+    <para id="para-00038">When you return to the application, you will see your New Group with the options selected. Using this method, you can select any command from the left and add it to the Ribbon commands on the right. This works for all the Office programs.</para>
+    <figure id="fig-00012">
+    <media alt="A PowerPoint Options window lists these selections in the menu at the left: General, Proofing, Save, Language, Accessibility, Advanced, Customize Ribbon (selected), Quick Access Toolbar, Add-ins, and Trust Center. At the right, the heading reads Customize the Ribbon. The left column reads Choose commands from: and Popular Commands is selected in the drop-down menu. Underneath this menu is a list of options available for selection to add to the toolbar. Add and Remove buttons are located in the middle of the screen. The column on the right side reads Customize the Ribbon and Main Tabs is selected in the drop down menu. The window below displays the Main Tabs selected: Merge, Grayscale, Black and White, Slide Master, Handout Master, Notes Master, Background Removal, Home (Master Views), Home (includes Clipboard, Slides, Font, Paragraph, Drawing, Editing, Voice, Designer, and Adobe), and Insert. Underneath this window are buttons for New Tab, New Group, Rename and buttons for Reset and Import/export for Customizations. OK and Cancel buttons are at the bottom right of the screen.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_RibCustom.jpg"/>
+    </media>
+    <caption>Customizing the Ribbon can facilitate your productivity by including items you use frequently for quicker access. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00005">
+    <para id="para-00039">Microsoft products offer hundreds of keyboard shortcuts (such as holding down the Ctrl button and S at the same time saves a document) that can help you work more quickly and efficiently. The <link url="https://openstax.org/r/78KeyShortWord">Microsoft support page on keyboard shortcuts in Word</link> provides a long list of these shortcuts, categorized by activity type.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00012">
+    <title>Home Tab</title>
+    <para id="para-00040">The <term class="no-emphasis" id="term-00031">Home</term> tab is where you begin to create your document, spreadsheet, or presentation. The Ribbon for the Home tab in Word is shown in <link target-id="fig-00013"/>. You can view the Ribbon as command central for the application: It is a collection of commands and command groups that govern the basics of the program you are working with. Each group of commands is separated by a thin vertical line (see arrow in <link target-id="fig-00013"/>).</para>
+    <figure id="fig-00013">
+    <media alt="Across the top of the Word screen are AutoSave (Off is selected), Save, the name of the document, and a Search Bar. The Ribbon contains these tabs: File, Home (selected), Insert, Draw, Design, Layout, References, Mailings, Review, View, Help, and Acrobat. The command groups visible include Undo (includes Undo Typing and Repeat Typing), Clipboard (includes Paste, Cut, Copy, and Format Painter), Font (includes Font, Font Size, Increase Font Size, Decrease Font Size, Change Case, Clear All Formatting, Bold, Italic, Underline, Strikethrough, Subscript, Superscript, Text Effects and Typography, Text Highlight Color, and Font Color), and Paragraph (includes Bullets, Numbering, Multilevel List, Decrease Indent, Increase Indent, Sort, Show/Hide Paragraph, Align Left, Center, Align Right, Justify, Line and Paragraph Spacing, Shading, and Borders). An arrow points to the thin vertical line separating the command groups.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Ribbon.jpg"/>
+    </media>
+    <caption>The Home tab contains items such as formatting the font size and determining the line spacing. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00041">First is the <term class="no-emphasis" id="term-00032">Clipboard</term> group, which contains the commands for all the cut-and-paste functions. As in all the Office applications, an arrow next to or below a label means that there are other possible choices for that function. Notice that the Paste command has an arrow below it. Clicking on the arrow gives you several Paste options; if you hover over them, you will see helpful descriptions and previews.</para>
+    <para id="para-00042">The <term class="no-emphasis" id="term-00033">Font</term> command group is similar across applications. You can choose Bold, Italic, Underline, Strikethrough, and Highlight. You can also regulate character spacing and add a superscript or subscript. Primarily, however, you will change the font face, color, and size.</para>
+    <para id="para-00043">Sticking with Word to get an idea of how the Home tab operates, the <term class="no-emphasis" id="term-00034">Paragraph</term> command group contains the commands for indentation and for aligning text to the right or to the left, centered, or justified. You can create columns, change the direction of the text by rotating 90, 180, or 270 degrees, or stack the letters on top of one another. The Paragraph command group also contains the commands for creating bulleted and numbered lists and for adding SmartArt graphics to text. Notice that there is an arrow associated with most of these commands, indicating that each one offers still more choices for formatting a paragraph.</para>
+    <para id="para-00044"><link target-id="table-00003"/> lists common <term class="no-emphasis" id="term-00035">keyboard shortcuts</term>. To use each action, press the Ctrl button, and while holding it down, press the next key. You may find these shortcuts useful so that you do not have to take your hands from the keyboard to use the mouse. It might be helpful to bookmark this table for future reference as you work through the rest of the book.</para>
+    <table id="table-00003" summary="">
+    <title>Common Keyboard Shortcuts in Office</title>
+    <tgroup cols="8">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <colspec colnum="5" colname="c5"/>
+    <colspec colnum="6" colname="c6"/>
+    <colspec colnum="7" colname="c7"/>
+    <colspec colnum="8" colname="c8"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Action</entry>
+    <entry valign="top" align="left">Keyboard Shortcut</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Action</entry>
+    <entry valign="top" align="left">Keyboard Shortcut</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Action</entry>
+    <entry valign="top" align="left">Keyboard Shortcut</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Copy</entry>
+    <entry valign="top" align="left">Ctrl+C</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Italic</entry>
+    <entry valign="top" align="left">Ctrl+I</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Help</entry>
+    <entry valign="top" align="left">F1</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Cut</entry>
+    <entry valign="top" align="left">Ctrl+X</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Center</entry>
+    <entry valign="top" align="left">Ctrl+E</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Open a file</entry>
+    <entry valign="top" align="left">Ctrl+O</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Paste</entry>
+    <entry valign="top" align="left">Ctrl+V</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Justify</entry>
+    <entry valign="top" align="left">Ctrl+J</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Create a new file</entry>
+    <entry valign="top" align="left">Ctrl+N</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Undo</entry>
+    <entry valign="top" align="left">Ctrl+Z</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Underline</entry>
+    <entry valign="top" align="left">Ctrl+U</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Save a file</entry>
+    <entry valign="top" align="left">Ctrl+S</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Redo</entry>
+    <entry valign="top" align="left">Ctrl+Y</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Align left</entry>
+    <entry valign="top" align="left">Ctrl+L</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Print a file</entry>
+    <entry valign="top" align="left">Ctrl+P</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Bold</entry>
+    <entry valign="top" align="left">Ctrl+B</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Find</entry>
+    <entry valign="top" align="left">Ctrl+F</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="left">Close a file</entry>
+    <entry valign="top" align="left">Ctrl+W</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <note class="mac-tip" id="note-00006">
+    <exercise class="unnumbered" id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00045">On a Mac, Control is replaced with Command.</para>
+    </problem>
+    </exercise>
+    </note>
+    <section id="sect-00013">
+    <title>Format Painter</title>
+    <para id="para-00046"><term class="no-emphasis" id="term-00036">Format Painter</term>, represented with a paintbrush icon, is a shortcut tool that is available in Word, Excel, and PowerPoint. This tool lets you copy the formatting of a section of text, a cell, or whatever you choose to another place on a document, spreadsheet, or slide, respectively. It is especially useful when you need to reformat large amounts of text.</para>
+    <para id="para-00047">First, select the text that has been formatted in the way you want. Then, click on Format Painter, and the cursor will turn into a little paintbrush, as <link target-id="fig-00014"/> shows. Brush over the text you want to change, let go of the mouse, and the text will now be formatted in the desired style.</para>
+    <para id="para-00048">Note that if you want to use Format Painter again, you will have to repeat the steps outlined above. To format a lot of text, double-click on the Format Painter icon, and it will last until you click on it one more time.</para>
+    <figure id="fig-00014" class="scaled-down-30">
+    <media alt="In PowerPoint, the Format Painter icon (a paintbrush) from the Clipboard command group is enlarged for view.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Format.jpg"/>
+    </media>
+    <caption>Format Painter is a handy tool to brush, so to speak, over text and format it as you like. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00014">
+    <title>Insert Tab</title>
+    <para id="para-00049">The <term class="no-emphasis" id="term-00037">Insert</term> tab allows you to insert a variety of items into your file, including visual images such as pictures or diagrams, tables, links, and equations or special symbols. The Insert tab will differ a bit by program. <link target-id="fig-00015"/> shows what the Insert tab looks like for Word, Excel, and PowerPoint. For example, in Word and PowerPoint, you have options to insert Smart Art. Excel has many options to insert charts and graphs. More details about the specific insert options will appear in the chapters to follow on each of the programs.</para>
+    <figure id="fig-00015">
+    <media alt="(a) A Ribbon for Word is visible with these tabs across the top: File, Home, Developer, Insert (selected), Design, Layout, References, Mailings, Review, View and Help. The command groups on the toolbar include Pages (includes Cover Page, Blank Page, and Page Break), Tables (includes Table), Illustrations (includes Pictures, Shapes, Icons, 3D Models, SmartArt, Chart, and Screenshot), Reuse Files (includes Reuse Files), Add-ins (includes Get Add-ins, My Add-ins and Wikipedia), and Media (includes Online Videos). (b) A Ribbon for Excel is visible with these tabs across the top: File, Home, Insert (selected), Page Layout, Formulas, Data, Review, View, Developer, Help, and Inquire. The command groups on the toolbar include Tables (includes PivotTable, Recommended PivotTables, and Table), Illustrations, Add-ins (includes Get Add-ins, My Add-Ins, Visio Diagrams, Bing Maps, and Transform cold data into a cool picture), and Charts (includes Recommended Charts, Insert Column or Bar Chart, Insert Hierarchy Chart, Insert Waterfall, Funnel, Stock, Surface or Radar Chart, Insert Line or Area Chart, Insert Statistics Chart, Insert Combo Chart, Insert Pie or Doughnut Chart, Insert Scatter (X,Y) or Bubble Chart, Maps, and Pivot Chart). (c) A Ribbon for PowerPoint is visible with these tabs across the top: File, Home, Insert (selected), Design, Transitions, Animations, Slide Show, Review, View, and Recording. The command groups on the toolbar include Slides (includes New Slide and Reuse Slide), Tables (includes Tables), Images (includes Pictures, Screenshot and Photo Album), Illustrations (includes Shapes, Icons, 3D Models, SmartArt, and Chart), Forms (includes Forms), Add-Ins, and Links (includes Zoom and Link).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Insert.jpg"/>
+    </media>
+    <caption>(a) Insert tab for Word, (b) Excel, and (c) PowerPoint. Different tabs appear for each program depending on the program’s purpose. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00015">
+    <title>Design Tab</title>
+    <para id="para-00050">The <term class="no-emphasis" id="term-00038">Design</term> tab is found on the Ribbon in Word and in PowerPoint. See <link target-id="fig-00016"/>. The tab includes options to customize the look of the document or presentation. There are preset themes that you can use to enhance the document or slide, or you can create your own theme. The options on the Design tab are covered in more depth in <link document="m00032">Creating and Working in Documents</link> and [link]Preparing Presentations[/link].</para>
+    <figure id="fig-00016">
+    <media alt="(a) A Ribbon for Word is visible with the Design tab selected. The command group visible is Document Formatting displays various document Themes for selection. (b) A Ribbon for PowerPoint is visible with the Design tab selected. The command group visible is Themes and displays various document theme options for selection.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Design.jpg"/>
+    </media>
+    <caption>(a) The Design tab in Word allows you to choose preset themes for formatting text or you can create your own design choices. (b) PowerPoint’s Design tab functions similarly. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00016">
+    <title>Layout and Page Layout Tabs</title>
+    <para id="para-00051">The <term class="no-emphasis" id="term-00039">Layout</term> (Word) and <term class="no-emphasis" id="term-00040">Page Layout</term> (Excel) tabs control items such as spacing and margins in your file. You can use the options on the tabs to insert page breaks, change the orientation, and define the print area. In Page Layout in Excel, you can also apply a theme to your spreadsheet to enhance the visual appeal. This is similar to what you would find on the Design tab for Word and PowerPoint. <link target-id="fig-00017"/> shows the tabs for Word and Excel. The chapters on Word and Excel will cover these tabs in depth.</para>
+    <figure id="fig-00017">
+    <media alt="(a) A Ribbon for Word is visible with the Layout tab selected. The command groups available include Page Setup (includes Margins, Orientation, Size, Columns, Breaks, Line Numbers, and Hyphenation), Paragraph (includes Left and Right Indent, and Before and After Spacing), and Arrange (includes Position and Wrap Text). (b) A Ribbon for Excel is visible with the Page Layout tab selected. The command groups on the toolbar include Themes (includes Themes, Colors, Fonts, and Effects), Page Setup (includes Margins, Orientation, Size, Print Area, Breaks, Background, and Print Titles), Scale to Fit (Width, Height, and Scale), and Sheet Options (includes View and Print options for Gridlines and Headings).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Layout.jpg"/>
+    </media>
+    <caption>(a) The Layout tab in Word and (b) Page Layout tab in Excel allow you to set up your document or spreadsheet for easier reading and visual appeal. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00017">
+    <title>Review Tab</title>
+    <para id="para-00052">The <term class="no-emphasis" id="term-00041">Review</term> tab is found in three Office programs (Access does not have a Review tab). In Word, the Review tab is useful to check spelling, track changes within a document, and compare previous versions of documents to each other. The Review tab in Excel also contains a spell-check feature, but also allows you to add comments and to protect the worksheet from editing by others. Finally, the Review tab options in PowerPoint are very similar to those in Excel. The Review tab is a great place to reference to make sure your file is ready to share with others and to collaborate by adding comments. <link target-id="fig-00018"/> shows the Review tabs for Excel, Word, and PowerPoint.</para>
+    <figure id="fig-00018">
+    <media alt="(a) A Ribbon for Word is visible with the Review tab selected. The command groups on the toolbar include Proofing (includes Spelling &amp; Grammar, Thesaurus, and Word Count), Speech (includes Read Aloud), Accessibility (includes Check Accessibility), Language (includes Translate and Language), Comments (includes New Comment, Delete, Previous, Next, and Show Comments) and Track Changes from Tracking is also visible. (b) A Ribbon for Excel is visible with the Review tab selected. The command groups on the toolbar include Proofing (includes Spelling &amp; Grammar, Thesaurus, and Workbook Statistics), Accessibility (includes Check Accessibility), Insights (includes Smart Lookup), Language (includes Translate), Comments (includes New Comment, Delete, Previous Comment, Next Comment, and Show Comments). Note from Notes is also visible. (c) A Ribbon for PowerPoint is visible with the Review tab selected. The command groups on the toolbar include Proofing (includes Spelling and Thesaurus), Accessibility (includes Check Accessibility), Language (includes Translate and Language), and Comments (includes New Comment, Delete, Previous, Next, and Show Comments).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Review.jpg"/>
+    </media>
+    <caption>The Review tab in (a) Word, (b) Excel, and (c) PowerPoint all share common functions, such as creating and managing comments from multiple users. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00018">
+    <title>View Tab</title>
+    <para id="para-00053">The <term class="no-emphasis" id="term-00042">View</term> tab is also seen in Office applications, except Access. It can customize what you see on the screen. You can change the options to show you what the file will look like when printed by choosing the Print Layout view. You can use the options to zoom in to make the screen larger. Finally, there are options to view files open in the same program side by side or to switch between the open windows when working with multiple files at a time. Notice the slight differences in options between the three applications in <link target-id="fig-00019"/>.</para>
+    <figure id="fig-00019">
+    <media alt="(a) A Ribbon for Word is visible with the View tab selected. The command groups on the toolbar include Views (includes Read Mode, Print Layout, Web Layout, Outline and Draft), Immersive (includes Focus and Immersive Reader), Page Movement (includes Vertical and Side to Side), Show (includes Ruler, Gridlines, and Navigation Pane), and Zoom (includes Zoom, 100%, One Page, Multiple Pages, and Page Width). (b) A Ribbon for Excel is visible with the View tab selected. The command groups on the toolbar include Sheet View (includes a drop down with Default visible, Keep, Exit, New, and Options), Workbook Views (includes Normal, Page Break View, Page Layout and Custom Views), Show (includes Ruler, Gridlines, Formula Bar and Headings), and Zoom (with Zoom and 100% visible). (c) A Ribbon for PowerPoint is visible with the View tab selected. The command groups on the toolbar include Presentation Views (includes Normal, Outline View, Slide Sorter, Notes Page, and Reading View), Master Views (includes Slide Master, Handout Master, and Notes Master), Show (includes Ruler, Gridlines, Guides, and Notes), Zoom (includes Zoom and Fit to Window), and Color/Grayscale (includes Color, Grayscale and Black and White).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_View.jpg"/>
+    </media>
+    <caption>The (a) View tab in Word, (b) Excel, and (c) PowerPoint sets how your document, spreadsheet, or presentation will appear on-screen. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00019">
+    <title>Help Tab</title>
+    <para id="para-00054">The <term class="no-emphasis" id="term-00043">Help</term> tab looks the same in all the Office applications. The Help tab gives you options to seek help on an issue with the application you are working with. Through the tab, you can use the Help search by clicking on the question mark or you can contact support directly. The Show Training is a good place to start if you have not used the program at all before. It gives you a collection of help tutorials to walk you through many of the more common features used in the program. When you select any of the options on the Help tab, a window will open at the right to assist you further. See <link target-id="fig-00020"/>.</para>
+    <figure id="fig-00020">
+    <media alt="Help is selected on the Ribbon and the Help command group on the Toolbar includes these items for selection: Help, Contact Support, Feedback, Show Training, and What’s New. Help is selected and the Help dialog box open at the right shows a go back button and Search Bar at the top. Options for selection include Get Started, Collaborate, Insert Text, Pages &amp; layouts, Pictures, Save &amp; print, Mail Merge and Recommended Topics (Words for Windows training and Lay out pages are visible choices).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Help.jpg"/>
+    </media>
+    <caption>When you select the general help search with the question mark, you can type the topic or question you need help with into the search bar. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00020">
+    <title>Other Tabs</title>
+    <para id="para-00055">Based on the application you are using, there are different tabs that are included in the Ribbon specific to that program. These tabs offer options that relate to the functionality of the program. For example, in Word, you have a Mailings tab that can send a document to a large database of individuals. In PowerPoint, you have the Slide Show tab that contains options for developing your presentation. <link target-id="table-00004"/> gives you the default tabs for each program. Remember, using the Customized Ribbon option, you can change which tabs you have displayed in the programs.</para>
+    <table id="table-00004" summary="">
+    <title>Default Tabs by Office Program</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Word</entry>
+    <entry valign="top" align="left">Home, Insert, Layout, References, Mailings, Review, View, and Help</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Excel</entry>
+    <entry valign="top" align="left">Home, Insert, Page Layout, Formulas, Data, Review, View, and Help</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">PowerPoint</entry>
+    <entry valign="top" align="left">Home, Insert, Design, Transitions, Animations, Slide Show, Review, View, and Help</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Access</entry>
+    <entry valign="top" align="left">Home, Create, External Data, Database Tools, Help, Table Fields, and Table</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Each program has a Ribbon of default tabs.</caption>
+    </table>
+    </section>
+    <section class="section-summary" id="sect-00021">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>Applications in the Office suite have generally the same layout.</item>
+    <item>The options to customize files are arranged on the Ribbon by tabs based on the usage.</item>
+    <item>The Save, Save As, Open, and Print options are common among all applications.</item>
+    <item>By using the settings options in the applications, you can customize the view and the Ribbon to meet your needs.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00022">
+    <title>Review Questions</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00056"><link class="os-embed" url="#exercise/02-04-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00057"><link class="os-embed" url="#exercise/02-04-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00058"><link class="os-embed" url="#exercise/02-04-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00059"><link class="os-embed" url="#exercise/02-04-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00023">
+    <title>Written Questions</title>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00060"><link class="os-embed" url="#exercise/02-04-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00061"><link class="os-embed" url="#exercise/02-04-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00062"><link class="os-embed" url="#exercise/02-04-BCA-WQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00024">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00063"><link class="os-embed" url="#exercise/02-04-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00064"><link class="os-embed" url="#exercise/02-04-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00025">
+    <title>Case Exercise</title>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00065"><link class="os-embed" url="#exercise/02-04-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00066"><link class="os-embed" url="#exercise/02-04-BCA-CE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>Backstage view</term>
+    <meaning>welcome screen and the File tab, where you can open or save a document, create a new document, or configure settings for the application</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>command</term>
+    <meaning>process the user selects; located on the toolbar, on the Ribbon, or in a menu</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>command group</term>
+    <meaning>group of related commands that are placed together in one area of the Ribbon</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>Ribbon</term>
+    <meaning>area at the top of the application window where all commands are housed; organized into tabs</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>tabs</term>
+    <meaning>sections of the Ribbon that refer to related processes, organized by labels</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>template</term>
+    <meaning>preformatted file, designed to save the user time in document formatting</meaning>
+    </definition>
+    </glossary>
 </document>
