@@ -36,7 +36,7 @@
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_07_STYLE01.jpg"/></media>
     <caption>The drop-down Styles menu gives the user a preview of what the different available styles look like. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <para id="para-00008">As you can see in <link target-id="fig-00003"/>, the text style has changed. The heading text was also added to the document outline on the left. This is an important feature of styles in Docs. As you continue to apply styles within a hierarchy, the outline in the document pane will reflect that hierarchy. For example, you can see that “Industry and Market Analysis” is now listed on the outline as a heading. This can be particularly useful when managing long documents, which [link]Document Preparation[/link] covers.</para>
+    <para id="para-00008">As you can see in <link target-id="fig-00003"/>, the text style has changed. The heading text was also added to the document outline on the left. This is an important feature of styles in Docs. As you continue to apply styles within a hierarchy, the outline in the document pane will reflect that hierarchy. For example, you can see that “Industry and Market Analysis” is now listed on the outline as a heading. This can be particularly useful when managing long documents, which <link document="m00042">Document Preparation</link> covers.</para>
     <figure id="fig-00003">
     <media alt="The open pane lists Summary and Outline with Industry and Market Analysis under the Outline circled. At the right in the document, Industry and Market Analysis is highlighted gray and in a larger font and bolded.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_STYLE02.jpg"/>

@@ -41,11 +41,11 @@
     </figure>
     <section id="sect-00003">
     <title>Home Tab</title>
-    <para id="para-00011">The <term class="no-emphasis" id="term-00002">Home</term> tab is where you will spend most of your time, as it contains the formatting of fonts, alignment, headings, numbering, and lists, as well as the Find commands. It is also the default tab that displays when you open your document. We will go over the Home tab commands in detail in [link]Formatting Document Layout in Microsoft Word[/link].</para>
+    <para id="para-00011">The <term class="no-emphasis" id="term-00002">Home</term> tab is where you will spend most of your time, as it contains the formatting of fonts, alignment, headings, numbering, and lists, as well as the Find commands. It is also the default tab that displays when you open your document. We will go over the Home tab commands in detail in <link document="m00034">Formatting Document Layout in Microsoft Word</link>.</para>
     </section>
     <section id="sect-00004">
     <title>Insert Tab</title>
-    <para id="para-00012">The <term class="no-emphasis" id="term-00003">Insert</term> tab is useful for adding certain material into your document. The Insert tab also allows the user to include elements such as headers and footers, page numbers, page breaks, and bookmarks. We will review using these features in more detail in the chapter on [link]Document Preparation[/link].</para>
+    <para id="para-00012">The <term class="no-emphasis" id="term-00003">Insert</term> tab is useful for adding certain material into your document. The Insert tab also allows the user to include elements such as headers and footers, page numbers, page breaks, and bookmarks. We will review using these features in more detail in the chapter on <link document="m00042">Document Preparation</link>.</para>
     <para id="para-00013">Knowing how to use the Insert tab is particularly important for designing business documents, such as your WorldCorp market trends report. Your report will contain many pages and sections, as well as a table of contents and page numbers. It will also likely contain charts, graphs, and images, all of which need to be inserted into the document. For example, you could insert a chart of the top-selling TV screens (by using the Charts drop-down menu), then add a callout or label explaining the chart (by using the Shapes drop-down menu).</para>
     </section>
     <section id="sect-00005">
@@ -63,7 +63,7 @@
     <caption>The Review tab in Word is helpful when multiple people are working on a document. It allows them to add comments and track revisions. The second comment is the lower one and is the reply to the one above it. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00018">Also on the Review tab, the <term class="no-emphasis" id="term-00009">Proofing</term> command group contains helpful tools that you will use often when writing and editing a document. You can check your spelling and grammar, look up words in a dictionary or thesaurus, and keep track of your word count.</para>
-    <para id="para-00019">You will learn more about the Review tab and its features in [link]Formatting Document Layout in Microsoft Word[/link].</para>
+    <para id="para-00019">You will learn more about the Review tab and its features in <link document="m00034">Formatting Document Layout in Microsoft Word</link>.</para>
     </section>
     <section id="sect-00007">
     <title>View Tab</title>
