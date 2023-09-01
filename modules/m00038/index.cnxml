@@ -29,7 +29,7 @@
     </problem>
     </exercise>
     </note>
-    <para id="para-00007">“Paste without formatting” is a useful tool for copying and pasting text only, without any of the source formatting (such as font, font size, or color). This is particularly helpful when copying and pasting from an email or website.</para>
+    <para id="para-00007">Paste without formatting is a useful tool for copying and pasting text only, without any of the source formatting (such as font, font size, or color). This is particularly helpful when copying and pasting from an email or website.</para>
     <figure id="fig-00001" class="scaled-down">
     <media alt="A Google Doc titled market trends report draft.DOCX is open and the Edit tab is selected. The drop-down pane includes Undo, Redo, Cut, Copy, Paste, Paste without formatting, Select all, Delete, and Find and replace.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_06_EDITM01.jpg"/>
@@ -39,7 +39,7 @@
     </section>
     <section id="sect-00004">
     <title>View Menu</title>
-    <para id="para-00008">The <term class="no-emphasis" id="term-00008">View menu</term> contains tools for looking at your document in different ways. It lets you see the file in three different modes: editing, suggesting, and reading. It also gives the user options for things to toggle on and off, such as the ruler and section breaks. The document outline found in the View menu (“Show outline”) is similar to the Navigation pane outline view in Word (<link target-id="fig-00002"/>). Showing the equation toolbar will let you add math notation. “Show section breaks” allows the user to see where their document sections begin and end. Lastly, the “Full screen” view is a view of the document that increases the window size to fit your whole screen (you won’t see the Windows Start menu or your toolbar), and the window borders are seamless.</para>
+    <para id="para-00008">The <term class="no-emphasis" id="term-00008">View menu</term> contains tools for looking at your document in different ways. It lets you see the file in three different modes: editing, suggesting, and reading. It also gives the user options for things to toggle on and off, such as the ruler and section breaks. The document outline found in the View menu (Show outline) is similar to the Navigation pane outline view in Word (<link target-id="fig-00002"/>). Showing the equation toolbar will let you add math notation. Show section breaks allows the user to see where their document sections begin and end. Lastly, the Full screen view is a view of the document that increases the window size to fit your whole screen (you won’t see the Windows Start menu or your toolbar), and the window borders are seamless.</para>
     <figure id="fig-00002" class="scaled-down">
     <media alt="A Google Doc titled market trends report draft.DOCX is open and the View tab is selected. The drop-down pane lists these options for selection: Mode, Text Width, Show print layout (check marked), Show ruler (check marked), Show outline, Show equation toolbar, Show selection breaks (check marked), and Full screen.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_06_VIEWM01.jpg"/>
@@ -78,7 +78,7 @@
     </media>
     <caption>Track changes, or Suggesting, is accessed not from a menu, but from a drop-down menu on the right side of the document screen. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <para id="para-00014">Through the Tools menu (<link target-id="fig-00006"/>), you can choose “Review suggested edits,” which allows you to view the suggested edits one by one and choose whether you’d like to accept or reject them. The Tools menu also contains the Preferences window, which offers some of the general settings for your documents, such as whether to use Smart Quotes and autocapitalization. (In Word, the Preferences are contained in the File menu, which is covered in the chapter on <link document="m00049">Essentials of Software Applications for Business</link>.</para>
+    <para id="para-00014">Through the Tools menu (<link target-id="fig-00006"/>), you can choose Review suggested edits, which allows you to view the suggested edits one by one and choose whether you’d like to accept or reject them. The Tools menu also contains the Preferences window, which offers some of the general settings for your documents, such as whether to use Smart Quotes and autocapitalization. (In Word, the Preferences are contained in the File menu, which is covered in the chapter on <link document="m00049">Essentials of Software Applications for Business</link>.</para>
     <figure id="fig-00006">
     <media alt="A Google Doc titled market trends report draft.DOCX is open and the Tools tab is selected. The drop-down pane lists these options for selection: Spelling &amp; grammar, Word Count, Review suggested edits, Compare documents, Citations, Linked objects, Dictionary, Voice typing, Notification settings, Preferences, and Accessibility.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_06_TOOLSM01.jpg"/>

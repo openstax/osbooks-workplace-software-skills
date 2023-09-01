@@ -115,7 +115,7 @@
     </media>
     <caption>Section breaks are added using the Insert menu. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <para id="para-00021">If you want to view the section breaks as <link target-id="fig-00012"/> shows, go to the View menu, and select Show non-printing characters. The document will display a light blue dotted line where the section break is. Deleting a section is now easy because you can easily see the line; simply place the cursor at the left of the line and press the Delete key on the keyboard. (Note that section breaks must be deleted using the Delete key from the left in Docs; you cannot put your cursor to the right of the section break and use the Backspace key to remove it.)</para>
+    <para id="para-00021">If you want to view the section breaks as <link target-id="fig-00012"/> shows, go to the View menu, and select Show non-printing characters. The document will display a light blue dotted line where the section break is. Deleting a section is now easy because you can easily see the line; simply place the cursor at the left of the line and press the Delete key on the keyboard. (Note that section breaks must be deleted using the Delete key from the left in Docs; you cannot put your cursor to the right of the section break and use the Backspace keyto remove it.)</para>
     <figure id="fig-00012">
     <media alt="The left pane of the Google Doc displays Summary. The Outline lists the headers in the document. The first header (Introduction/Executive Summary) is highlighted in blue font. At the right in the document, blue dotted lines are seen below each header, indicating a section break.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_SECTION02.jpg"/>
@@ -127,10 +127,10 @@
     <title>Page Setup</title>
     <para id="para-00022">As in Word, the <term class="no-emphasis" id="term-00009">Page Setup</term> commands are for selecting the paper size and orientation (horizontally or vertically). In Docs, it is all done from the File menu; Page Setup is near the bottom of the File menu. In <link target-id="fig-00013"/>, you can see the options in the dialog box. The first combo box is for choosing whether to apply page setup to the whole document, or just a section. You can also adjust the paper size; there is a combo box with popular paper sizes like letter and legal. Additionally, you can change the margins to create custom margins. You can also adjust the margins manually on the top of the window, using the mouse to move the margin markers on the ruler (<link target-id="fig-00014"/>). Many of the page setup tools in Docs are straightforward and minimalistic. Google programs are intentionally designed to be user-friendly, and this is just one example of how easy it can be to make changes to your document.</para>
     <figure id="fig-00013">
-    <media alt="A Page Setup pane is open with the Paper size option selected on the left. A drop down lists the available options: Letter, Tabloid, Legal, Statement, Executive, Folio, A3, A4, A5, B4, and B5. At the right, the Page setup pane has Letter selected in the Paper size option.">
+    <media alt="(a) A Page Setup pane is open with the Paper size option selected on the left. A drop down lists the available options: Letter, Tabloid, Legal, Statement, Executive, Folio, A3, A4, A5, B4, and B5. (b) At the right, the Page setup pane has Letter selected in the Paper size option.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_PAGESET01.jpg"/>
     </media>
-    <caption>Margins are set in the Page setup dialog box. (Google Docs is a trademark of Google LLC.)</caption>
+    <caption>Margins are set in the Page setup dialog box. (a) These are the margins if you choose an Executive size document. (b) These are the margin sizes for the common Letter type document. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00014">
     <media alt="A Google Doc is open with text. At the top a ruler displays a blue arrow facing down. An arrow from a box points to it and inside the box is written: Move this arrow to the right to adjust margin. A black box is open under the blue arrow and states Left Margin. The blue arrow on the ruler aligns with the left margin of the document.">

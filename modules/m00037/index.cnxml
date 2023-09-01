@@ -56,9 +56,15 @@
     <para id="para-00012">As an example, let’s add a watermark to the market trends report to indicate that it is a private, internal document. Type “Confidential” into the Custom Watermark dialog box and have it run diagonally across the page. There are a few options to alter the text’s appearance on the page. For instance, if you want to change the text to be less visible, choose Semitransparent. You can even use an image, like a company logo, as a watermark.</para>
     <figure id="fig-00004">
     <media alt="The Design tab is selected and in the Page Background command group the Watermark option is selected. A Confidential pane is open that displays these options for selection: Confidential 1 (the word Confidential is displayed written diagonally across the page), Confidential 2 (the word Confidential is displayed written horizontally across the page), Do Not Copy 1 (the words Do Not Copy are displayed written diagonally across the page), Do Not Copy 2 (the words Do Not Copy are displayed written horizontally across the page), More Watermarks from Office.com, Custom Watermark…, Remove Watermark, and Save Selection to Watermark Gallery….">
-    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_05_Watermark.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_05_Watermark1.jpg"/>
     </media>
     <caption>You can insert customized watermarks such as company logos using the Custom Watermark option. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00005">
+      <media alt="In the document, the word Confidential is seen written behind the text diagonally across the page in a pale gray color.">
+        <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_05_Watermark2.jpg"/>
+      </media>
+      <caption>Watermarks are used to display letters or images on the page background. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section class="section-summary" id="sect-00006">
