@@ -41,7 +41,7 @@
     <media alt="(a) The Font command group is selected on the ribbon. An arrow points to a small arrow icon in the corner of the command group box. Another arrow points from the arrow icon to (b) an open Font pane. Two tabs, Font and Advanced, are visible. The Font tab is selected and lists these items for selection: Font (a drop down menu displays various fonts), Font style (a drop down menu lists Regular, Italic, Bold, and Bold Italic), Size (a drop down menu displays various sizes), Font color (a drop down displays various colors), Underline style (a drop down menu is available), and Underline color (a drop down menu is available). An Effects group lists boxes available for selection: Strikethrough, Double strikethrough, Superscript, Subscript, Small caps, All caps, and Hidden. A Preview pane previews the selections with this sentence below the pane: This is a True Type font. This font will be used on both printer and screen. Set As Default, Text Effects, OK, and Cancel buttons are visible at the bottom.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_03_Fonts.jpg"/>
     </media>
-    <caption>(a) The Font command group lets you select your font and font size, apply special treatment like bold or italic, and set case. (b) To apply multiple formats at once, click on the arrow to open the dialog box. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) The Font command group lets you select your font and font size, apply special treatment like bold or italic, and set case. Selecting the arrow (a) opens the dialog box (b) where you can apply multiple formats at once. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00003">
