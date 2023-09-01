@@ -156,7 +156,7 @@
     </media>
     <caption>When establishing a data validation list, you can (a) directly enter the text or values, but it is preferred to use (b) cell references so that the drop-down list is dynamic. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00041">Either method will give the user a drop-down list to choose from when inputting information into the spreadsheet (<link target-id="fig-00013"/>). If the list needs to be copied to other cells, it can be copied using the Paste Special technique (see [link]Essentials of Software Application for Business[/link]).</para>
+    <para id="para-00041">Either method will give the user a drop-down list to choose from when inputting information into the spreadsheet (<link target-id="fig-00013"/>). If the list needs to be copied to other cells, it can be copied using the Paste Special technique (see <link document="m00049">Essentials of Software Application for Business</link>).</para>
     <figure id="fig-00013" class="scaled-down-30">
     <media alt="In the spreadsheet of data, Column A’s header is Employee, Column B’s header is Days Left, and Column C’s header is Location. Cell C2 has a drop-down button open with these options: North, East, and South.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_DropDown.jpg"/>
