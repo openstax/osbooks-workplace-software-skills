@@ -57,6 +57,12 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Advanced Document Preparation</md:title>
+      <col:content>
+        <col:module document="m00056"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Working with Spreadsheets</md:title>
       <col:content>
         <col:module document="m00001"/>
