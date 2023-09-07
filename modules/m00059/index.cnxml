@@ -6,5 +6,226 @@
     <md:uuid>923e5486-368c-4ddd-b1da-5afb444c5efb</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Understand the Developer tab and its usage</item>
+    <item>Use the tools in the Controls command group</item>
+    <item>Create a fillable form in Microsoft Word</item>
+    </list>
+    </section>
+    <para id="para-00002">This section reviews how to build a fillable <term id="term-00001">form</term> in Word. Fillable forms can be very useful in businesses. These forms can be emailed to recipients as attachments and the recipients can fill in required information into the form quite easily. The fillable form creates fields that can be filled in by typing directly into the Word document. You can also insert checkbox fields, drop-down menus, and long text fields into the form. Fillable forms have many applications in business, such as gathering information on new hires that you might later want to put into a database, or obtaining company information from vendors for billing purposes. The primary purpose of the fillable form is to facilitate electronic completion while keeping the integrity and formatting of the document. Individuals can only input information into the fields you have identified. The rest of the document is locked from editing or deleting.</para>
+    <para id="para-00003"><link target-id="fig-00002"/> shows a simple example of how a fillable form can be a useful tool. If you wanted to gather information on a new vendor, for example, you could create a simple document, email it to the vendor, and have the vendor send the completed document back to us. However, as <link target-id="fig-00001"/> shows, if you just create the form as a typical, printable Word document, it is difficult for the vendor to input their information. They would need to edit the form itself in order to fill it out, which is not ideal. With a fillable form, the vendor simply inserts their information into the provided fields and the rest of the document is protected from editing. The fillable form can also be enhanced with decorative features, such as the company logo.</para>
+    <figure id="fig-00001">
+    <media alt="A Word form is visible asking for the following information: Company Name: Jones Industries, Address: 347 North Street, City, State, Zip, and Phone. Blank lines follow the requested information and are replaced with text when the information has been entered.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORMa.jpg"/>
+    </media>
+    <caption>As information is entered into the form, the underline is replaced with the text. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00002">
+    <media alt="The Developer tab has been selected and a fillable form is displayed. For Company Name (Jones Industries) and Address (347 North Street), information has been entered. Click or tap here to enter text is visible in a gray font next to lines for City, State, Zip, and Phone. This information has not been filled in yet.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORMb.jpg"/>
+    </media>
+    <caption>A fillable form gives a more professional appearance and can be customized with the company logo or letterhead. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <section id="sect-00002">
+    <title>Developer Tab</title>
+    <para id="para-00004">To create surveys in Word, you need to enable the <term id="term-00002">Developer tab</term>. This is typically not one of the default tabs in Word, so you need to manually add it. Go to the Options command on the File tab, then on the Customize Ribbon tab, then enable the Developer tab.</para>
+    <note class="mac-tip" id="note-00001">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00005">To add the Developer toolbar on a Mac, you will need to go to Word, then select Preferences, then go to Ribbon &amp; Toolbar. In the Search box, type “Developer.” Select the Developer tab from Suggestions. In the dialog box under the ribbon header, select the box that says Show Developer Tab.</para>
+    </problem>
+    </exercise>
+    </note>
+    <para id="para-00006">The Developer tab serves several purposes, as <link target-id="fig-00003"/> shows. In addition to containing the tools needed to design fillable forms, it also contains the tools to create computer programs (macros) in Word, to protect and restrict access to your document, and other advanced tasks.</para>
+    <para id="para-00007">The majority of the features on the Developer tab are for more advanced uses of Word and are outside the scope of this text. This section focuses on the Controls and Protect command groups, which contain the tools we need to create and secure our fillable form.</para>
+    <figure id="fig-00003">
+    <media alt="The Developer tab is selected and in the Controls command group, these options are available for selection for use for forms: Rich Text Content Control, Plain Text Content Control, Picture Content Control, Building Block Gallery Content Control, Check box Content Control, Combo Box Content Control, Drop-Down List Content Control, Date Picker Content Control, Repeating Section Content Control, Legacy Tools, Design Mode, Properties, and Group.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_DEVEL01.jpg"/>
+    </media>
+    <caption>Making a form in Word uses these control commands. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Controls Command Group</title>
+    <para id="para-00008">The <term class="no-emphasis" id="term-00003">Controls</term> command group includes several different icons to represent the fields you can use in your form. <link target-id="fig-00004"/> identifies the icons you will be using to create the form. The remaining icons in the command group are used for building sophisticated templates in Word. The controls we are using in this example are called <term id="term-00004">content control fields</term>. These fields give people a space to type in, add a date or image, or choose their response from a list. In other words, they are interactive fields that can be specially programmed to receive input from recipients. The content control fields create a user interface that seeks input from the respondent.</para>
+    <figure id="fig-00004" class="scaled-down-30">
+    <media alt="The Controls command group is visible with these items available for selection: Rich Text Content Control, Plain Text Content Control, Picture Content Control, Building Block Gallery Content Control, Check box Content Control, Combo Box Content Control, Drop-Down List Content Control, Date Picker Content Control, Repeating Section Content Control, Legacy Tools, Design Mode, Properties, and Group. An orange X is drawn on top of these commands: Building Block Gallery Content Control, Repeating Section Content Control, Legacy Tools, and Group.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_DEV02.jpg"/>
+    </media>
+    <caption>The controls you see with the “X” are not used when creating fillable forms. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00009">The top-level commands are for inserting text or images into your form. The inputted answer will use either <term class="no-emphasis" id="term-00005">rich text</term> or <term class="no-emphasis" id="term-00006">plain text</term>. Rich text allows the user to use bold, italic, and underlined font, different font types, and so forth, whereas plain text does not allow these types of font formatting. This distinction is important if you plan to print the form and want the text to appear with specific formatting. In general, the plain text response will suffice, as most respondents will not need to add formatting to their answers. The <term class="no-emphasis" id="term-00007">Insert Picture</term> command (the landscape icon) is for letting the respondent add an image to their answer; this command may be used to ask the user to upload their profile picture, for instance.</para>
+    <para id="para-00010">The middle-level commands are for asking multiple-choice-type questions and for setting the date. The first (leftmost) in this row is the checkbox. This handy option reduces the amount of information that needs to be typed into the form. For example, the form could have a list of all departments at the company, and the respondent could simply check the box of the department that they work in, rather than type in the response manually. You could also have multiple-select questions that ask the survey taker to “check all boxes that apply.”</para>
+    <para id="para-00011">The combo box and the drop-down list also ask the respondent to select from a set of preset choices. The main difference between the two is that the combo box lets the individual type a message after their selected answer, whereas the drop-down list forces them to choose between the options. The last (rightmost) command is the <term class="no-emphasis" id="term-00008">Date Picker</term>, which allows the individual to select a date when they are completing the form. The respondent can choose any date with the Date Picker, such as their birthday or their date of hire.</para>
+    <para id="para-00012">The <term id="term-00009">Design Mode</term> tool is used to customize the prompts that appear as the survey taker fills out the form. You can use this to customize the prompt to the respondent; this can be more helpful to the survey taker than the generic default text (e.g., “Click or tap to enter text”).</para>
+    <para id="para-00013">The last item you may use in the command group is the <term class="no-emphasis" id="term-00010">Properties</term> tool. This tool allows you to modify the lists associated with the combo box and the drop-down list. It becomes active once you have added a combo box or drop-down list to your form.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Creating a Form</title>
+    <para id="para-00014">Before adding the fields, you should first develop the plan of the <term class="no-emphasis" id="term-00011">form</term>. One way to do this is to type out the information or questions that you will ask into a blank document. Creating the form using a table is one option for presenting a professional appearance; this format helps keep everything organized and neatly aligned. The table should have two columns, and as many rows as you will have questions. Using only two columns allows you to put the questions in one column and the answer fields in the other. The column on the left will have your questions, and the column on the right will have the fields for the respondent’s answers. You should change the table borders (in Table Properties) so that they are transparent, making it so that the respondent cannot see them. This way, the questions and answers remain aligned, but they will not appear to be in a table format to those viewing the form. Alternatively, you could choose to not use a table to create your form. In this case, the questions and answer fields would need to each be manually aligned.</para>
+    <para id="para-00015">For this example, let’s use a table to create a fillable form. In your role at WorldCorp, you have been asked to collect information from all department office managers regarding their need for preprinted company office supplies. Your department (marketing) is responsible for all office supplies that include the WorldCorp logo. A large order is placed each quarter for items such as letterhead paper, envelopes, notepads and pens with the logo, and business cards. To help facilitate the process, your supervisor has asked you to create a fillable form that can be emailed to each department’s office manager to gather information on items that will need to be ordered.</para>
+    <section id="sect-00005">
+    <title>Creating Questions and Control Fields</title>
+    <para id="para-00016">To begin, start with a blank document and insert a two-column table. Type all your questions in the left column: information on the department, whether they need items ordered, and the quantity and type of items are needed. <link target-id="fig-00005"/> shows how the information will be gathered from the various departments. Because this is just the draft form, we have noted in parentheses the type of control that will be used for that question. You can go back and remove that information after you have inserted the fields. Notice that the table lines are still visible in this initial draft version. To remove the lines from the table, use the <term class="no-emphasis" id="term-00012">Borders</term> tool in the <term class="no-emphasis" id="term-00013">Paragraph</term> command group on the Home tab.</para>
+    <figure id="fig-00005">
+    <media alt="The Layout tab is selected on the Ribbon. In the document, a two columned table is shown with seven rows (table lines are visible). In the first column, this information is listed in the cell rows: Today’s Date (date field); Office Manager Name (text box); Department (drop-down list); Office supplies needed (checkbox); Quantity of supplies needed (list with text box); Additional needs (text box); and Signature (insert signature line). The second column is blank.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORM02.jpg"/>
+    </media>
+    <caption>Your form should have a tidy and professional appearance. This could mean removing the lines around the table and inserting the company logo. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00017">Then, insert the control fields—where the respondent will put their answers—in the right column. First, insert the Date Picker control field, as <link target-id="fig-00006"/> shows. Notice the text says, “Click or tap to enter a date.” This is not very descriptive. You can change this in Design Mode to be more descriptive. Design Mode lets you change the preset instruction text. To turn on Design Mode, simply click it in the Controls command group. You are now able to change the default text to be more specific such as “Enter Today’s Date” (<link target-id="fig-00007"/>).</para>
+    <figure id="fig-00006">
+    <media alt="In the Controls command group, Date Picker Content Control is indicated. In the document, a two columned table is shown with seven rows. In the first column, this information is listed in the cell rows: Today’s Date (date field); Office Manager Name (text box); Department (drop-down list); Office supplies needed (checkbox); Quantity of supplies needed (list with text box); Additional needs (text box); and Signature (insert signature line). The first row in the second column displays a drop down with Click or tap to enter a date. visible and circled.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORM03a.jpg"/>
+    </media>
+    <caption>The default text inserted with the control fields is not very descriptive, so you may want to replace it with your own, more detailed text. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00007">
+    <media alt="The Developer tab is selected on the ribbon and in the Controls command group, Design Mode is indicated. In the document, a two columned table is shown with seven rows. In the first column, this information is listed in the cell rows: Today’s Date (date field); Office Manager Name (text box); Department (drop-down list); Office supplies needed (checkbox); Quantity of supplies needed (list with text box); Additional needs (text box); and Signature (insert signature line). The first row in the second column displays a drop down with Enter Today’s Date visible.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORM03b.jpg"/>
+    </media>
+    <caption>Your custom text should be descriptive enough so that the user knows exactly what they need to put in the field. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00018">Continue with the remaining questions and enter the field and specific prompter text for each question. <link target-id="fig-00008"/> shows how the form should look at this point. Now, go back to each question and examine the properties to determine if changes need to be made. Notice that a bulleted list and the insert signature tool were used in the right column. (You learned these skills in the <link document="m00032">Creating and Working in Documents</link> and <link document="m00042">Document Preparation</link> chapters.) Note that the notes in parentheses were also removed.</para>
+    <figure id="fig-00008" class="scaled-down">
+    <media alt="A two columned form is shown with seven rows. In the two columns, this information is listed: Today’s Date (Enter Today’s Date space in second column); Office Manager Name (Enter First and Last Name space in second column); Department (Choose your Department space in the second column); Office supplies needed (Blank space provided in second column); Quantity of supplies needed (bulleted list with Letterhead (space with Enter qty needed), Envelopes (space with Enter qty needed), Notepads (space with Enter qty needed), Pens (space with Enter qty needed) and Business Cards (space with Enter employee name for cards); Additional needs (Any additional items needed from Marketing? space in second column); and Signature (a Blank line with X provided in second column).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORM04.jpg"/>
+    </media>
+    <caption>Changes to the line spacing in the table now make the form more visually appealing. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019">Now that you have the form constructed and the control fields inserted, you can customize each control field if necessary. To do that, you need to select the control field, and then choose the Properties command. A dialog box will appear for that control, as shown in <link target-id="fig-00009"/> for the first field, “Today’s Date.” Here, you can change the format of the date to be entered. There are only a few options for the text boxes. You can change the font and the fill color. You can also choose to have the control locked so that it cannot be deleted. For this example, use the default settings.</para>
+    <figure id="fig-00009">
+    <media alt="A Content Control Properties pane is visible. These options are available for selection under the General heading: Title, Tag, Show as (drop down available for selection; Bounding Box selected), Color (drop down available for selection), a checkable button for Use a style to format text typed into the empty control, Style (drop down available for selection; Default Paragraph Font selected), button for A+New Style, and a checkable box for Remove content control when contents are edited. Under the Locking heading these options are available for selection: checkable buttons for Content control cannot be deleted (indicated with an orange arrow) and Contents cannot be edited. The Date Picker Properties heading lists these options for selection: Display the date like this (selection window with options for selection; M/d/yyyy selected), Locale (drop down available for selection; English (United State selected)), Calendar type (drop down available for selection; Gregorian selected), and Store XML contents in the following format when mapped (drop down available for selection; Date and Time (xsd:dateTime selected)). OK and Cancel buttons are visible at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORM05.jpg"/>
+    </media>
+    <caption>By checking the “Content control cannot be deleted” box, you can protect the field. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00020">For the multiple-choice questions, the drop-down lists, and the combo boxes, the setting up takes a little bit longer. You need to manually add the choices to the list for each question type. In your form, you need to write out the departments so that the office manager can choose the appropriate department. To do this, go to the Properties for the drop-down list (see <link target-id="fig-00010"/>). At the bottom of the dialog box, locate the drop-down list properties. Here is where you will add the various departments. By default, the only option is Choose an Item. We need to remove this item and add the departments. Click on Choose an Item and select Remove from the options on the right. Now, choose Add to add each department.</para>
+    <para id="para-00021">Notice that the Display Name and Value Name are the same. There is really no need to change this, but you can change it if you want the respondent-facing choice to look different from what is actually logged as their response. For example, you could have the Display Name (i.e., what the respondent sees in the drop-down list) to say Accounting, but the actual Value that is displayed when they choose Accounting is “Acct.”</para>
+    <para id="para-00022">Continue in this same manner to add all the departments as shown. If desired, you can change the order of the options in the list by choosing Move Up or Move Down (<link target-id="fig-00010"/>). For a more professional look, consider placing the items in alphabetical order.</para>
+    <figure id="fig-00010">
+    <media alt="In the Controls command group, Design Mode is selected and opens to a Content Control Properties pane. These options are available for selection under the General heading: Title, Tag, Show as (drop down available for selection; Bounding Box selected), Color (drop down available for selection), a checkable button for Use a style to format text typed into the empty control, Style (drop down available for selection; Default Paragraph Font selected), some hidden items, Drop-Down List Properties (with a pane available and Display Name (Accounting) and Value (Accounting) are listed inside). Add, Modify, Remove, Move Up and Move Down buttons are visible at the right. OK and Cancel buttons are visible at the bottom right. A pane titled Add Choice is visible over the Content Control Properties pane and displays these options for selection: Display Name (space to fill in information; Finance is selected) and Value (space to fill in information; Finance is selected). OK and Cancel buttons are visible at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORM06.jpg"/>
+    </media>
+    <caption>With a drop-down list, use Properties to define each of the categories in the list. Generally, the display name and the value should be the same. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00023">Finally, you need to format the checkbox field. As with the other control fields, you can change the font and style (see <link target-id="fig-00011"/>). But with the checkbox, you can also change what type of symbol is used in the box. For example, you can choose a heart instead of an X for the form. To do this, choose Change next to Checked Symbol. Choose what type of symbol you want for the checked box. (See <link target-id="fig-00012"/>).</para>
+    <figure id="fig-00011" class="scaled-down-30">
+    <media alt="A Content Control Properties pane is open and lists these options for selection under the General heading: Title, Tag, Show as (drop down available for selection; Bounding Box is selected), Color (drop down available for selection), a checkable button for Use a style to format text typed into the empty control, Style (drop down available for selection; Default Paragraph Font is selected), button for A+New Style, and a checkable box for Remove content control when contents are edited. Under the Locking heading these options are available for selection: checkable buttons for Content control cannot be deleted and Contents cannot be edited. The Check Box Properties heading lists these options for selection: checkable boxes for Checked symbol (selected) and Unchecked symbol with buttons for Change located next to both. OK and Cancel buttons are visible at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORM07a.jpg"/>
+    </media>
+    <caption>The default symbol for the checked box is an X. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00012" class="scaled-down">
+    <media alt="In the Controls command group, Design Mode is selected. A Symbol pane is open and has a drop down for Font at the top (Symbol is selected). Six rows of various symbols are visible (the heart in the first row is highlighted blue). A row of Recently used symbols follows with various symbols visible. The Unicode name (Symbol: 214), Character code (214), and from: (drop down available for selection; Symbol (decimal) is selected) are visible next. OK and Cancel buttons are located at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORM07b.jpg"/>
+    </media>
+    <caption>Choose Symbols from the drop-down menu in the Font field to find the heart. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00024">You could adjust the properties of each control field as you enter them into the document. However, it is often easier to add the fields first and then go back and make the needed customizations to each field with the Properties tool.</para>
+    <para id="para-00025">When you have finished formatting all the control fields, make sure you have saved the document. You can now turn off Design Mode by clicking the tool in the command group. Now is also a good time to add some visual elements to the form, such as the company logo or other elements to make the form more visually appealing. You should also remove the borders around the table. <link target-id="fig-00013"/> shows what the finished product might look like.</para>
+    <figure id="fig-00013">
+    <media alt="A form with WorldCorp visible in blue font at the top left is titled Quarterly Office Supply Order Form (in black, bolded font in the middle). At the left, this information is listed: Today’s Date (Enter Today’s Date space at the right), Office Manager Name (Enter First and Last Name space at the right), Department (a drop down for Choose Your Department is visible with options for: Corporate Headquarters, Finance, Marketing, Operations, and Shipping). Office supplies needed and Quantity of supplies needed is visible at the left. No lines are visible around the columns.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FINAL.jpg"/>
+    </media>
+    <caption>Notice that when the drop-down list is selected, the various departments show up. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Protecting the Form</title>
+    <para id="para-00026">When you are finished with the form, you need to protect the file before sending it to the various office managers. This will ensure that they cannot edit the questions and controls—that they can only provide responses. The way to protect the document is similar to the process described in the <link document="m00032">Creating and Working in Documents</link> chapter. To protect the document, select the <term class="no-emphasis" id="term-00014">Restrict Editing</term> command from the <term class="no-emphasis" id="term-00015">Developer</term> tab and a sidebar will appear. You can also access the Restrict Editing command from the Review tab. This sidebar will give you options for preventing editing from happening on the file, as shown in <link target-id="fig-00014"/>.</para>
+    <para id="para-00027">When you send the file to others, be sure to send the file as an attachment to the email rather than sharing the document link. If you have saved this file in your OneDrive and share the document as a link, your original file will be changed. You should instruct them to save the file under a different name and to send the file back as an attachment.</para>
+    <figure id="fig-00014">
+    <media alt="The Review tab is selected on the ribbon and in the Protect command group, Restrict Editing is selected. A sidebar at the right titled Restrict Editing lists these options for selection: 1. Formatting restrictions (includes a checkable box for Limit formatting to a selection of styles and a Settings hyperlink), 2. Editing restrictions (includes checkable box for Allow only this type of editing in the document and a drop down with No changes (Read only) selected, and 3. Start enforcement (with Are you ready to apply these settings? (You can turn them off later) and a drop down with Yes. Start Enforcing Protection selected).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_PROTE01.jpg"/>
+    </media>
+    <caption>Before sending the survey form, you need to prevent clients from editing the document. (attribution: Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00028">There are a lot of detailed privacy considerations when conducting surveys. A considerable number of laws are in place to protect consumers when participating in corporate surveys. Visit the <link url="https://openstax.org/r/78IPCOPrivacy">Information and Privacy Commissioner of Ontario’s Best Practices for Protecting Individual Privacy in Conducting Survey Research</link> site to learn more.</para>
+    </note>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00007">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>The Developer tab is part of Word’s set of command groups, but it does not appear by default, and needs to be manually activated. It is used for making forms, macros, handling add-ons/templates, and other advanced processes.</item>
+    <item>Fillable forms are built using the tools in the Controls command group of the Developer tab. This command group contains options for content control fields, which are used for creating different types of questions for forms. The respondent uses the content control fields to answer the questions in the form.</item>
+    <item>Creating a fillable form in Word is a multistep process. You should first create your questions, then choose the question types, add in the content control fields, then finally edit the properties for each question.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00008">
+    <title>Review Questions</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00029"><link class="os-embed" url="#exercise/05-03-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00030"><link class="os-embed" url="#exercise/05-03-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00031"><link class="os-embed" url="#exercise/05-03-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00009">
+    <title>Written Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00032"><link class="os-embed" url="#exercise/05-03-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00033"><link class="os-embed" url="#exercise/05-03-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00010">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00034"><link class="os-embed" url="#exercise/05-03-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00035"><link class="os-embed" url="#exercise/05-03-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00011">
+    <title>Case Exercise</title>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00036"><link class="os-embed" url="#exercise/05-03-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>content control fields</term>
+    <meaning>placeholders for the type of questions that the respondent will use to respond</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>Design Mode</term>
+    <meaning>tool that lets the form composer type a description of the question that instructs the survey taker how to answer</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>Developer tab</term>
+    <meaning>tab that is used for forms, macros, and managing add-ons or templates; it is not one of Word’s default tabs</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>form</term>
+    <meaning>document type that has blanks for the recipient to add their information</meaning>
+    </definition>
+    </glossary>
 </document>
