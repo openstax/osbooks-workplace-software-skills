@@ -60,7 +60,7 @@
     </media>
     <caption>You can customize the fields used in the list. (attribution: Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00014">When you finish selecting the fields needed for the mail merge, you will be prompted to save the list as a new file for use as the source document in the mail merge. (See <link target-id="fig-00004"/>.) The default location for the file is in a folder called “My Data Sources” (<link target-id="fig-00005"/>). You might consider a descriptive name to tell you that this file contains data used in a mail merge.</para>
+    <para id="para-00014">When you finish selecting the fields needed for the mail merge, you will be prompted to save the list as a new file for use as the source document in the mail merge (see <link target-id="fig-00004"/>). The default location for the file is in a folder called “My Data Sources” (<link target-id="fig-00005"/>). You might consider a descriptive name to tell you that this file contains data used in a mail merge.</para>
     <figure id="fig-00004">
     <media alt="The Mailings tab is selected and a New Address List window is visible. Across the top these sentences read: Type recipient information in the table. To add more entries, click New Entry. Tabs for information insertion include: First Name, Last Name, Address Line 1, City, State, and ZIP Code. Four rows of addresses are entered. At the bottom left, buttons for New Entry, Find, Delete Entry, and Customize Columns are visible. OK and Cancel buttons are located at the bottom right.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_02_MERGE02c.jpg"/>

@@ -7,10 +7,9 @@
   </metadata>
   <content class="introduction">
     <figure class="splash" id="fig-00001">
-    <media alt="Alt Text">
-    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/></media>
-    <!--OSX_BCA_05_00_CHAPOP01.jpg-->
-    <caption/>
+    <media alt="An invoice shows a list of different services and their associated costs. The last line of the list shows the total amount to be paid.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_00_CHAPOP01.jpg"/></media>
+    <caption>Advanced word processing features allow you to create complex documents such as invoices, custom envelopes, business cards, and much more. (credit: modification of &#8220;Please pay this amount&#8221; by miguelb/Flickr, CC BY 2.0)</caption>
     </figure>
     <para id="para-00001">Microsoft Word includes some specialized features that can be used in a variety of ways, for both business and personal use. These features are designed to save you time. For your WorldCorp market trends report, you can use these features to gather information from employees in different departments, communicate with vendors and customers, and even create forms to be used for human resources purposes.</para>
     <para id="para-00002">The chapters on <link document="m00032">Creating and Working in Documents</link> and <link document="m00042">Document Preparation</link> focused on the basic functions of constructing effective documents in Microsoft Word and Google Docs. In this chapter, you will learn enhanced capabilities in Word and Docs that go beyond simply creating a document. You will also spend some time reviewing additional types of documents you might encounter in business, such as invoices and cover letters.</para>
