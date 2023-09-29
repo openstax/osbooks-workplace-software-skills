@@ -319,10 +319,10 @@
     <row valign="top">
     <entry valign="top" align="left">Action</entry>
     <entry valign="top" align="left">Keyboard Shortcut</entry>
-    <entry valign="top" align="left" morerows="6"/>
+    <entry valign="top" align="left"/>
     <entry valign="top" align="left">Action</entry>
     <entry valign="top" align="left">Keyboard Shortcut</entry>
-    <entry valign="top" align="left" morerows="6"/>
+    <entry valign="top" align="left"/>
     <entry valign="top" align="left">Action</entry>
     <entry valign="top" align="left">Keyboard Shortcut</entry>
     </row>
@@ -331,8 +331,10 @@
     <row valign="top">
     <entry valign="top" align="left">Copy</entry>
     <entry valign="top" align="left">Ctrl+C</entry>
+    <entry valign="top" align="left" morerows="5"/>
         <entry valign="top" align="left">Italic</entry>
     <entry valign="top" align="left">Ctrl+I</entry>
+    <entry valign="top" align="left" morerows="5"/>
         <entry valign="top" align="left">Help</entry>
     <entry valign="top" align="left">F1</entry>
     </row>
