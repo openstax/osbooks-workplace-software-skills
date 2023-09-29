@@ -92,7 +92,7 @@
     <media alt="(a) A Ribbon for Word is visible with these tabs across the top: File, Home, Developer, Insert, Design, Layout, References, Mailings, Review, View, and Help. The Home tab is selected. The command groups visible include Clipboard (includes Paste, Cut, Copy, and Format Painter), Font (includes Font, Font Size, Increase Font Size, Decrease Font Size, Change Case, Clear All Formatting, Bold, Italic, Underline, Strikethrough, Subscript, Superscript, Text Effects and Typography, Text Highlight Color, and Font Color), Paragraph (includes Bullets, Numbering, Multilevel List, Decrease Indent, Increase Indent, Sort, Show/Hide Paragraph, Align Left, Center, Align Right, Justify, Line and Paragraph Spacing, Shading, and Borders), and Styles (includes a variety of styles for selection). (b) A Ribbon for Excel is visible with these tabs across the top: File, Home, Insert, Page Layout, Formulas, Data, Review, View, Help, and Inquire. The Home tab is selected. The command groups visible include Clipboard (includes Paste, Cut, Copy, and Format Painter), Font (includes Font, Font Size, Increase Font Size, Decrease Font Size, Bold, Italic, Underline, Borders, and Font Color), Alignment (includes Top Align, Middle Align, Bottom Align, Orientation, Wrap Text, Align Left, Center, Align Right, Decrease Indent, Increase Indent, and Merge and Center), Number (includes a drop down for Number Format, a drop down for Accounting Number Format, Percent Style, Comma style, Increase Decimal and Decrease Decimal), and Styles (includes Conditional Formatting).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Tabs_ab.jpg"/>
     </media>
-    <caption>The main menu bars for (a) Word and (b) Excel share common tabs (File, Home, Insert, Help, for instance), but also contain tabs that are in character with their main functions (such as References in Word and Formulas in Excel) (attribution: Used with permission from Microsoft)</caption>
+    <caption>The main menu bars for (a) Word and (b) Excel share common tabs (File, Home, Insert, Help, for instance), but also contain tabs that are in character with their main functions (such as References in Word and Formulas in Excel). (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00003">
     <media alt="(a) A Ribbon for PowerPoint is visible with these tabs across the top: File, Home, Insert, Design, Transitions, Animations, Slide Show, Review, View, and Recording. The Home tab is selected. The command groups include Clipboard (includes Paste, Cut, Copy, and Format Painter), Slides (includes New Slide, Reuse Slides, Layout, Reset, and Section), Font (includes Font, Font Size, Increase Font Size, Decrease Font Size, Clear All Formatting, Bold, Italic, Underline, Text Shadow, Strikethrough, Character Spacing, Change Case, Text Highlight Color, and Font Color), Paragraph (includes Bullets, Numbering, Decrease Indent, Increase Indent, Line Spacing, Align Left, Center, Align Right, Add or Remove Columns, Text Direction Align Text, and Convert to SmartArt Graphics. (b) A Ribbon for Access is visible with these tabs across the top: File, Home, Create, External Data, Database Tools, Help, Table Fields, Table, and Search. The Home tab is selected. The command groups include Views (includes View), Clipboard (includes Pasta, Cut, Copy, and Format Painter), Sort &amp; Filter (includes Filter, Ascending, Descending, Remove Sort, Selection, Advanced, and Toggle Filter), and Records (includes Refresh All, New, Save, Delete, Totals, Spelling, and More).">
@@ -175,7 +175,7 @@
     <title>Options</title>
     <para id="para-00025">The <term class="no-emphasis" id="term-00020">Options</term> command at the bottom of the File tab contains a multitude of choices that control the way your workspace appears, determine the way the text is corrected, and allow changes to many aspects of the program. A summary of the options available is shown in <link target-id="table-00002"/>.</para>
     <table id="table-00002" summary="">
-    <title>Summary of the Options dialog box</title>
+    <title>Summary of the Options Dialog Box</title>
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -319,10 +319,10 @@
     <row valign="top">
     <entry valign="top" align="left">Action</entry>
     <entry valign="top" align="left">Keyboard Shortcut</entry>
-    <entry valign="top" align="left"/>
+    <entry valign="top" align="left" morerows="6"/>
     <entry valign="top" align="left">Action</entry>
     <entry valign="top" align="left">Keyboard Shortcut</entry>
-    <entry valign="top" align="left"/>
+    <entry valign="top" align="left" morerows="6"/>
     <entry valign="top" align="left">Action</entry>
     <entry valign="top" align="left">Keyboard Shortcut</entry>
     </row>
@@ -331,61 +331,49 @@
     <row valign="top">
     <entry valign="top" align="left">Copy</entry>
     <entry valign="top" align="left">Ctrl+C</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Italic</entry>
+        <entry valign="top" align="left">Italic</entry>
     <entry valign="top" align="left">Ctrl+I</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Help</entry>
+        <entry valign="top" align="left">Help</entry>
     <entry valign="top" align="left">F1</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Cut</entry>
     <entry valign="top" align="left">Ctrl+X</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Center</entry>
+        <entry valign="top" align="left">Center</entry>
     <entry valign="top" align="left">Ctrl+E</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Open a file</entry>
+        <entry valign="top" align="left">Open a file</entry>
     <entry valign="top" align="left">Ctrl+O</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Paste</entry>
     <entry valign="top" align="left">Ctrl+V</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Justify</entry>
+        <entry valign="top" align="left">Justify</entry>
     <entry valign="top" align="left">Ctrl+J</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Create a new file</entry>
+        <entry valign="top" align="left">Create a new file</entry>
     <entry valign="top" align="left">Ctrl+N</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Undo</entry>
     <entry valign="top" align="left">Ctrl+Z</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Underline</entry>
+        <entry valign="top" align="left">Underline</entry>
     <entry valign="top" align="left">Ctrl+U</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Save a file</entry>
+        <entry valign="top" align="left">Save a file</entry>
     <entry valign="top" align="left">Ctrl+S</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Redo</entry>
     <entry valign="top" align="left">Ctrl+Y</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Align left</entry>
+        <entry valign="top" align="left">Align left</entry>
     <entry valign="top" align="left">Ctrl+L</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Print a file</entry>
+        <entry valign="top" align="left">Print a file</entry>
     <entry valign="top" align="left">Ctrl+P</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Bold</entry>
     <entry valign="top" align="left">Ctrl+B</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Find</entry>
+        <entry valign="top" align="left">Find</entry>
     <entry valign="top" align="left">Ctrl+F</entry>
-    <entry valign="top" align="left"/>
-    <entry valign="top" align="left">Close a file</entry>
+        <entry valign="top" align="left">Close a file</entry>
     <entry valign="top" align="left">Ctrl+W</entry>
     </row>
     </tbody>
@@ -463,7 +451,7 @@
     </section>
     <section id="sect-00019">
     <title>Help Tab</title>
-    <para id="para-00054">The <term class="no-emphasis" id="term-00043">Help</term> tab looks the same in all the Office applications. The Help tab gives you options to seek help on an issue with the application you are working with. Through the tab, you can use the Help search by clicking on the question mark or you can contact support directly. The Show Training is a good place to start if you have not used the program at all before. It gives you a collection of help tutorials to walk you through many of the more common features used in the program. When you select any of the options on the Help tab, a window will open at the right to assist you further. See <link target-id="fig-00020"/>.</para>
+    <para id="para-00054">The <term class="no-emphasis" id="term-00043">Help</term> tab looks the same in all the Office applications. The Help tab gives you options to seek help on an issue with the application you are working with. Through the tab, you can use the Help search by clicking on the question mark or you can contact support directly. The Show Training is a good place to start if you have not used the program at all before. It gives you a collection of help tutorials to walk you through many of the more common features used in the program. When you select any of the options on the Help tab, a window will open at the right to assist you further (see <link target-id="fig-00020"/>).</para>
     <figure id="fig-00020">
     <media alt="Help is selected on the Ribbon and the Help command group on the Toolbar includes these items for selection: Help, Contact Support, Feedback, Show Training, and What’s New. Help is selected and the Help dialog box open at the right shows a go back button and Search Bar at the top. Options for selection include Get Started, Collaborate, Insert Text, Pages &amp; layouts, Pictures, Save &amp; print, Mail Merge and Recommended Topics (Words for Windows training and Lay out pages are visible choices).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Help.jpg"/>

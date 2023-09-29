@@ -194,7 +194,7 @@
     </media>
     <caption>You can also rename the file you just created by using the Rename command in the File menu. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <para id="para-00028">Google also has a wide variety of templates to choose from. You can create a new file using a <term class="no-emphasis" id="term-00022">template</term> in a similar manner to how you use templates in Office. Templates can be a great place to start if you are designing a specialized document or file such as an invoice or a budget worksheet. They can also be useful when doing more creative work such as designing flyers. The templates can provide a starting point for you and you can customize to meet your needs. To access the templates in Google for each of the programs, use the expanded menu to the side of the program name when you choose New. See <link target-id="fig-00010"/>.</para>
+    <para id="para-00028">Google also has a wide variety of templates to choose from. You can create a new file using a <term class="no-emphasis" id="term-00022">template</term> in a similar manner to how you use templates in Office. Templates can be a great place to start if you are designing a specialized document or file such as an invoice or a budget worksheet. They can also be useful when doing more creative work such as designing flyers. The templates can provide a starting point for you and you can customize to meet your needs. To access the templates in Google for each of the programs, use the expanded menu to the side of the program name when you choose New (see <link target-id="fig-00010"/>).</para>
     <figure id="fig-00010" class="scaled-down">
     <media alt="In Drive, a menu on the left lists these options: Folder, File upload, Folder upload, Google Docs, Google Sheets, Google Slides, Google Forms, and More. Google Slides is selected and opens to Blank presentation and From a template for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Template.jpg"/>
@@ -249,7 +249,7 @@
     </section>
     <section id="sect-00012">
     <title>Insert Menu</title>
-    <para id="para-00034">The <term class="no-emphasis" id="term-00029">Insert menu</term> is used to insert a variety of items into a file. The different apps may offer different items that are best suited to the purposes and uses of that app. See <link target-id="fig-00016"/>. In Docs, the Insert menu includes items such as inserting images, footnotes, headers, and page numbers. Sheets insert options include inserting columns/rows, charts, and formulas. Finally, Slides includes options for inserting tables, drawings, text boxes, and WordArt. Other chapters will cover the Insert menu in more detail.</para>
+    <para id="para-00034">The <term class="no-emphasis" id="term-00029">Insert menu</term> is used to insert a variety of items into a file. The different apps may offer different items that are best suited to the purposes and uses of that app (see <link target-id="fig-00016"/>). In Docs, the Insert menu includes items such as inserting images, footnotes, headers, and page numbers. Sheets insert options include inserting columns/rows, charts, and formulas. Finally, Slides includes options for inserting tables, drawings, text boxes, and WordArt. Other chapters will cover the Insert menu in more detail.</para>
     <figure id="fig-00016">
     <media alt="(a) The Insert tab in Docs opens to these options for selection: Image, Table, Drawing, Chart, Horizontal line, Date, Dropdown, Footnote, Building blocks, Special characters, Equation, Watermark, Headers &amp; footers, and Page numbers. (b) The Insert tab in Sheets opens to these options for selection: Cells, Rows, Columns, Sheets, Chart, Pivot table, Image, Drawing, Function, Link, Checkbox, People chip, Comment, and Note. (c) The Insert tab in Slides opens to these options for selection: Image, Text box, Audio, Video, Shape, Table, Chart, Diagram, Word art, Line, Special characters, Animation, Link, and Comment.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Insert.jpg"/>
@@ -281,7 +281,7 @@
     <media alt="(a) A Preferences window displays tabs for General and Substitutions. General is selected and lists these options for selection: Automatically capitalize words, Use smart quotes, Automatically detect links, Automatically detect lists, Automatically correct spelling, Show Smart Compose suggestions (predictive writing suggestions appear as you write sentences), Show Smart Reply suggestions (suggested replies appear below comments), and Show link details. Cancel and OK buttons are at the bottom right. (b) A Preferences window displays tabs for General and Substitutions. Substitutions is selected and lists these options for selection: Automatic substitution and fraction options. Cancel and OK buttons are at the bottom right.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Preference.jpg"/>
     </media>
-    <caption>The list on the left shows the general preferences, while the substitutions are listed on the right. (Google Workspace is a trademark of Google LLC.)</caption>
+    <caption>The list in (a) shows the general preferences; (b) shows the substitutions. (Google Workspace is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     <section id="sect-00015">

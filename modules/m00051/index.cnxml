@@ -52,7 +52,7 @@
     </section>
     <section id="sect-00005">
     <title>Opening a File</title>
-    <para id="para-00009">To open an existing file, locate the file wherever it is saved. It may be saved on your computer hard drive, in the cloud, or on an external drive such as a flash drive. The easiest method for locating an existing file is by using the <term class="no-emphasis" id="term-00007">File Explorer</term> folder. See <link target-id="fig-00002"/>.</para>
+    <para id="para-00009">To open an existing file, locate the file wherever it is saved. It may be saved on your computer hard drive, in the cloud, or on an external drive such as a flash drive. The easiest method for locating an existing file is by using the <term class="no-emphasis" id="term-00007">File Explorer</term> folder (see <link target-id="fig-00002"/>).</para>
     <note class="mac-tip" id="note-00001">
     <exercise class="unnumbered" id="exer-00001">
     <problem id="prob-00001">
@@ -184,7 +184,7 @@
     <caption>Computer application files are saved with the filename and an extension that identifies the type of file it is.</caption>
     </table>
     <section id="sect-00013">
-    <title>Rich Text Format</title>
+    <title>Rich Text Format (RTF)</title>
     <para id="para-00030">Microsoft developed <term id="term-00038">Rich Text Format (RTF)</term>, or <term class="no-emphasis" id="term-00039">.rtf</term>, files in 1987 to enable other Microsoft applications to read Word output more easily. Today, the .rtf format can be used to make your .docx file more compatible so that other software can use the information in the file more readily. For example, information from a Word document that is saved as an .rtf file type can be fed into a database program. Text in .rtf appears fairly “plain”—that is, with minimal formatting. .rtf files have stayed more or less the same as when they were first released, but Word .docx files are frequently updated. To put it another way, an .rtf is less sophisticated than a .docx file and may not support all the features of a newer .docx. To save a file as an .rtf, go to the File tab, click on Export, hover over Rich Text Format, and then click Save As.</para>
     <note class="mac-tip" id="note-00006">
     <exercise class="unnumbered" id="exer-00006">
@@ -200,7 +200,7 @@
     </note>
     </section>
     <section id="sect-00014">
-    <title>PDF</title>
+    <title>Portable Document Format (PDF)</title>
     <para id="para-00032">In the business setting, you will see many documents in <term id="term-00040">Portable Document Format (PDF)</term>, or <term class="no-emphasis" id="term-00041">.pdf</term>. Unlike .docx format, the .pdf format is designed as a publishing platform, so .pdf documents are not easily editable. This is an advantage because it means that everyone who opens the .pdf document will see the same format, alignment of objects, font style and size, images, tables, graphs, and so on. The appearance of the document will not change across any computer, phone, tablet, or other device. The Word file format, by contrast, is designed to be fully editable, so if you use Word 2019 or Word 365 (part of Microsoft 365), for example, to open a .docx created in Word 2013 or Word 2016, you may see unintended and unwelcome changes, such as a shifted object.</para>
     <para id="para-00033">Countless companies and other institutions typically release their annual reports and other public documents in .pdf format. WorldCorp publishes its annual report using the .pdf format. Local townships, public schools, and community agencies also are likely to distribute their newsletters and other information as .pdf documents. Further, many job seekers produce a .pdf version of their résumé, as <link target-id="fig-00005"/> shows, to prevent style or alignment changes when the prospective employer opens the file.</para>
     <figure id="fig-00005">
@@ -211,7 +211,7 @@
     </figure>
     </section>
     <section id="sect-00015">
-    <title>Web Page/HTML</title>
+    <title>Web Page/Hypertext Markup Language (HTML)</title>
     <para id="para-00034">Many professionals have their own web page, featuring their professional experience, skills, contact information, and samples of work or testimonials. The content of such a website can be created in Word. For more than a decade, Word has doubled as a What You See Is What You Get (WYSIWYG) HTML editor—a web page design application that lets users make their own web pages without needing to know <term class="no-emphasis" id="term-00042">hypertext markup language (HTML)</term>. HTML is one of the major programming languages that web designers use to make websites. Essentially, Word lets you write the content of your web page as if you were writing any document in Word; you can add images, objects, and graphs, then Save As an .html file. However, there are better ways to create content for websites rather than using Word. We will discuss more about this later in the book.</para>
     <para id="para-00035">Today, many people use packaged services such as WordPress or Squarespace to create their own websites. You may still find some people who prefer to use Word to create their website or at least to design the initial content and layout of the site. Also, note that just creating a website doesn’t make it available on the web. The website will need to be published, a domain name purchased (e.g., www.yourwebsite.com), and it hosted through a paid service such as GoDaddy.</para>
     </section>

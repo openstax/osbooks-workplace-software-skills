@@ -7,10 +7,9 @@
   </metadata>
   <content class="introduction">
     <figure class="splash" id="fig-00001">
-    <media alt="Alt text">
-    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/></media>
-    <!--OSX_BCA_02_00_Descriptor.jpg-->
-    <caption>Caption: Opener image title and caption go here.</caption>
+    <media alt="A group of women are shown sitting around a table talking with laptops, tablets, and phones out on the table.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_00_Meeting.jpg"/></media>
+    <caption>Software applications are what allow us to interact with our computer’s hardware. It is essential to learn how to use programs like calendars, word processors, and email clients to communicate with others and create documents in the workplace. (credit: "wocintech (microsoft) - 241" by WOCinTech Chat/Flickr, CC BY 2.0)</caption>
     </figure>
     <para id="para-00001">WorldCorp is a multinational conglomerate that produces and works in consumer goods, health care, and technology. Its functional service areas include research and development, strategy, operations, production and distribution, human resources, information technology and equipment, marketing and sales, finance and accounting, and customer service.</para>
     <para id="para-00002">The corporation has a strong commitment to social responsibility and environmental protection. Employees are encouraged to participate in company-wide and individual charity initiatives, with paid time off to participate in each once a month.</para>
