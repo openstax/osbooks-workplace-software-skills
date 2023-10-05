@@ -26,20 +26,38 @@
     </note>
     <section id="sect-00002">
     <title>Page Numbers</title>
-    <para id="para-00005">The tool for placing <term class="no-emphasis" id="term-00002">page numbers</term> into a Google document has fewer customizable formatting options than the tool in Word. There are only two page number styles: top right or bottom right. These are both available in the Insert menu. Let’s start with the market trends draft and add page numbers (<link target-id="fig-00001"/>). If you select More options, a few more customization options appear. You can choose to have your page numbers start counting from the second page of your document, which could be useful if your first page is a cover page or a table of contents. You can also start your page numbering at a certain number (i.e., other than the number 1). The page number is always placed in the header or footer.</para>
+    <para id="para-00005">The tool for placing <term class="no-emphasis" id="term-00002">page numbers</term> into a Google document has fewer customizable formatting options than the tool in Word. There are only two page number styles: top right or bottom right. These are both available in the Insert menu. Let’s start with the market trends draft and add page numbers (<link target-id="fig-00001"/>). If you select More options, a few more customization options appear. You can choose to have your page numbers start counting from the second page of your document, which could be useful if your first page is a cover page or a table of contents. You can also start your page numbering at a certain number (i.e., other than the number 1), as shown in <link target-id="fig-00012"/>. The page number is always placed in the header or footer.</para>
     <figure id="fig-00001">
-    <media alt="(a) In Google Docs, the Insert tab is selected and the drop down lists these options for selection: Date, Dropdown, Footnote, Building Blocks, Special characters, Equation, Watermark, Headers &amp; Footers, Page numbers and Break. Page numbers is selected and opens to a pane with choices of locations for placing the numbers in the document: top right on all pages, page 1 on top right starting on page 2, bottom right on all pages, and page 1 on bottom right starting on page 2. More options and Page count are listed as well. (b) A Page numbers pane is open with a drop-down menu for locations in the document to Apply to, Header and Footer button selection for Position, a box to check to Show on first page and button selections for Numbering to Start at (and a drop down with numbers) and Continue from previous section. Cancel and Apply buttons are visible on the bottom right.">
-    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_PAGEN01ab.jpg"/>
+    <media alt="In Google Docs, the Insert tab is selected and the drop down lists these options for selection: Date, Dropdown, Footnote, Building Blocks, Special characters, Equation, Watermark, Headers &#38; Footers, Page numbers and Break. Page numbers is selected and opens to a pane with choices of locations for placing the numbers in the document: top right on all pages, page 1 on top right starting on page 2, bottom right on all pages, and page 1 on bottom right starting on page 2. More options and Page count are listed as well.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_PAGEN01a.jpg"/>
     </media>
-    <caption>(a) Although the default page number doesn’t seem to allow the user to insert the number on the left or in the center, you can align it later using the alignment tools in the Action Bar. (b) You can choose to have the page numbering continue from a previous section, which can be useful when creating long documents with multiple sections. (Google Docs is a trademark of Google LLC.)</caption>
+    <caption>Although the default page number doesn’t seem to allow the user to insert the number on the left or in the center, you can align it later using the alignment tools in the Action Bar. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <para id="para-00006">One convenient feature of Docs is its ability to easily add a page count to your page number (see <link target-id="fig-00002"/>). First, you insert your page number, then manually type the word “of” after it. Then, go to the Insert menu, click <term class="no-emphasis" id="term-00003">Page numbers</term>, and select Page count. This will add a field that gives the total number of pages in the document. Now, your page count should appear as “# of #” (e.g., “1 of 5”).</para>
+    <figure id="fig-00012">
+      <media alt="A Page numbers pane is open with a drop-down menu for locations in the document to Apply to, Header and Footer button selection for Position, a box to check to Show on first page and button selections for Numbering to Start at (and a drop down with numbers) and Continue from previous section. Cancel and Apply buttons are visible on the bottom right.">
+        <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_PAGEN01b.jpg"/>
+      </media>
+      <caption>You can choose to have the page numbering continue from a previous section, which can be useful when creating long documents with multiple sections. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00006">One convenient feature of Docs is its ability to easily add a page count to your page number. First, you insert your page number, then manually type the word “of” after it (<link target-id="fig-00002"/>). Then, go to the Insert menu, click <term class="no-emphasis" id="term-00003">Page numbers</term>, and select Page count (<link target-id="fig-00013"/>). This will add a field that gives the total number of pages in the document. Now, your page count should appear as “# of #” (e.g., “1 of 5”) (<link target-id="fig-00014"/>).</para>
     <figure id="fig-00002">
-    <media alt="(a) Along the bottom of a Google Docs page is a page count feature: 1 of (cursor that is blank). (b) In Google Docs, the Insert tab is selected and the drop down lists these options for selection: Image, Table, Dropdown, Footnote, Building Blocks, Special characters, Equation, Watermark, Headers &amp; Footers, and Page numbers. Page numbers is selected and the pane at the right lists More options and Page count. An arrow points to Page count. (c) At the bottom of the document, the page count feature reads 1 of 2.">
-    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_PAGEN02.jpg"/>
+    <media alt="Along the bottom of a Google Docs page is a page count feature: 1 of (cursor that is blank).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_PAGEN02a.jpg"/>
     </media>
-    <caption>(a) Use the Insert menu to insert page numbers. (b) The Page count feature allows the reader to see how many total pages there are in the document or that section. (c) Adding a page count to your footer helps the reader know how far they’ve read. (Google Docs is a trademark of Google LLC.)</caption>
+    <caption>Use the Insert menu to insert page numbers. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
+    <figure id="fig-00013">
+      <media alt="In Google Docs, the Insert tab is selected and the drop down lists these options for selection: Image, Table, Dropdown, Footnote, Building Blocks, Special characters, Equation, Watermark, Headers &#38; Footers, and Page numbers. Page numbers is selected and the pane at the right lists More options and Page count. An arrow points to Page count.">
+      <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_PAGEN02b.jpg"/>
+      </media>
+      <caption>The Page count feature allows the reader to see how many total pages there are in the document or that section. (Google Docs is a trademark of Google LLC.)</caption>
+      </figure>
+      <figure id="fig-00014">
+        <media alt="At the bottom of the document, the page count feature reads 1 of 2.">
+        <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_PAGEN02c.jpg"/>
+        </media>
+        <caption>Adding a page count to your footer helps the reader know how far they’ve read. (Google Docs is a trademark of Google LLC.)</caption>
+        </figure>
     </section>
     <section id="sect-00003">
     <title>Headers and Footers</title>
@@ -53,11 +71,17 @@
     </figure>
     <para id="para-00009">You can also add a horizontal line that visually separates your header or footer from the rest of the text. This can add a neat and professional look to your document. Just put the cursor where you want the line, go to the Insert menu, and choose <term class="no-emphasis" id="term-00005">Horizontal line</term>, as shown in <link target-id="fig-00004"/>.</para>
     <figure id="fig-00004">
-    <media alt="(a) The Insert tab is selected and the pane opens to these options for selection: Image, Table, Drawing, Chart, and Horizontal line. (b) In the document, a horizontal line is visible between the title WorldCorp Market Trends Report, 2022 and the cursor in the center of the next line.">
-    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_HEAFOO02.jpg"/>
+    <media alt="The Insert tab is selected and the pane opens to these options for selection: Image, Table, Drawing, Chart, and Horizontal line.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_HEAFOO02a.jpg"/>
     </media>
-    <caption>(a) Insert the horizontal line via the Insert menu, just as you did for the header or footer itself. (b) The horizontal line creates a nice separation between the document and the header. (Google Docs is a trademark of Google LLC.)</caption>
+    <caption>Insert the horizontal line via the Insert menu, just as you did for the header or footer itself. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
+    <figure id="fig-00015">
+      <media alt="In the document, a horizontal line is visible between the title WorldCorp Market Trends Report, 2022 and the cursor in the center of the next line.">
+      <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_HEAFOO02b.jpg"/>
+      </media>
+      <caption>The horizontal line creates a nice separation between the document and the header. (Google Docs is a trademark of Google LLC.)</caption>
+      </figure>
     <para id="para-00010">Once you have made all your adjustments in the header/footer, just place your cursor anywhere in the body of the document to exit from the header/footer editing mode, or, alternatively, press the Esc (escape) key on the keyboard.</para>
     <para id="para-00011">Remember that using the View menu, you can change the preview of the header/footer. Make sure that you are viewing the document with Print layout checked so that you can view your headers and footers. If you choose to work without the Print layout option checked, you won’t see the headers/footers.</para>
     </section>
@@ -69,7 +93,7 @@
     <media alt="In Google Docs, the Format tab is selected and the pane lists these options for selection: Text, Paragraph Styles, Align &amp; indent, Line &amp; paragraph spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, and Borders &amp; lines. Bullets &amp; numbering is selected and the pane at the right displays List options, Numbered list, Bulleted list, and Checklist. Numbered list is selected and the pane at the right displays six different tiered lists using combinations of numbers, letters, and Roman numerals.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST01a.jpg"/>
     </media>
-    <caption>There are two ways to insert a list into your Doc: through the Insert menu, or via the Action Bar. (Google Docs is a trademark of Google LLC.)</caption>
+    <caption>There are two ways to insert a list into your Doc: through the Format menu, or via the Action Bar. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00014">Because adding lists to your document is generally done for organization and visual purposes, you want to make sure they are easy to read and showcase the most important information. For all list types, you can increase or decrease the space between the lines. This can help with readability. To do this, select the whole list and go to the <term class="no-emphasis" id="term-00007">Line and Paragraph spacing</term> command and choose a wider or narrower space, as shown in <link target-id="fig-00006"/>. You can also change the color of the text, which could be useful for helping your list stand out from the rest of your document. Select the text you want to format and use the Action Bar command for Text color.</para>
     <figure id="fig-00006">
@@ -105,7 +129,7 @@
     <caption>Rather than using a numerical order, the bullets change for each level when you use the Tab key. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00010">
-    <media alt="In Google Docs, the Format tab is selected and the open pane lists these options for selection: Text, Paragraph Styles, Align &amp; indent, Line &amp; paragraph spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, Borders &amp; lines, and Clear formatting. Bullets &amp; numbering is selected and the pane at the right displays List options, Numbered list, Bulleted list, and Checklist. List options is selected and the pane at the right displays the options available for labeling the tiers of a list: 1, A, a, I, i, dark circle, white circle, dark square, arrow, star, and checkmark. Options also available include: Restart numbering, Continue previous numbering, More bullets, and Edit prefix and suffix. A portion of the document is visible in the background with a diamond pattern and arrows for the tiers.">
+    <media alt="In Google Docs, the Format tab is selected and the open pane lists these options for selection: Text, Paragraph Styles, Align &#38; indent, Line &#38; paragraph spacing, Columns, Bullets &#38; numbering, Headers &#38; footers, Page numbers, Page orientation, Table, Image, Borders &#38; lines, and Clear formatting. Bullets &#38; numbering is selected and the pane at the right displays List options, Numbered list, Bulleted list, and Checklist. List options is selected and the pane at the right displays the options available for labeling the tiers of a list: 1, A, a, I, i, dark circle, white circle, dark square, arrow, star, and checkmark.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST03c.jpg"/>
     </media>
     <caption>Docs offers a lot of customizability for its bulleted lists. (Google Docs is a trademark of Google LLC.)</caption>
