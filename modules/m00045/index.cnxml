@@ -139,7 +139,7 @@
     <para id="para-00031">To make your document neat and organized, add the title <term class="no-emphasis" id="term-00029">Table of Figures</term> on top, and insert another page break to separate the Table of Figures page from the beginning of the document.</para>
     <figure id="fig-00012">
     <media alt="The Reference tab is selected on the Ribbon and in the Captions command group the Table of Figures button is selected. A Table of Figures pane is open with tabs available for Index, Table of Contents, Table of Figures and Table of Authorities. The Table of Figures tab is selected and displays a Print Preview window (which displays what is in the document) along with button options underneath for Show page numbers and Right align page numbers. A drop down menu for Tab leader follows next. A General heading with Formats and Caption label selections (with drop down menus) and a button option for Include label and number. At the right half there is a pane for Web Preview and a button option for Use hyperlinks instead of page numbers. Buttons for Options, Modify, OK and Cancel are located in two rows at the bottom right.">
-    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF02.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF02a.jpg"/>
     </media>
     <caption>You can change some formatting options when you choose Insert Table of Figures. (attribution: Used with permission from Microsoft)</caption>
     </figure>
