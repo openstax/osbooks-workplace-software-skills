@@ -29,11 +29,9 @@
     </figure>
     <para id="para-00005">You can select fonts using the drop-down menu within the <term class="no-emphasis" id="term-00004">Font</term> options on the Home tab. There are many fonts in Word, most of which are not appropriate for business reports because they are too ornate or decorative. You should think carefully about the type of font you want to use and what it will convey to its readers. You want to stay professional and avoid “fun” fonts like Comic Sans and Papyrus. Font choice also affects the readability of your document. Script-like or blocky fonts can be difficult to read, especially with long documents. Additionally, some fonts are more appropriate for headings or logos instead of the body of a report or document.</para>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+   
     <para id="para-00006">Mac offers some fonts that are not included in the Microsoft OS version, and, by default, is missing some that can be added by downloading and loading the fonts into the application.</para>
-    </problem>
-    </exercise>
+    
     </note>
     <para id="para-00007">To adjust the font size, go to the <term class="no-emphasis" id="term-00005">Font Size</term> drop-down menu, directly to the right of the Font menu on the Home tab. There are other ways to adjust the font in a selection in a document, but this is the most direct way to make the changes. The default font size is 12-point, but you may want to make your font larger or smaller. Most documents use fonts in sizes 10- to 12-point. For your market trends report, you will probably want an 11- or 12-point font for your main body text, and a larger size for your report title and section headings. You should ensure your font size is easily readable, especially if you plan to provide printed copies of your document.</para>
     <para id="para-00008">You can apply additional styles to your font, such as bold, italic, or underline, using tools in the Font command group (<link target-id="fig-00002"/>). There are also options for special text applications, such as adding superscripted text (text that is raised above the line) and subscripted text (text that appears below the line), and changing font color. Additionally, you can easily change the capitalization style through the Aa drop-down menu. This allows you to set a selection of text in all capitals, all lowercase, or to capitalize each word, such as is common in headers or titles.</para>

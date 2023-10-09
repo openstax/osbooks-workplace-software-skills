@@ -40,11 +40,9 @@
     <para id="para-00009">The source document needs to be a listing created in Excel or Access. But this walk-through will build a new list rather than using an existing list. You will build the new list with just a few customers so you can see how mail merge works. But remember, mail merge can be used with many customers and is virtually limitless. The capacity of the mail merge is limited by the capacity of your computer.</para>
     <para id="para-00010">The source document is built with the intended recipients. To begin, go to the Mailings tab, Select Recipients, and choose Type a New List from the menu (<link target-id="fig-00002"/>).</para>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+    
     <para id="para-00011">Under the Mailings tab, click on Select Recipients, and choose Create a New List.</para>
-    </problem>
-    </exercise>
+    
     </note>
     <para id="para-00012">Notice there are two other choices: Use an Existing List and Choose from Outlook Contacts. When you have finished entering in the information for the customers, click OK.</para>
     <figure id="fig-00002">

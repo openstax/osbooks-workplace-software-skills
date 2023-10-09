@@ -18,11 +18,9 @@
     <para id="para-00002">The market trends report has been composed thus far in Microsoft Word. However, it could have just as easily been composed in <term class="no-emphasis" id="term-00001">Google Docs</term>. Docs has many of the same features that we see in Word. Some people prefer working in Docs as it can be more user-friendly than Word, particularly its features involving collaborating with others.</para>
     <para id="para-00003">Many of Docs’s advanced formatting features are similar to those in Word. Just like in Word, you can insert and format page numbers, headers, footers, and multilevel lists. Some customizable features that are present in Word may not be present in Docs, but some users might prefer fewer choices, as it facilitates a more user-friendly program. Here, we will revisit many of the tools we covered earlier and apply them to the market trends report in Docs. We will start with an earlier draft of the report where we began the chapter (<link document="m00043" target-id="fig-00001"/>).</para>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+    
     <para id="para-00004">Mac computers come with Safari as the default internet browser. While Docs works just fine in Safari, it functions better in Google Chrome. Chrome is also a Google product and, as such, comes with integrations that work seamlessly with Docs, such as browser extensions and notifications, as well as supports Chrome-only features, like voice typing.</para>
-    </problem>
-    </exercise>
+    
     </note>
     <section id="sect-00002">
     <title>Page Numbers</title>

@@ -23,11 +23,9 @@
     <title>Edit Menu</title>
     <para id="para-00005">This menu is similar to the <term class="no-emphasis" id="term-00003">Edit menu</term> in Word. Looking at <link target-id="fig-00001"/>, you can see that this menu has commands such as Select All, Undo, Redo, and Find and Replace. As in Word, the keyboard shortcut <term class="no-emphasis" id="term-00004">Ctrl+Z</term> will undo the last action you took, while <term class="no-emphasis" id="term-00005">Ctrl+Y</term> is the opposite: It redoes what you have undone with Ctrl+Z.</para>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+    
     <para id="para-00006">On a Mac, these commands are <term class="no-emphasis" id="term-00006">Command+Z</term> and <term class="no-emphasis" id="term-00007">Command+Y</term>, respectively. Any time a Ctrl+ function is used on a Windows computer, the corresponding function key on a Mac will be the Command key.</para>
-    </problem>
-    </exercise>
+    
     </note>
     <para id="para-00007">Paste without formatting is a useful tool for copying and pasting text only, without any of the source formatting (such as font, font size, or color). This is particularly helpful when copying and pasting from an email or website.</para>
     <figure id="fig-00001" class="scaled-down">

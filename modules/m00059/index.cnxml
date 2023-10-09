@@ -33,11 +33,9 @@
     <title>Developer Tab</title>
     <para id="para-00004">To create surveys in Word, you need to enable the <term id="term-00002">Developer tab</term>. This is typically not one of the default tabs in Word, so you need to manually add it. Go to the Options command on the File tab, then on the Customize Ribbon tab, then enable the Developer tab.</para>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+   
     <para id="para-00005">To add the Developer toolbar on a Mac, you will need to go to Word, then select Preferences, then go to Ribbon &amp; Toolbar. In the Search box, type “Developer.” Select the Developer tab from Suggestions. In the dialog box under the ribbon header, select the box that says Show Developer Tab.</para>
-    </problem>
-    </exercise>
+    
     </note>
     <para id="para-00006">The Developer tab serves several purposes, as <link target-id="fig-00003"/> shows. In addition to containing the tools needed to design fillable forms, it also contains the tools to create computer programs (macros) in Word, to protect and restrict access to your document, and other advanced tasks.</para>
     <para id="para-00007">The majority of the features on the Developer tab are for more advanced uses of Word and are outside the scope of this text. This section focuses on the Controls and Protect command groups, which contain the tools we need to create and secure our fillable form.</para>

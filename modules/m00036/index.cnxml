@@ -89,11 +89,9 @@
     <caption>(a) Formatting restrictions can get quite detailed; however, they’re important to set to keep your document’s style from becoming inconsistent. (b) Editing restrictions for other users can range from allowing others to work freely, to work in Track Changes, or to “read only” and not make any changes. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00002">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+    
     <para id="para-00018">Protect menu options on a Mac also include password protections, document review protections, and privacy. There is also a menu button for Always Open Read-Only.</para>
-    </problem>
-    </exercise>
+    
     </note>
     </section>
     </section>

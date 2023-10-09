@@ -42,11 +42,9 @@
     <caption>The Word Options dialog box offers many different choices for configuring your settings. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+   
     <para id="para-00007">To view the same General options in Word, click the Word tab and choose the Preference tab. That is where you will find many of the options discussed here.</para>
-    </problem>
-    </exercise>
+   
     </note>
     <para id="para-00008">First, the <term class="no-emphasis" id="term-00002">General</term> tab lists information about the user. This will auto populate based on the software registration and computer settings. You can change the document’s username, which means that all of your comments and tracked changes will have your name associated with them. You also have the option of turning on “Real-time collaboration,” in which your changes to the document will be broadcast to the document’s collaborators. (This feature is similar to Google Docs’s concurrent editing notification of documents.) This is available to users who are working on a shared file through Office 365. The document must have already been shared with the collaborators, and they need to have been given permission to edit the document.</para>
     <para id="para-00009">The second tab is <term class="no-emphasis" id="term-00003">Display</term>. This tab includes options for adjusting how the text is seen on-screen. One of the more important options is the ability to turn the formatting marks on and off because it enables you to see if you have line breaks or extra spaces, as well as formatting settings in your text. Hidden characters that direct how text is displayed but that don’t show when the document prints are called <term id="term-00004">formatting marks</term>. They have their roots in the paper-and-pencil editing process in which editors used standard markings or symbols to indicate different things. For example, the ¶ is used to represent a hard return (i.e., a new line). These formatting marks might be similar to the editing and revision marks that you may have seen when getting a graded paper back in an English class.</para>

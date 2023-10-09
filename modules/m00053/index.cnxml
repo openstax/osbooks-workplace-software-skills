@@ -111,11 +111,9 @@
     <caption>Backstage view shows file properties, which are the statistics and technical details of your file. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+   
     <para id="para-00012">The Backstage view is not included in the Mac Version of Office, but you can get the properties of a file by going to the File tab and choosing Properties.</para>
-    </problem>
-    </exercise>
+   
     </note>
     <section id="sect-00007">
     <title>Creating a New File</title>
@@ -127,11 +125,9 @@
     <caption>The welcome screen gives you three choices: Start from scratch with a new file, create a file from a template, or open a recent file you have already saved. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00002">
-    <exercise class="unnumbered" id="exer-00002">
-    <problem id="prob-00002">
+   
     <para id="para-00014">The Mac version does not have the same welcome screen. To create a new file, go to the File tab and choose New Document or New Document from Template.</para>
-    </problem>
-    </exercise>
+    
     </note>
     <para id="para-00015">To create a new document without using a template, simply click on “Blank Document.” A new document will be opened with a blank screen for you to create your file. This new document will be opened in a new window. You can then add the content to the document and save the document if desired. More about document creation will be covered in later chapters in the book.</para>
     </section>
@@ -164,11 +160,9 @@
     <caption>You can also choose to have your document stapled if that option is available on your printer. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00003">
-    <exercise class="unnumbered" id="exer-00003">
-    <problem id="prob-00003">
+   
     <para id="para-00024">Print screen on a Mac displays the options that are included with the user’s installed printer.</para>
-    </problem>
-    </exercise>
+  
     </note>
     </section>
     <section id="sect-00011">
@@ -265,11 +259,9 @@
     <caption>Using the context menu, you can easily add the Quick Print option to the Quick Access Toolbar. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00004">
-    <exercise class="unnumbered" id="exer-00004">
-    <problem id="prob-00004">
+    
     <para id="para-00036">The Quick Access Toolbar is found on the Preferences tab on the app main page.</para>
-    </problem>
-    </exercise>
+   
     </note>
     <para id="para-00037">Customizing the Ribbon is a similar process. Start at the Customize the Ribbon command from Options in Backstage view. To add a command to the Ribbon, you first have to create a new group, as follows:</para>
     <list list-type="enumerated" number-style="arabic" id="list-00002">
@@ -382,11 +374,9 @@
     </tgroup>
     </table>
     <note class="mac-tip" id="note-00006">
-    <exercise class="unnumbered" id="exer-00005">
-    <problem id="prob-00005">
+   
     <para id="para-00045">On a Mac, Control is replaced with Command.</para>
-    </problem>
-    </exercise>
+    
     </note>
     <section id="sect-00013">
     <title>Format Painter</title>

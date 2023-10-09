@@ -54,11 +54,9 @@
     <title>Opening a File</title>
     <para id="para-00009">To open an existing file, locate the file wherever it is saved. It may be saved on your computer hard drive, in the cloud, or on an external drive such as a flash drive. The easiest method for locating an existing file is by using the <term class="no-emphasis" id="term-00007">File Explorer</term> folder (see <link target-id="fig-00002"/>).</para>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+    
     <para id="para-00010">Folders can be found in the <term class="no-emphasis" id="term-00008">Finder</term> or the Documents tab.</para>
-    </problem>
-    </exercise>
+  
     </note>
     <para id="para-00011">To access File Explorer, either double-click the manila folder icon on the desktop or access File Explorer through the Windows menu. You can also search for a specific filename using the search bar at the bottom of the screen or the search bar at the upper-right side of File Explorer. As you can see, there are several ways to find the file you are looking for.</para>
     <figure id="fig-00002" class="scaled-down">
@@ -73,11 +71,9 @@
     <title>Creating a File</title>
     <para id="para-00013">To create a file, you will likely begin in the application program itself. For example, to create a new presentation file, open PowerPoint or Slides. Or you can create a new file directly from the desktop: Simply right-click on the desktop screen itself, select <term class="no-emphasis" id="term-00009">New</term>, and choose the file type you want, as <link target-id="fig-00003"/> shows.</para>
     <note class="mac-tip" id="note-00002">
-    <exercise class="unnumbered" id="exer-00002">
-    <problem id="prob-00002">
+    
     <para id="para-00014">For Mac users, the procedure to create a file is the same, except you would use Finder.</para>
-    </problem>
-    </exercise>
+   
     </note>
     <para id="para-00015">The new file will be created when the application program opens. Once a new file opens, you can add text, images, and other items to your file as needed.</para>
     <figure id="fig-00003" class="scaled-down">
@@ -95,11 +91,9 @@
     <title>Moving and Deleting a File</title>
     <para id="para-00017">From time to time, you will need to move and delete files as part of good computer housekeeping practices. To delete a file, right-click on the file you want to delete and choose <term class="no-emphasis" id="term-00013">Delete</term>. Once deletion is confirmed, select OK. You can select multiple files by using either the Shift or Control keys. Use Shift to select files that are listed together. You would click the first file and then hold Shift and click the last file in the list you want to move or delete. To select files that are not listed together, use the Control key. Click on the first file, and then, to select additional files, hold the Control key and then click on each filename.</para>
     <note class="mac-tip" id="note-00003">
-    <exercise class="unnumbered" id="exer-00003">
-    <problem id="prob-00003">
+   
     <para id="para-00018">You can delete the file, which will move it to the trash bin, or you can simply drag the file to the trash bin. To completely delete the file, you must empty the trash bin.</para>
-    </problem>
-    </exercise>
+   
     </note>
     <para id="para-00019">To move a file, you can use one of two methods. You can click and drag the file to the new location. This is particularly useful if you have saved a file on the desktop and now want to move that file to a designated folder. Alternatively, you can <term class="no-emphasis" id="term-00014">Cut</term> the file from its current location (see the Home tab) and then Paste the file to the new folder or location. This can be tricky if you do not immediately paste the file in another spot. Use caution when totally deleting files.</para>
     </section>
@@ -107,11 +101,9 @@
     <title>Recovering a File</title>
     <para id="para-00020">After you have deleted a file, you may still be able to recover it. This is not always possible, but in some cases, you can recover files that have been deleted or, at least, locate a previous version that may be saved on your computer. First, check the <term class="no-emphasis" id="term-00015">Recycle Bin</term>. Generally, you will find it on the desktop. Open the Recycle Bin by double-clicking on the Recycle Bin icon on the computer desktop. When you see the file that you deleted and now want to retrieve, select it by double-clicking on the filename. Then, choose <term class="no-emphasis" id="term-00016">Restore</term> from the dialog box. You can also right-click on the filename and choose Restore from there. Another strategy is to simply search for the file on your computer in <term class="no-emphasis" id="term-00017">File Explorer</term>. In the search bar, type in the name of the file (even a partial name will work). You may be able to locate the file or a version of the file through the search tool.</para>
     <note class="mac-tip" id="note-00004">
-    <exercise class="unnumbered" id="exer-00004">
-    <problem id="prob-00004">
+    
     <para id="para-00021">A file that is in the <term class="no-emphasis" id="term-00018">Trash</term> can be restored. If the file has been removed from the Trash, and you use Time Machine, Apple’s backup program, you can recover an earlier version of the file even after it has been removed from the Trash.</para>
-    </problem>
-    </exercise>
+ 
     </note>
     <para id="para-00022">Windows systems have another option for retrieving deleted files, which involves restoring files from the file history. This is in the Systems and Security area of your computer’s <term class="no-emphasis" id="term-00019">Control Panel</term>. The easiest way to access this tool is to type <term class="no-emphasis" id="term-00020">File History</term> in the search bar by the Start menu (see <link target-id="fig-00004"/>). If you have File History enabled on your computer, you can choose Restore your files with File History to search for the file you have deleted.</para>
     <figure id="fig-00004" class="scaled-down">
@@ -130,11 +122,9 @@
     <title>How to Compress and Extract Files</title>
     <para id="para-00025">Locate the file or files that need to be zipped. Press and hold or right-click the file to select it, click <term class="no-emphasis" id="term-00023">Send To</term>, and then select the compressed folder. Locate the zipped file that needs to have files extracted from it. You can extract a single file, open it, and then drag it from the extracted folder to a new location. Or, to extract all contents of the zipped folder, you can press and hold or right-click the folder and select <term class="no-emphasis" id="term-00024">Extract All</term>.</para>
     <note class="mac-tip" id="note-00005">
-    <exercise class="unnumbered" id="exer-00005">
-    <problem id="prob-00005">
+    
     <para id="para-00026">To compress a file on a Mac, select the file you want to compress and then hold Control and click on the mouse and choose <term class="no-emphasis" id="term-00025">Compress</term>.</para>
-    </problem>
-    </exercise>
+   
     </note>
     </section>
     </section>
@@ -187,16 +177,14 @@
     <title>Rich Text Format (RTF)</title>
     <para id="para-00030">Microsoft developed <term id="term-00038">Rich Text Format (RTF)</term>, or <term class="no-emphasis" id="term-00039">.rtf</term>, files in 1987 to enable other Microsoft applications to read Word output more easily. Today, the .rtf format can be used to make your .docx file more compatible so that other software can use the information in the file more readily. For example, information from a Word document that is saved as an .rtf file type can be fed into a database program. Text in .rtf appears fairly “plain”—that is, with minimal formatting. .rtf files have stayed more or less the same as when they were first released, but Word .docx files are frequently updated. To put it another way, an .rtf is less sophisticated than a .docx file and may not support all the features of a newer .docx. To save a file as an .rtf, go to the File tab, click on Export, hover over Rich Text Format, and then click Save As.</para>
     <note class="mac-tip" id="note-00006">
-    <exercise class="unnumbered" id="exer-00006">
-    <problem id="prob-00006">
+   
     <para id="para-00031">To open .rtf files on a Mac:</para>
     <list list-type="enumerated" number-style="arabic" id="list-00004">
     <item>In the TextEdit app on your Mac, choose TextEdit > Settings, and then click Open and Save.</item>
     <item>Select Display RTF files as RTF code instead of formatted text.</item>
     <item>Open the .rtf file.</item>
     </list>
-    </problem>
-    </exercise>
+    
     </note>
     </section>
     <section id="sect-00014">

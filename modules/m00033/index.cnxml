@@ -25,11 +25,9 @@
     <title>Tabs</title>
     <para id="para-00007">Word comes with a set of default tabs (or menus), which are the interface for most of the functions and features you will use. Those tabs are File, Home, Insert, Draw, Design, Layout, References, Mailings, Review, View, and Help.</para>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+    
     <para id="para-00008">These same tabs are on the Mac Menu Bar, but the menu bar varies when you are in Word. There is no File tab on Word’s toolbar in Mac. The default tabs you see depend on the settings you have selected. They usually are Home, Insert, Draw, Design, Layout, References, Mailings, Review, View, and Tell Me. You can access Word preferences and settings via the taskbar at the top of the screen.</para>
-    </problem>
-    </exercise>
+    
     </note>
     <para id="para-00009">Many of the features that are common among the tabs in Office were covered in the <link document="m00049">Essentials of Software Applications for Business</link> chapter. In this chapter, you will learn more about how the tabs work in Word.</para>
     <para id="para-00010">You can customize your menu bar by adding or hiding tabs, and by modifying the tools that appear on each tab. There are hundreds of commands you can choose from; the Word interface is highly customizable. Customization of the tabs was covered in the chapter on <link document="m00049">Essentials of Software Applications for Business</link>. The next sections introduce some of the most important default tabs and their overall function, as well as the most-used commands, as <link target-id="fig-00001"/> shows.</para>
@@ -80,11 +78,9 @@
     <title>Navigation Pane</title>
     <para id="para-00021">The <term id="term-00011">Navigation pane</term> serves various purposes. The Navigation pane is accessed directly by checking the box on the View tab in the Show command group. You can also get the Navigation pane by selecting Find from the Home tab. With either of these options, a pane will open on the left side of the screen. There are three tabs in the Navigation pane: Headings, Pages, and Results. The first tab, Headings, is the first thing you will see when you open the Navigation pane. This tab shows the outline of your document, but only if you have placed headings for each section and subsection (which you will learn more about in the section on <link document="m00035">Formatting Document Content in Microsoft Word</link>). The Pages tab shows a thumbnail representation of the pages of the document. The Results tab is used for searching for a particular word, phrase, or number throughout the document, as <link target-id="fig-00004"/> shows. You can always activate the <term class="no-emphasis" id="term-00012">Find</term> function with the <term class="no-emphasis" id="term-00013">Ctrl+F</term> keyboard shortcut.</para>
     <note class="mac-tip" id="note-00002">
-    <exercise class="unnumbered" id="exer-00002">
-    <problem id="prob-00002">
+   
     <para id="para-00022">To activate the Find function on a Mac, press <term class="no-emphasis" id="term-00014">Command+F</term>.</para>
-    </problem>
-    </exercise>
+   
     </note>
     <figure id="fig-00004">
     <media alt="The View tab is selected and in the Show command group the Navigation Pane box is selected. The Navigation pane is visible on the left side with tabs titled Headings, Pages, and Results visible for selection. The word “group” is typed in the search bar above the tabs. The Results tab is selected and below are sentence fragments with the word “group” highlighted. A document with the word “group” highlighted in yellow is visible on the right side of the screen.">
