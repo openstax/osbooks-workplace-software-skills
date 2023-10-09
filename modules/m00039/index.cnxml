@@ -115,7 +115,7 @@
     </media>
     <caption>Section breaks are added using the Insert menu. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <para id="para-00021">If you want to view the section breaks as <link target-id="fig-00012"/> shows, go to the View menu, and select Show non-printing characters. The document will display a light blue dotted line where the section break is. Deleting a section is now easy because you can easily see the line; simply place the cursor at the left of the line and press the Delete key on the keyboard. (Note that section breaks must be deleted using the Delete key from the left in Docs; you cannot put your cursor to the right of the section break and use the Backspace keyto remove it.)</para>
+    <para id="para-00021">If you want to view the section breaks as <link target-id="fig-00012"/> shows, go to the View menu, and select Show non-printing characters. The document will display a light blue dotted line where the section break is. Deleting a section is now easy because you can easily see the line; simply place the cursor at the left of the line and press the Delete key on the keyboard. (Note that section breaks must be deleted using the Delete key from the left in Docs; you cannot put your cursor to the right of the section break and use the Backspace key to remove it.)</para>
     <figure id="fig-00012">
     <media alt="The left pane of the Google Doc displays Summary. The Outline lists the headers in the document. The first header (Introduction/Executive Summary) is highlighted in blue font. At the right in the document, blue dotted lines are seen below each header, indicating a section break.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_SECTION02.jpg"/>

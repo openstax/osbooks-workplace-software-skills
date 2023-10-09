@@ -128,7 +128,7 @@
     <para id="para-00026">To change the two images, right-click on one of them and select <term class="no-emphasis" id="term-00014">Change Picture</term>, as shown in <link target-id="fig-00011"/>, then browse to the folder where the image is and select Insert.</para>
 <note class="mac-tip" id="note-00005">
 
-<para id="para-00051">(On a Mac, the command is <term class="no-emphasis" id="term-00015">Control+right-click</term>.)</para>
+<para id="para-00051">On a Mac, the command is <term class="no-emphasis" id="term-00015">Control+right-click</term>.</para>
 
 </note>
 <para id="para-00052">If the new image is too wide, use the command Crop from the Picture Tools Format tab. To change the color scheme for the whole brochure, go to the Design tab and click on the Color drop-down menu, as in <link target-id="fig-00012"/>. Changing the colors this way will change the color palette for the whole brochure. Finally, to change the actual text, put your cursor on any of the panels of the brochure and change it manually. In this example, you changed the pictures and the text on the first page of the brochure to include details of the toy drive at WorldCorp.</para>
