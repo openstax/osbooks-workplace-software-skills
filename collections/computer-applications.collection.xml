@@ -69,6 +69,17 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Content Management Systems and Social Media in Business</md:title>
+      <col:content>
+        <col:module document="m00063"/>
+        <col:module document="m00064"/>
+        <col:module document="m00065"/>
+        <col:module document="m00066"/>
+        <col:module document="m00067"/>
+        <col:module document="m00068"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Working with Spreadsheets</md:title>
       <col:content>
         <col:module document="m00001"/>
