@@ -6,5 +6,153 @@
     <md:uuid>f76753ce-4b08-4943-aa2a-248aba9376b3</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Define Web 2.0</item>
+    <item>Distinguish between CMS types</item>
+    </list>
+    </section>
+    <para id="para-00002">Content management systems (CMS) consist of software that assists in building a website for personal or professional use. In the past, building a website would require individuals to be skilled in using languages such as HTML, CSS, and JavaScript. A <term class="no-emphasis" id="term-00001">CMS</term> offers templates and extensions in a user-friendly <term id="term-00002">WYSIWYG (What You See Is What You Get)</term> interface, which is a system that allows content to be edited in a form that resembles its appearance when printed or displayed as a finished product (e.g., a printed document, a web page). This means that you do not need to be skilled in using computer languages to build an attractive website.</para>
+    <para id="para-00003">The evolution of web technologies makes it easy to share information on your website and allow others to be a part of the experience. We no longer simply read information and move on. Rather, we become involved with what we view by reflecting, sharing, and having the ability to offer our own perspectives. The techniques and tools available today make it possible for users not only to be viewers but also to add their value as contributors.</para>
+    <section id="sect-00002">
+    <title>What Is Web 2.0?</title>
+    <para id="para-00004">The internet has changed over time with advances in technology. The first version of the internet, <term class="no-emphasis" id="term-00003">Web 1.0</term>, included little interactive capability beyond searching, and was used more as a hub of information. Most websites were fairly static, with few graphics. (See <link target-id="fig-00001"/>). Web 1.0 only allowed users to read the information that was distributed by publishers and webmasters.</para>
+    <figure id="fig-00001">
+    <media alt="An image of a page from the website for The Library of Congress lists a few clickable options under the title, such as Search the Catalog, Search our Web Site, Jobs, etc.. The page includes simple illustrations paired with these titles arranged in a circle: Collections &amp; Services (For Researchers, Libraries &amp; the Public), American Memory (American History in Words, Sounds &amp; Pictures), Copyright Office (Forms &amp; Information), The Library Today (News, Events &amp; More), Help &amp; FAQs (General Information), Exhibitions (An Online Gallery), America’s Library (Fun Site for Kids &amp; Families), and Thomas (Legislative Information). The address and an email address are listed. Across the bottom are clickable options for Collections &amp; Services, American Memory, Copyright Office, The Library Today, Thomas, America’s Library, Exhibitions, and Help &amp; FAQs.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_02_Web1.jpg"/>
+    </media>
+    <caption>Websites in the Web 1.0 era, such as this one for the Library of Congress, were text based, with very few visual or interactive components.</caption>
+    </figure>
+    <para id="para-00005">We are now in the era of enhanced usage and development of online content on the web, known as <term id="term-00004">Web 2.0</term>, as you can see in <link target-id="fig-00002"/>. Web 2.0 enables users to also be designers, with the capability to read and write on the internet.</para>
+    <figure id="fig-00002">
+    <media alt="A Library of Congress web page is visible. A Search Bar is at the top right with a menu bar. A photo is shown with text across the bottom of the photo: February is Black History Month. Paying Tribute to generations of Black Americans who struggled to achieve the benefits of full citizenship in smaller white font. Next are options for Library Catalog, Digital Collections, Researchers, Visitors, Teachers, Blogs, U.S. Copyright office, and More... The header Trending is in large black font next followed by: Top Searches: Civil War / Salem Witch Trials / National Parks / Rosa Parks / Maps / Ukraine. The next section features artwork of Joni Mitchell with the option to play a song by Joni Mitchell with song lyrics shown along the bottom. To the right are smaller images for categories Magazine and Blogs.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_02_Web2.jpg"/>
+    </media>
+    <caption>Web 2.0 is a more integrated approach to content on the internet, allowing for more interaction between the content and its users. Not only do you see that Joni Mitchell won the 2023 Gershwin Prize, you can hear the song as well by clicking the arrow.</caption>
+    </figure>
+    <para id="para-00006">For example, under Web 1.0, a website developed for WorldCorp would have been created and published for the public to view. Visitors would have been able to click on the different pages, watch videos, read articles and blog posts, and find out about local events in their community, but this one-way stream of information would have been all that viewers could experience. With Web 2.0, viewers are transformed into an online community of contributors, who also have a voice. They can not only watch videos, but also comment about what resonates with them, respond to other users’ comments about blog posts, and share information. The audience’s personal experiences, resources, and opinions provide a valuable addition to the original content published on your website. This information can now be monitored and used to help the company drive its campaign to increase customer engagement and revenue.</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00007">Review this <link url="https://openstax.org/r/78Web2_0">video about the evolution of Web 2.0</link> and how it changed the internet.</para>
+    </note>
+    <para id="para-00008">Transforming viewers into contributors on your website can be done by using features, extensions, and a WYSIWYG editor. For example, Photoshop is a WYSIWYG graphics program that displays images on the screen that appear the same way they will look when printed on paper. A WYSIWYG editor makes it easier for someone to act as a web developer without formal training.</para>
+    <para id="para-00009">Web development involves building a website using plain text, web applications, and other features for the internet or intranet. Creating the <term id="term-00005">client side</term>, or <term class="no-emphasis" id="term-00006">front end</term>—everything that is displayed on the user’s end of a web application or device, such as text and images—involves building the layout, design, and interactivity using HTML, CSS, and JavaScript (See <link target-id="fig-00003"/>). As you can see, website code can become very detailed and lengthy. Writing code such as this takes a skilled professional. This is where CMS programs come into play. Anyone can build a website without this specialized training.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="A screen shows a web page. At the right, a pane is open with tabs for Welcome, Elements, and Console. Elements is selected and computer programming code in various colors is listed with small black arrows at the left.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_02_Code.jpg"/>
+    </media>
+    <caption>Behind the scenes, websites are built using computer programming code.</caption>
+    </figure>
+    <para id="para-00010">This code will exist when you and the marketing team at WorldCorp are developing the site for Happy Tails WC. Your responsibilities could include developing everything the client sees when they type the URL into the web browser, such as the design, graphics, layout, and navigation of the website. The code will be established as you build the site through the CMS.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Types of Content Management Systems</title>
+    <para id="para-00011">There are three main types of CMS: open-source, proprietary, and enterprise (<link target-id="fig-00004"/>). An <term id="term-00007">open-source CMS</term>, such as <term class="no-emphasis" id="term-00008">Drupal</term> or <term class="no-emphasis" id="term-00009">WordPress</term>, is maintained by a community of developers, as opposed to a corporation or company. The source code is available to the public and can be modified to meet the needs of the individual or group using the platform. Although the system is open and free to use, there may be fees associated with additional services needed to run the system, such as hosting, support, or added features. Open-source platforms are a good choice for businesses on a tight budget, including start-ups, nonprofits, and companies with only a few employees.</para>
+    <para id="para-00012">A <term id="term-00010">proprietary CMS</term>, by contrast, is owned by the individual or group that created it. The source code is not available to the public, and often only those who have purchased a special license key may use it. Using a proprietary CMS may provide a quick turnaround and enable you to delegate a lot of work to a vendor. Popular proprietary CMS include <term class="no-emphasis" id="term-00011">Microsoft SharePoint</term>, <term class="no-emphasis" id="term-00012">IBM Enterprise Content Management</term>, <term class="no-emphasis" id="term-00013">Pulse CMS</term>, <term class="no-emphasis" id="term-00014">Sitecore</term>, and <term class="no-emphasis" id="term-00015">Shopify</term>.</para>
+    <para id="para-00013">For example, Happy Tails WC can use Shopify to host and manage all its content for the adoption agency. The platform offers several add-on features that can be customized to meet the needs of the company and allow them to brand their product/service. However, because Shopify owns the platform and is providing a space for others to use, it will display its brand on the Happy Tails WC site, like an advertisement. Happy Tails WC would have to pay additional fees to remove Shopify’s branding from its website. This type of pay-to-use structure is common among proprietary content management systems.</para>
+    <para id="para-00014">Finally, an <term class="no-emphasis" id="term-00016">enterprise content management (ECM) system</term> helps companies track and distribute large volumes of content such as documents, images, records, product information, emails, and web pages. Companies use this software for storage and collaboration regarding content creation and special projects. Employees within the organization can access and share information, with different levels of access based on privileges set by an administrator. The benefit of using an ECM for business is the platform’s compatibility with different file types; it can accept various documents, images, files, and email files. It has a high level of security and can handle large amounts of content, making it perfect for high productivity.</para>
+    <figure id="fig-00004">
+    <media alt="Three images are shown in a row. The first box is titled Open-Source with bullet points Basic development is free; Might pay for more specialized services; Generally easy to use. The middle box is titled Proprietary with bullet points Subscription based; Purchase a license; More advanced services included. The last box is titled Enterprise with bullet points Internal use for collaboration; Manages various content; Different access levels managed by an administrator.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_02_CMS.jpg"/>
+    </media>
+    <caption>A large company might have both a proprietary and an enterprise CMS.</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00015">You can visit this <link url="https://openstax.org/r/78ECM">resource on enterprise content management (ECM) by Brandfolder</link> to learn more about ECM and its applications.</para>
+    <para id="para-00016">By exploring this resource, you can discover how ECM solutions can enhance content management processes, improve collaboration, and optimize workflows in an enterprise setting.</para>
+    </note>
+    <section id="sect-00004">
+    <title>Why Are There So Many Types of CMS?</title>
+    <para id="para-00017">Different content management systems are designed to meet the needs of many different industries and business structures. <link target-id="fig-00005"/> shows the pros and cons of CMS. Open-source CMS software is easy to use because you can download it at no initial cost, and there are no license or upgrade fees and no contracts. However, you may have to pay for technical support, customizations, compatible templates, add-ons, and other functionality. Additional fees may arise if you need to train staff members or update software.</para>
+    <para id="para-00018">The benefit of using open-source CMS is its ease of installation, low cost, and easy access. Using an open-source product makes the most sense for Happy Tails WC since they are a new organization and currently have limited resources to purchase a more sophisticated system. Also, some of the advanced features that might be included in a proprietary or enterprise system are not really needed, since Happy Tails WC has a small staff and a limited geographical area.</para>
+    <para id="para-00019">Proprietary or commercial CMS software is built and managed by a single company and offers more customization features or options. Using this type of CMS generally involves purchasing license fees for the software, monthly or annual fees for updates, technical support, customization, and training. Integrating a proprietary CMS with an existing website may require extensive development work.</para>
+    <para id="para-00020">Some companies will benefit from working with an enterprise CMS. They will pay more in costs and upgrade fees, and they will not be able to take advantage of free trials or free versions, but the CMS functionality will be customized to meet their specific needs, offering features that may be critical to achieving their objectives. Therefore, companies often use an enterprise CMS to manage electronic content through the life cycle of a document, including creation, distribution, utilization, retention, and disposal. This system benefits corporations by tracking information, reducing operating costs, saving time, improving customer service, and minimizing risks.</para>
+    <figure id="fig-00005">
+    <media alt="Two images are shown. The first is titled Open-Source CMS. Below it lists the heading Pros (with a checkmark inside a circle) and bullet points Free; Easy to navigate; Templates available. Below is the heading Cons (with an x inside a circle) with the bullet points Some limits to navigation; Fees for additional features; Source code is public. The second box is titled Proprietary CMS. Below it lists the heading Pros (with a checkmark inside a circle) and bullet points More customization; Faster turnaround times for updates; Delegate work. Below is the heading Cons (with an x inside a circle) and bullet points Cost; More developmental work behind the scenes; Source code is owned by the CMS.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_02_ProCon.jpg"/>
+    </media>
+    <caption>Benefits associated with a proprietary CMS include enhanced support and other features that you may not find in an open-source CMS.</caption>
+    </figure>
+    <note class="spotlight-ethics" id="note-00003">
+    <title>Storing Private Information</title>
+    <para id="para-00021">When managing a content management system (CMS), it is crucial to consider various factors regarding the storage of private information and protecting the privacy of individuals. Let’s explore these considerations:</para>
+    <list list-type="enumerated" id="list-00002">
+    <item>Storage of information: One key aspect to address is how the information will be stored within the CMS. It is essential to implement secure storage protocols, such as encryption and secure servers, to safeguard sensitive data from unauthorized access. By employing robust storage measures, the risk of data breaches can be mitigated.</item>
+    <item>Access control: Determining who will have access to the stored information is of utmost importance. Implementing strict access control mechanisms ensures that only authorized individuals can access the private data. By defining user roles and permissions within the CMS, organizations can limit access to sensitive information and maintain accountability.</item>
+    <item>Information Protection Policies: Establishing comprehensive policies is vital to prevent the exposure of private information. These policies should outline guidelines for data protection, including password requirements, regular system audits, and employee training on data privacy and security. By having clear policies in place, organizations can create a culture of privacy awareness and mitigate the risk of data breaches.</item>
+    </list>
+    <para id="para-00022">By addressing these considerations, organizations can effectively manage a CMS while prioritizing ethical practices and protecting the privacy of individuals. Implementing secure storage methods, defining access controls, and establishing robust information protection policies are essential steps to prevent data exposure and uphold ethical standards in data management.</para>
+    </note>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00005">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>Web 2.0 enables users to create, curate, and manage content by using WYSIWYG software, which allows them to visualize how their content will be displayed.</item>
+    <item>There are three main types of CMS: open-source, proprietary, and enterprise. An open-source CMS provides free access to basic features and functionality. A proprietary CMS can offer faster, more customized solutions but requires licensing. An enterprise CMS offers high storage capacity and security, making it an ideal platform for day-to-day workflow.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00006">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00023"><link class="os-embed" url="#exercise/08-02-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00024"><link class="os-embed" url="#exercise/08-02-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00007">
+    <title>Written Questions</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00025"><link class="os-embed" url="#exercise/08-02-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00026"><link class="os-embed" url="#exercise/08-02-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00008">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00027"><link class="os-embed" url="#exercise/08-02-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00028"><link class="os-embed" url="#exercise/08-02-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>client side</term>
+    <meaning>everything that is displayed or occurs on the user’s end of a web application or device, such as text and image</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>open-source CMS</term>
+    <meaning>CMS that is maintained by a community of developers and is open to the public</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>proprietary CMS</term>
+    <meaning>CMS that is owned by the individual or group that created it and can be used only by those who purchase a license key</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>Web 2.0</term>
+    <meaning>websites that provide two-way communication or interaction</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>WYSIWYG (What You See Is What You Get)</term>
+    <meaning>editing software that allows content to be displayed in the same format it will appear when printed or shown</meaning>
+    </definition>
+    </glossary>
 </document>

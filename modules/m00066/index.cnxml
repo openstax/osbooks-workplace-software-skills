@@ -6,5 +6,226 @@
     <md:uuid>22776f43-a120-47d4-91e6-1f8291d2e78b</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Create and edit content with a WordPress account</item>
+    <item>Evaluate WordPress as a tool for businesses</item>
+    </list>
+    </section>
+    <para id="para-00002">Developing and maintaining content can be tedious and can become overwhelming over time. The more information that is created, curated, shared, or collected, the better equipped you must be to manage all the data. This is where a CMS can make content managers’ roles easier. As you read more about tools like WordPress and how to use different features to appeal to your audience and meet company objectives, you will start to understand why this CMS is very popular.</para>
+    <para id="para-00003">WordPress is an open-source CMS. It can be a platform for small businesses, start-ups, nonprofits, and bloggers. It is critical to begin by identifying your objectives for using WordPress so that you can stay focused and select the WordPress functions that will enhance your business. We will cover WordPress in this text, but it is just one example of an open-source CMS for smaller organizations. WordPress is a larger player in the CMS market, garnering almost 40 percent of the market for website development. It is easy to use and can support integration with Google.</para>
+    <section id="sect-00002">
+    <title>What Is WordPress?</title>
+    <para id="para-00004"><term class="no-emphasis" id="term-00001">WordPress</term> is an <term class="no-emphasis" id="term-00002">open-source CMS</term> that allows hosting and building for websites. Whether you are looking to build a business, blog, portfolio, or online store, it is a website platform for getting started. Without any knowledge of coding, you can use its features and functions, such as plugins and templates, to customize any website. For example, you can download WordPress e-commerce plug-ins to build an online store on your website. With WordPress, you can create many different types of websites, such as websites for business, portfolios, forums, blogs, events, and more. Once you are set up with a WordPress account, you can manage your website from any location.</para>
+    <section id="sect-00003">
+    <title>Getting Started with WordPress</title>
+    <para id="para-00005">There are some basics about terminology that are important to know before setting up your website. First, the domain name is your website address. It is what people will use to get to your website. Generally, the domain name is similar to, or the same as, your business or organization’s name. However, each website has a unique domain name. It is possible your business name is already in use by another organization. So, you might have to make modifications to the domain name to secure that domain for your organization’s use.</para>
+    <para id="para-00006">To have the information on your site available on the internet, it needs to be hosted by a hosting service. Hosting service providers store your website files and allow you to publish the website for public viewing on the internet. Your website has to have both a domain name (website address) and a hosting service. WordPress is convenient because it guides you through the process of both securing a domain name and hosting your website.</para>
+    <para id="para-00007">To get started with WordPress, go to get.wp.com and choose Get Started (see <link target-id="fig-00001"/>). You will create an account using a valid email address. Next, select a username and password. (Once you sign up, you will be asked to verify the account with the email address used, so you must have immediate access to the email you are connecting to the platform.)</para>
+    <figure id="fig-00001">
+    <media alt="The web page for https://get.wp.com is visible. The top of the page shows an icon with Get Word Press, followed by the text Create beautiful sites with WordPress; WordPress is a powerful and flexible way to create a website or blog – with hundreds of designs and a gorgeous mobile experience. It’s also free! A Hosting button is located at the top right. In the white space that follows, on the left, the site reads: WordPress comes in two flavors; Create a WordPress.com site; WordPress is a fast, convenient way to create a website or blog – with custom domains, mobile-ready layouts, and a lively community of millions. Build a streamlined homepage in minutes, or choose from thousands of WordPress themes and plugins to enhance your site. A blue Get Started button is visible at the bottom left and is highlighted with an orange circle and arrow. The right half reads: Set Up Your Own Version of WordPress; If you want more hands-on control over technical aspects of your site, you can set up your own WordPress installation through a hosting provider.*; Boxes labeled with bluehost (along with an image of a 3 x 3 grid of blue squares) and Pressable (with an image of a blue hat) follow and then: You can also host WordPress yourself.; *We may receive a commission when users sign up via the buttons above.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP1.jpg"/>
+    </media>
+    <caption>You will need to create an account on WordPress to start building a website.</caption>
+    </figure>
+    <para id="para-00008">Now that you have created an account, let’s revisit the Happy Tails WC organization. First, we need to consider an appropriate name for the domain name (website address). The next step will prompt you to enter a domain name for the site. You will most likely pay to secure your domain name for the website. This usually ranges from $10 to $20 per year depending on which type of domain you choose. WordPress does provide some completely free options for domain names, but the name will have the wordpress.com extension at the end of your website name rather than just having your organization’s name.</para>
+    <para id="para-00009">Start by typing in happytailwc. Notice there are several suggestions when you type in the organization name. You can also create your own website name. Some options might be free for the first year, but you will pay after (i.e., choosing to go with the .com suffix). If you choose a name that uses the wordpress.com extension, it will be free (see <link target-id="fig-00002"/>a). This example shows the free version. On the next screen, choose “start with a free site” at the top of the page (see <link target-id="fig-00002"/>b).</para>
+    <figure id="fig-00002">
+    <media alt="(a) A WordPress page shows Choose a domain across the top with this following: Enter some descriptive keywords to get started. A Search Bar follows with happytailswc written inside and a Filter option available at the right. Below the Search Bar these options are visible: happytailswc.blog (Recommended); Free for the first year; $22/year (with a strikethrough) and a blue Select button to the right; happytailswc.com (Best Alternative); Free for the first year; $19/year (with a strikethrough), and a blue Select button at the right. The following options appear next: happytailswc.wordpress.com (Free and a white Select button); happytailswc.pet (Free for the first year; $20/year (with a strikethrough) and a white Select button); happytailswc.org (Free for the first year; $19/year (with a strikethrough) and a white Select button); and happytailswc.dog (Free for the first year and a white Select button). At the right, the text reads: Get a free one-year domain registration with any paid annual plan.; Use the search tool on this page to find a domain you love, then select any paid annual plan.; We’ll pay the first year’s domain registration fees for you, simple as that!; Choose my domain later (hyperlinked); Already own a domain?; Connect your domain purchased elsewhere to your WordPress.com site through mapping or transfer.; Use a domain I own (hyperlinked). (b) A WordPress page shows Choose your flavor of WordPress along the top with Pay monthly and Pay Annually buttons right below. Five different plans are available. An orange arrow points to Free (Get a taste of the world’s most popular CMS &amp; blogging software.; $0; No expiration date; blue Starts with Free clickable button; Beautiful themes and patterns; Unlimited pages; Unlimited users; and Time machine for post edits. Personal (Create your home on the web with a custom domain name.; $4 per month, $48 billed annually; blue Get Personal clickable button; Everything in Free plus: Free domain for one year; Ad-free experience; Extremely fast DNS with SSL; Support via email. (Popular) Premium (Build a unique website with powerful design tools; $8 per month, $96 billed annually; blue Get Premium clickable button; Everything in Personal plus: Free domain for one year; Live chat support; Premium themes; Earn with WordAds; and Style customization. (Best for devs) Business (Unlock the power of WordPress with plugins and cloud tools.) $25 per month, $300 billed annually; purple Get Business clickable button; Everything in Premium, plus: Free domain for one year; Install plugins &amp; themes; Unrestricted bandwidth; Global edge caching, High-burst capacity. Commerce (Sell products and process payments with an online store.; $45 per month, $540 billed annually; purple Get Commerce button; Everything in Business, plus: Free domain for one year; Sell and ship products; Store customization; Inventory management; and Easy checkout experience.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP2.jpg"/>
+    </media>
+    <caption>(a) Choose a website name that is a good description of your business or organization. (b) You can create the website entirely for free, or choose from a myriad of options depending on your needs.</caption>
+    </figure>
+    <para id="para-00010">The next two screens will prompt you to answer questions about the purpose and goals for the website. Then, you will be taken to the database of website designs. Notice that some designs are only available for premium members (i.e., you must pay a fee to use them) while others are free, as shown in <link target-id="fig-00003"/>. You also have the option to skip the design selection and create your website from scratch. Let’s select “Skip for now” (in the upper-right corner) to see more about what WordPress has to offer for building a site from scratch.</para>
+    <figure id="fig-00003">
+    <media alt="A WordPress page is visible with a window labeled Pick a design. The sentence below reads One of these homepage options could be great to start with. You can always change later. To the right is the option Skip for now. Tabs for selection include: Show All (selected), Blog, Business, Portfolio, Single Page, Store, Photography, Link in Bio, Newsletter, and Podcast. Below the tabs are six different options to choose from in different patterns, colors, fonts, and set ups.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP3.jpg"/>
+    </media>
+    <caption>If you are unsure of where to begin building your website, choosing a design can help you get started.</caption>
+    </figure>
+    <para id="para-00011">Once your site is created, let’s explore the interface. The first screen you will see will display the overview of your website. This is called the <term id="term-00003">dashboard</term>. Here, you will be prompted to start building the pieces of the website. First, you should give the website a title and tagline, which could vary somewhat from the website address, but for this example, we will simply call it “Happy Tails WC.” Notice there is a menu of options on the left to help you change the appearance and add elements to the site (see <link target-id="fig-00004"/>). From this menu, you can also establish users for the website and their privileges to edit the site. Once you set the title, you will be prompted to update/edit the site’s design. WordPress will walk you through the steps along the way to build your website. Be sure to save your settings as you make changes. WordPress will remind you to save your settings as you move through the elements to build the site. Notice also that there are many links on the dashboard to assist you in developing the layout and content. These links can be very helpful as you are working on the design of the website.</para>
+    <figure id="fig-00004">
+    <media alt="(a) A WordPress page is visible. Across the top left are options for My Site and Reader. At the top right is a Write button, an avatar icon, a question button and a messages icon. The pane at the left displays the Site Title: happytailswc.wordpress.com. These options for selection follow: My Home, Stats, Upgrades, Inbox, Posts, Media, Pages, Comments, Feedback, Jetpack, WooCommerce, Appearance, Plugins, Users, Tools, Settings (selected), General and Writing. My Home through Settings is highlighted with an orange box. At the right, the pane is titled General Settings and this sentence follows: Manage your site settings, including language, time zone, site visibility, and more. A Site profile heading follows with a red Save Settings button to the right (highlighted inside an orange circle). Next, are Site icon (includes a space for a picture and a Change button is available), Site title (Happy Tails WC in written inside), and Site tagline (space is empty and a sentence below reads: In a few words, explain what this site is about.) A white fi inside a green circle follows with this text: Make an incredible logo in minutes; Pre-designed by top talent. Just add your touch. To the right, a button for Try Fiverr Logo Maker is visible. A Site address is next with happytailwc.wordpress.com and a button for +Add custom address to the right. The text that follows reads: Buy a custom domain, map, a domain you already own, or redirect this site. You can change your site address in Domain Settings. Language follows with an option for choosing a language (EN English is selected) and this sentence reads after: The site’s primary language. You can also modify your interface’s language in your profile. (b) A MyHome page is displayed on the WordPress website and this reads below the heading: Your hub for posting, editing, and growing your site. A Visit site button is at the top right. A timer icon with 20 minutes is below and a heading with Update your site’s design follows with this sentence next: We’ve created the basics, now it’s time for you to update the images and text. Make a great first impression. Everything you do can be changed anytime. A red Edit site button is located at the bottom left. Site setup is located at the right with this list below: Give your site a name (with a green checkmark preceding), Update your homepage, Confirm your email address; (with a green checkmark preceding and an email address listed following), Try the WordPress app, Enable post sharing, and Launch your site to the world.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP4.jpg"/>
+    </media>
+    <caption>(a) When you select “Name Your Site,” you will be prompted on the next screen to enter a title and tagline. (b) On the next screen, you will update the design of the site, including color schemes.</caption>
+    </figure>
+    <para id="para-00012">Before we design the layout, let’s choose a theme for the site. Choose Appearance and then Theme from the menu on the left of the screen in the dashboard, as seen in <link target-id="fig-00005"/>. A theme provides the framework for the site that you can then customize. It is a good place to start rather than creating the layout and elements from scratch. A new screen will appear listing the current theme and then options to search and choose a new theme.</para>
+    <figure id="fig-00005">
+    <media alt="(a) The left portion of a WordPress page is visible. The Appearance option is selected and opens to the right with these options for selection: Themes (selected), Editor, and Customize. (b) A Themes page displays a Install theme button at the top right and reads: Select or update the visual design for your site. Learn more. A Zoologist is the Current Theme (This is the active theme on your site. Learn more.) Edit and Info buttons are located at the right. A Search bar follows with Search by style or feature: portfolio, store, multiple menus, or… typed inside. A Filters option is at the right and All, Free or Premium options are available for selection to the right. Tabs for Recommended (selected), Trending, and All Themes follow. This sentence follows: Let our WordPress.com experts build your site! You want the website of your dreams. Our experts can create it for you. A red Find your expert button is at the right. A variety of themes are visible (Blank Canvas, Masu, Spearhead Blocks, Pixl, and Varese) with different placements of text and images and colors, text fonts, etc…">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP5.jpg"/>
+    </media>
+    <caption>(a) You can change the appearance of the site by using a built-in theme or customizing your own theme. (b) WordPress has many theme templates available to use on your site.</caption>
+    </figure>
+    <para id="para-00013">For Happy Tails WC, we want to use an engaging theme. Let’s choose a theme that contains a good deal of color and one that puts pictures on the home page so that we can pique the interest of individuals who are interested in adopting the available pets. Themes are categorized by style, type of business, or use. For example, one set of themes may be ideal for users who want to build a website for a personal blog, and another set for a family website. Once you select a theme, you will notice that it comes with complete branding, including fonts, color schemes, page layouts, and other features. After choosing a theme that matches the feel or mood of your business, you can change the images, color scheme, and fonts, all while keeping the same layout.</para>
+    <para id="para-00014">Choose the theme Snaps. This theme prominently displays pictures in a nice layout, while also being able to accommodate text that would describe each pet available for adoption (see <link target-id="fig-00006"/>).</para>
+    <figure id="fig-00006">
+    <media alt="A WordPress window displays the Snaps theme (a portfolio theme perfect for showcasing portrait images and galleries). A black bar runs across the top and text is visible at the left with a red Customize site button. At the right half of the screen, an image of people on a crowded street is visible in darkness and options for Home, Portfolio, Blog, Readability, Image Alignment and Styles, and HTML Elements are available for selection as well as icons for Photo, X (Twitter), and Facebook. A grid of 4 x 3 images follows or people, animals, nature, and other items.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP6.jpg"/>
+    </media>
+    <caption>Choose Activate this design to apply the theme to the website.</caption>
+    </figure>
+    <para id="para-00015">After you have activated the design theme, you can customize the site to fit your needs by changing colors and fonts, adding images, building the website menu, and adding information for a post. You will be working in the website screen as it will appear to users (WYSIWYG), so when you make a change to colors or content, you can see immediately how the result will look to anyone visiting your site online (see <link target-id="fig-00007"/>). You can add information and add images in this view. When finished, choose Save Changes at the top left of the screen to go back to the WordPress dashboard. (It will read Saved afterward.) If you need to get back to the customization screen, you can access it from the Appearance menu in the dashboard.</para>
+    <figure id="fig-00007">
+    <media alt="A happytailswc.wordpress.com site page is visible. At the top left is an X button and a Saved button (highlighted with an orange arrow). The panel on the left reads You are customizing Happy Tails WC as well as these options for selection: Site Identity, Colors &amp; Backgrounds, Fonts, Header Image, Menus, Widgets, Homepage Settings, and Portfolio. At the right, a brown banner with dots, bones, and paw prints in beige, and light and dark orange colors on a brown background runs across the top with Hapy Tails WC in white letters printed over the image. Options for selection below include: Home, Donate, Events, Mission, See our Happy Tails Families, and Volunteer. A pane with images of Adoptable Pets follows.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_CUSTOM.jpg"/>
+    </media>
+    <caption>You can customize many aspects of the theme, including colors, fonts, and background image.</caption>
+    </figure>
+    <para id="para-00016">When you save your changes to the theme, you will go back to the WordPress dashboard. Notice you have several options in the dashboard view, as <link target-id="fig-00008"/> shows. You can add pages to the site, you can modify/add users and set permissions, and you can also draft posts and blogs for the website. Save your changes by clicking “Update” in the upper-right corner. The best way to learn WordPress is to experiment with the options and settings.</para>
+    <para id="para-00017">At this point, your website is not “live,” meaning it is not yet published on the internet. When you are satisfied with the design of the site and are ready for people to see it, you need to make the site available on the internet. To publish the site, simply choose Launch your site from the menu on the right side of the screen on the dashboard. You will be prompted to select the domain and be asked to pay for hosting (see <link target-id="fig-00009"/>).</para>
+    <figure id="fig-00008">
+    <media alt="A blog page for wordpress.com/post/happytailswc.wordpress.com/79 is visible. At the top right options are available for Switch to draft, Preview, and an Update button (highlighted with an arrow). A Search bar is located at the top left along with tabs for Blocks, Patterns, and Media. Blocks is selected and lists these options for Text selection: Paragraph, Heading, List, Quote, Classic, Code, Preformatted, Pullquote, Table, Verse, Markdown, AI Paragraph (Experimental), and Syntax Highlighter Code. The middle of the screen lists details of a Fundraising Event. At the right are tabs for Post and Block. Post is selected and lists these options for Summary selection: Visibility (Public is selected), Publish (Today at 3:32 pm), and URL (a URL is listed). A checkable box for Stick to the top of the blog follows and then drop down menus for Post Format (Standard is selected) and Author (Angela Mitchell is listed). A red Move to trash button follows. 3 Revisions are listed and drop down menus for Categories, Tags, Featured Image, and Excerpt are available.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP7a.jpg"/>
+    </media>
+    <caption>You can construct your first post using the blog feature of the site. By choosing “+” in the upper left, you can add elements such as text or images to your website.</caption>
+    </figure>
+    <figure id="fig-00009">
+    <media alt="On the MyHome page of WordPress, the header Put your site in your pocket is followed by the sentence: Write posts, view your stats, reply to comments, and upload media anywhere, anytime. A green Download the app button follows as well as a hyperlinked Skip for now. At the right the header Blog setup follows with these options for selection: Name your blog (preceded by a green checkmark), Preview your blog (preceded by a green checkmark), Browse themes (preceded by a green checkmark), Publish your first post (preceded by a green checkmark), Enable post sharing (preceded by a green checkmark), Launch your blog (highlighted with an orange arrow), and Try the Jetpack app.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP7b.jpg"/>
+    </media>
+    <caption>To make the website live on the internet, you will need to pay for web hosting.</caption>
+    </figure>
+    <para id="para-00018">Take the time to work through the features of interest to you. Here, we have covered some of the basic elements you need to get started, but there are many more things you can do in WordPress. As an editor working in <term class="no-emphasis" id="term-00004">WordPress</term>, you will create, edit, publish, and delete posts, as well as moderate, approve, and delete comments written by others.</para>
+    <para id="para-00019">Editors may be given permission to change settings, add new users, or install plug-ins by their supervisor or administrator. These abilities can come in handy when designing and editing a website. A <term id="term-00005">plug-in</term> is a software application, similar to a smartphone app, that you can add to a WordPress website to extend its functionality. For example, suppose you want to add a plug-in to track engagement on your blog posts so you can see what content to curate or expand within the blog. Your plug-in might consist of a contact form that you use to collect subscriber data, such as favorite color, shirt size, or hobbies—data you can use to improve the user experience. WordPress currently has over 55,000 plug-ins, a figure that may seem overwhelming at first. You can easily narrow down the options using the search-and-filter system as well as the plug-ins themselves.</para>
+    <para id="para-00020">Another important customizable feature of a WordPress website is the <term id="term-00006">widget</term>. Widgets are software applications that display information or allow users to interface with a website. They can be difficult for users to understand because they are typically something that developers deal with and require extensive coding. But in WordPress, widgets manage the content in the design of your site without using code. Unlike plug-ins, widgets impact the design of your website. For example, you may want to add a widget to your website that embeds your social media feed, displaying posts, an email subscription form, testimonials, and a list of social media icons.</para>
+    <para id="para-00021">Your entire website is made up of <term id="term-00007">pages</term>, much like the pages of a book, except that the user can choose to view the web pages in any order they prefer. The pages will be consistent, giving the whole website a cohesive look. Most websites will have a home page (Home), an About or About Us page that describes the organization, and a Contact page, which provides a way to contact the organization. In WordPress, the pages will look very similar to a <term id="term-00008">post</term>, which is a piece of information that can be added to your website and listed in order from oldest to newest. Pages are the skeleton or core of the website and are organized as main pages and subpages of the main pages. The pages of your website set up the framework for organizing the content and how users will navigate your site. Posts, by contrast, are time-oriented and are generally meant for social media. Often, posts are made to highlight certain events or news related to the organization.</para>
+    <para id="para-00022">Posts can be organized and made searchable to users through the use of tags. A <term id="term-00009">tag</term> is a keyword about specific details in posts that help make the content in posts searchable. There are also categories for posts. Categories are a method of organizing posts on a website so that visitors can sort them easily, similar to the way search engines locate your content. Think of a <term id="term-00010">category</term> as the broad subject of the post and a tag as something more specific in the post details. For example, Happy Tails might have a category entitled “Dogs Available,” whereas a tag in a post could be “German Shepherd puppy.” It is a good idea to establish categories; otherwise, WordPress will put all posts in a generic “Uncategorized” category. Tags are optional, but they do help users get to the content you want them to see. There is also an option for visitors to sign up for an <term id="term-00011">RSS (Really Simple Syndication)</term> feed to have posts delivered to them via email. RSS allows posts to be shared quickly and increases the level of traffic to your website.</para>
+    <para id="para-00023">To add categories or tags to your site, go to Posts on the WordPress dashboard (see <link target-id="fig-00010"/>). From there, choose either categories or tags. Let’s add the category “Dogs available” (see <link target-id="fig-00011"/>) and the tag “German Shepherd puppy” (see <link target-id="fig-00012"/>) to our Happy Tails WC site.</para>
+    <figure id="fig-00010">
+    <media alt="A WordPress My Home page is visible. Across the top left are options for My Sites and Reader. The pane at the left displays the Happy Tails WC with happytailswc.wordpress.com below. It is labeled Private. A red Upgrade button with Free domain with an annual plan follows. These options for selection are listed: My Home, Stats, Upgrades, Inbox, Posts, Media, Pages, Portfolio, Comments, Feedback, and Jetpack. Posts is selected and opens to these options for selection: All Posts, Add New, Categories (highlighted with an orange arrow), and Tags (highlighted with an arrow). At the right the header Blog setup follows with these options for selection: Name your blog (preceded by a green checkmark), Preview your blog (preceded by a green checkmark), Browse themes (preceded by a green checkmark), Publish your first post (preceded by a green checkmark), Enable post sharing (preceded by a green checkmark), Launch your blog (preceded by a green checkmark), and Try the Jetpack app.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_CATa.jpg"/>
+    </media>
+    <caption>Adding categories and tags helps users find specific information on your site.</caption>
+    </figure>
+    <figure id="fig-00011">
+    <media alt="An Add New Category pane in WordPress is visible. The top bar displays Dogs Available. The Description box is empty. A toggle button is turned on for Top level Category (Disable to select a Parent Category reads below). Cancel and Add buttons are visible at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_CATb.jpg"/>
+    </media>
+    <caption>Categories are broad descriptors of content on the site.</caption>
+    </figure>
+    <figure id="fig-00012">
+    <media alt="A Tags window in WordPress is open and a Search bar is located at the top. A red Add New Tag button is at the top right. A file for German Shepherd puppy is listed below.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_CATc.jpg"/>
+    </media>
+    <caption>Tags are more specific details about content.</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00004">
+    <title>Business Site Considerations</title>
+    <para id="para-00024">About 40 percent of internet websites, including small businesses, are developed using the WordPress platform. <term class="no-emphasis" id="term-00012">WordPress</term> offers features that can accommodate businesses of many different sizes and types, and we have included it here because it is free and easy to use. But regardless of the platform you use to develop a website—even if you hire a firm to do this for you—there are important considerations to examine. First and foremost, how will the website be used? Will the site be used for e-commerce? Is the site used primarily to share information? Is the company counting on the website to increase its market share through interactive elements to build a customer base? The site should be in line with the company image and brand, as well as reflect the company’s goals. Having a discussion about how the website will be integrated into the business is a key step in the design process. This process often starts with choosing a unique domain name, like “Happy Tails WC,” that expresses what your business is or does.</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00025">If you are considering establishing your own WordPress site, it’s essential to have a reliable resource to guide you through the process, especially if you’re new to the platform. For beginners, we recommend checking out this <link url="https://openstax.org/r/78WPBeginner">comprehensive guide by WPBeginner</link> to learn more.</para>
+    <para id="para-00026">This guide offers valuable insights, step-by-step instructions, and practical tips to help you navigate the world of WordPress effectively.</para>
+    </note>
+    <para id="para-00027">Another factor to consider is how you will drive users to your website. This can be facilitated through SEO. Recall that SEO is the process of increasing the visibility of a website to users who are searching for products or services. The most common search engine is Google, with Bing as a very distant second. SEO works by including keywords on each web page that identify titles, descriptions, and images. Adding these keywords will help move your site closer to the top of the list when a user searches for a business similar to yours. Although many search engines use different methods of ranking, including charging for the top spots in the results lists, SEO is essential to get users to your website. We will learn more about SEO in <link document="m00067">Document Preparation</link>.</para>
+    <note class="real-application" id="note-00002">
+    <title>Content Accessibility</title>
+    <para id="para-00028">Improving the accessibility of your website is crucial to providing a positive user experience for all visitors, regardless of their abilities or disabilities. By incorporating accessibility features, you can make your website more user-friendly and inclusive, ensuring that all visitors can engage with your content and have a positive user experience. Here are some features and considerations to enhance the accessibility of your website:</para>
+    <list id="list-00002">
+    <item>Alternative text (alt text): Adding descriptive alt text to images allows screen readers to convey the content to visually impaired users. This ensures that they can understand the context and purpose of the images on your website.</item>
+    <item>Text equivalents: Providing text equivalents for non-text content, such as videos or audio files, allows individuals with hearing impairments or those who are unable to access multimedia content to understand the information presented.</item>
+    <item>Proper heading structure: Using headings (H1, H2, H3, etc.) to organize your content in a logical and hierarchical manner helps screen readers and users who rely on keyboard navigation to understand the structure and easily navigate through your web pages.</item>
+    <item>Color contrast: Ensuring sufficient color contrast between text and background improves readability, particularly for individuals with visual impairments or color blindness. Using tools to check and adjust color contrast can help meet accessibility standards.</item>
+    <item>Keyboard accessibility: Designing your website to be navigable using a keyboard alone is vital for individuals who cannot use a mouse or other pointing devices. This includes providing keyboard focus indicators, ensuring all interactive elements are accessible via keyboard, and enabling users to skip repetitive content.</item>
+    <item>Captions and transcripts: Adding captions to videos and transcripts for audio content allows individuals who are deaf or hard of hearing to access the information presented. It also benefits users who may prefer reading or have difficulty understanding spoken language.</item>
+    <item>Researching accessibility plug-ins: There are numerous accessibility plug-ins available that can help enhance your website’s accessibility features. These plug-ins can provide additional functionalities such as text resizing options, screen reader compatibility, color adjustments, and more. Research and select plug-ins that align with your specific accessibility needs and requirements.</item>
+    </list>
+    <para id="para-00029">To explore further examples and important considerations for building accessible online content, visit the <link url="https://openstax.org/r/78WAI">Web Accessibility Initiative (WAI) website</link> provided by W3.org. The website includes wealth of valuable information and practical examples.</para>
+    </note>
+    <para id="para-00030">The security of your site is also important, so customers will feel safe entering their personal information. A site that doesn’t look professional or that doesn’t have trusted security icons or safe payment method options can deter customers and reduce sales. Some of the safest payment methods include credit cards with chip technology and payment applications such as Google Pay, Apple Pay, Cash App, and Zelle.</para>
+    <para id="para-00031">Finally, you will need to use analytics that measure your website’s performance—how many visitors are coming to your site, how much time they are spending on each page, how many users are contributing to your site, and so on. These metrics are found in menu on the left side of the WordPress dashboard, which we will learn more about in <link document="m00067">Document Preparation</link>.</para>
+    </section>
+    <section class="section-summary" id="sect-00005">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>WordPress is a CMS that is easy to install, free, and open-source. This makes it an ideal platform for small businesses, start-ups, nonprofits, and bloggers.</item>
+    <item>To create a business website with WordPress, you may want to make use of features such as search engine optimization (SEO) and analytics that measure your site’s performance.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00006">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00032"><link class="os-embed" url="#exercise/08-03-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00033"><link class="os-embed" url="#exercise/08-03-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00007">
+    <title>Written Questions</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00034"><link class="os-embed" url="#exercise/08-03-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00035"><link class="os-embed" url="#exercise/08-03-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00008">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00036"><link class="os-embed" url="#exercise/08-03-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00037"><link class="os-embed" url="#exercise/08-03-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00009">
+    <title>Case Exercise</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00038"><link class="os-embed" url="#exercise/08-03-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>category</term>
+    <meaning>method of organizing posts on a website so that visitors can sort them easily</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>dashboard</term>
+    <meaning>main screen that allows you to see the administration of a website</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>pages</term>
+    <meaning>framework that makes up a website</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>plug-in</term>
+    <meaning>extension or app that customizes and enhances the functionality of a website</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>post</term>
+    <meaning>piece of information that can be added to your website and listed in order from oldest to newest</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>RSS (Really Simple Syndication)</term>
+    <meaning>method of delivering posts to a website</meaning>
+    </definition>
+    <definition id="def-00007">
+    <term>tag</term>
+    <meaning>keyword for specific content on the site that can be used to organize information</meaning>
+    </definition>
+    <definition id="def-00008">
+    <term>widget</term>
+    <meaning>tool that can be used to embed consistent information, such as advertising, on headers, footers, and sidebars within a website</meaning>
+    </definition>
+    </glossary>
 </document>
