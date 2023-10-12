@@ -6,5 +6,208 @@
     <md:uuid>ee10a592-9af2-451c-b58b-1c22621bca11</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Describe how search engines work</item>
+    <item>Define and discuss search engine optimization</item>
+    <item>Apply search engine optimization techniques</item>
+    </list>
+    </section>
+    <para id="para-00002">Search engines have been around since the internet was founded in 1990. Yahoo!, founded by Microsoft, was the original search engine. Search engines are designed to help people find websites on the internet. But a search engine is only useful if it delivers relevant results. This is where search engine optimization (<term class="no-emphasis" id="term-00001">SEO</term>) comes in. We have briefly discussed the concept in <link document="m00064">Technology Uses</link> and <link document="m00066">Creating and Working in Documents</link>. Here, we will go into more depth about SEO as it relates to developing your online presence.</para>
+    <section id="sect-00002">
+    <title>What Are Search Engines?</title>
+    <para id="para-00003">Search engines such as <term class="no-emphasis" id="term-00002">Google</term>, <term class="no-emphasis" id="term-00003">Yahoo!</term>, and <term class="no-emphasis" id="term-00004">Bing</term> are web-based tools that use an <term id="term-00005">algorithm</term>, which is a program used by a search engine to arrange pages in order from the most relevant to the least. Algorithms generate search results based on user inquiries. In effect, a <term class="no-emphasis" id="term-00006">search engine</term> acts as a personal researcher to help the user locate relevant web pages or results based on the word, phrase, or sentence typed into the search bar. Unlike a browser, whose sole purpose is to display a web page, a search engine is a locator tool. Search engines “crawl” or explore the billions of pages that are available on the internet. Using different search engines to search for the same topic or industry could yield different results because they might handle keywords differently or have different ranking algorithms. However, because Google has more than 90 percent of the market share, many websites tend to focus on SEO for Google, ignoring other search engines that are much less widely used.</para>
+    <para id="para-00004">The goal of SEO is to increase traffic to a website. Higher traffic, or a greater number of visitors, is accomplished by listing a website near the top of the search list when a user searches for a particular website. The higher the site appears on the list, the more likely it is that visitors will click on it. More site visitors can increase your online visibility and increase the potential for more sales, if you are an e-commerce site. Also, sites that have a greater number of visitors tend to have the perception of being of higher quality than those with fewer visits. Because of the sheer size of the internet and the number of websites hosted on the internet, SEO can be a cost-effective way to reach more people. <link target-id="fig-00001"/> is an example of the type of information you would find when measuring the reach of a website.</para>
+    <figure id="fig-00001">
+    <media alt="A WordPress window with Stats selected from the menu at the left is shown and opens to a window for Jetpack Stats. Traffic and Insights tabs are available. Traffic is selected and opens to 7-day highlights. Across the top, information is shown for Visitors (1, up 1 (100%)), Views (17, up 17 (100%)), Likes (0, 0 (0%)), and Comments (0, 0 (0%)). February 16, 2023 (last updated: 10:04 AM (Updates every 30 minutes)) is listed next with buttons for Days (selected), Weeks, Months, and Years at the right. Checkable buttons for Views (blue) and Visitors (dark blue) are visible. Across the bottom a bar graph displays with days from January 29 to February 16 on the x-axis and 0, 10, and 20 on the y-axis. A tall blue bar (≈18) displays on February 15th only with a very small dark blue bar inside (≈3).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_04_Metrics.jpg"/>
+    </media>
+    <caption>Most hosting services provide data to help you see how many people have visited your website.</caption>
+    </figure>
+    <note class="mac-tip" id="note-00001">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00005">Mac users can take advantage of the built-in tools and features available on macOS, such as the Safari Web Inspector. <term class="no-emphasis" id="term-00007">Safari</term>, the default web browser on Mac, comes with a powerful development tool called the <term class="no-emphasis" id="term-00008">Web Inspector</term>. It allows you to analyze and debug web pages, which can be valuable for SEO purposes. To access it, follow these steps:</para>
+    <list id="list-00002">
+    <item>Open Safari and navigate to the web page you want to inspect.</item>
+    <item>Go to the Safari menu in the menu bar, then click on Preferences.</item>
+    <item>In the Preferences window, click on the Advanced tab.</item>
+    <item>Enable the option that says Show Develop menu in menu bar.</item>
+    <item>Close the Preferences window.</item>
+    </list>
+    <para id="para-00006">You should now see a Develop menu in the menu bar. Click on it and choose Show Web Inspector. Once the Web Inspector is open, you can use its various panels to analyze the structure of the web page, inspect HTML elements, view and modify CSS styles, monitor network requests, and more. This can be helpful for identifying SEO-related issues, such as missing meta tags, slow-loading resources, or improperly structured content.</para>
+    </problem>
+    </exercise>
+    </note>
+    <section id="sect-00003">
+    <title>How Does Google Work?</title>
+    <para id="para-00007"><term class="no-emphasis" id="term-00009">Google</term> is a search engine that uses <term id="term-00010">web crawler software</term> to constantly roam the internet. Web crawling means that the computer software scans the internet for certain words, tags, and links based on a particular search term(s). These software programs are automated and sometimes referred to as “<term class="no-emphasis" id="term-00011">bots</term>.” The bots browse the internet when terms are put in the search bar and operate search engines for the purpose of web indexing. An index on the web is similar to an index at the end of a book—it contains all website addresses that are searchable by the bots. To get your website to be included in the index, the website content needs to be deemed credible and of value to users, easy to navigate, and not to contain duplicate information. Once the site is on the index, when a user puts in a search term that is tied to the information on the website, the website will be returned and ranked. Higher-ranked websites will appear sooner in the search results list. You can improve your website ranking by including keyword tags, categories, and links to other relevant websites. You can also improve your website ranking by using search engine marketing and paying to have your company’s information show up higher in the search results list. Google uses a sophisticated computer algorithm to rank websites that are constantly updated. Most search engines will use similar technology for searching on the internet. The Google search process has three stages:</para>
+    <list list-type="enumerated" id="list-00003">
+    <item><term id="term-00012">Crawling</term>: Automated programs seek out new or updated pages and organize their addresses in a list that the user can view.</item>
+    <item><term id="term-00013">Indexing</term>: Based on information from crawling, Google visits pages and analyzes their content, images, videos, and other elements. The goal is to identify the type of page and store the information in an index.</item>
+    <item><term id="term-00014">Serving</term>: In this stage, the search engine determines the best results based on user language, location, device, and queries. For example, a user searching for a tea shop will have different results if they are in Florida than if they are in India.</item>
+    </list>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00008">We recommend watching this <link url="https://openstax.org/r/78TEDZTufekci">TED Talk by science writer and journalist Zeynep Tufekci</link> to gain an insightful perspective on the influence of algorithms and the potential dystopian consequences of building a digital world driven by ad clicks.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00004">
+    <title>What Is Search Engine Optimization?</title>
+    <para id="para-00009">Search engine optimization (<term class="no-emphasis" id="term-00015">SEO</term>) is a digital marketing strategy that business owners or individuals can apply to their websites and web pages to increase the value and volume of traffic from different search engines. Search engines sort results from different websites to show the public relevant information based on keywords. Pages are ranked using an algorithm to help improve search results. A web page with more relevant links will rank at the top of the list. <term id="term-00016">PageRank</term> is an algorithm used to help business owners promote online visibility by increasing the number of internet search results for a website. To optimize search results, business owners should update their information regularly and use relevant keywords within their web pages. Keywords will be based on company products and services they offer. There are companies that will analyze and provide SEO data for your website. <link target-id="fig-00002"/> shows just one example of how the data be summarized.</para>
+    <figure id="fig-00002">
+    <media alt="A pane on the left lists these options for selection: Domain Name, Homepage, Analytics, Search Optimization, Custom Meta Tags, Favicon, Web Clip Icon, Social Sharing Thumbnail, Site Options, Password Protection, Cookie Banner, Restore Website Styles, Unpublish Site, and Account &amp; Region. Search Optimization is selected and opens at the right with the following below the heading: This information is what will appear in search engine results for your site. Please note: Changes in Settings will be applied when publishing or updating your site. A Website Title (Happy Trails) and Meta Descriptions (Find a pet to adopt) follow. Meta Keywords selected include: Pet, adoption, cat, and dog. Items selected as options include: Allow search engines to index my site and Automatically submit site updates to search engines.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_04_DATA.jpg"/>
+    </media>
+    <caption>Different analytics tools provide a variety of ways to analyze your website, such as keyword tags and SEO settings.</caption>
+    </figure>
+    <para id="para-00010">SEO is important for businesses to implement because it boosts the likelihood that their site will be seen before their competition. A website with a higher rank will receive more clicks and visits from viewers. Higher ranks can be obtained by including keywords multiple times and in multiple places on your site. For example, Happy Tails WC might ensure that they get potential pet adopters to their site by using keywords such as “dog,” “cat,” “adoption,” and their specific location multiple times throughout the website.</para>
+    <para id="para-00011">Companies can also improve their website’s rank by making sure the site loads quickly, can work on multiple platforms such as tablets and phones, and has an easy-to-navigate layout. SEO can even impact the user experience; consumers should be able to locate what they need by inputting specific keywords in a search. The better the SEO is implemented on a site, the easier this process is for the end user. Implementing SEO also adds credibility to a website by increasing exposure to customers.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Optimizing Your Site for Search Engines</title>
+    <para id="para-00012">Here are some steps you can take to optimize your website for search engines:</para>
+    <list id="list-00004">
+    <item>Focus on producing rich content, such as crisp images and high-quality videos.</item>
+    <item>Conduct keyword research that aligns with what your customers want.</item>
+    <item>Identify your target audience and design your site to meet their needs. If your site is not well-designed, it can be difficult for web crawler software to analyze the content effectively.</item>
+    <item>Make sure you have a good hosting site that allows your website to load quickly and allows you to add tags and categories to your website.</item>
+    <item>Consider hiring an SEO expert who can analyze your website and help you improve your rank within ethical guidelines.</item>
+    </list>
+    <section id="sect-00006">
+    <title>Optimizing Specific Content</title>
+    <para id="para-00013"><term class="no-emphasis" id="term-00017">SEO</term> <term id="term-00018">keywords</term> include specific words and phrases in your web content, making it easy for your site to populate within search engines. If your website is optimized properly, the language used in your keywords will be identical or similar to the language used by your visitors. Therefore, it is essential to understand your target market. Keywords help define what your site is about and connect your audience to you. For example, if you have a T-shirt shop but fail to specify the types of T-shirts you sell, you will miss opportunities to reach potential customers. For better results, use keywords that represent your niches, such as “wholesale T-shirts” or “vintage T-shirts.” Make a list of relevant topics surrounding your niche and develop different keywords. It is also a good idea to study your competition and see how they rank or what keywords are driving traffic.</para>
+    <para id="para-00014">To maximize the benefits of SEO, you need to provide well-organized, meaningful content that encourages visitors to remain on the site longer. Using keywords in your content can help you build trust and establish authority. Be sure to create titles that your target customer will use in a search engine, and use keywords associated with your topic throughout your page, as well as links that connect to other reputable websites. For Happy Tails, you might consider titles such as “adopting cats” or “caring for a new pet.” These titles and descriptions should also be interesting, using catchy words and phrases to attract your audience. Descriptions should be detailed, and neither too short nor too long. Here are some tips for writing titles and descriptions:</para>
+    <list id="list-00005">
+    <item>Titles and descriptions should summarize what the page is about.</item>
+    <item>Avoid using false narratives or titles to drive traffic to your website. This is considered unethical.</item>
+    <item>Be sure your titles and descriptions use the same language your target audience would use, so they can feel a connection. Consider hiring a copywriter that specializes in SEO or web content.</item>
+    </list>
+    <note class="spotlight-ethics" id="note-00003">
+    <title>SEO Ethics</title>
+    <para id="para-00015">When it comes to ethical considerations in SEO, ensuring accurate representation is of utmost importance. Engaging in unethical practices, commonly known as <term class="no-emphasis" id="term-00019">Black Hat SEO</term> or <term class="no-emphasis" id="term-00020">spam</term>, can have severe consequences for your online presence. While these practices may not be strictly illegal, they are widely frowned upon in the business community. If search engines uncover your hidden agenda, you risk being penalized with search engine bans or a significant drop in your ranking.</para>
+    <para id="para-00016">Review <link url="https://openstax.org/r/78UnethicalSEO">cases from HubSpot that highlight some of the biggest SEO blunders</link> to gain a better understanding of the unethical practices to avoid. By exploring these examples, you can learn from the mistakes of others and cultivate an ethical approach to SEO. The cases presented provide valuable insights into the consequences of unethical practices.</para>
+    <para id="para-00017">Now, let’s examine three cases from HubSpot’s examples of unethical SEO practices, along with an explanation of the specific unethical practice involved in each case:</para>
+    <list id="list-00006">
+    <item>Case 1: Inflated Keyword Density: This case involves the excessive and unnatural stuffing of keywords into content in an attempt to manipulate search engine rankings. This practice aims to deceive search engines and artificially boost a website’s visibility. However, such keyword stuffing compromises the quality and readability of the content, making it difficult for users to obtain valuable information. Search engines consider this practice unethical and may penalize websites that engage in keyword stuffing.</item>
+    <item>Case 2: Hidden Text and Links: In this scenario, websites use hidden text or links that are not visible to users but are intended to be detected by search engine crawlers. The hidden elements are often stuffed with keywords or include links to unrelated or low-quality websites. By concealing these elements, website owners aim to manipulate search engine rankings. However, this practice is deceptive and violates search engine guidelines, as it misleads both users and search engines about the actual content and purpose of the website.</item>
+    <item>Case 3: Link Schemes: This case involves the creation of artificial and manipulative links with the goal of improving search engine rankings. Unethical link schemes may include purchasing or exchanging links, participating in link farms or networks, or using automated tools to generate a large number of low-quality backlinks. Search engines consider such practices as attempts to manipulate their algorithms and devalue the trustworthiness and integrity of search results.</item>
+    </list>
+    <para id="para-00018">By understanding these unethical practices and their associated consequences, you can make informed decisions to avoid them and uphold ethical standards in your SEO efforts. Remember, the focus should be on providing valuable, relevant, and user-friendly content that aligns with search engine guidelines. By taking an ethical approach to SEO, you can build a strong online presence, gain the trust of your audience, and foster long-term success.</para>
+    </note>
+    <para id="para-00019">A <term class="no-emphasis" id="term-00021">uniform resource locator (URL)</term> is used to access resources that are published on the internet. Most people are familiar with its format: generally, they begin with “www.” and end with “.com” or similar. A good practice is to design URLs in a way that will benefit users, while also being easy for search engines to understand. Here are a few things you can do to optimize your URLs:</para>
+    <list id="list-00007">
+    <item>Limit your URLs to fifty to sixty characters. This will not be sufficient to rank your site, but it is a good practice because it helps make the URL easier for users to copy and paste, share on social media sites, and remember for future use.</item>
+    <item>Create SEO-friendly URLs that describe your content and include keywords.</item>
+    <item>Use hyphens to separate words and lowercase letters.</item>
+    </list>
+    <para id="para-00020">Let’s look at some examples of good and not-so-great URLs. Figure 08_04_URL outlines some good URLs and URLS that could use some work.</para>
+    <figure id="fig-00003">
+    <media alt="A table is visible with three header columns: Not Good, Better, and Reason. The first row below the header reads www.happytails.com/pets (Not Good), www.happytails.com/pets/dogs-for-adoption/german-shepherd (Better), and Specific key words (Reason). The second row reads www.happytails.com/dogs/fullbred/young/brown/available (Not Good), www.happytails.com/dogs/full/puppy (Better), and Too many keywords (Reason). The last row reads www.happytails.com/dogs/available/ID43435 (Not Good), www.happytails.com/dogs/available/german-shepherd/barney (Better), and Generic identifier (number) for the specific pet (Reason).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_04_URL.jpg"/>
+    </media>
+    <caption>The URL should be descriptive and include specific keywords for the bots to use in the search.</caption>
+    </figure>
+    </section>
+    <section id="sect-00007">
+    <title>Headings</title>
+    <para id="para-00021">Using headings on your website can help both visitors and search engines locate and understand your content. Headings are used to partition content on a page with a good deal of text or other information. The headings can break up the information to make it more readable and visually engaging. When a block of text gets lengthy (generally more than five to eight lines of text), you should consider using headings to organize the content. Headings can also enhance the accessibility of your site. A site with headings is easier to read and can help visitors to the site jump to relevant sections. Headings are also used by many screen reading technologies to aid in site navigation. If there are no headings, the reader can easily be confused and leave the site. To organize your content, try some of these tips:</para>
+    <list id="list-00008">
+    <item>Break up text by topic and add a short, descriptive heading for each.</item>
+    <item>Include keywords in your header tags for SEO.</item>
+    <item>Use headings to describe each section of the website that contains more than five lines of text.</item>
+    <item>Make your header tags consistent in font size, color, and writing style, so visitors can recognize the headings quickly.</item>
+    <item>Avoid using all caps for headings. Words typed in all caps have accessibility issues as they are often difficult to read.</item>
+    <item>Use catchy or relevant words.</item>
+    </list>
+    <para id="para-00022">Some website headings that might work for Happy Tails WC include “Join our Family” to volunteer for the organization or “Find a New Friend” to see the adoptable pets.</para>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00008">
+    <title>Summary</title>
+    <list id="list-00009">
+    <item>Search engines use computer programs that filter through keywords and website content to return and rank search lists.</item>
+    <item>SEO refers to processes that help optimize search results to increase the chance that your company’s website will appear higher up in the user’s search results list.</item>
+    <item>Techniques for optimizing your website for effective searches include using an easy-to-understand URL, using descriptive titles, and keeping your page heading engaging.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00009">
+    <title>Review Questions</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00023"><link class="os-embed" url="#exercise/08-04-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00024"><link class="os-embed" url="#exercise/08-04-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00025"><link class="os-embed" url="#exercise/08-04-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00010">
+    <title>Written Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00026"><link class="os-embed" url="#exercise/08-04-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00027"><link class="os-embed" url="#exercise/08-04-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00011">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00028"><link class="os-embed" url="#exercise/08-04-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00029"><link class="os-embed" url="#exercise/08-04-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    
+       
+    <glossary>
+    <definition id="def-00001">
+    <term>algorithm</term>
+    <meaning>program used by a search engine to arrange pages in order from the most relevant to the least</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>crawling</term>
+    <meaning>process by which a search engine collects data from the internet</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>indexing</term>
+    <meaning>process by which search engines visit pages, analyze their content, and store the information in an index</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>keywords</term>
+    <meaning>specific words and phrases in your web content that make it easy for your site to populate within search engines</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>PageRank</term>
+    <meaning>algorithm used to help business owners promote online visibility by increasing the number of internet search results for a website</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>serving</term>
+    <meaning>process by which a search engine determines the best results based on user language, location, device, and queries</meaning>
+    </definition>
+    <definition id="def-00007">
+    <term>web crawler software</term>
+    <meaning>computer software that scans the internet for certain words, tags, and links based on a particular search term</meaning>
+    </definition>
+    </glossary>
 </document>
