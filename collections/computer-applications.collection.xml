@@ -69,6 +69,18 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Preparing Presentations</md:title>
+      <col:content>
+        <col:module document="m00069"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Advanced Presentation Skills</md:title>
+      <col:content>
+        <col:module document="m00070"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Content Management Systems and Social Media in Business</md:title>
       <col:content>
         <col:module document="m00063"/>
