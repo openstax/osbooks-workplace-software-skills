@@ -28,7 +28,7 @@
 <para id="para-00007">Most computers consist of a few basic elements. The <term id="term-00008">motherboard</term> is the hardware that runs communications for the computer system (<link target-id="fig-00001"/>a). It sits within the system unit, which is the container that houses most of the computer’s electronic components. The <term id="term-00009">central processing unit (CPU)</term> contains a single chip called a <term id="term-00010">microprocessor</term> (the “brains” of a computer system). A microprocessor (<link target-id="fig-00001"/>b) consists of a control and what is known as an arithmetic-logic unit, which performs math and logical operations within the computer system.</para>
 <figure id="fig-00001">
 <title/>
-<media alt="(a) A photo of a computer motherboard is shown with various pieces in different shapes, sizes, and colors. (b) A photo of a silver rounded square computer piece is shown nestled in a dark square piece on a black background.">
+<media alt="(a) Photo of a computer motherboard various pieces in different shapes, sizes, and colors. (b) Photo of a silver rounded square computer piece nestled in a dark square piece.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_02_MotherCPU.jpg"/></media>
 <caption>Two essential components of a computer’s inner workings are (a) the motherboard and (b) the CPU’s microprocessor. (credit a: modification of “Green Motherboard” by Pixabay/Pexels, CC0; credit b: modification of “Intel Core 2 Duo E6750” by Nao Iizuka/Flickr, CC BY 2.0)</caption>
 </figure>
@@ -56,7 +56,7 @@
 <para id="para-00013">Before an operating system loads and is ready to use, the computer needs hardwired instructions, called <term id="term-00031">read-only memory (ROM)</term>. Businesses should be sure to procure computers with sufficient RAM and to make sure that data storage solutions are in place to handle their needs. The amount of RAM impacts the speed at which programs run. Computers with less RAM are slower and can hinder work productivity in the workplace. Often businesses will begin with less RAM and eventually upgrade to higher levels as their business and needs expand.</para>
 <figure id="fig-00002">
 <title/>
-<media alt="(a) An image of a floppy disk is shown, a black and silver square item displayed with a white label across the bottom. (b) A CD is shown, a silver circular, shiny item with a hole in the center on a black square background. (c) A flash drive is shown, a small, rectangular, black item with a rounded end. A small, silver square sticks out the other end with two small indentations on the top.">
+<media alt="(a) An image of a floppy disk. (b) An image of a CD. (c) An image of a flash drive.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_02_Storage.jpg"/></media>
 <caption>Different types of storage devices used over the years include (a) floppy disks, which are no longer used, (b) CD-ROM disks, and (c) flash drives. (credit a: modification of “Floppy Disk Data” by OpenClipart-Vectors/Pixabay, CC0; credit b: modification of “Dvd Cd-Rom Compact Disk” by OpenClipart-Vectors/Pixabay, CC0; credit c: modification of “Usb Disk Disc” by Clker-Free-Vector-Images/Pixabay, CC0)</caption>
 </figure>
