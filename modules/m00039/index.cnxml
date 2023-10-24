@@ -23,7 +23,7 @@
     <title>Formatting Fonts and Modifying Styles</title>
     <para id="para-00004">To modify the <term class="no-emphasis" id="term-00001">font</term> in any way after you have typed in the document, you first must select the text you want to format, then either use the commands in the window menus or with icons and tools in the <term class="no-emphasis" id="term-00002">Action Bar</term>. As <link target-id="fig-00001"/> shows, you can select a word and then use the Action Bar to change the font type, make another word bold, and make another word larger. You can also select a word and use the Format menu to change it.</para>
     <figure id="fig-00001">
-    <media alt="(a) On the toolbar in Google Docs, the Bold button is selected. In the document, the word “Industry” is highlighted blue and bolded. (b) On the Menu bar, Format is selected and the drop down shows these options for selection: Text, Paragraph styles, Align &amp; indent, Line &amp; paragraph spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, Borders &amp; lines, and Clear formatting. Text is selected and the pane shown on the right lists these options for selection: Bold, Italic, Underline, Strikethrough, Superscript, Subscript, Size and Capitalization.">
+    <media alt="(a) The Bold button is selected on a tool bar. In the document, the word “Industry” is highlighted blue and bolded. (b) The Format tab is selected, then Text, then Bold.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_07_FONT01.jpg"/>
     </media>
     <caption>Font formatting can be done through (a) the Action Bar or (b) through the Format menu. (Google Docs is a trademark of Google LLC.)</caption>
@@ -32,13 +32,13 @@
     <para id="para-00006">Styles also have a similar function in Docs as they do in Word. The <term class="no-emphasis" id="term-00003">styles</term> code your document so that it is easier to apply formatting throughout. Docs comes with a set of default styles, like Normal text, Title, and Subtitle, but these can be customized using the Options choice at the bottom of the style combo box. Applying a style is critical for applying custom fonts and colors to a document. It is also essential when creating an outline or table of contents for your document.</para>
     <para id="para-00007">In <link target-id="fig-00002"/>, you can see how to change the style from Normal text to Heading 2. First, you select the text, then go to the Action Bar to select the style type.</para>
     <figure id="fig-00002">
-    <media alt="On the Toolbar, Normal text is selected. The drop down lists these options for selection: Normal text, Title, Subtitle, Heading 1, Heading 2, Heading 3, and Options. Heading 2 is selected and the pane on the right lists Apply “Heading 2” and Updated ‘Heading 2’ to match for selection. In the document, the heading Industry and Market Analysis is highlighted gray and centered in the document.">
+    <media alt="Normal text (selected) opens to a pane of various font selections. Heading 2 is selected and opens to Apply ‘Heading 2’ and Update ‘Heading 2’ to match. Heading is applied in document.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_07_STYLE01.jpg"/></media>
     <caption>The drop-down Styles menu gives the user a preview of what the different available styles look like. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00008">As you can see in <link target-id="fig-00003"/>, the text style has changed. The heading text was also added to the document outline on the left. This is an important feature of styles in Docs. As you continue to apply styles within a hierarchy, the outline in the document pane will reflect that hierarchy. For example, you can see that “Industry and Market Analysis” is now listed on the outline as a heading. This can be particularly useful when managing long documents, which <link document="m00042">Document Preparation</link> covers.</para>
     <figure id="fig-00003">
-    <media alt="The open pane lists Summary and Outline with Industry and Market Analysis under the Outline circled. At the right in the document, Industry and Market Analysis is highlighted gray and in a larger font and bolded.">
+    <media alt="Open pane lists Summary and Outline with Industry and Market Analysis under Outline circled. At document right, Industry and Market Analysis is highlighted gray and in a larger font and bolded.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_STYLE02.jpg"/>
     </media>
     <caption>Formatting text as a heading means it gets automatically outlined in the document pane. (Google Docs is a trademark of Google LLC.)</caption>
@@ -48,7 +48,7 @@
     <title>Formatting Spacing, Indentation, Columns, and Lists</title>
     <para id="para-00009">Changing the line spacing in a Doc is quite simple. You can easily change a whole paragraph’s line spacing without having to select the whole paragraph: Just put your cursor anywhere in the paragraph and go to the Format menu and hover over <term class="no-emphasis" id="term-00004">Line spacing</term>. Then, choose the spacing you want (<link target-id="fig-00004"/>).</para>
     <figure id="fig-00004" class="scaled-down">
-    <media alt="On the menu bar, Format is selected. The drop down lists these options for selection: Text, Paragraph styles, Align &amp; indent, Line spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, Clear formatting, and Borders &amp; lines. Line spacing is selected with the pane on the right showing these items for selection: Single (selected with a checkmark at the left), 1.15, 1.5, Double, Add space before paragraph, Remove space after paragraph, Custom spacing, Keep with next, Keep lines together, and Prevent single lines (selected with a checkmark at the left).">
+    <media alt="Format is selected and open to pane of options. Line spacing is selected and opens to Single (selected) and Prevent single lines (selected).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_LINESP01.jpg"/>
     </media>
     <caption>The line spacing formatting options give the user more options than the standard paragraph line spacing. (Google Docs is a trademark of Google LLC.)</caption>
@@ -57,7 +57,7 @@
     <para id="para-00011">Docs also makes aligning and indenting text simple. As with modifying the line spacing, you can place your cursor anywhere on a single paragraph and adjust the alignment for the whole paragraph. You can either choose an indent from the Action Bar, or go to the Format menu, then hover over Align &amp; indent, then choose how you want to align the paragraph. If you want to align many paragraphs, just select them all together with the mouse, and then follow the same steps.</para>
     <para id="para-00012">To indent a body of text, the first line of the selection is indented to the right five spaces, which is the convention for indenting the first line of a paragraph. To do this indentation, press the Tab key on your keyboard. But if you want to move the entire paragraph to the right, click anywhere in the paragraph and go to the Format menu, then hover over <term class="no-emphasis" id="term-00005">Align &amp; indent</term>, and lastly, select Increase indent (<link target-id="fig-00005"/>). Increase or Decrease indent can also be used to create tiers within lists, like bullets and numbers. This creates a hierarchy of bullets or numbers in your list (<link target-id="fig-00006"/>).</para>
     <figure id="fig-00005">
-    <media alt="On the Menu bar, Format is selected. The drop down lists these options for selection: Text, Paragraph styles, Align &amp; indent, Line &amp; paragraph spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, Borders &amp; lines, and Clear formatting. Align &amp; indent is selected with the pane on the right showing these options for selection: Left, Center, Right, Justified, Increase indent, Decrease indent, and Indentation options.">
+    <media alt="Format is selected and opens to options. Align &amp; indent is selected, which lists options for: Left, Center, Right, Justified, Increase indent, Decrease indent, and Indentation options.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_07_INDENT01.jpg"/></media>
     <caption>You can choose indenting from the Format menu to indent selected text. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
@@ -70,7 +70,7 @@
     <para id="para-00014">For the WorldCorp market trends report, let’s try two columns for the two paragraphs in the Industry and Market Analysis section. This might make sense if we want to add a chart or a table of data below the text.</para>
     <para id="para-00015">Begin by selecting the body text that you want to format. Then, go to the Format menu using the steps outlined above and place the paragraphs into two columns. It should now look like <link target-id="fig-00008"/>.</para>
     <figure id="fig-00007">
-    <media alt="On the Menu bar, Format is selected. The drop down lists these items for selection: Text, Paragraph styles, Align &amp; indent, Line &amp; paragraph spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, Borders &amp; lines, and Clear formatting. Columns is selected and three panes show at the right with one column, two columns, or three columns respectively available for selection. More options is listed along the bottom of the pane. In the document in the background, two paragraphs of text are highlighted gray.">
+    <media alt="Format is selected, then Columns from the options. Columns opens to images of a document with one column, two columns, or three columns respectively available for selection. More options is listed also.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_COLUMN01.jpg"/>
     </media>
     <caption>Formatting text into columns adds more space below the text for additional items in the document, such as images or charts. (Google Docs is a trademark of Google LLC.)</caption>
@@ -83,13 +83,13 @@
     </figure>
     <para id="para-00016">Lastly, let’s review the <term class="no-emphasis" id="term-00007">Bullets &amp; numbering</term> tool. This tool has many useful applications, in business and in personal documentation. It is used to create lists in your document. To show how useful lists can be, see the unformatted chunks of text in <link target-id="fig-00009"/>. The text is unorganized and hard to read.</para>
     <figure id="fig-00009">
-    <media alt="Format is selected on the Menu bar. The drop down lists these options for selection: Text, Paragraph styles, Align &amp; indent, Line &amp; paragraph spacing, Columns, Bullets &amp; numbering, Headers &amp; footers, Page numbers, Page orientation, Table, Image, Borders &amp; lines, and Clear formatting. Bullets &amp; numbering is selected and the open pane on the right lists List options, Numbered list, Bulleted list and Checklist. Numbered list is selected and the pane on the right shows six options for lists: 1. a. b. i. 2.; 1) a) b) i) 2); 1. 1.1. 1.2. 1.2.1. 2.; A. a. b. i. B.; I. A. B. 1. II.; and 01. a. b. i. 02.">
+    <media alt="Format is selected, then Bullets &amp; numbering, the options for List options, Numbered list, Bulleted list and Checklist. Numbered list is selected and the pane on the right shows options for lists.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_07_LISTS01.jpg"/></media>
     <caption>Lists are used for visual appeal as well as organizational purposes. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00017">To make this text into a bulleted or numbered list, select all of it, go to Format, hover over Bullets &amp; numbering, then hover over Numbered list or Bulleted list, and choose one. <link target-id="fig-00010"/> shows what the content would look like if you had chosen bullets. Alternatively, for new text that has yet to be typed, you can use the Action Bar and choose your list type first, then type the text desired.</para>
     <figure id="fig-00010">
-    <media alt="On the Toolbar, the Bulleted list is selected. The pane on the right shows six options for lists with a variety of shapes (i.e., black circles, blank circles, black squares, blank squares, stars, arrows, and circle diamonds) as the bulleted points.">
+    <media alt="Bulleted list is selected. The pane displays six options for lists with varieties of shapes (black circles, blank circles, black squares, blank squares, stars, arrows, and circle diamonds) as the bulleted points.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_LISTS02.jpg"/>
     </media>
     <caption>Bulleting text is preferable in professional documents when you have lists of items that you want to call out without numbering them, which could convey a hierarchy or steps. (Google Docs is a trademark of Google LLC.)</caption>
@@ -110,14 +110,14 @@
     </list>
     <para id="para-00020">Add the remaining headings into the Doc and be sure to format the headings as you did previously using Heading 2. Add the headings in the order in which you see them here. You do not have to worry about the alignment at this point, as we are just working on getting the sections defined. As <link target-id="fig-00011"/> shows, if you insert a section before each heading, you can visualize the headings on the left document outline pane. As you insert a continuous section break, Docs automatically moves your text further down, about two lines, as you can see with the heading “Competition.” You can now change the format of each separate heading, as each is its own section. Continuous section breaks are useful when you want to rapidly change one section’s format, and not have to manually select the entire section’s paragraphs. Sections can also be used to have different headers and footers, page numbers, and margins than the rest of the document. They can also be helpful to break up the monotony of reading a long document.</para>
     <figure id="fig-00011">
-    <media alt="Insert is selected on the Menu bar and the pane below lists these options for selection: Image, Table, Drawing, Chart, Horizontal line, Emoji, Smart chips, Date, (a gap in the list is shown) Equation, Watermark, Headers &amp; footers, Page numbers, Break and Link. Break is selected and the pane on the right lists: Page break, Column break, Section break (next page), and Section break (continuous.)">
+    <media alt="Insert is selected, then Break is selected and opens to options for: Page break, Column break, Section break (next page), and Section break (continuous.)">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_SECTION01.jpg"/>
     </media>
     <caption>Section breaks are added using the Insert menu. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00021">If you want to view the section breaks as <link target-id="fig-00012"/> shows, go to the View menu, and select Show non-printing characters. The document will display a light blue dotted line where the section break is. Deleting a section is now easy because you can easily see the line; simply place the cursor at the left of the line and press the Delete key on the keyboard. (Note that section breaks must be deleted using the Delete key from the left in Docs; you cannot put your cursor to the right of the section break and use the Backspace key to remove it.)</para>
     <figure id="fig-00012">
-    <media alt="The left pane of the Google Doc displays Summary. The Outline lists the headers in the document. The first header (Introduction/Executive Summary) is highlighted in blue font. At the right in the document, blue dotted lines are seen below each header, indicating a section break.">
+    <media alt="Summary pane is open, listing Summary and Outline. The first header is highlighted in blue font. In the document, blue dotted lines are seen below each header, indicating a section break.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_SECTION02.jpg"/>
     </media>
     <caption>From the View menu, choose Show non-printing characters to show the blue dotted lines where section breaks have been placed. (Google Docs is a trademark of Google LLC.)</caption>
@@ -127,13 +127,13 @@
     <title>Page Setup</title>
     <para id="para-00022">As in Word, the <term class="no-emphasis" id="term-00009">Page Setup</term> commands are for selecting the paper size and orientation (horizontally or vertically). In Docs, it is all done from the File menu; Page Setup is near the bottom of the File menu. In <link target-id="fig-00013"/>, you can see the options in the dialog box. The first combo box is for choosing whether to apply page setup to the whole document, or just a section. You can also adjust the paper size; there is a combo box with popular paper sizes like letter and legal. Additionally, you can change the margins to create custom margins. You can also adjust the margins manually on the top of the window, using the mouse to move the margin markers on the ruler (<link target-id="fig-00014"/>). Many of the page setup tools in Docs are straightforward and minimalistic. Google programs are intentionally designed to be user-friendly, and this is just one example of how easy it can be to make changes to your document.</para>
     <figure id="fig-00013">
-    <media alt="(a) A Page Setup pane is open with the Paper size option selected on the left. A drop down lists the available options: Letter, Tabloid, Legal, Statement, Executive, Folio, A3, A4, A5, B4, and B5. (b) At the right, the Page setup pane has Letter selected in the Paper size option.">
+    <media alt="(a) Page Setup pane displays Paper size options: Letter, Tabloid, Legal, Statement, Executive, Folio, A3, A4, A5, B4, and B5. (b) Page setup pane has Letter selected in the Paper size option.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_PAGESET01.jpg"/>
     </media>
     <caption>Margins are set in the Page setup dialog box. (a) These are the margins if you choose an Executive size document. (b) These are the margin sizes for the common Letter type document. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00014">
-    <media alt="A Google Doc is open with text. At the top a ruler displays a blue arrow facing down. An arrow from a box points to it and inside the box is written: Move this arrow to the right to adjust margin. A black box is open under the blue arrow and states Left Margin. The blue arrow on the ruler aligns with the left margin of the document.">
+    <media alt="A ruler displays a blue arrow facing down, labeled Move this arrow to the right to adjust margin. and labeled Margins. The blue arrow aligns with the left margin of the document.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_PAGESET02.jpg"/>
     </media>
     <caption>You can also set margins by using the arrows in the ruler. (Google Docs is a trademark of Google LLC.)</caption>

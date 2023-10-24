@@ -33,7 +33,7 @@
     <para id="para-00010">You can customize your menu bar by adding or hiding tabs, and by modifying the tools that appear on each tab. There are hundreds of commands you can choose from; the Word interface is highly customizable. Customization of the tabs was covered in the chapter on <link document="m00049">Essentials of Software Applications for Business</link>. The next sections introduce some of the most important default tabs and their overall function, as well as the most-used commands, as <link target-id="fig-00001"/> shows.</para>
     
     <figure id="fig-00001">
-    <media alt="A Ribbon for a Word Doc is displayed. The Tabs across the top are: File, Home, Insert, Design, Layout, References, Mailings, Review, View, and Help. Each tab includes various commands. A Comments and a Share button are located at the top right on the bar.">
+    <media alt="Word Home tab options: File, Home, Insert, Design, Layout, References, Mailings, Review, View, Help. Each tab includes various command groups.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_01_WordRibbon.jpg"/></media>
     <caption>Notice there are several tabs, such as Home and Insert, that are common to all Office programs, as covered in Chapter 2. (attribution: Used with permission from Microsoft)</caption>
     </figure>
@@ -56,7 +56,7 @@
     <para id="para-00016">The Track Changes process might feel familiar to you, as it is designed to mimic the act of marking up a paper document with a pen. You might have had someone work on your résumé or mark up a homework assignment of yours, using a red pen to make suggestions and revisions on the document itself. In a Word document, comments and Track Changes serve the same purpose as using a red pen on a paper document. This process will be covered in more detail later in the chapter.</para>
     <para id="para-00017">The Review tab also has many commands that allow commenting and suggesting changes in documents that are used and edited by multiple people. <link target-id="fig-00002"/> shows two comments that users made by choosing the <term class="no-emphasis" id="term-00007">New Comment</term> function. As people work on the document, they can read and respond to those comments, or remove them by clicking on them and selecting Delete in the Comments menu. There are also options in the <term class="no-emphasis" id="term-00008">Show Markup</term> button found in the Tracking command group to display (or not display) formatting changes such as boldfacing or underlining.</para>
     <figure id="fig-00002">
-    <media alt="The Review tab is selected. In the Comments command group, Show comments is selected and in the Tracking Command Group Track Changes is selected. In the document, words are colored green that have been altered and a line is shown through words that have been deleted. The word “Review” is highlighted a pale purple and lines are seen at both ends of the word. Below the doc, a pale purple speech bubble is visible with comments about the text from two different people. The first comment is then followed by a response from a second person.">
+    <media alt="Show Comments and Track Changes tabs selected from Comments command group (Review tab). Altered words are green. Deleted words have strikethrough. “Review” is highlighted. Speech bubble displays a comment followed by response.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_01_Review.jpg"/></media>
     <caption>The Review tab in Word is helpful when multiple people are working on a document. It allows them to add comments and track revisions. The second comment is the lower one and is the reply to the one above it. (attribution: Used with permission from Microsoft)</caption>
     </figure>
@@ -67,7 +67,7 @@
     <title>View Tab</title>
     <para id="para-00020">The <term class="no-emphasis" id="term-00010">View</term> tab is useful for changing how you see your document. For instance, it gives you the option of looking at your document one or two pages at time. You can also activate the zoom option from here, as well as add rulers and gridlines, which are helpful when placing objects, such as a table or picture, in the report you may be writing. You can also access the Navigation pane in the View tab. You may also use the read, print, or web viewing modes when typing, which give you different ways of seeing your document, as <link target-id="fig-00003"/> shows.</para>
     <figure id="fig-00003">
-    <media alt="The View tab is selected and in the Zoom command group Zoom and Multiple Pages are selected. Two and a half pages of the document are visible in a row across the screen zoomed out to be smaller so they fit on the screen.">
+    <media alt="Zoom and Multiple Pages selected from Zoom command group (View tab). Two pages of a document are visible in a row across the screen, zoomed out to fit on the screen.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_01_View.jpg"/>
     </media>
     <caption>The View tab allows users to view documents in a variety of ways. The multiple pages selection, shown here, lets you see several pages at once. (attribution: Used with permission from Microsoft)</caption>
@@ -83,7 +83,7 @@
    
     </note>
     <figure id="fig-00004">
-    <media alt="The View tab is selected and in the Show command group the Navigation Pane box is selected. The Navigation pane is visible on the left side with tabs titled Headings, Pages, and Results visible for selection. The word “group” is typed in the search bar above the tabs. The Results tab is selected and below are sentence fragments with the word “group” highlighted. A document with the word “group” highlighted in yellow is visible on the right side of the screen.">
+    <media alt="Navigation Pane selected (Show command group/View tab). Navigation pane offers tabs: Headings, Pages, Results. “group” typed in Search. Results displays sentences with word “group” highlighted. Document with “group” highlighted in yellow displays.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_01_Navigat.jpg"/>
     </media>
     <caption>The Navigation pane is a sidebar that helps you move quickly from one section of your document to another, or locate a specific term or phrase through its search feature. (attribution: Used with permission from Microsoft)</caption>
