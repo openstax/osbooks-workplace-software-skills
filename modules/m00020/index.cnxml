@@ -23,14 +23,14 @@
     <title>What Is a Scenario?</title>
     <para id="para-00005">The Scenario Manager is part of the <term class="no-emphasis" id="term-00002">What-If Analysis</term> tools suite in the Forecast command group. The tool is accessed from the Data tab and is in the Forecast command group (<link target-id="fig-00001"/>).</para>
     <figure id="fig-00001">
-    <media alt="On the Ribbon, Data is selected. The What-If Analysis (selected), the Forecast Sheet, and the Outline buttons are visible on the toolbar and circled. Below the What-If Analysis button, a pop up lists these options: Scenario Manager, Goal Seek…, and Data Table…, also circled.">
+    <media alt="Data tab selected. What-If Analysis button selected and opens to options: Scenario Manager, Goal Seek, and Data Table.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_Scenario.jpg"/>
     </media>
     <caption>The Scenario Manager tool provides a way to look quantitatively at contingency planning. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00006">A scenario determines the values that Excel will use to change the input cells. You can save different scenarios with different values to view the impact on your target cell(s) at the same time. When you choose Scenario Manager, an input window will appear (<link target-id="fig-00002"/>). From here, you will set the changing cells that define the scenario and the target cell for the results.</para>
     <figure id="fig-00002" class="scaled-down-30">
-    <media alt="In a Scenario Manager window, Scenarios: is located above a window with “No Scenarios defined. Choose Add to add scenarios.” inside. Add… (selected), Delete, Edit…, Merge…, and Summary… buttons are located to the right. In the bottom half, Changing cells: and Comment: are shown next to blank windows. Show and Close buttons are located on the bottom right.">
+    <media alt="Scenario Manager pane displays Scenarios options: window reds: No Scenarios defined. Choose Add to add scenarios. Add button selected at right. Changing cells and Comment windows blank.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_Scenario2.jpg"/>
     </media>
     <caption>To use the Scenario Manager, first set the changing cells and target cell. (Used with permission from Microsoft)</caption>
@@ -47,28 +47,28 @@
     <title>Adding and Deleting a Scenario</title>
     <para id="para-00008">Using the mortgage example, you can create a scenario to look at the impact of lowering the interest rate on both the payment and the total amount paid for the loan. First, to add a scenario, go to the Data tab, choose What-If Analysis, and select Scenario Manager. Click Add and the Add Scenario dialog box will appear (<link target-id="fig-00004"/>). Here, you will define the changing cells and name the scenario. You can name this scenario “rate changes.”</para>
     <figure id="fig-00004">
-    <media alt="In the spreadsheet, cell E3 is selected and =FV(A3,12,D3,C3) is in the formula bar. ($256,561.46) is inside cell E3 in red font. A pop up for Add Scenario is at the right with options for Scenario Name: (rate changes is listed in the window) and Changing cells: (E3 is listed in the window). “Ctrl+click cells to select non-adjacent changing cells.” is visible below the window. The next option is Comment: (Created by A M on 3/25/2021 lists inside the window) and Protection (with options to select Prevent changes (selected) and Hide. OK (selected) and Cancel buttons are located at the bottom right.">
+    <media alt="Add Scenario pane displays options: Scenario Name: (rate changes), Changing cells: (E3), Ctrl+click cells to select non-adjacent changing cells. reds beneath, Comment: (Created by AM on 3/25/2021), Protection (Prevent changes (selected), Hide).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_Add.jpg"/>
     </media>
     <caption>To add a scenario, click Add in the Scenario Manager window and define your scenario in the dialog box. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00009">Next, select the cell you want to change. To change the rate, you would select cell A3. The <term class="no-emphasis" id="term-00007">Scenario Manager</term> does allow you to add more than one cell in the scenario. In this example, you will also change the length of time for the loan. Select A3:B3 for Changing cells. You can add comments if desired to explain the scenario, such as details about the reason for the selected ranges and other relevant information. Then, click OK. Next, you will define the levels or range of values that Excel will use to change the value in cells A3 and B3. Assume you want to compare the impact of a rate higher than the original 5 percent and a loan term shorter than the original 360 months to the impact of a lower rate and longer loan term (<link target-id="fig-00005"/>). Add two separate scenarios at the various levels for each cell, A3 and B3. Click OK. This will take you back to the Scenario Manager window. Add the other scenario in the same way.</para>
     <figure id="fig-00005">
-    <media alt="In the spreadsheet, Row 2 lists headers and Row 3 lists numerical values. A Scenario Values pop-up window at the right reads “Enter values for each of the changing cells.” across the top. Two options are available for selection: 1: (with $A$3 listed to the right and 0.055 inside the window) and 2: (with $B$3 listed to the right and 180 in the window). OK (selected) and Cancel buttons are located at the bottom right.">
+    <media alt="Row 2 displays headers and Row 3 displays numerical values. Scenario Values pane reads across top: Enter values for each of the changing cells. Options: 1: ($A$3, 0.055) and 2: ($B$3, 180).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_Range.jpg"/>
     </media>
     <caption>Define the ranges of values for Excel to manipulate in the scenario. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00010">Notice that you have two scenarios listed in the Scenario Manager (<link target-id="fig-00006"/>).</para>
     <figure id="fig-00006" class="scaled-down-30">
-    <media alt="A Scenario window lists the option of Scenarios: (with High rate (selected) and Low rate in the window below.) Add…, Delete, Edit…, Merge…, and Summary… buttons are located on the right side. Changing cells: (with $A$3:$B$3 inside the window at the right) and Comment: (Created by A M on 3/25/2021 and Modified by A M. on 3/25/2021 located inside the window at the right) follow and Show (selected) and Close buttons are located at the bottom right.">
+    <media alt="Scenario Manager pane displays selected options: Scenarios (High rate, Low rate). Add, Delete, Edit, Merge, Summary buttons visible. Changing cells: ($A$3:$B$3), Comment: (Created by AM on 3/25/2021, Modified by AM on 3/25/2021).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_List.jpg"/>
     </media>
     <caption>The Scenario Manager lists all the active scenarios on a spreadsheet. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00011">There are a couple of options at this point. If you want to see the results from either scenario on the spreadsheet, click the appropriate scenario in the list and click Show. This will change the value in the spreadsheet, but only for one scenario at a time. If you choose Summary, the Scenario Manager will compile the information for all the scenarios in the list in a clear table on a separate worksheet so that you can compare the results (<link target-id="fig-00007"/>). You can then format and adjust the table to fit your needs. One other functionality of the Scenario Manager is that it can merge scenarios from other worksheets into a single worksheet using the Merge button.</para>
     <figure id="fig-00007" class="scaled-down">
-    <media alt="In the spreadsheet, row 2 has a bolded Scenario Summary header and row 3 lists column headers in columns D, E, and F (Current Values:, High rate, and Low rate, respectively). Changing Cells: and Result Cells: headers are in cell BC5 and BC8 and numerical and text data populates the rest of the spreadsheet. Columns B and C are highlighted gray as are cells E6, E7, F6, and F7. Column C shows formulas. At the bottom of the summary this statement is listed: “Notes: Current Values column represents values of changing cells at time Scenario Report was created. Changing cells for each scenario are highlighted in gray.”">
+    <media alt="Scenario Summary spreadsheet header row includes Current Values, High rate, Low rate columns. Changing Cells and Result Cells sections follow with populated cells. Numbers with () indicated in red. Note under table.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_Summary.jpg"/>
     </media>
     <caption>The Scenario Manager tool provides a summary of the results on a separate worksheet. (Used with permission from Microsoft)</caption>
@@ -94,14 +94,14 @@
     <para id="para-00016">Goal Seek is another tool in the <term class="no-emphasis" id="term-00009">What-If Analysis</term> group. It is like Solver but restricted to a single input variable. The <term class="no-emphasis" id="term-00010">Goal Seek</term> tool allows you to select a target cell and value for that cell by changing another cell that contains a formula. For example, Goal Seek could determine how much money you need to set aside to reach your retirement fund goal. It could also determine the mortgage interest rate needed to keep a monthly payment within your budget. In a small business, this tool can help when considering a purchase of equipment or property for the business. In this case, the duration and the total amount of the loan are typically known. Goal Seek can investigate financing options to get the monthly installment payment within budget. Conversely, Goal Seek can determine how much in total a person or business can afford for a loan based on a set interest rate and length of the loan.</para>
     <para id="para-00017">To begin, open the spreadsheet with the information needed for your analysis or create a new one. Using the mortgage example, suppose you would like to determine what value of home you can afford. Most mortgages have a term of 30 years (360 months), and you are planning on a 5 percent interest rate. You would like a monthly payment not to exceed $850. The Goal Seek tool can determine the loan amount that will keep the mortgage payment within your budget. Go to the Data tab, click on the drop-down arrow next to What-If Analysis, and choose Goal Seek (<link target-id="fig-00008"/>). Notice the input window has three arguments: Set cell, To value, and By changing cell.</para>
     <figure id="fig-00008" class="scaled-down">
-    <media alt="In the spreadsheet, cell A3 is selected with a solid line with 5% (Rate) inside and C3 is selected with a dotted line with $250,000.00 (Loan Amount) inside. A Goal Seek pop up window is at the right with options for Set cell: ($D$3 is visible in the window to the right), To value: (850 is visible in the window to the right), and By changing cell: ($C$3 is visible in the window at the right). OK (selected) and Cancel buttons are at the bottom.">
+    <media alt="Goal Seek pane displays options: Set cell ($D$3), To value (850), By changing cell: ($C$3). Cell A3 selected with 5% (Rate) inside. Cell C3 selected with $250,000.00 (Loan Amount) inside.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_GoalSeek.jpg"/>
     </media>
     <caption>Goal Seek is similar to Solver, but you are restricted to a single input variable. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00018">In this example, type $D$3 in the Set cell field, 850 in the To value field, and $C$3 in the By changing cell field (loan amount). Click OK (<link target-id="fig-00009"/>). The result will display in the window if Excel found a solution.</para>
     <figure id="fig-00009" class="scaled-down">
-    <media alt="In the spreadsheet, cell A3 is selected with 5% (Rate) inside and cell D3 is populated with $850.00. A Goal Seek Status pop up window is at the right with the statement “Goal Seeking with cell D3 found a solution.” Target value: 850 and Current value: $850.00 are listed below and Step and Pause buttons are at the right side of the pop up. OK (selected) and Cancel buttons are at the bottom.">
+    <media alt="Goal Seek Status pane displays: Goal Seeking with cell D3 found a solution. Target value: 850. Current value: $850.00. Cell A3 is selected with 5% (Rate) inside. Cell D3 contains $850.00.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_GoalSeek2.jpg"/>
     </media>
     <caption>Goal Seek displays the result if a solution is found in the Goal Seek Status window. (Used with permission from Microsoft)</caption>
