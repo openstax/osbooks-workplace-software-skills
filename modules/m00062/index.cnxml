@@ -23,19 +23,19 @@
     <para id="para-00005">Fortunately, you can see how many people are accessing the document, and who they are, as seen in <link target-id="fig-00001"/>. You can communicate with them using the Google chat software called <term class="no-emphasis" id="term-00001">Google Meet</term>, as <link target-id="fig-00002"/> shows. Collaborators can also chat directly in the document by adding comments as they make edits and revisions. You can also see where your document collaborators are typing by choosing their icon in the title bar. Docs will jump down to where their cursor is in the document. The collaborator’s cursor uses another color, and it moves as the collaborator types.</para>
     <para id="para-00006">You can check who has access to this document (at all times, not just when they are online and active) when you click the <term class="no-emphasis" id="term-00002">Share</term> button at the top right of the document. This will reveal a dialog box displaying all the people who have been granted permission to view, edit, or comment on the document, as you can see in <link target-id="fig-00003"/>. As you are collaborating on documents with colleagues at WorldCorp, it is helpful to be able to restrict editing to certain individuals, while receiving comments from others. With Docs, you have the ability to see where changes are made and by whom.</para>
     <figure id="fig-00001" class="scaled-down">
-    <media alt="A window titled Share “market trends report draft.docx” is open and at the top reads: Add people and groups. People with access are listed with the Owner at the top and pictures of the people, their names and emails at the left. At the right, a drop down opens for the second person with options for: Viewer, Commenter, Editor (selected), and Remove access. General access is the next header with a drop down with Restricted selected (Only people with access can open with the link) visible and a Copy link hyperlink at the bottom.">
+    <media alt="A document lists people with access. One is an Owner. A pane is open for an Editor listing options for Viewer, Commenter, Editor (selected), and Remove access.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_SHARE01a.jpg"/>
     </media>
     <caption>When sharing the document, you can determine how they can or cannot change the file. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00002">
-    <media alt="A document titled WorldCorp Market Trends Report, 2022 is visible. A table of contents with page numbers is visible under the header. At the right, a panel is open with a user image at the top in a circle labeled You. In-call messages follows (with an X at the right) and a note below: Messages can only be seen by people in the call and are deleted when the call ends. The image of the person on the call follows with You and Now next to the picture. The note from the person reads: Let’s work on this document together: (a link is listed after). At the bottom there are icons for Turn off microphone, Your camera is blocked, Present Now, More options pop-up menu, and Leave call.">
+    <media alt="An In-call messages pane displays image of person on a call with comments. Turn off microphone, Your camera is blocked, Present Now, More options pop-up menu, and Leave call icons are visible.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_SHARE01b.jpg"/>
     </media>
     <caption>Docs allows for a lot of interactivity and communication. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00003">
-    <media alt="A document is visible. A map of the world runs across the top and text is underneath the map. A word in the document is highlighted pale green and next to it is a dark green cursor with Angela Mitchell written in a dark green box in white font above it.">
+    <media alt="A word in a document is highlighted pale green and next to it is a dark green cursor with Angela Mitchell written in a dark green box in white font above it.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_SHARE01c.jpg"/>
     </media>
     <caption>Changes are highlighted with the name of the editor who made the change. (Google Docs is a trademark of Google LLC.)</caption>
@@ -46,13 +46,13 @@
     <para id="para-00008">To share the document with people who do not have a Google account, you should generate a shareable link, and choose <term id="term-00003">Anyone with the link</term>. This is accessed through the Share option in the upper-right corner of the screen. You can then choose the access level (<term class="no-emphasis" id="term-00004">Viewer</term>, <term class="no-emphasis" id="term-00005">Commenter</term>, or <term class="no-emphasis" id="term-00006">Editor</term>), generate the shareable link, and copy it into an email or elsewhere for everyone to access, as shown in <link target-id="fig-00004"/>. These contributors with no Google account will be able to open and edit the document with an Anonymous user name.</para>
     <para id="para-00009">You may also want to share your document with a third party, without adding them to your group of collaborators. This can be done using the command Email this file found in the File menu, as <link target-id="fig-00005"/> shows. This command sends the file as a .docx or .pdf to their email.</para>
     <figure id="fig-00004">
-    <media alt="A Get link pane is open. A file name beginning with http://drive.google.com/file/ reads across the top and a hyperlinked Copy link is to the right. Below the link, a heading for Anyone with the link (Anyone on the internet with this link can view) is visible and to the right the options available for selection include: Viewer (selected), Commenter, and Editor. The next line reads: Viewers of this file can see comments and suggestions. A hyperlinked Send feedback to Goole is available at the bottom left.">
+    <media alt="A Get link pane is open. Options open for Anyone with the link (Anyone on the internet with this link can view) include Viewer (selected), Commenter, and Editor.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_SHARE02a.jpg"/>
     </media>
     <caption>Non-Google account editors can enter and contribute using an anonymous username. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00005" class="scaled-down">
-    <media alt="The File tab is selected and the pane opens to these options for selection: Share, New, Open, Make a copy, Save as Google Docs, Email, Download, Version history, Rename, Move, and Add shortcut to Drive. Email is selected and opens to these options: Email this file (selected) and Email collaborators.">
+    <media alt="File tab options: Share, New, Open, Make a copy, Save as Google Docs, Email, Download, Version history, Rename, Move, Add shortcut to Drive. Email (selected) options: Email this file (selected), Email collaborators.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_SHARE02b.jpg"/>
     </media>
     <caption>The Email in this file command allows you to share your document with a third party without adding them to the list of contributors. (Google Docs is a trademark of Google LLC.)</caption>
@@ -60,19 +60,19 @@
     <para id="para-00010">You may also convert the document into an embedded document so that it is published on a web page. The command <term id="term-00007">Publish to the web</term>, located in the File menu, will open a dialog box (<link target-id="fig-00006"/>). Here, you have two options: either to provide a Link to the file or create the .html code to embed the information directly on the web page. Using either method will make the information available to anyone on the internet, so use caution when choosing to publish information from a Google file to the web. Check the box Automatically republish when changes are made if you want the embedded object on the web page to be updated when you change the document. If you do not choose this option, you will need to update the embedding when changes to the document are made. Then, click on Start publishing and the .html code will be generated, as shown in <link target-id="fig-00007"/>. Copy and paste these codes onto your web page.</para>
     <para id="para-00011">The other option of Publish to the web is to get a public link, as shown in <link target-id="fig-00008"/>, which can be shared via social media or in an email. This public link is different from the Anyone with the link shareable links, because the public link is searchable in search engines.</para>
     <figure id="fig-00006" class="scaled-down">
-    <media alt="The File tab is selected and the pane opens to these options for selection: New, Open, Make a copy, Share, Email, Download, Rename, Move, Add shortcut to Drive, Move to trash, Version history, Make available offline, Details, and Language. Share is selected and offers Share with others and Publish to web (selected) for selection.">
+    <media alt="File tab options: New, Open, Make a copy, Share, Email, Download, Rename, Move, Add shortcut to Drive, Move to trash, etc. Share (selected) options: Share with others, Publish to web (selected).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_SHARE03a.jpg"/>
     </media>
     <caption>Publishing to the web makes the document available on the internet and is searchable on the web. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00007" class="scaled-down">
-    <media alt="A Publish to the web window is open and this reads across the top: This document is published to the web. Make your content visible to anyone by publishing it to the web. You can link or embed your document. Learn more (hyperlinked). Tabs for Link and Embed (selected) are available. A link is visible next and Published reads below it. A header for Published content &amp; settings follows with Stop publishing underneath. A checkable box for Automatically republish when changes are made is selected.">
+    <media alt="Embed tab is selected in a Publish to the web window. A link is visible and Published reads below it. A checkable box for Automatically republish when changes are made is selected.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_SHARE03b.jpg"/>
     </media>
     <caption>Be sure to check the box to automatically update the information published if changes are made in the source document. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00008" class="scaled-down">
-    <media alt="A Publish to the web window is open and this reads across the top: This document is published to the web. Make your content visible to anyone by publishing it to the web. You can link or embed your document. Learn more (hyperlinked). Tabs for Link (selected) and Embed are available. A link is visible next and Or share this link using: Microsoft, Facebook or Twitter (icons shown for all three) follows along with Published below it. A header for Published content &amp; settings follows with Stop publishing underneath. A checkable box for Automatically republish when changes are made is selected.">
+    <media alt="Link tab is selected in a Publish to the web window. A link is visible and Published reads below it. A checkable box for Automatically republish when changes are made is selected.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_SHARE03c.jpg"/>
     </media>
     <caption>The public link can be shared now either through email or your website. (Google Docs is a trademark of Google LLC.)</caption>
@@ -90,14 +90,14 @@
     <caption>With the restricted link, only people who were shared at in the past can see the document. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00010">
-    <media alt="A table titled Restrictions of Shareable Links is visible with three columns. The first is titled Publish to the web and reads: If you use a search engine, you can find the document. The middle is titled Anyone with the link and reads: Only people with the link can access the document. It is not on the search engine results. The last column is titled Restricted and reads: Only people you sent the link in the past are allowed to access the document.">
+    <media alt="A Restrictions of Shareable Links table describes three types of links: Publish to the web, Anyone with the link, and Restricted and who can access each.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_SHLINK02.jpg"/>
     </media>
     <caption>These are the kinds of shareable links available.</caption>
     </figure>
     <para id="para-00014">For all types of shareable links, there are the three standard types of readers of the document, as seen in <link target-id="fig-00011"/>. Again, there is also a Share with people settings options at the top-right corner of the Share dialog box. If you uncheck Editors can change permissions and share, it will prevent editors from changing access and adding new people. This allows editor recipients to edit, comment, or read, but doesn’t allow them to share the document. The other option, if unchecked, is directed at commenters and viewers, as they cannot download, copy, or print the document.</para>
     <figure id="fig-00011">
-    <media alt="A table titled Restrictions of Shareable Links/Email Recipients is visible with three columns. The first is titled Editor and reads: Any person who has the link can edit, comment, and read. Can use the suggestion mode and type while on it. Can share with others too. The middle column is titled Commenter and reads: Any person who has the link cannot edit but can comment and read. The user can use the suggestion mode but cannot type on the document. The user may not share the document with others. The last column is titled Reader and reads: Any person who has the link cannot edit or comment but can read. This user cannot use the suggestion mode either.">
+    <media alt="A Restrictions of Shareable Links/Email Recipients table lists three types of collaborators on a file: Editor, Commenter, and Reader along with the permissions of each.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_ACCESSL01.jpg"/>
     </media>
     <caption>These are the kinds of collaborators available.</caption>
@@ -107,7 +107,7 @@
     <title>Advanced Settings for Viewing Comments and Suggested Edits</title>
     <para id="para-00015">Once you are ready to view comments in a Doc, navigate to the top-right area of your document and click on the <term id="term-00009">Comment history</term> icon (shown in callout 1 in <link target-id="fig-00012"/>). Then, click on the bell icon to view and customize notification settings (shown in callout 2). As shown in <link target-id="fig-00013"/>, if you choose Only yours, the email notifications of changes on the document will be sent to you only if you are being mentioned by an @ operator, or if someone edits some passage you wrote. If you choose None, you will not be notified by email, even if the changes and comments (and mentions) are related to your written passages.</para>
     <figure id="fig-00012" class="scaled-down-30">
-    <media alt="In the image, the icon for Open comment history (next to the Share button) is labeled with a number 1. Below, a bell icon for Change email notification settings for this document is labeled with a number 2.">
+    <media alt="An icon for Open comment history is labeled with a number 1. A bell icon for Change email notification settings for this document is labeled with a number 2.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_COMME01a.jpg"/>
     </media>
     <caption>You can view the comments made on a document by choosing the comments tool. (Google Docs is a trademark of Google LLC.)</caption>
@@ -121,13 +121,13 @@
     <para id="para-00016">Once you have chosen your notification settings, return to the <term class="no-emphasis" id="term-00010">Comment history</term> icon. In <link target-id="fig-00014"/>, you can see the sidebar that appears when you click on the icon, showing the comment history. You can view all comments together in this sidebar. Without the sidebar, you would have to scroll down the screen slowly, to see all the comments on the document. (The sidebar is similar to the Review pane in Word.) If you want to filter the comments on the sidebar, you can click on the Comments drop-down command, and filter by For you, Open, and Resolved (<link target-id="fig-00015"/>).</para>
     <para id="para-00017">Filtering by For you gives you all comments that are directed to you directly with the @ symbol. Filtering by Open gives you all comments that are marked as open, regardless of who the comments are directed toward. And, finally, filtering by Resolved shows all the comments that have been marked resolved and are no longer active comments to address.</para>
     <figure id="fig-00014" class="scaled-down">
-    <media alt="At the top of the sidebar shown, an icon for Open comment history and a Share button are visible. Next, a Comments heading and a drop down for All along with a bell icon for Change email notification settings for this document are visible. A column of comments along with the name of the person making the comment and the date and time the comment was made are listed. In the comments, any replies or resolutions are noted, again, with the name of the person and the time and date of the comment. After a resolution, this direction is visible: Adding a comment will re-open this discussion.; Viewers of this file can see comments and suggestions.">
+    <media alt="A Comments sidebar lists comments made in a document along with the name of the commentator and any replies made along with names of repliers.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_COMME01c.jpg"/>
     </media>
     <caption>The comment history sidebar shows all of the comments made in a document, and includes information like usernames, timestamps, and comment status. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00015" class="scaled-down-30">
-    <media alt="A Comments heading and a drop down for All are visible. Options available from the All drop down include All (selected), For you, Open, and Resolved. A bell icon for Change email notification settings for this document is located to the right.">
+    <media alt="All is selected in Comments and displays options for All (selected), For you, Open, and Resolved. A bell icon for Change email notification settings for this document is located to the right.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_COMME01d.jpg"/>
     </media>
     <caption>You can easily see all comments on a long document all together using the comment history. (Google Docs is a trademark of Google LLC.)</caption>

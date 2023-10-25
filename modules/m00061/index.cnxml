@@ -22,19 +22,19 @@
     <para id="para-00004">Creating a Form is like creating any other Google file. Begin in your Google Drive, select the New drop-down menu, and find Google Forms, as seen in <link target-id="fig-00001"/>. From here, you have the choice of creating a survey from a Blank form or From a template. For this walk-through, we will choose From a template, but we will review how to create one from scratch in <link target-id="sect-00003">Creating a New Form</link>. The advantage to using a template is that you can choose a form that is already similar to the one you might have in mind. Using a template from the <term class="no-emphasis" id="term-00002">Template Gallery</term> (<link target-id="fig-00002"/>) will help save you time, as all you will need to do is modify the questions and answers, and then add some new questions as needed.</para>
     <para id="para-00005">Some of the templates in the Template Gallery are designed with specific purposes in mind: event invitations, contact information requests, order forms, work requests, and customer feedback surveys. As <link target-id="fig-00003"/> shows, most templates just have a few questions, and are meant to be modified and added to.</para>
     <figure id="fig-00001" class="scaled-down">
-    <media alt="Google Drive is open and a Search Bar is visible at the top right. A window is open with these options for selection: Folder, File upload, Folder upload, Goggle Docs, Google Sheets, Google Slides, Google Forms, and More. Google Forms is selected and opens to the right with these options for selection: Blank form, Blank quiz (selected), and From a template.">
+    <media alt="A pane displays options Folder, File upload, Folder upload, Goggle Docs, Google Sheets, Google Slides, Google Forms, More. Google Forms is selected and opens to Blank form, Blank quiz, From a template.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FTEMP01a.jpg"/>
     </media>
     <caption>To begin creating a form in Google, you can either start from scratch (blank form or quiz) or use a template. (Google Drive is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00002">
-    <media alt="A Template gallery is visible with Work as a header. Options for templates are shown in a variety of types and styles (Event Feedback, Order Form, Job Application, Time Off Request, Work Request, and Customer Feedback (selected)).">
+    <media alt="A Template gallery is visible with options for templates shown in a variety of types and styles: (Event Feedback, Order Form, Job Application, Time Off Request, Work Request, and Customer Feedback (selected)).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FTEMP01b.jpg"/>
     </media>
     <caption>When creating a form from a template, choose a category that is close to what you want to create. (Google Forms is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00003">
-    <media alt="A Customer Feedback template is visible. Across the top it reads: We would love to hear your thoughts or feedback on how we can improve your experience! The middle window lists Feedback Type with checkable bubbles for selection: Comments, Questions, Bug Reports, Feature Request, and Add options or add “Other” and Remove X’s at the far right. An Insert image button is at the top middle and a drop down with Multiple Choice selected at the top right. Duplicate, Trash, a Required toggle, and More options are visible at the bottom of the window. A Feedback * window along the bottom lists Long answer text. Along the middle right is a vertical toolbar with these options: Add question, Import questions, Add title and description, Add image, Add video, and Add section.">
+    <media alt="Customer Feedback template offers sample questions and options. A Feedback * window runs along the bottom. A toolbar offers options: Add question, Import questions, Add title/description, Add image, Add video, Add section.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FTEMP01c.jpg"/>
     </media>
     <caption>Most form templates have only a few sample questions to get you started. (Google Forms is a trademark of Google LLC.)</caption>
@@ -45,13 +45,13 @@
     <para id="para-00006">If you want to create a form from scratch, select Blank form from the drop-down menu. The form will start with a blank document that says “Untitled form.” As in Docs, rename this file by clicking on the title bar to type the new name of the form. All new forms also have a blank space for a description, just below the form’s title. The respondent will see the description, so it needs to be informative to them, as <link target-id="fig-00004"/> shows. It is important to name the form; otherwise, you are not going to be able to find it easily in your Drive later.</para>
     <para id="para-00007">Now, you can begin typing the questionnaire. Use the first sample item in the blank form—a multiple-choice item—or choose a different type of question using the drop-down menu on the right. There are eleven types of questions, as <link target-id="fig-00005"/> shows. <link target-id="table-00001"/> explains each type of question and what it is used for.</para>
     <figure id="fig-00004">
-    <media alt="Tabs for Questions (selected) and Responses are along the top of the Survey. The survey is titled WorldCorp’s New TV Purchase Survey. Below the title the description reads: We will ask you some questions about your TV viewing behavior. Filling this survey will take about 5 min. The next pane is titled Untitled Question and a checkable bubble is shown for Option 1.">
+    <media alt="Question tab is selected. The survey title and description are at the top. The next pane is titled Untitled Question and a checkable bubble is shown for Option 1.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN01ab.jpg"/>
     </media>
     <caption>Add your first question to the form by choosing the type of question from the menu. Be sure to customize the form with a title and short description. (Google Forms is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00005">
-    <media alt="A survey is titled WorldCorp’s New TV Purchase Survey. Below the title the description reads: We will ask you some questions about your TV viewing behavior. Filling this survey will take about 5 min. The next pane lists a question: What is your name? with a space for a short answer text below. An insert image icon is to the right of the question and a duplicate icon is at the bottom right. An options panel is open at the right with these options for selection: Short answer, Paragraph, Multiple choice, Checkboxes, Dropdown, File upload, Linear scale, Multiple choice grid, Checkbox grid, Date, and Time.">
+    <media alt="A survey displays a Question type pane with options: Short answer, Paragraph, Multiple choice, Checkboxes, Dropdown, File upload, Linear scale, Multiple choice grid, Checkbox grid, Date, and Time.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN01c.jpg"/>
     </media>
     <caption>Forms has similar question types compared with Word’s form controls. (Google Forms is a trademark of Google LLC.)</caption>
@@ -118,7 +118,7 @@
     </table>
     <para id="para-00008">You should learn the various question types, as there are many interesting options for how to set up your form. There is a sidebar that lets you add a new question, as well as several additional commands, as seen in <link target-id="fig-00006"/>. The additional commands on that sidebar are importing a list, adding a text description (similar to the Design Mode instructive text in Word), and inserting an image or video for the question. Lastly, there is a command for making different section breaks; this can be used as a way to divide up the form, which can be useful if the form is chunked into different topics or if it is several pages long. For example, the demographic questions could all be in one section, and the TV viewing questions could be in another.</para>
     <figure id="fig-00006" class="scaled-down-30">
-    <media alt="A sidebar list of icons is visible with the names at the right: Add question (plus sign inside a circle), Import questions (a piece of paper with the top right corner folded down and an arrow pointing to the right coming across the paper), Add title and descriptions (large bolded T and a smaller bolded T), Add image (square with two triangle of different sizes along the bottom), Add video (a horizontal rectangle with a triangle pointing to the right inside), and Add section (two thin, stacked rectangles).">
+    <media alt="Icons displayed: Add question (plus sign inside circle), Import questions (paper with arrow), Add title/descriptions (large/small T), Add image (square with two triangles), Add video (rectangle with triangle), Add section (two rectangles).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN04.jpg"/>
     </media>
     <caption>The sidebar lets you add new questions or import older ones from previous forms. (Google Forms is a trademark of Google LLC.)</caption>
@@ -135,13 +135,13 @@
     <title>Importing Questions</title>
     <para id="para-00011">Importing questions means adding questions from another form or form template to your current form. You can do this by choosing the <term class="no-emphasis" id="term-00006">Import</term> button on the sidebar (as seen in <link target-id="fig-00008"/>). This will take you to the gallery of form templates (Forms) or your archive of saved forms (Recent) that you have created. Select any one of these, and you will be taken to that form, where you will see the questions on a sidebar, as <link target-id="fig-00009"/> shows. In this example, we selected the Customer Feedback Form Template. Select the questions you want to import by ticking the checkboxes. When you are finished making your selections, select Import questions from the bottom of the sidebar. If you want to add questions from multiple forms, you will have to do the same steps over again for each form.</para>
     <figure id="fig-00008">
-    <media alt="Tabs for Questions (selected), Responses, and Settings are along the top of the Survey. The survey is titled Untitled Form. Below the title a space is available to add Form description. The next pane is titled Untitled Question and checkable bubbles are shown for Option 1 and Add option or add “Other”. An Insert image button is at the top middle and a drop down with Multiple Choice selected at the top right. Duplicate, Trash, a Required toggle, and More options are visible at the bottom of the window. Along the middle right is a vertical toolbar with Import questions visible and highlighted with Import questions.">
+    <media alt="A toolbar with an Import questions icon is visible to the right of a survey template form.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN07a.jpg"/>
     </media>
     <caption>You make creating a form easier by importing questions from templates or from previous forms you have created. You can select Recent to access the files in your Drive to search for the form you want to use for importing questions. (Google Forms is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00009">
-    <media alt="Tabs for Questions (selected), Responses, and Settings are along the top of the Survey. The survey is titled Untitled Form. Below the title a space is available to add Form description. The next pane is titled Untitled Question and checkable bubbles are shown for Option 1 and Add option or add “Other”. An Insert image button is at the top middle and a drop down with Multiple Choice selected at the top right. Duplicate, Trash, a Required toggle, and More options are visible at the bottom of the window. At the right, a pane titled Import questions is visible with Customer Feedback below and a hyperlinked Change form next. Checkable boxes for option selection include: Select all, Rate your experience (Linear scale) (selected), Feedback type (Multiple choice: 4 options) (selected), Suggestions for improvement (Paragraph) (selected), and Name (Short answer). An Import questions (3) button is along the bottom.">
+    <media alt="Import questions pane displays Customer Feedback form selected with options: Select all, Rate your experience (selected), Feedback type (selected), Suggestions for improvement (selected), Name. Import questions (3) button at bottom.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN07c.jpg"/>
     </media>
     <caption>You can choose to import all the questions in a form into the current form. (Google Forms is a trademark of Google LLC.)</caption>
@@ -162,20 +162,20 @@
     <caption>The top toolbar is for previewing the form or for settings. (Google Forms is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00011" class="scaled-down-30">
-    <media alt="A Theme pane is open with options available for selection. The header Text style lists Header (with options for font and font size in a drop-down menu), Question (with options for font and font size in a drop-down menu), and Text (with options for font and font size in a drop-down menu). A Header title has a button option for Choose image and the Color header displays various color bubbles for selection along with a + button. The Background header displays various color bubbles for selection.">
+    <media alt="Theme pane options: Text style (Header, Question, and Text (with options for font and font size in a drop-down menu)), Header (Choose image), Color (various colors displayed), Background (various colors displayed).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN09a.jpg"/>
     </media>
     <caption>The colors can be adjusted to reflect your company’s brand. (Google Forms is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00012">
-    <media alt="A Settings main header lists options with a toggle at the right for selection. Make this a quiz (Assign point values, set answers, and automatically provide feedback) is the first header followed by Responses (Manage how responses are collected and protected). Responses lists these questions: Collect email addresses, Send responders a copy of their responses (Requires Collect email addresses) (turned OFF), Allow response editing (Responses can be changed after being submitted), and Requires Sign In (Limit to 1 response). The Presentation (manage how the form and responses are presented) category lists these questions in subcategories: Form Presentation (Show progress bar and Shuffle question order), After submission (Confirmation message (Your response has been recorded) with an Edit button at the right, Show link to submit another response (selected), and View results summary (Share results summary with respondents. Important details)). The Restrictions category lists Disable autosave for all respondents.">
+    <media alt="Theme options are visible for a form with tabs for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN09b.jpg"/>
     </media>
     <caption>You can add your company’s logo on the theme options. (Google Forms is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00018">Now, go back to your Office Supply Order Form. Build out the rest of the questions from the form that we created in Word. We can use some of the tools now to customize the theme to make it more visually appealing and professional in appearance. <link target-id="fig-00013"/> shows an example of some customizations that you might choose to include in the form.</para>
     <figure id="fig-00013">
-    <media alt="A form is visible with paper, pens, pencils, and cup images visible at the top. The form is titled Quarterly Office Supply Order Form and below the title it reads: Please complete the form to place your department’s quarterly order for office supplies from the Marketing Department. A window with an eye icon with a line through it is visible, with an email address (not shared) and hyperlinked text Switch account follows. The next section is titled Enter Today’s Date with a Date below and a space with mm/dd/yyyy and a calendar icon. The Enter First and Last Name section follows with a space for Your answer. Choose your department (select only one) * with a drop down for selection follows and the last section is titled Office supplies needed? * with checkable boxes for Yes and No.">
+    <media alt="Required questions in a form are followed with an *. At the top of the form *Required is visible in red font.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_GFORM02.jpg"/>
     </media>
     <caption>Notice the asterisk following the questions that are required. (Google Forms is a trademark of Google LLC.)</caption>
@@ -189,7 +189,7 @@
     <para id="para-00021">The second option is to send the form via a public link. You can copy this link and paste it anywhere. For example, you can save it for later use, and send it to clients after a business activity has passed (e.g., after a successful purchase). You could also paste it into an email and send it to your recipients that way.</para>
     <para id="para-00022">The third option is embedding, which will give you the .html code so that you can insert the form link on the company website. When you choose this option, the HTML code will be displayed. You can then copy that code and use it to embed the form on a website. This option can be used when you want the responders to go to your company’s website to answer the questions.</para>
     <figure id="fig-00014" class="scaled-down">
-    <media alt="A Send form window is visible with a checkable box for Collect emails below. Tabs listed next for selection include Send via, along with icons for Send by email, Send via public link, Embed html, and Social media buttons for Facebook and Twitter. Options listed next in the Email include: To, Subject (Quarterly Office Supply Order Form), Message (I’ve invited you to fill out a form:), and a checkable box for Include form in email. Add editor (hyperlinked), Cancel, and Send are available across the bottom.">
+    <media alt="Send form window displays tabs for Send via, along with icons for Send by email, Send via public link, Embed html, and Social media buttons for Facebook and Twitter.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_DISTR01.jpg"/>
     </media>
     <caption>There are four ways to share the survey to the clients. Choose the link option to send the form through your email program. The form can also be embedded into a website using the html option. (Google Forms is a trademark of Google LLC.)</caption>
@@ -199,7 +199,7 @@
     <title>Viewing Responses</title>
     <para id="para-00024">Once you send the survey, you may want to wait a few days for individuals to respond. You can consult the response statistics by going to your form and looking at the top of the form screen. By default, you are viewing the Questions tab, as seen in <link target-id="fig-00015"/>.</para>
     <figure id="fig-00015">
-    <media alt="A Quarterly Office Supply Order Form is visible and the tabs across the top include Questions (highlighted), Responses (3), and Settings. Images of office supplies scattered on a desk along with a coffee cup are visible.">
+    <media alt="A Quarterly Office Supply Order Form includes tabs for Questions (highlighted), Responses (3), and Settings. Images of office supplies scattered on a desk along with a coffee cup are visible.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_DISTR02a.jpg"/>
     </media>
     <caption>Even before the survey is complete, you can check the response statistics. (Google Forms is a trademark of Google LLC.)</caption>
@@ -207,7 +207,7 @@
     <para id="para-00025">If you choose the <term class="no-emphasis" id="term-00009">Responses</term> tab, you’ll be taken to the responses report page, as shown in <link target-id="fig-00016"/>. At the top of the Responses report, there is a Google Sheets icon command; if you choose this, all the report output will be exported to your Sheets app, and from there you can download the file as an Excel file or CSV. Forms provides some basic visualizations for the response. If you want more in-depth analysis, you might use other programs more suited for statistical analysis.</para>
     <para id="para-00026">When you want to close the form to new responses, you can toggle the Accepting responses lever on the right side of Responses tab. This means that no one can submit any more responses to your form.</para>
     <figure id="fig-00016">
-    <media alt="The tabs across the top of a form include Questions, Responses 3 (highlighted), and Settings. View in Sheets (hyperlinked) and a toggle for Accepting responses is indicated. The form is titled 3 responses and includes three tabs: Summary (selected), Question, and Individual. The section that follows for Enter Today’s Date lists 3 responses: Nov 2022 – 11, 24, and 28. The Enter First and Last Name section lists 3 responses (Jill Hernandez, Jackson Smith, and Bianca Collins). In the Choose your department (select only one), 3 responses are shown in a pie graph by department: Accounting, Corporate Headquarters, Finance, and Marketing.">
+    <media alt="Responses 3 tab is selected on a form. View in Sheets is hyperlinked at the right and a toggle for Accepting responses is indicated. A Summary tab displays information about the responses.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_DISTR02b.jpg"/>
     </media>
     <caption>When you are finished accepting responses, you can get the results in Sheets. (Google Forms is a trademark of Google LLC.)</caption>
