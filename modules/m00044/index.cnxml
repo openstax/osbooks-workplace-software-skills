@@ -136,7 +136,7 @@
     <para id="para-00023">Complex engineering, such as in manufacturing plants, has numerous processes happening at the same time, with each set of processes being dependent on another set. The charts offered in the Process option can help encapsulate the different types of workflows in a company.</para>
     <para id="para-00024">In <link target-id="fig-00013"/>, you can see a flowchart that needs to be filled. As with the Horizontal Bullet List, the boxes are empty when the SmartArt is initially inserted. To add text, simply click on the text brackets and enter the desired information. Notice there is a line that connects each box to the next one in a down than up pattern, indicating the flow sequence.</para>
     <figure id="fig-00013">
-    <media alt="The Design tab is selected on the Ribbon and in the Layouts command group, a Vertical Bending Process chart is selected. In the document, the chart is depicted with three blue rounded boxes across and three down. A pale blue, thick line connects the blue boxes in a down, across, up, across, and down flow. The blue rounded boxes have [Text] boxes in white font inside.">
+    <media alt="A Layout of 3 x 3 blue boxes connected by a travelling arrow is inserted into a document. [Text] is visible inside the boxes.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMARTART03.jpg"/>
     </media>
     <caption>This type of SmartArt is called a Vertical Bending Process chart. It can be used to show many different steps in a linear workflow, without taking up too much space on the page. (attribution: Used with permission from Microsoft)</caption>
