@@ -27,14 +27,14 @@
     <para id="para-00007">For additional changes, the Home tab has a combo box called <term id="term-00004">Cell Styles</term> that lets users select other font sizes or background colors, as shown in <link target-id="fig-00002"/>. Depending on your selection in the <term class="no-emphasis" id="term-00005">Colors</term> menu in the Themes command group (Page Layout tab), the options in the Styles menu will change. For instance, use Blue from the palette, and in the Styles combo box, select Heading 3 and Accent 5, 40%. If an orange color palette from the Color menu was chosen, the Styles options would be orange tones.</para>
     <figure id="fig-00001">
     <title/>
-    <media alt="In Part a, the Page Layout tab is selected in the Ribbon. The Themes button is selected on the toolbar and opens to list multiple theme options as well as an option for Browse for Themes and Save Current Theme. Office is selected from the options. In Part b, the Page Layout tab is selected in the Ribbon. The Colors button is selected on the toolbar and opens to list palettes of multiple color options as well as Customize Colors at the bottom of the list. The Blue palette is selected from the list.">
+    <media alt="(a) Themes button is selected and opens to options for Office (various color combinations displayed), Browse for Themes, Save Current Theme. (b) Office pane displays color options for selection and Customize Colors.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_Themes01ab.jpg"/>
     </media>
     <caption>(a) Themes are useful if your company has a custom theme to apply for all charts. (b) Color schemes can be customized to meet your needs. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00002">
     <title/>
-    <media alt="The Cell Styles button is selected on the toolbar and a window open with multiple options for these elements: Good, Bad, and Neutral, Data and Model, Titles and Headings, Themed Cell Styles, and Number Format. At the bottom, a selection can be made for: New Cell Style and Merge Styles.">
+    <media alt="Cell Styles button opens to options: Good, Bad, and Neutral, Data and Model, Titles and Headings, Themed Cell Styles, and Number Format. Selections available for New Cell Style and Merge Styles.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_Themes02.jpg"/>
     </media>
     <caption>You can use the built-in themes to automatically format heading and numbers. (Used with permission from Microsoft)</caption>
@@ -60,14 +60,14 @@
     <para id="para-00011">Another time-saving strategy is using the <term class="no-emphasis" id="term-00007">Format as Table</term> tool. On the Home tab, select the Format as Table combo box to see many options for formatting tables (<link target-id="fig-00003"/>). The background color, heading font, and borders can be changed; additionally, column widths will change automatically to fit the text. This feature also automatically adds filters to the columns, which can help with organizing the data in a table <link target-id="fig-00013"/>. However, using the Format as Table feature does not format cells according to their content, such as currency.</para>
     <figure id="fig-00003">
     <title/>
-    <media alt="The Format as Table button is selected in the toolbar and the window open below shows multiple options for table colors in: Light, Medium, and Dark. At the end of the list there are options for New Table Style and New PivotTable Style.">
+    <media alt="Format as Table button opens to options for Light, Medium, and Dark. At the end of the list there are options for New Table Style and New PivotTable Style.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_FormatT01.jpg"/>
     </media>
     <caption>The Format as Table tool is a simple way to add full formatting to basic tables. When you format the selection as a table, there are several color options and themes to choose from. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00013">
     <title/>
-    <media alt="A spreadsheet shows Row 1 highlighted blue with white bold font and drop-down arrows in the right corner of all the cells. Rows 2 to 7 are pale blue with black font and pale black lines divide the cell columns and blue lines divide the rows.">
+    <media alt="A spreadsheet with information is displayed.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_FormatT02.jpg"/>
     </media>
 <caption>You get a filter option after the selection is formatted as a table. (Used with permission from Microsoft)</caption>
@@ -102,7 +102,7 @@
     <para id="para-00016">Since these figures are estimations for the coming period, they can be abbreviated to the million by marking with an “m.” To do this, select the cells on which to perform this process, and then right-click and select <term class="no-emphasis" id="term-00009">Format Cells</term>. In the Format Cells dialog box, go to <term class="no-emphasis" id="term-00010">Custom</term>, as shown in <link target-id="fig-00006"/>. In the Type field, delete the existing text, type [0,,“m”], and then click OK. Using the 0 indicates no decimal points and to use only whole numbers. The “m” is used to round to the million units. Excel will change the figures in the selected cells to be rounded up to the nearest million, as shown in <link target-id="fig-00006"/>.</para>
     <figure id="fig-00006">
     <title/>
-    <media alt="Columns E, F, G, and H filled with eight digit numbers are selected and the Format Cells dialog box is open. The Number tab is selected and under Category, these options are listed: General, Number, Currency, Accounting, Date, Time, Percentage, Fraction, Scientific, Text, Special, and Custom (selected). At the right under Sample: the number $10,850,000 displays. Type: shows below with multiple options to select listed in the window below. A Delete button is below on the right and the sentence “Type the number format code, using one of the existing codes as a starting point.”">
+    <media alt="Number tab is selected in a Format Cells pane. Custom is selected from Category, Sample is $10,850,000, and options are visible for Type. Spreadsheet is selected in background.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_Abbr02.jpg"/>
     </media>
     <caption>There are multiple “Custom” formatting codes, as you can see in the list. (Used with permission from Microsoft)</caption>
@@ -129,7 +129,7 @@
     <para id="para-00019">First, select each column separately, right-click each column, select Format Cells, and then select <term class="no-emphasis" id="term-00011">Special</term>. For formatting zip codes (<link target-id="fig-00008"/>), select the <term class="no-emphasis" id="term-00012">Zip Code</term> column values (but not the header), and in the Special format cell dialog box, select Zip Code, and choose OK. Follow the same steps for formatting phone numbers (<link target-id="fig-00015"/>). As you can see in the result shown in <link target-id="fig-00009"/>, Excel already has special formats for these number types.</para>
     <figure id="fig-00008">
     <title/>
-    <media alt="Column E titled Zip Code is selected and a window open at the right is titled Format Cells. The Number tab is selected within and options include: General, Number, Currency, Accounting, Date, Time, Percentage, Fraction, Scientific, Text, Special (selected), and Custom. A Sample shows 07101 and Type: displays these options: ZIP Code (selected), ZIP Code + 4, Phone Number, and Social Security Number. Locale (location: displays English (United States) and across the bottom, this sentence reads: Special formats are useful for tracking list and database values.">
+    <media alt="Zip Code column is selected in spreadsheet. Number tab in Format Cells panes is selected. Special is selected in Category, Sample is 07101, ZIP Code is selected in Type, and Locale is English.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_SPE02.jpg"/>
     </media>
     <caption>Microsoft already has preset formatting for many number types, including zip codes. (Used with permission from Microsoft)</caption>
@@ -143,7 +143,7 @@
     </figure>
     <figure id="fig-00009">
     <title/>
-    <media alt="Column E displays Zip Code numbers with five numbers, some beginning with zeroes. Column F displays phone numbers with the first three digits in parentheses and a dash between the third and fourth numbers of the seven digit number to follow.">
+    <media alt="Table displays consistent information for Zip Code (five numbers), and phone numbers (first three digits in parentheses and a dash between the third and fourth numbers).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_SPE04.jpg"/>
     </media>
     <caption>The finished product can save the consuming process of writing the parentheses or hyphens manually and decreases data entry errors. (Used with permission from Microsoft)</caption>
@@ -165,7 +165,7 @@
     </figure>
     <figure id="fig-00016" class="scaled-down">
     <title/>
-    <media alt="The same table is shown in cells A1 to C7 and in cells E1 to G7 as was selected in Part a. In cell C1 the heading is cut off and cell C7 displays #######. The second table to the right shows columns E and G wider with the title fitting and the number $614,870.00 in cell G7. Column F is thinner.">
+    <media alt="Two tables are visible with similar information and font color, but formatted differently (column sizes adjust to text in second table).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_PAI02.jpg"/>
     </media>
     <caption>Both tables are formatted using the same font, fill color, and number format. (Used with permission from Microsoft)</caption>
@@ -180,7 +180,7 @@
     <para id="para-00023">There are also other ways to copy formatting. Another way is to use the <term class="no-emphasis" id="term-00017">Paste Special</term> tool. You first select the whole formatted table and press <term class="no-emphasis" id="term-00018">CTRL+C</term> (to copy it), then select your entire unformatted table (<link target-id="fig-00011"/>a). Then, on the Home tab, choose Paste Special from the <term class="no-emphasis" id="term-00019">Paste</term> menu and click on Formatting (R) from the last row, as shown in <link target-id="fig-00011"/>b. This tool will paste just the formatting from your original selection; it will not paste any of the values or formulas (<link target-id="fig-00011"/>c).</para>
     <figure id="fig-00011">
     <title/>
-    <media alt="In Part a, two tables are shown on a spreadsheet. In the first table, the data is entered without any formatting of color or font and cells A1 to C7 are selected. In the second table, the same information is shown but with Row 1 highlighted blue with bold font and the numbers in column F and cell G7 include dollar signs with the numbers and decimals. Cell G7 also includes dollar signs and decimals. In Part b, Paste is selected from the toolbar and the open lists shows multiple options available under these headings: Paste, Paste Values, Other Paste Options, and Past Special. An orange arrow points to Paste Special. In Part c, the table from Part a is copied in cells A1 to C7 with Row 1 blue and bolded and with dollar signs and decimals in column B. In cell C1 the heading is cut off and cell C7 displays #######. The second table to the right shows columns E and G wider with the title fitting and the number $614,870.00 in cell G7. Column F is thinner.">
+    <media alt="(a) A table is selected for copying. (b) Paste button opens to Paste Special option. (c) Formatting has been applied to the previously selected table (Row 1 is blue and bolded).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_PASTEFOR01.jpg"/>
     </media>
     <caption>Paste Special can be used instead of the Format Painter tool. (a) First, copy the table with the formatting you want to apply. Then, highlight the table where you want to apply the formatting. (b) Choose Paste Special. (c) The tool applies the formatting only; it does not copy any of the cell contents. You would then adjust your column widths to avoid the error. (Used with permission from Microsoft)</caption>
