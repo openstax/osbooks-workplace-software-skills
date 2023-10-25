@@ -22,13 +22,13 @@
     <para id="para-00003">Adding numbers in Sheets uses the same commands and formulas as Excel does. Here, you will compare orders from two clients, who ordered the same product—headphones—but at different times and in different quantities (<link target-id="fig-00001"/>). You will design a new table that summarizes these orders by month. <link target-id="fig-00002"/> shows all orders of each client, separated by month, and the formula used to get the totals. Notice that the syntax is the same as it is in Excel. The FOB $ can be added in column N by copying the contents of cell L3 and pasting it in N3 without typing the formula again. This can be repeated for N4, N5, and N6, or you can drag the formula down the column to copy it (<link target-id="fig-00011"/>).</para>
     <figure class="scaled-down" id="fig-00001">
     <title/>
-    <media alt="Part a shows a spreadsheet with two tables—one in Rows 1 through 11 and another in Rows 14 through 24. Arrows point to Client A in cell A1 and Client B in cell A14.">
+    <media alt="Two spreadsheets are visible. The top spreadsheet is labeled Client A. The lower spreadsheet is labeled Client B.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_ADD01.jpg"/></media>
     <caption>The addition formula in Sheets works the same way as in Excel. (a) These two tables of data are to be summarized in one shorter table. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
     <figure class="scaled-down" id="fig-00002">
     <title/>
-    <media alt="Cell O4 is selected ($6,912.00) and “=G21+G22+G23+G24” shown in the formula bar.">
+    <media alt="Cell P5 is selected ($19,584.00) and “=G3+G4+G5+G6+G7+G8+G9” shown in the formula bar.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_ADD02.jpg"/></media>
     <caption>If you summarize the data by client and by month, you can add up all of the sales that occur in a specific month. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
@@ -51,7 +51,7 @@
     <para id="para-00005">One way to use subtraction in data analysis is to determine how far an order is above or below the average order. This information can tell us which clients might need more attention to increase their orders or to analyze ordering patterns due to seasonality. To perform this calculation, we will measure the distance from the average. First, find the average, which is the total sales divided by the number of orders. Using the data in <link target-id="fig-00001"/>, insert two columns after Quantity for the average quantity and distance from average and insert two more columns after FOB $ for the average FOB $ and distance from average. Then, find the average for each of these and repeat the value in all cells in that column. Then, to find the distance from average, subtract the average from the individual order, for both Quantity and FOB $. <link target-id="fig-00004"/> shows the average columns and the formula for finding the distance from average. Then, apply the formula to all rows (<link target-id="fig-00012"/>). Repeat the process for the distance from average for FOB $ (<link target-id="fig-00005"/>). In these statistical analyses, you can see that there are some large orders that make the average high, which in turn makes many smaller orders have a negative distance from average and makes them seem even smaller by comparison.</para>
     <figure id="fig-00004" class="scaled-down">
     <title/>
-    <media alt="Cell G3 is selected and the formula in the formula bar reads: =E3-F3, which also shows in cell G3. A pop up box shows above the “=” sign in cell G3 with $ (34.72) inside.">
+    <media alt="Cell G3 is selected and formula bar reads: =E3-F3, which also shows in cell G3. A pop up box shows above the “=” sign in cell G3 with $ (34.72) inside.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_SUBTRCT01.jpg"/></media>
     <caption>You can perform subtraction calculations in Sheets using formulas, just as in Excel. After finding the average, subtract the average from the quantity to get the distance from average. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
@@ -80,7 +80,7 @@
     <para id="para-00007">As in Excel, when using the multiplication formula in Sheets, you can multiply a cell reference by a constant or a cell reference by a cell reference. Using the same dataset, you can find the FOB $ by multiplying the quantity by the price per unit. <link target-id="fig-00007"/>a shows multiplication of the cell reference from the Quantity column by the constant price per unit without adding a column for the value. A Price per Unit column is added and the constant in the formula is replaced with the cell reference (<link target-id="fig-00007"/>b). You can repeat the calculation for all rows, as previously illustrated.</para>
     <figure id="fig-00007" class="scaled-down-30">
     <title/>
-    <media alt="Part a shows cell F3 selected and the formula bar shows “=D3*48” with the information in the cell being $ 720.00. Part b shows an added column to the right of Column E – Price per Unit (now column F) and FOB $ shifted to column G. Cell G3 is selected and the formula in the formula bar reads: =D3*F3. In cell G3, this shows: =D3*F3.">
+    <media alt="(a) Cell F3 displays $720.00 in cell and formula bar displays =D3*48. (b) An addition column (F) has been added (Price per Unit). Cell G3 (FOB$) displays =D3*F3.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_PRODUCT01.jpg"/></media>
     <caption>You can use cell references and constants for multiplication using formulas in Sheets. (a) The price per unit is the same for all items in this table, so you can multiply the quantity by the price without adding a column. Alternatively, you can add a column for the price per unit and (b) use cell references to perform the calculation. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
@@ -98,7 +98,7 @@
     <para id="para-00010">Now that you have the totals, find the proportion by dividing the FOB $ in O3 by the total in Q3 (<link target-id="fig-00013"/>). Repeat the same operation for the other three rows (<link target-id="fig-00014"/>). This analysis shows the sales behavior differences between clients A and B. This data analyses shows that in December, client B had 52.36 percent of the sales, and in January client A had 65.81 percent of the sales. The proportion can be changed into a percentage to increase readability, as shown in <link target-id="fig-00015"/>.</para>
     <figure id="fig-00009">
     <title/>
-    <media alt="Column R has no data in Rows 3-6 and no data in cell Q6. Cell Q5 is selected and the formula = O5+O6 shows in the formula bar. In cell O5, this is shown: = O5+O6 with a text box above with “$ 29,760.00” inside.">
+    <media alt="Spreadsheet visible. Cell Q5 in Totals column contains formula =O5+O6 (Box above reads: $29,760.00). Cell O5 contains $10,176.00 and cell O6 contains $19,584.00.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_DIVIDE01.jpg"/></media>
     <caption>You can use division to find the proportion of sales by client and by month.  First, find the total sales for each month. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
@@ -116,7 +116,7 @@
 </figure>
 <figure id="fig-00015">
 <title/>
-<media alt="This spreadsheet shows Column R selected and the data inside shown as a percentage with the “%” sign. The % icon from the Action bar is selected – Format as percent. The formula bar shows: = O3/$Q$.">
+<media alt="Spreadsheet shows Column R selected and data inside as a percentage with the % sign. The % icon from Action bar is selected – Format as percent. Formula bar shows: = O3/$Q$.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_DIVIDE04.jpg"/></media>
 <caption>Reformatting the cells as percentages makes the data more useful. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
 </figure>
