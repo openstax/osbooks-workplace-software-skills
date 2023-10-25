@@ -17,7 +17,7 @@
     </list>
     </section>
     <figure id="fig-00001">
-    <media alt="(a) An image shows eight columns of various hieroglyphics (animals, shapes, drawings, and lines) carved onto a light brown stone. (b) In the image, four rows of the number 0 and 1 are written in various combinations in dark black font over smaller images of 0 and 1 in light gray font. A hand is holding a magnifying glass. 0’s and 1’s are visible through the magnifying glass with some portions of the numbers darker than the others.">
+    <media alt="(a) Stone with hieroglyphics. (b) 0’s/1’s in various combinations in black over smaller images of 0’s and 1’s in gray font. A hand holds a magnifying glass over the numbers.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_01_Hieroglyph.jpg"/>
     </media>
     <caption>(a) Unlike the English alphabet, hieroglyphics used shapes or characters to represent the information to be conveyed. (b) In today’s world, the basis for all information created and shared with computer technology is binary code (only using 0s and 1s). (credit a: modification of “Hiéroglyphes” by iPhone-shoot/Flickr, CC BY 2.0; credit b: modification of “Magnifying glass and binary code” by Marco Verch Professional Photographer/Flickr, CC BY 2.0)</caption>
@@ -34,7 +34,7 @@
     <para id="para-00004">To understand content and its management, revisit WorldCorp’s volunteer work with Happy Tails. Since the adoption agency is newly formed, it needs help developing its brand, or organizational identity, as well as an online presence to publicize both the company and the pets available for adoption. This will require the development, distribution, and updating of a variety of multimedia content, including new branding (images, color schemes, logos, and slogans). There will be some design work involved, and we will cover some principles of design a bit later in the chapter. But for now, your teams will need to think broadly about all the aspects of creating and managing content for this small, startup organization.</para>
     <para id="para-00005">You have begun by asking the leaders at Happy Tails WC to answer some questions so you and your team can start building the brand for the organization. Their answers will guide the development of the content for the website and other aspects of the organization, both in print and online. <link target-id="fig-00002"/> shows a few questions to consider when creating content and developing a brand image.</para>
     <figure id="fig-00002" class="scaled-down">
-    <media alt="A box in the middle of the image shows the head of a cat along with the title Happy Tails WC across the top and Pet Adoption written along the right side. Five boxes are connected to the middle box by thin lines. Each box lists a question (clockwise): What does the nonprofit do?; What emotions do you want to covey?; Who is your audience?; What is the budget?; and What online features are key?">
+    <media alt="Cat image connected to boxes that read: What does the nonprofit do?; What emotions do you want to covey?; Who is your audience?; What is the budget?; What online features are key?">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_01_Brand.jpg"/>
     </media>
     <caption>When creating a brand for a product or organization, it is important to think broadly about the message you want to convey, whether delivered online or through print materials.</caption>
@@ -69,7 +69,7 @@
     <title>Benefits of Using a Content Management System</title>
     <para id="para-00022">There are several advantages to using a <term class="no-emphasis" id="term-00013">CMS</term> in any organization. One advantage is the ability to update the public frequently on organizational news. For example, Happy Tails WC might want to be able to keep their blog posts as new pets become available for adoption and to have the blog posts match the social media post for each pet. <link target-id="fig-00004"/> shows an example of a site that uses blogs. (You will often see Latin text on template websites. It’s to show that you can put whatever text you want there.) You will see that what may seem like a simple task actually involves many steps that need to be documented and managed. This is where a CMS comes in.</para>
     <figure id="fig-00004">
-    <media alt="A home page for the PetShelter site is visible with these options available at the top right for selection: Home, About Us, Cats, Dogs, Volunteer, Blog (with a drop-down arrow), Contact, and Dropdown (with a drop-down arrow). An image of a cat fills the screen with text to left: Adopt Us. We Need your Help. A large white, clickable button with Find a Pet to Adopt follows. Below the button, four images of two cats and two dogs are shown.">
+    <media alt="A PetShelter site displays images of cats and dogs on the screen with text: Adopt Us. We Need your Help. A large white, clickable button with Find a Pet to Adopt follows.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_01_petblog.jpg"/>
     </media>
     <caption>A content management system can help you keep your online presence current and engaging. (credit: “Animal Shelter” by Colorlib/Colorlib, CC BY 3.0)</caption>
@@ -99,7 +99,7 @@
     <title>Types of Content</title>
     <para id="para-00031">Various types of <term class="no-emphasis" id="term-00015">content</term> can be managed through a CMS, including web, mobile, enterprise, and social media, as <link target-id="fig-00005"/> displays. Each plays a different role in creating the overall image of an organization and managing the content that is available online.</para>
     <figure id="fig-00005">
-    <media alt="An organizational chart shows Content Types at the top in a box. Four boxes come down from the top in a row (connected to the top box by lines): Web Content (with a drawing of a computer); Mobile Content (with a drawing of a cell phone); Social Media (with a drawing of various sized heads in circles connected together); and Enterprise Content (with three people drawn and two speech bubbles coming from their heads).">
+    <media alt="Content Types chart connects to boxes with icons and text for: Web Content (computer); Mobile Content (cell phone); Social Media (heads in bubbles connected); and Enterprise Content (three people with speech bubbles).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_01_Types.jpg"/>
     </media>
     <caption>Content management systems can be used to manage web content, information on social media sites, and information intended for internal audiences.</caption>
@@ -122,7 +122,7 @@
     <para id="para-00042">A feature that allows anyone in the company to add content to a thread of posts is called <term id="term-00024">blogging capability</term>. Users can upload images, tag keywords, and use an editor to style and format their posts. Additional features include password protection for posts, which is ideal for memberships or communities that want to offer exclusivity. This is where you hope to feature Happy Tails WC adoption success stories. The plan is to have a regular spotlight through the blog to share the story.</para>
     <para id="para-00043">Another critical functionality of any CMS is its storage system. Managing assets, like digital images, must be maintained to use those assets in any product. A <term id="term-00025">library</term> of images, like the one in <link target-id="fig-00006"/>, or documents can be managed in a CMS, giving you the option of adding an image within your content. Images are stored within a central image library, and the multiple file upload feature allows users to add different files to a site at once. The library feature helps with archiving as well.</para>
     <figure id="fig-00006">
-    <media alt="A site page is visible with a Search Bar across the top (with Search Happy Tails written inside) and buttons for Filter, Messages, Upload, Question, and Cloud at the top right. At the left of the screen are options for: Add Photos, Learn, Discover, All Photos, and tabs for Albums (Happy Tails) and Shared. At the right, is a window titled Happy Tails and seven images are shown of a drawn cat, three pictures of cats, two pictures of dogs, and an image of paws and bones as the background with Happy Tails WC in white font.">
+    <media alt="A Happy Tails search displays Albums for Happy Tails. Images and icons of dogs, cats, and paws and bones wallpaper fill the screen.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_01_Library.jpg"/>
     </media>
     <caption>Image libraries will often have the option of viewing photos as thumbnails. This makes it easy for the user to select the ones that they want.</caption>
