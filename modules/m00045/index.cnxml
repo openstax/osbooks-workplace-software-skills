@@ -23,7 +23,7 @@
     <title>The Pages Command Group</title>
     <para id="para-00005">The <term class="no-emphasis" id="term-00001">Pages</term> command group is on the Insert tab, and it contains three commands. The most used one is <term class="no-emphasis" id="term-00002">Page Break</term>; this command allows the user to finish writing on the current page and start writing on a new page. (You can also access many of these same tools on the Layout tab in the Page Setup command group.) Adding a page break can be particularly useful at the end of a chapter or section. To insert a page break, place the cursor where the break will be (the start of the new page), and select the Page Break option. You may also just use the keyboard shortcut Ctrl+Enter to place a page break. If you turn on the ability to view hidden characters, you can see exactly where the page break is on your page (see <link target-id="fig-00001"/>). You can also view it easily in the Print layout option on the View tab. Here, we can add a page beak at the end of each major section of the market trends report.</para>
     <figure id="fig-00001">
-    <media alt="The Insert button is selected on the Ribbon and in the Pages command group, Page Break is selected. In the document, the page on the left displays a -----Page Break----- after the first paragraph with a blank rest of the page. The identical document on the right shows no Page Break after the first paragraph and the document continues with the rest of the text.">
+    <media alt="Page Break is selected Pages group. Left page displays document with a -----Page Break----- after text. Second document displays no Page Break after the first paragraph.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_PAGES01.jpg"/>
     </media>
     <caption>Page breaks make the subsequent text start on the next page. Here, it was placed at the end of the Introduction/Executive Summary, so that the Industry and Market Analysis section started on a new page. (attribution: Used with permission from Microsoft)</caption>
@@ -33,7 +33,7 @@
     <para id="para-00008">The last command to discuss in the Pages group is <term class="no-emphasis" id="term-00004">Cover Page</term>. Adding a cover page, or <term id="term-00005">title page</term>, is a common practice for long documents. It is an informative page that contains basic information about the report, such as the title, authors, publishing date, and the department or/and division. Some companies or organizations follow specific guidelines about title pages; formally written reports that follow the <emphasis effect="italics">Chicago Manual of Style</emphasis>, for instance, do not include any graphics, and the components must follow a set alignment and format. Yet many business reports do not strictly follow any set manual of style, or may simply follow their company’s brand guidelines. It is appropriate in many business settings to use graphics, such as a logo or photograph, on a title page, as in <link target-id="fig-00002"/>.</para>
     <para id="para-00009">Insert a title page to your market trends report. To insert a title page, select the drop-down menu of the Cover Page command, and choose a design. Word offers many different options for layouts, fonts, colors, and styles. Just update the text and add an image, if applicable.</para>
     <figure id="fig-00002">
-    <media alt="The Insert tab is selected on the Ribbon and in the Pages command group Cover Page is selected. The drop down Built-in pane displays various cover page styles for selection as well as these options: More Cover Pages from Office.com, Remove Current Cover Page, and Save Selection to Cover Page Gallery. In the document, [DOCUMENT TITLE] is visible in large blue font below a blue band that spans across the top of the document.">
+    <media alt="Cover Page is selected; displays option for Built In (various cover page styles for selection and More Cover Pages from Office.com, Remove Current Cover Page, and Save Selection to Cover Page Gallery).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_PAGES03.jpg"/>
     </media>
     <caption>Word comes with some built-in styles and layouts for cover pages, some of which include spaces for graphics. (attribution: Used with permission from Microsoft)</caption>
@@ -72,7 +72,7 @@
     <title>Inserting a Table of Contents</title>
     <para id="para-00020">You need to have added your headings and sections for the table of contents to work. In the market trends report, we formatted the headings for each major section and the subsections in those sections. Recall the headings were formatted using the Style command group on the Home tab. To insert a table of contents using the headings we have defined, go to the first page of the first section. For the report, we want to include the table of contents after the cover page. So we will go to the Introduction/Executive Summary heading. Leave a blank line before the section heading by pressing Enter to move the first section downward as least one line, as shown in <link target-id="fig-00004"/>. This will determine the placement of the table of contents. It should appear before the actual report starts, so before the first section of the document. Now, go to the References tab, choose the drop-down menu called <term class="no-emphasis" id="term-00019">Table of Contents</term>, and choose any of the preset formats. Choose Automatic Table 2 for the market trends report; it will look like <link target-id="fig-00005"/>. Conveniently, the table of contents has clickable hyperlinks by default, meaning that you can press Ctrl on the keyboard while clicking the mouse on any part of the table of contents and it will take you to that part of the document.</para>
     <figure id="fig-00004">
-    <media alt="The References tab is selected on the Ribbon and in the Table of Contents command group the Table of Contents button is selected and opens to a Built-In pane with various options for choosing a Table of Contents style as well as options for More Table of Contents from Office.com, Custom Table of Contents, Remove Table of Contents, and Save Selection to Table for Contents Gallery.">
+    <media alt="Table of Contents selected; opens to Built-In with style options and More Table of Contents from Office.com, Custom Table of Contents, Remove Table of Contents, Save Selection to Table for Contents Gallery.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOC01a.jpg"/>
     </media>
     <caption>Creating a hyperlinked table of contents in Word allows the reader to click right to each section, directly from the table of contents. (attribution: Used with permission from Microsoft)</caption>
@@ -99,13 +99,13 @@
     <caption>The superscript “1” indicates that there is a footnote at the bottom of the page. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00007">
-    <media alt="In the document, the words “$20 billion” are followed with a superscript 1. At the bottom of the document there is a short line separating the document text from the footnote. A superscript 1 is below the line followed by a website link.">
+    <media alt="The words “$20 billion” are followed with a superscript 1. At bottom of document a line separates the document text from the footnote. Superscript 1 is below line followed by website link.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01c.jpg"/>
     </media>
     <caption>Footnotes will be numbered in the body of the document and numbered at the bottom of the page where the footnote is inserted. Include the citation for the reference in the footnote. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00008">
-    <media alt="In the document, the footnote text is selected and in the pane that opens these options are available for selection: Font, Font Size, Increase Font Size, Decrease Font Size, Format Painter, Bold, Italics, Underline, Text Highlight Color, Font Color, Bullets, Numbering, Styles, New Comments, Line and Spacing, and Justify. Styles is selected and a pane opens to various font style options as well as selections for: Create a Style, Clear Formatting, and Apply Styles.">
+    <media alt="Footnote text is highlighted in a document and Styles is selected. Options are visible for styles of font and Create Style, Clear Formatting, and Apply Styles.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01d.jpg"/>
     </media>
     <caption>The style of the footnote font can be formatted using a wide variety of built-in styles. (attribution: Used with permission from Microsoft)</caption>
@@ -121,13 +121,13 @@
     <title>Captions</title>
     <para id="para-00029">For Word to automatically generate your table of figures, you need to insert captions for each of them. Let’s first insert a summary chart of data using the skills learned earlier in the chapter into the market trends report. To “<term class="no-emphasis" id="term-00026">caption</term>” a figure, select the entire figure, then choose <term class="no-emphasis" id="term-00027">Insert Caption</term> (see <link target-id="fig-00010"/>). In the dialog box that appears (see <link target-id="fig-00011"/>), the caption is automatically generated to be “Figure 1,” but you can rename it to whatever you like. There are also options where you can choose the placement of the caption. Do the same for all the figures in your document. Once all your figures are captioned, then you can insert your table of figures.</para>
     <figure id="fig-00010">
-    <media alt="References is selected on the Ribbon and in the Captions command group, Insert Caption is selected. In the document, a cursor sits at the start of a blank line underneath a table of information.">
+    <media alt="References is selected on ribbon and in Captions command group, Insert Caption is selected. In the document, a cursor sits at the start of a blank line underneath a table of information.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF01a.jpg"/>
     </media>
     <caption>You must use the Insert Caption tool to make sure all of your captions will appear in the table of figures. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00011">
-    <media alt="(a) References is selected on the Ribbon and a Caption pane is open. A window is available for entering in the Caption (Table 1 is entered) and Options below include Label and Position (both with drop down menus for item selection) and a box to check for Exclude label from caption. Buttons for New Label, Delete Label, Numbering, AutoCaption, OK and Cancel are visible in two rows across the bottom. (b) In the document, the caption Table 1: Industry Sales Data is visible on the left side underneath a table of information.">
+    <media alt="(a) Caption pane is open with options for Caption, Label/Position Options, and Exclude label from caption. (b) In the document, the caption is visible on the left side underneath a table.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF01bc.jpg"/>
     </media>
     <caption>(a) You can use the default text for captions or type in your own information. (b) The caption is placed below the table in this example, and is formatted according to the Style formatting used for the rest of the document. (attribution: Used with permission from Microsoft)</caption>
@@ -138,13 +138,13 @@
     <para id="para-00030">As with inserting a table of contents, first go to the top of your document where you will want your table of figures to appear. Typically, a table of figures is placed right below the table of contents. Now that we have labeled our table with a caption, we can create a table of figures to see how it works. As seen in <link target-id="fig-00012"/>, insert a page break, and choose the <term class="no-emphasis" id="term-00028">Insert a Table of Figures</term> command from the References tab. Word will automatically “read” the existing captions, and a table of figures will be generated.</para>
     <para id="para-00031">To make your document neat and organized, add the title <term class="no-emphasis" id="term-00029">Table of Figures</term> on top, and insert another page break to separate the Table of Figures page from the beginning of the document.</para>
     <figure id="fig-00012">
-    <media alt="The Reference tab is selected on the Ribbon and in the Captions command group the Table of Figures button is selected. A Table of Figures pane is open with tabs available for Index, Table of Contents, Table of Figures and Table of Authorities. The Table of Figures tab is selected and displays a Print Preview window (which displays what is in the document) along with button options underneath for Show page numbers and Right align page numbers. A drop down menu for Tab leader follows next. A General heading with Formats and Caption label selections (with drop down menus) and a button option for Include label and number. At the right half there is a pane for Web Preview and a button option for Use hyperlinks instead of page numbers. Buttons for Options, Modify, OK and Cancel are located in two rows at the bottom right.">
+    <media alt="Table of Figures pane opens to a Table of Figures tab with options for Print Preview, Web Preview, Show and Right align page numbers, Tab leader, and Format and Caption label.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF02a.jpg"/>
     </media>
     <caption>You can change some formatting options when you choose Insert Table of Figures. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00017">
-      <media alt="A document displays two pages, side by side, with a header in a blue band across the top. At the left is a page displaying a Table of Contents with tiered headings and page numbers. At the right is a Table of Figures displaying a title, Table name, and page number.">
+      <media alt="A two-paged document with header in blue contains a Table of Contents with tiered headings/page numbers. The other page displays a Table of Figures with title, Table name, and page number.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF02b.jpg"/>
       </media>
   <caption>The table of figures should look similar to a table of contents, but without the multilevel tiers. (attribution: Used with permission from Microsoft)</caption>
@@ -156,27 +156,27 @@
     <title>Linked Bookmarks</title>
     <para id="para-00032">Another helpful tool for navigating long documents is the <term id="term-00030">bookmark</term>. You can add bookmark links throughout your document for better navigation. Place the cursor where you want the bookmark to link up to—a section header, for example, or the beginning of an important paragraph—and go to the Insert tab and click Bookmark. In the dialog box, type a name for your bookmark <link target-id="fig-00013"/>. In this case, we chose to bookmark the start of the body text. Now, select a word that will link up to the bookmark, right-click on it, and select <term class="no-emphasis" id="term-00031">Hyperlink</term> from the context menu. The same hyperlink dialog box will appear, but this time select Place in This Document. Click on the bookmark you just made, and then click OK; the link will be set <link target-id="fig-00018"/>. Conversely, if you want to remove a bookmark from Word, click the <term class="no-emphasis" id="term-00032">Bookmark</term> command in the Insert menu, locate it, and then select Delete.</para>
     <figure id="fig-00013">
-    <media alt="A Links command group is visible and an arrow points to the Bookmark button within. A Bookmark pane is open and displays a text bar with bodytext typed inside. Checkable buttons for Sort by Name and Location are below as well as a selection button for Hidden bookmarks. At the top right are buttons for Add, Delete, and Go To and a Cancel button is visible at the bottom right.">
+    <media alt="A Bookmark button is selected and opens to Bookmark pane with options for Bookmark name, Sort by Name and Location, box for Hidden Bookmarks selection, and Add, Delete, and Go to buttons.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKMARKa.jpg"/>
     </media>
     <caption>When creating Bookmarks, make sure to choose a descriptor word that has meaning to the content you are designating. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00018">
-      <media alt="An Insert Hyperlink pane is open and at the left offers options to Link to: Existing File or Web Page, Place in This Document, Create New Document, and E-mail Address. At the top is a space to enter Text to Display and a button for ScreenTip. A pane below offers locations to Select a place in this document (an outline of the document headers is visible in the pane) as well as a button on the right for Target Frame. OK and Cancel buttons are located at the bottom right.">
+      <media alt="Insert Hyperlink pane opens to Link to Existing File/Web Page, Place in This Document, Create New Document, E-mail Address. Text to Display and Select a place in this document offer selections.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKMARKb.jpg"/>
               </media>
               <caption>The bookmark is now set. Linking a section of text to a bookmark eases navigation through a long document. (attribution: Used with permission from Microsoft)</caption>
             </figure>
     <para id="para-00033">Another reason to use bookmarks is to help digital readers of your document navigate back to important sections of the document while they read. For example, you can add a link at the end of each chapter that says, “Go to Table of Contents.” To do this, first place a bookmark in front of the table of contents as <link target-id="fig-00014"/> shows. To locate the roster of bookmarks, click the Bookmark command on the Insert tab, and then click Go to. If you want to relocate the bookmark, place the cursor where you want the bookmark to be relocated to, then open the Bookmark dialog box, click the original bookmark’s name, and then click Add. This will update the new location.</para>
     <figure id="fig-00014">
-    <media alt="In the Table of Contents document, the cursor is located before the word Table. A pop up shows an Update Table button. A Bookmark Pane is open in front and lists the word tableofcontents in the Bookmark name bar. Add, Delete, and Go To buttons are on the right and Sort by Name and Location buttons are located below. A Hidden bookmarks button is available and a Cancel button is visible at the bottom right.">
+    <media alt="Button for Update Table visible in document. Bookmark Pane is open and lists the tableofcontents in Bookmark name. Sort by Name and Location and Hidden bookmarks buttons are located below.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKM01a.jpg"/>
     </media>
     <caption>When you create the bookmark at the table of contents, you will be able to see it in your roster of bookmarks. (attribution: Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00034">Next, move to the area of the document where you want to link the table of contents. Go to the Insert tab and select Link. From the <term class="no-emphasis" id="term-00033">Insert Link</term> window, choose the bookmark you just created. In the text box that appears, write the text you want readers to see (“Go to Table of Contents”), then choose Place in this Document as shown in <link target-id="fig-00015"/> and <link target-id="fig-00016"/>. Choose the placement in the document and click OK.</para>
     <figure id="fig-00015">
-    <media alt="An Insert Hyperlink pane is open and at the left offers options to Link to: Existing File or Web Page, Place in This Document, and E-mail Address. At the top is a space to enter in Text to Display (Go to Table of Contents is entered) and a button for ScreenTip is at the right. A pane below offers locations to Select a place in this document (Multi level tiers in the document are visible) as well as a button on the right for Target Frame. OK and Cancel buttons are located at the bottom right.">
+    <media alt="Insert Hyperlink lists options to Link to Existing File or Web Page, Place in This Document, E-mail Address. Text to Display and Select a place in this document are available with options.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKM01b.jpg"/>
     </media>
     <caption>Remember to name your hyperlink something that will be helpful to the reader. (attribution: Used with permission from Microsoft)</caption>

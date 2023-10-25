@@ -25,25 +25,25 @@
     <para id="para-00004">From the Insert menu you can see <term class="no-emphasis" id="term-00001">Special characters</term>, as shown in <link target-id="fig-00001"/>. You can insert any of the characters you see on the first screen, just by selecting one in <link target-id="fig-00002"/>. But you may need a character that doesn’t appear here. One way to find a character is to look by category. Choose the Symbol combo box on the left and select another category. Options are Punctuation, Numbers, other languages, and many other groups, as you can see in <link target-id="fig-00003"/>. These are top-level collections of character types and include lots of special characters that are more than just symbols.</para>
     <para id="para-00005">When you change the top-level collection to be, for instance, Emojis, the special character selections will change, as shown in <link target-id="fig-00004"/>.</para>
     <figure id="fig-00001">
-    <media alt="In Google Docs, Insert is selected on the Action bar and opens to these options for selection: Image, Table, Drawing, Chart, Horizontal line, Emoji, Smart chips, Date, Dropdown, Footnote, Building blocks, Special characters, Equation, Watermark, and Headers &amp; footers.">
+    <media alt="Insert is selected and opens to these options for selection: Image, Table, Drawing, Chart, Horizontal line, Emoji, Smart chips, Date, Dropdown, Footnote, Building blocks, Special characters, Equation, Watermark, and Headers &amp; footers.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_CHAR01a.jpg"/>
     </media>
     <caption>Special characters are inserted from the Insert menu. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00002">
-    <media alt="An Insert special characters window is open with buttons for Symbols and Arrows. The pane on the left shows rows of various arrows for selection. At the top right is a blank search bar and below is a window with Draw a symbol here visible inside.">
+    <media alt="Insert special characters window displays buttons for Symbols and Arrows displaying various arrows. A blank search bar is available and a window with Draw a symbol here visible inside.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_CHAR01b.jpg"/>
     </media>
     <caption>The special characters dialog box offers a number of different choices, as well as the option to draw a symbol or search by keyword. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00003">
-    <media alt="At the left the drop-down pane lists these options for selection: Symbol, Emoji, Punctuation, Number, Format &amp; Whitespace, Modifier, Latin, Other European Scripts, American Scripts, African Scripts, Middle Eastern Scripts, South Asian Scripts, Southeast Asian Scripts, Hangul, Other East Asian Scripts, and Han 1-Stroke Radicals. The screen in the background displays a blank search bar at the top right and below a window with Draw a symbol here visible inside.">
+    <media alt="A pane lists options for Symbol, Emoji, Punctuation, Number, Format &amp; Whitespace, Modifier, Latin, and various other Scripts. A screen displays a search bar and a Draw a symbol here pane.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_CHAR01c.jpg"/>
     </media>
     <caption>When selected, the Symbol combo box opens up a long list of different categories. Each category has a different set of characters and symbols. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00004">
-    <media alt="An Insert special characters window is open with tabs for Emoji and People and Emotions. The pane on the left shows rows of various emojis and figures of people for selection. At the top right is a blank search bar and below is a window with Draw a symbol here visible inside.">
+    <media alt="Insert special characters window opens to tabs for Emoji and People and Emotions with a pane of images beneath. A search bar and window with Draw a symbol here are visible.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_CHAR01d.jpg"/>
     </media>
     <caption>Here, the category selected from the combo box was Emoji. You can see that only emojis are shown in the main window. (Google Docs is a trademark of Google LLC.)</caption>
@@ -52,7 +52,7 @@
     <para id="para-00007">If you have symbols or special characters that you use frequently, then you could add these symbols to the <term id="term-00002">Automatic substitution</term> roster. This roster allows you to quickly and easily add in a symbol or special character without having to access the Special Characters menu. For example, whenever you type the word “pi,” Docs will substitute the pi symbol for the word.</para>
     <para id="para-00008">The Automatic substitution tool is in the Tools menu, under Preferences. In the dialog box that appears, select the Substitutions tab and add in your custom substitution, as <link target-id="fig-00005"/> shows.</para>
     <figure id="fig-00005" class="scaled-down">
-    <media alt="A Preferences window is open and displays tabs for General and Substitutions. Substitutions is selected and Automatic substitution is check marked at the top. A list titled Replace and a list titled With follow. Items listed in the Replace column (e.g., (c)) can be replaced in the document with other items (e.g., ©). X buttons are located at the right of all the Replace/With items. Cancel and OK buttons are visible at the bottom right.">
+    <media alt="A Preferences window displays tabs for General and Substitutions. Options available in Substitutions include Automatic substitution, and Replace and With columns (with checkmarks and x’s).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_CHAR02.jpg"/>
     </media>
     <caption>Adding symbols to the Automatic substitution tool can make it easier to insert frequently used special characters. (Google Docs is a trademark of Google LLC.)</caption>
@@ -62,7 +62,7 @@
     <title>Equations</title>
     <para id="para-00009">If you want to insert math notation or equations, go to the Insert menu and navigate to the <term class="no-emphasis" id="term-00003">Equation</term> command, as shown in <link target-id="fig-00006"/>. As you do, the Equation toolbar will appear directly below the main toolbar. From there, you can access the different groups of mathematical operations, brackets, Greek letters, and other math notation. This toolbar allows you to write custom math equations.</para>
     <figure id="fig-00006">
-    <media alt="(a) In Google Docs, Insert is selected on the Action Bar and opens to these options for selection: Image, Table, Drawing, Chart, Horizontal line, Footnote, Special characters, Equation. Equation is selected. (b) A new equation bar can be seen across the top of the document page with drop downs to select Greek letters, Miscellaneous operations, Relations, Math operations and arrows. Greek letters is selected and the drop down displays various options for selection from the Greek alphabet.">
+    <media alt="(a) Insert is selected and lists a selected Equation option. (b) A new equation bar displays options for Greek letters, Miscellaneous operations, Relations, Math operations and arrows.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_EQUATION01.jpg"/>
     </media>
     <caption>Use the Insert menu (a) to access the Equation toolbar. This toolbar (b) has an easy-to-use interface for inserting mathematical notation, such as Greek letters. (Google Docs is a trademark of Google LLC.)</caption>
@@ -76,14 +76,14 @@
     <title>Inserting an Image</title>
     <para id="para-00011">Docs has a few more interactive options than Word when it comes to inserting images. Because Docs is a Google product and you are typically online when you are using it, there are some integrations with other Google services, like <term class="no-emphasis" id="term-00004">Photos</term> and <term class="no-emphasis" id="term-00005">Drive</term>, that make inserting your own images easy. First, go to the Insert menu, and select Image. As seen in <link target-id="fig-00007"/>, you have a number of different options: You can choose to get the image from your computer, do a Google Image search, insert a photo from your Drive or your Photos account, type in a web address where the image is located, or insert an image from the camera on your laptop/tablet/smartphone. This huge array of options allows for a lot of personalization. Keep in mind copyright protections for images that you might find on the internet. Be sure to cite properly when using images that are copyrighted.</para>
     <figure id="fig-00007">
-    <media alt="In Google Docs, Insert is selected on the Action bar and opens to these options for selection: Image, Table, Drawing, Chart, Horizontal line, Emoji, Smart chips, Date, Dropdown, and Footnote. Image is selected and opens to these options for selection: Upload from computer, Search the web (selected), Drive, Photos, by URL, and Camera.">
+    <media alt="Insert opens to an Image option which opens to options for Upload from computer, Search the web (selected), Drive, Photos, by URL, and Camera.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_IMAGE01a.jpg"/>
     </media>
     <caption>Docs features many different, integrated ways of inserting images into your Doc. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00012">Let’s revisit the market trends report and insert an image of a world map that you can use to show where WorldCorp’s major markets are located. First, place the cursor where you would like the image inserted. You will insert the image at the end of the Industry and Market Analysis section, so you will want to place your cursor at the beginning of the next blank line. Go to the Insert menu and choose Search the web, as shown in <link target-id="fig-00008"/>. Select the image you like and click Insert (<link target-id="fig-00009"/>).</para>
     <figure id="fig-00008">
-    <media alt="In Google Docs, a document is visible on the left side of the image. On the right side, world map is typed into the Search Bar and images of world maps can be seen below. One of the images of the world with green land and blue oceans is selected. At the bottom right, an X is visible along with 1 selected and a blue Insert button.">
+    <media alt="A document is visible on the left side. The words world map are typed into the Search Bar and images of world maps can be seen below with one selected.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_IMAGE01b.jpg"/>
     </media>
     <caption>When you select Search the web, a navigation pane will open on the right side of the screen. Use descriptive search terms to get a narrower result for what you need. (Google Docs is a trademark of Google LLC.)</caption>
@@ -96,7 +96,7 @@
     </figure>
     <para id="para-00013">If you want to edit the image, simply select it with your cursor; Docs gives the user many ways and options for modification. You will first notice that when you have the image selected, a small toolbar will appear below the image. From here, you have options for text wrapping, sizing, and rotating, as <link target-id="fig-00010"/> presents. If you want even more configuration options, choose Image Options from the Action Bar, and a sidebar will appear. From here, you can modify all the above options with more detail, such as specific margin sizes. The Action Bar now displays, on the right side, tools for accessing image borders, cropping the image, and replacing the image.</para>
     <figure id="fig-00010">
-    <media alt="In the Google Doc, the image of the world map is visible in the document right after a paragraph. The image is selected and an arrow points to the Image options button on the Action Bar. Add comment and Suggest edits buttons are located to the right of the image. Below the image is a selection bar with options for: In line, Wrap text, Break text, Behind text, In front of text, and Image options.">
+    <media alt="Map image is inserted into document. Image options button on Action Bar. Options available for editing include Add comment, Suggest edits, Text (In line, Wrap, Break, Behind, In front of, Image options).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_IMAGE02.jpg"/>
     </media>
     <caption>Select Image options from the Action Bar when the image is selected for additional formatting options. (Google Docs is a trademark of Google LLC.)</caption>
@@ -109,20 +109,20 @@
     <title>Creating and Modifying Custom Drawings</title>
     <para id="para-00015">To create a new drawing, go to the Insert menu and select Drawing. Docs will open a dialog box to another app called Drawings, as shown in <link target-id="fig-00011"/>. Through the interface, you can add straight lines, curved lines, WordArt, freehand drawings, and more. This can be a particularly useful tool if you are working on a computer with a trackpad or touch screen. You can also change the color and thickness of the lines in your drawing. When you are finished with the drawing, just select Save and Close, and your drawing will appear in your Doc where your cursor is. You can change the position of the object by aligning it using the Action Bar align tools, or you can resize it by using the mouse over the edges of the object (<link target-id="fig-00021"/>).</para>
     <figure id="fig-00011">
-    <media alt="A Drawing pane is visible. A Save and Close button is visible at the top right. Across the top of the drawing window is an Action Bar with these options: Actions drop down, Undo, Redo, Paint Format, Zoom, Select, Polyline, Shape, Text Box, Image, and Format Options. A tulip is drawn sideways in the window with red petals, a green stem and leaves, and three water droplets at the bottom left. Below the image, the text reads: Through the interface you can add straight lines, curved lines, WordArt, freehand drawings, and more. This can be a particularly useful tool if you are working on a computer with a trackpad or touchscreen. You can also change the color.">
+    <media alt="Drawing pane is visible with options for Actions drop-down, Undo, Redo, Paint Format, Zoom, Select, Polyline, Shape, Text Box, Image, and Format Options. A tulip is drawn sideways in the window.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_DRAW01a.jpg"/>
     </media>
     <caption>Drawings gives you many options for formatting text and adding shapes to visually enhance your document. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00021">
-      <media alt="A tulip is drawn sideways in the window with red petals, a green stem and leaves, and three water droplets at the bottom left. The image is selected and an action bar along the bottom lists options for Editing, placement of the image, margins, and Move with text. Text visible under the action bar is: cursor is. You can change the position of the object by aligning it using Action.">
+      <media alt="A selected image of a tulip is drawn sideways in a window. Action Bar items include Editing, placement of the image, margins, and Move with text.">
       <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_DRAW01b.jpg"/>
       </media>
       <caption>Once you insert the drawing into your document, you have further options for placement and sizing. (Google Docs is a trademark of Google LLC.)</caption>
       </figure>
     <para id="para-00016">If you want to insert an existing drawing, you need to have uploaded it first to Drive, as <link target-id="fig-00012"/> shows. To do this, go to the Insert menu, choose Drawing, then From Drive. You will then have to locate the item in your Drive and choose whether you want to Link to source or Insert unlinked. Link to source means that you are creating a live link from your original Drawing in your Drive, so that your drawing will be automatically updated if you change the original drawing. Insert unlinked means that you are inserting a static copy of your drawing into your current Doc.</para>
     <figure id="fig-00012" class="scaled-down-30">
-    <media alt="An Insert drawing pane has selectable options for Link to source (Only editors can update the drawing. Collaborators can see a link to the source.) and Insert unlinked. Learn more is available on the bottom left in blue font and hyperlinked and Cancel and Insert buttons are available at the bottom right.">
+    <media alt="An Insert drawing pane displays options for Link to source (Only editors can update the drawing. Collaborators can see a link to the source.) and Insert unlinked.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_DRAW02.jpg"/>
     </media>
     <caption>You can link the drawing to the original file, then it will update if you change the Drawings file. (Google Docs is a trademark of Google LLC.)</caption>
@@ -134,13 +134,13 @@
     <para id="para-00018">Drawings also has other commands, such as adding lines and text boxes, the fill paint bucket, line width controls, and font color and type modifications (plus all the standard font formatting commands)—all accessible from the Drawing app toolbar, as shown in <link target-id="fig-00014"/>. For the market trends report, your supervisor has asked that you create a graphic to show the flow of the report from department to department. The report will originate with the marketing department, then move to the finance department, and finally to the operations department. We can use Drawings to construct such a process flowchart. It is worth noting that in Docs, you need to construct your process flowchart manually, piece by piece, whereas in Word, you can use the preset SmartArt charts and shapes to create one. This means that creating graphics such as flowcharts and organizational charts is a bit more labor-intensive in Docs than it is in Word. You will learn more about this in the section on <link target-id="sect-00010">Inserting Charts</link>.</para>
     <para id="para-00019">To create your <term class="no-emphasis" id="term-00007">process flowchart</term>, you first need to insert three rectangular shapes, one for each step in the process (i.e., each of the departments). Then, you will need two arrows and three text boxes. To speed up the process, you can copy the shape you inserted and then paste it in the Drawings window. This works for lines and text boxes as well. Let’s change the fill color to a darker blue so that it is in line with the WorldCorp brand. From the tool menu, select Shape (to insert the rectangles) and Line (to insert the arrows). As you are lining up the images, Drawings will give you red guidelines to show when the images are in line with each other.</para>
     <figure id="fig-00013">
-    <media alt="(a) A Drawing pane is visible. A Save and Close button is visible at the top right. On the Action Bar, Shapes is selected and opens to these options for selection: Shapes, Arrows, Callouts, and Equation. Shapes is selected and a range of shapes are visible at the right in a pane. (b) A Drawing pane is visible. A Save and Close button is visible at the top right. On the Action Bar, More is selected and options for selection include: Font, Font size, Bold, Italic, Underline, Text color, Highlight color, Align, Line &amp; paragraph spacing, Bulleted list, Numbered list, Decrease indent, Increase indent, Clear formatting, and Format options. An image of three blue boxes connected by black lines is visible in the drawing space. A Text box is inserted in the first box and the word Marketing is inserted in black font.">
+    <media alt="(a) Shapes is selected on Drawing pane and opens various selectable shapes. (b) Drawing pane displays three blue boxes connected by black lines. A Text box is inserted in the first box.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_DRAW03ab.jpg"/>
     </media>
     <caption>Docs gives you many different shapes options to work with (a), which can come in handy when creating your own custom flowcharts (b). (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00014">
-    <media alt="In the Drawing pane, Fill color is selected and the pane opens to tabs with Solid and Gradient tabs. Solid is selected and Custom is available as well as a variety of colors and Transparent at the bottom. The first box in the Drawing pane is now a dark blue color.">
+    <media alt="In Drawing pane, Fill color is selected and opens to a Solid tab with a display of colors. The first box in the Drawing pane is now a dark blue color.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_DRAW03c.jpg"/>
     </media>
     <caption>You can make the fill color disappear by using the Transparent option. (Google Docs is a trademark of Google LLC.)</caption>
@@ -150,7 +150,7 @@
     <title>Inserting WordArt</title>
     <para id="para-00020">Google’s <term class="no-emphasis" id="term-00008">WordArt</term> feature is similar to the one in Word: It is a way to add stylized text to your document. In Google, this feature is available through the <term class="no-emphasis" id="term-00009">Drawing</term> app. When you are in the Drawing app, go to the Actions drop-down menu and select WordArt. A small box will appear, in which you type your text. If you want to change the color, font type, transparency, borders, and other elements, you can do so using the Drawings toolbar commands. Press Enter to finish (see <link target-id="fig-00015"/>).</para>
     <figure id="fig-00015">
-    <media alt="In Google Docs, the Drawing window is open and Actions is selected on the Action Bar. The pane opens to these options for selection: See version history, Download, Word art, Cut, Copy, Paste, and Duplicate. At the right, a pane is open with the word World in blue, large font inside of a text box.">
+    <media alt="Actions is selected in Drawing and opens to options for See version history, Download, Word art, Cut, Copy, Paste, and Duplicate. A pane displays the word World in blue, large font.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_DRAW04.jpg"/>
     </media>
     <caption>In Docs, WordArt is part of the Drawings app. You can apply all the same formatting as you would to a shape or custom drawing. (Google Docs is a trademark of Google LLC.)</caption>
@@ -160,7 +160,7 @@
     <title>Inserting Charts</title>
     <para id="para-00021">Drawings has many shapes and connectors so that you can build your organizational charts or flowcharts from scratch. Unlike Word, which comes with the SmartArt options for preset flowcharts, organizational charts, and more, Docs requires that you make your own charts. This can, however, lead to more customization and personalization of the shapes and types of charts you can make in Docs. You can see in <link target-id="fig-00016"/> how to create an <term class="no-emphasis" id="term-00010">organizational chart</term> from scratch by adding boxes, filling them with a light blue color, and connecting them with lines. This is just like the simple process flowchart we made in the section on <link target-id="sect-00008">Inserting Shapes</link>, except the boxes are arranged a little differently.</para>
     <figure id="fig-00016">
-    <media alt="A Drawing pane is visible. A Save and Close button is visible at the top right. In the drawing pane, a hierarchy chart is visible with one blue box at the top and two rows of three boxes across below. All of the boxes are connected downward from the top box only.">
+    <media alt="In a drawing pane, a hierarchy chart displays with one box at the top and two rows of three boxes across beneath. All the boxes are connected downward from the top box.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_DRAW05.jpg"/>
     </media>
     <caption>There are ways to make hierarchy charts in Drawings using both shapes and lines to connect the levels. (Google Docs is a trademark of Google LLC.)</caption>
@@ -171,21 +171,21 @@
     <title>Tables</title>
     <para id="para-00022">Inserting and modifying tables in Docs is similar to the same process in Word. To add a table, go to the Insert menu, navigate to <term class="no-emphasis" id="term-00011">Table</term>, and hover your cursor over the number of rows and columns you want, as shown in <link target-id="fig-00017"/>.</para>
     <figure id="fig-00017">
-    <media alt="In Google Docs, Insert opens to this list of options for selection: Image, Table, Drawing, Chart, Horizontal line, Emoji, Smart chips, Dropdown, Footnote, Building blocks, Special characters, Equation, Watermark, Headers &#38; footers. Table is selected and at the right a pane opens to Table templates as well as a grid option to select a table up to 20 x 20 cells.">
+    <media alt="Insert opens to a Table option which opens to Table templates as well as a grid option to select a table up to 20 x 20 cells.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_TABLE01a.jpg"/>
     </media>
     <caption>The maximum number of columns and rows in a table is 20 x 20. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00023">From this menu, the maximum width and length of a table is 20 x 20 cells, but you can add more columns and rows later by using the Insert column left/right or Insert row above/below tools, as shown in <link target-id="fig-00018"/>. This menu is accessed by right-clicking when your cursor is anywhere in the table. You may also merge cells by selecting the cells and right-clicking to show the context menu and choosing Merge cells. This functionality is useful when you want to merge cells in the top row to create a header row, for example. If you want to delete a row or column, simply select it and right-click to Delete column or Delete row. The same process works for deleting the whole table: Select it, right-click, and choose Delete table.</para>
     <figure id="fig-00018">
-    <media alt="In Google Docs a blank table is visible in the background with a cursor in one of the cells. A pane is open with these options for selection: Cut, Copy, Paste, Paste without formatting, Delete, Insert row above, Insert row below, Insert column left, Insert column right, Delete row, Delete column, Delete table. Pin header up to this row, Split cell, Sort table. Distribute rows, and Distribute columns.">
+    <media alt="A pane lists options for adjusting a table: Cut, Copy, Paste, Paste without formatting, Delete, Insert row above, Insert row below, Insert column left, Insert column right, Delete row, etc.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_TABLE01b.jpg"/>
     </media>
     <caption>Right-clicking anywhere within the table gives you many options for adjusting your table. The menu makes it easy to add, delete, or alter existing rows and columns. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00024">As for applying formatting changes within the table, you can select the cells to format and use the Action Bar to change the borders and the background color, as shown in <link target-id="fig-00019"/>.</para>
     <figure id="fig-00019">
-    <media alt="In Google Docs, a 20 x 6 table is displayed in the background. An 8 x 2 section of the table at the top left is filled in with a teal color. Background color is selected on the Action bar and opens to display Transparent, a variety of color selections (a teal color is selected from the array of colors), and Custom (Add a custom color and Pick a custom color) options for selection.">
+    <media alt="An 8 x 2 section of a larger table is filled in with a teal color. Background color is selected and displays Transparent, colors, and Custom options for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_TABLE01c.jpg"/>
     </media>
     <caption>Using the Background color tool allows you to fill certain table cells with a specific color. (Google Docs is a trademark of Google LLC.)</caption>
@@ -193,7 +193,7 @@
     <para id="para-00025">You can change the size of the table by selecting it and right-clicking on it to show the context menu, and selecting Table properties. The Table properties dialog box (see <link target-id="fig-00020"/>) is where you can change the dimensions of the rows and columns (by setting a set width or height in inches), table alignment within the page, cell text alignment, cell padding, and more.</para>
     <para id="para-00026">Outside of this dialog box, you can make some changes manually. For instance, you may change an individual column or row height or width by dragging the borders of cells; the mouse pointer will change shape to a two-arrow cursor. You can also make all rows and/or columns the same size by selecting the whole table and right-clicking it, then selecting Distribute rows or Distribute columns.</para>
     <figure id="fig-00020">
-    <media alt="In Google Docs, a 12 x 11 table is displayed in the background with a cursor in one of the cells. A Table properties pane is open listing these options for selection: Row (with checkable boxes for Minimum row height, Pin header row(s), and Allow row to overflow across page), Column (with a checkable box for Column width), Alignment, and Color.">
+    <media alt="A table is visible. A Table properties pane listing options: Row (Minimum row height, Pin header row(s), Allow row to overflow across page), Column (Column width), Alignment, and Color.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_TABLE01d.jpg"/>
     </media>
     <caption>Docs offers limited options for table formatting. (Google Docs is a trademark of Google LLC.)</caption>
