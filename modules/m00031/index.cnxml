@@ -73,7 +73,7 @@
 <para id="para-00013">As the name implies, <term class="no-emphasis" id="term-00022">temporary files</term> are created by a program to allow it to complete a task or tasks. These files are handy to have in case of a sudden shutdown, as they may help to recover a file that might otherwise be lost. Many temporary files are automatically deleted once the task is complete or the file is saved permanently. But others may stick around; these files are saved in your temp folder. On a Windows computer, you can access your temp folder by typing <term class="no-emphasis" id="term-00023">%temp%</term> in the Windows search bar at the bottom left of your screen.</para>
 <note class="mac-tip" id="note-00002">
 
-<para id="para-00014">On a Mac, open the Finder and select Go ≫ Go to Folder. In the search bar, type ~/Library/Caches/ and then tap Go to run the command. A window will open with a list of all the generated temp files saved on your Mac. You can easily select and delete these files.</para>
+<para id="para-00014">On a Mac, open the Finder and select Go ≫ Go to Folder. In the search bar, type ~/Library/Caches/ and then click Go to run the command. A window will open with a list of all the generated temp files saved on your Mac. You can easily select and delete these files.</para>
 
 </note>
 </section>

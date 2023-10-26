@@ -58,12 +58,12 @@
     <para id="para-00010">Folders can be found in the <term class="no-emphasis" id="term-00008">Finder</term> or the Documents tab.</para>
   
     </note>
-    <para id="para-00011">To access File Explorer, either double-click the manila folder icon on the desktop or access File Explorer through the Windows menu. You can also search for a specific filename using the search bar at the bottom of the screen or the search bar at the upper-right side of File Explorer. As you can see, there are several ways to find the file you are looking for.</para>
+    <para id="para-00011">To access File Explorer, either double-click the manila folder icon on the desktop or access File Explorer through the Windows menu. You can also search for a specific file name using the search bar at the bottom of the screen or the search bar at the upper-right side of File Explorer. As you can see, there are several ways to find the file you are looking for.</para>
     <figure id="fig-00002" class="scaled-down">
     <media alt="File is selected in File Explorer. A bar displays This PC. A Search Bar is at the right. Folders menu shows options and Devices and Drives options display at the bottom.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_02_Find.jpg"/>
     </media>
-    <caption>File Explorer shows the folders on your hard drive and the devices that are connected to your computer. The Search This PC search bar finds specific files on your local hard drive. (attribution: Used with permission from Microsoft)</caption>
+    <caption>File Explorer shows the folders on your hard drive and the devices that are connected to your computer. The Search This PC search bar finds specific files on your local hard drive. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00012">Once you have located your file, you can either right-click or double-click on the file to open it.</para>
     </section>
@@ -80,7 +80,7 @@
     <media alt="New (selected) opens: Folder, Shortcut, Microsoft Access Database, Bitmap image, Microsoft Word Document, Microsoft Access Database, Microsoft PowerPoint Presentation, Microsoft Publisher Document, Rich Text Format, Text Document, Excel Worksheet, Compressed (zipped) Folder.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_02_Create.jpg"/>
     </media>
-    <caption>The various application programs are listed for you to select when creating a new file. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The various application programs are listed for you to select when creating a new file. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00007">
@@ -89,7 +89,7 @@
     </section>
     <section id="sect-00008">
     <title>Moving and Deleting a File</title>
-    <para id="para-00017">From time to time, you will need to move and delete files as part of good computer housekeeping practices. To delete a file, right-click on the file you want to delete and choose <term class="no-emphasis" id="term-00013">Delete</term>. Once deletion is confirmed, select OK. You can select multiple files by using either the Shift or Ctrl keys. Use Shift to select files that are listed together. You would click the first file and then hold Shift and click the last file in the list you want to move or delete. To select files that are not listed together, use the Ctrl key. Click on the first file, and then, to select additional files, hold the Ctrl key and then click on each filename.</para>
+    <para id="para-00017">From time to time, you will need to move and delete files as part of good computer housekeeping practices. To delete a file, right-click on the file you want to delete and choose <term class="no-emphasis" id="term-00013">Delete</term>. Once deletion is confirmed, select OK. You can select multiple files by using either the Shift or Ctrl keys. Use Shift to select files that are listed together. You would click the first file and then hold Shift and click the last file in the list you want to move or delete. To select files that are not listed together, use the Ctrl key. Click on the first file, and then, to select additional files, hold the Ctrl key and then click on each file name.</para>
     <note class="mac-tip" id="note-00003">
    
     <para id="para-00018">You can delete the file, which will move it to the trash bin, or you can simply drag the file to the trash bin. To completely delete the file, you must empty the trash bin.</para>
@@ -99,7 +99,7 @@
     </section>
     <section id="sect-00009">
     <title>Recovering a File</title>
-    <para id="para-00020">After you have deleted a file, you may still be able to recover it. This is not always possible, but in some cases, you can recover files that have been deleted or, at least, locate a previous version that may be saved on your computer. First, check the <term class="no-emphasis" id="term-00015">Recycle Bin</term>. Generally, you will find it on the desktop. Open the Recycle Bin by double-clicking on the Recycle Bin icon on the computer desktop. When you see the file that you deleted and now want to retrieve, select it by double-clicking on the filename. Then, choose <term class="no-emphasis" id="term-00016">Restore</term> from the dialog box. You can also right-click on the filename and choose Restore from there. Another strategy is to simply search for the file on your computer in <term class="no-emphasis" id="term-00017">File Explorer</term>. In the search bar, type in the name of the file (even a partial name will work). You may be able to locate the file or a version of the file through the search tool.</para>
+    <para id="para-00020">After you have deleted a file, you may still be able to recover it. This is not always possible, but in some cases, you can recover files that have been deleted or, at least, locate a previous version that may be saved on your computer. First, check the <term class="no-emphasis" id="term-00015">Recycle Bin</term>. Generally, you will find it on the desktop. Open the Recycle Bin by double-clicking on the Recycle Bin icon on the computer desktop. When you see the file that you deleted and now want to retrieve, select it by double-clicking on the file name. Then, choose <term class="no-emphasis" id="term-00016">Restore</term> from the dialog box. You can also right-click on the file name and choose Restore from there. Another strategy is to simply search for the file on your computer in <term class="no-emphasis" id="term-00017">File Explorer</term>. In the search bar, type in the name of the file (even a partial name will work). You may be able to locate the file or a version of the file through the search tool.</para>
     <note class="mac-tip" id="note-00004">
     
     <para id="para-00021">A file that is in the <term class="no-emphasis" id="term-00018">Trash</term> can be restored. If the file has been removed from the Trash, and you use Time Machine, Apple’s backup program, you can recover an earlier version of the file even after it has been removed from the Trash.</para>
@@ -110,7 +110,7 @@
     <media alt="All tab selected. Restore your files with File History; Control panel selected. A window displays a folder and clock icon and Restore your files with File History; Control panel and Open.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_02_HISTORY.jpg"/>
     </media>
-    <caption>File History can also be accessed through your computer’s Control Panel. (attribution: Used with permission from Microsoft)</caption>
+    <caption>File History can also be accessed through your computer’s Control Panel. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00023">As a final option, there are apps that you can download to help you search and recover deleted files. Several apps that serve this purpose are free and can be helpful when searching for a deleted file.</para>
     </section>
@@ -130,9 +130,9 @@
     </section>
     <section id="sect-00012">
     <title>File Types</title>
-    <para id="para-00027">Information in computers is stored in a system of files. Each file will have a unique filename followed by an extension, using the filename.extension format. The <term id="term-00026">file format</term> depends on the usage of the file, the program in which the file was created, and/or the size of the file. The computer will store the data in a particular file format, which is the way the data is encoded, depending on the type of data and the application the computer will use to read it. There are many different file formats. You may be familiar with some of them, such as .doc or .txt. The .txt file format is a general format for a text file that can be recognized by almost any word processing application. The text contained in a .txt file does not contain any formatting such as underlines, special spacing, and other related items.</para>
+    <para id="para-00027">Information in computers is stored in a system of files. Each file will have a unique file name followed by an extension, using the filename.extension format. The <term id="term-00026">file format</term> depends on the usage of the file, the program in which the file was created, and/or the size of the file. The computer will store the data in a particular file format, which is the way the data is encoded, depending on the type of data and the application the computer will use to read it. There are many different file formats. You may be familiar with some of them, such as .doc or .txt. The .txt file format is a general format for a text file that can be recognized by almost any word processing application. The text contained in a .txt file does not contain any formatting such as underlines, special spacing, and other related items.</para>
     <para id="para-00028">There are many other file types within the computer filing system that you will probably never see. These file types are necessary instructions created to make the computer function. Those operating file types are beyond the scope of this text and are not essential for you to understand how to use a computer and the software programs on your computer effectively.</para>
-    <para id="para-00029"><link target-id="table-00001"/> lists some common software program file extensions that you may already be familiar with. You can choose the file type in the Save dialog box so that you do not have to type the file extension as part of the filename. Generally, the application you are using will have the file extension already chosen in the Save dialog box as a default. In general, an “x” is added to the end of a file extension for newer versions of the application. For example, when documents are created in Word in versions 2007 or newer, the file will have the .docx extension rather than .doc only.</para>
+    <para id="para-00029"><link target-id="table-00001"/> lists some common software program file extensions that you may already be familiar with. You can choose the file type in the Save dialog box so that you do not have to type the file extension as part of the file name. Generally, the application you are using will have the file extension already chosen in the Save dialog box as a default. In general, an “x” is added to the end of a file extension for newer versions of the application. For example, when documents are created in Word in versions 2007 or newer, the file will have the .docx extension rather than .doc only.</para>
     <table id="table-00001" summary="">
     <title>Types</title>
     <tgroup cols="2">
@@ -171,7 +171,7 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Computer application files are saved with the filename and an extension that identifies the type of file it is.</caption>
+    <caption>Computer application files are saved with the file name and an extension that identifies the type of file it is.</caption>
     </table>
     <section id="sect-00013">
     <title>Rich Text Format (RTF)</title>
@@ -195,7 +195,7 @@
     <media alt="A résumé document has purple decorative lines at the top, a blank name space, a phone number, address, and email listed. The body of the document lists Education and Work experience.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_PDF.jpg"/>
     </media>
-    <caption>Saving as a .pdf file can preserve formatting and spacing in documents such as résumés and newsletters when they are shared with others and opened in other programs. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Saving as a .pdf file can preserve formatting and spacing in documents such as résumés and newsletters when they are shared with others and opened in other programs. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00015">
@@ -218,7 +218,7 @@
     </section>
     <section id="sect-00017">
     <title>Best Practices in Using and Organizing Folders and Files</title>
-    <para id="para-00037">Remember that Word allows users to save documents in different file formats and in multiple versions within a single format, designated by changing the filename—for example, from “version1” to “version2.” Word also lets you choose between different file formats depending on how you want to use the file. You may also want to publish your document on the web, using a file format that allows it to be read correctly by web browsers.</para>
+    <para id="para-00037">Remember that Word allows users to save documents in different file formats and in multiple versions within a single format, designated by changing the file name—for example, from “version1” to “version2.” Word also lets you choose between different file formats depending on how you want to use the file. You may also want to publish your document on the web, using a file format that allows it to be read correctly by web browsers.</para>
     <note class="real-application" id="note-00007">
     <title>Tips for Organizing and Maintaining Files</title>
     <para id="para-00038">Imagine you have been asked by your professor to resubmit a homework assignment that you originally turned in at the beginning of the semester. The professor cannot find your submitted assignment, so you currently have received zero credit in the gradebook. Having a well-organized system for keeping track of your school notes and assignments will help you quickly find this assignment.</para>
@@ -227,11 +227,11 @@
     <item>After creating and naming a file, place it in the appropriate folder based on your organization system. If you want quick access to a file, you can store it on the desktop. But if you store too many files on the desktop, it can be hard to locate a specific file. It is generally preferable to store files within folders and to reserve the desktop for icons to access particular apps. Ultimately, this is a matter of personal preference.</item>
     <item>Group files by category. For example, your categories might be Business Plans, Résumé Services, Memos, Letters, and Meeting Notes.</item>
     <item>Create subfolders for all files and give them descriptive names. For example, you might want to label a subfolder Business Plan – Client 2 – June 2023.</item>
-    <item>Use effective filename conventions for folders. Specific, informative file names like Resumes – 2022 and Employee Files – A–M will save you the time of having to search within a folder with a more generic name.</item>
+    <item>Use effective file name conventions for folders. Specific, informative file names like Resumes – 2022 and Employee Files – A–M will save you the time of having to search within a folder with a more generic name.</item>
     </list>
     </note>
     <para id="para-00040">It is important to keep your files current. In many cases, you may have files that you no longer use or that have been updated. In that case, delete the previous versions of the file. Unless you need to refer to a previous version of a document or think you might need the information in the future, generally there is no need to keep older files that you no longer use. You can save multiple versions of a file and rename them in such a way that they identify the version of the original file referencing the version or even the date of the version of the file.</para>
-    <para id="para-00041">To make this process effective, be consistent in naming versions of files. Always use the same approach. For example, you could have the filename with the version number and the date (filenameV2Mar212023). What is more important is having a consistent approach that is used by everyone who uses the files.</para>
+    <para id="para-00041">To make this process effective, be consistent in naming versions of files. Always use the same approach. For example, you could have the file name with the version number and the date (filenameV2Mar212023). What is more important is having a consistent approach that is used by everyone who uses the files.</para>
     <para id="para-00042">If you are hesitant to delete the files entirely, consider backing them up to an external drive such as a flash drive or a cloud-based storage option. This will free up space on your computer’s hard drive, while still reassuring you that your files are secure. As a best practice, regularly back up all your files/folders on your computer, not just the items you are no longer using.</para>
     <para id="para-00043">Create a <emphasis effect="italics">folder</emphasis> organization system that works for your needs. For example, you might want to create folders by software program, by date, or by client. Establishing an organization system for your folders will save you time when searching for specific files. Consider writing out the system on paper first to get an idea of what it will look like. Just the process of writing out how your folders will be organized may give you additional ideas on how to structure your system. For example, if you have a few larger folders organized by client, you may want to have several subfolders within each of them that house specific files for that client by software program or usage.</para>
     <para id="para-00044">Suppose WorldCorp asks you to keep track of correspondence with four of its clients. You can create four main folders (Clients 1–4) and then, within each of those folders, subfolders labeled Invoices, Email Correspondence, and Work Tasks. It is often easier to have the folders and the files within those folders sorted alphabetically so that you can easily find information.</para>

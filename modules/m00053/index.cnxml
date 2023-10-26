@@ -78,37 +78,37 @@
     </section>
     <section id="sect-00005">
     <title>Overview: Ribbons, Tabs, and Commands Menu</title>
-    <para id="para-00007">Since its initial release, Microsoft’s suite of office products has been a driver of change, introducing new features in each subsequent version. Since the 2007 version, the apps have used the <term id="term-00010">Ribbon</term>—an interactive bar of commands at the top of the application—as their user interface. With the Ribbon, all the functions are clearly organized and user-friendly.</para>
-    <para id="para-00008">The Ribbon is organized into <term id="term-00011">tabs</term>, each of which houses a collection of thematically grouped commands. The default tabs are File, Home, Insert, Design, Layout, References, Mailings, Review, View, and Help. As you hover your mouse over the Ribbon, you will notice many small icons (pictures) that have a command over them. A <term id="term-00012">command</term> directs the program to complete a process, such as Save. When you select the Save icon, the command will start.</para>
-    <para id="para-00009">As you can see in <link target-id="fig-00001"/>, the commands in the Ribbon are organized into a <term id="term-00013">command group</term> of similar or related buttons, which appear together on the Ribbon tabs.</para>
+    <para id="para-00007">Since its initial release, Microsoft’s suite of office products has been a driver of change, introducing new features in each subsequent version. Since the 2007 version, the apps have used the <term id="term-00010">ribbon</term>—an interactive bar of commands at the top of the application—as their user interface. With the ribbon, all the functions are clearly organized and user-friendly.</para>
+    <para id="para-00008">The ribbon is organized into <term id="term-00011">tabs</term>, each of which houses a collection of thematically grouped commands. The default tabs are File, Home, Insert, Design, Layout, References, Mailings, Review, View, and Help. As you hover your mouse over the ribbon, you will notice many small icons (pictures) that have a command over them. A <term id="term-00012">command</term> directs the program to complete a process, such as Save. When you select the Save icon, the command will start.</para>
+    <para id="para-00009">As you can see in <link target-id="fig-00001"/>, the commands in the ribbon are organized into a <term id="term-00013">command group</term> of similar or related buttons, which appear together on the ribbon tabs.</para>
     <figure id="fig-00001">
     <media alt="Home is labeled with Tab. All tabs and command groups together are labeled Ribbon. Font, Paragraph, and Styles sections are labeled with Command group labels.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_HOMETAB01.jpg"/>
     </media>
-    <caption>The Home tab contains the command groups Font, Paragraph, and Styles, which are used for formatting text.</caption>
+    <caption>The Home tab contains the command groups Font, Paragraph, and Styles, which are used for formatting text. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00010">Each tab generates a different Ribbon with the appropriate commands and command groups. This section introduces the most used tabs. You will learn more details about them and practice using them in each specific application as the book goes on. <link target-id="fig-00002"/> shows the tabs available in Word and Excel, and <link target-id="fig-00003"/> shows the tabs available in PowerPoint and Access.</para>
+    <para id="para-00010">Each tab generates a different ribbon with the appropriate commands and command groups. This section introduces the most used tabs. You will learn more details about them and practice using them in each specific application as the book goes on. <link target-id="fig-00002"/> shows the tabs available in Word and Excel, and <link target-id="fig-00003"/> shows the tabs available in PowerPoint and Access.</para>
     <figure id="fig-00002">
     <media alt="(a) Tabs displayed for Word: File, Home, Developer, Insert, Design, Layout, References, Mailings, Review, View, Help. (b) Tabs displays for Excel: File, Home, insert, Page Layout, Formulas, Data, Review, View, Help, Inquire.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Tabs_ab.jpg"/>
     </media>
-    <caption>The main menu bars for (a) Word and (b) Excel share common tabs (File, Home, Insert, Help, for instance), but also contain tabs that are in character with their main functions (such as References in Word and Formulas in Excel). (attribution: Used with permission from Microsoft)</caption>
+    <caption>The main menu bars for (a) Word and (b) Excel share common tabs (File, Home, Insert, Help, for instance), but also contain tabs that are in character with their main functions (such as References in Word and Formulas in Excel). (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00003">
     <media alt="(a) PowerPoint tabs visible: File, Home, Insert, Design, Transitions, Animations, Slide Show, Review, View, and Recording. (b) Access tabs visible: File, Home, Create, External Data, Database Tools, Help, Table Fields, and Table">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Tabs_cd.jpg"/>
     </media>
-    <caption>The main menu bars for (a) PowerPoint and (b) Access also share common tabs with one another and with Word and Excel (File, Home, Insert, Help, for instance). They also contain tabs that are in character with their main functions (such as Animations in PowerPoint and Database Tools in Access). (attribution: Used with permission from Microsoft)</caption>
+    <caption>The main menu bars for (a) PowerPoint and (b) Access also share common tabs with one another and with Word and Excel (File, Home, Insert, Help, for instance). They also contain tabs that are in character with their main functions (such as Animations in PowerPoint and Database Tools in Access). (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00006">
     <title>File Tab</title>
-    <para id="para-00011">If you open a Microsoft product without opening any specific file, you will see the welcome screen, which provides a <term id="term-00014">Backstage view</term>. The Backstage view is located in an application for managing most tasks related to the documents. In Backstage view, you can open, close, rename, print, and control the settings for the application. There will be many commonalities within the Office programs for the tabs. When you have opened a file in an application such as Word or Excel, the Backstage view gives you information about that file you are working with. As you can see in <link target-id="fig-00004"/>, the file properties are shown on the right pane of the Backstage view, which displays critical metrics about your document, such as its size, number of pages, number of words, filename, last saved time, and when it was printed. Backstage view also includes important commands such as file protection, inspecting the document, and managing the document, which will be discussed later in this chapter.</para>
+    <para id="para-00011">If you open a Microsoft product without opening any specific file, you will see the welcome screen, which provides a <term id="term-00014">Backstage view</term>. The Backstage view is located in an application for managing most tasks related to the documents. In Backstage view, you can open, close, rename, print, and control the settings for the application. There will be many commonalities within the Office programs for the tabs. When you have opened a file in an application such as Word or Excel, the Backstage view gives you information about that file you are working with. As you can see in <link target-id="fig-00004"/>, the file properties are shown on the right pane of the Backstage view, which displays critical metrics about your document, such as its size, number of pages, number of words, file name, last saved time, and when it was printed. Backstage view also includes important commands such as file protection, inspecting the document, and managing the document, which will be discussed later in this chapter.</para>
     <figure id="fig-00004">
     <media alt="Info window lists: file Properties (Size, Pages, Words, Total Editing Time, Title, Tags, Comments, Template, Status, Categories, Subject, Hyperlink Base, Company), Related Dates (Last Modified, Created, Last Printed), Related People (Manager, Author).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_FILETAB01.jpg"/>
     </media>
-    <caption>Backstage view shows file properties, which are the statistics and technical details of your file. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Backstage view shows file properties, which are the statistics and technical details of your file. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00001">
    
@@ -122,7 +122,7 @@
     <media alt="A Home window displays options to select a Blank Document or other Templates. Options for Recent documents are available, listing recently accessed files with the Name and Date modified indicated.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_WEL01.jpg"/>
     </media>
-    <caption>The welcome screen gives you three choices: Start from scratch with a new file, create a file from a template, or open a recent file you have already saved. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The welcome screen gives you three choices: start from scratch with a new file, create a file from a template, or open a recent file you have already saved. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00002">
    
@@ -133,14 +133,14 @@
     </section>
     <section id="sect-00008">
     <title>Saving a File</title>
-    <para id="para-00016">The <term class="no-emphasis" id="term-00016">Save</term> command is located at the upper-left corner of the window. Using the Save command saves your document in its same location, with its same filename. It is a way of making sure your work does not get lost in case your computer crashes or the application closes suddenly. A good best practice is to save your document occasionally, by either pressing on the Save icon or using Ctrl+S. You can also set up automatic saving at specified time intervals.</para>
+    <para id="para-00016">The <term class="no-emphasis" id="term-00016">Save</term> command is located at the upper-left corner of the window. Using the Save command saves your document in its same location, with its same file name. It is a way of making sure your work does not get lost in case your computer crashes or the application closes suddenly. A good best practice is to save your document occasionally, by either pressing on the Save icon or using Ctrl+S. You can also set up automatic saving at specified time intervals.</para>
     <para id="para-00017">The <term class="no-emphasis" id="term-00017">Save as</term> command, located on the File tab, allows you to not only save the file with a different name but also to change its location and its type. When you save the file to a new type (for instance, Save As PDF), the file opens in the new file format. The previous file type remains open. When you click on the Save As command, a dialog box will appear, asking you to select the location where you want to save the new version and what you want to name it.</para>
     <para id="para-00018">Large companies like WorldCorp will typically give their employees a schema or convention to follow when naming files so that the company will have a unified system that all employees can easily identify and understand. This also allows people within the organization to be able to keep track of different information about the file, such as its version and the project or department it is associated with. For example, if the name of your market trends report is “market_report_v1.docx,” the next version could be “market_report_v2.docx.” This gives you a version history of the file, which enables you to keep track of older and newer versions. <link target-id="fig-00006"/> shows the current folder and the name of the file you want to change.</para>
     <figure id="fig-00006">
     <media alt="Save As is selected, then This PC, opening to the File location folder. The name is being changed to marketing_report(*.docx). Below the bar are other versions of the report and Date modified.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_SAVEAS01.jpg"/>
     </media>
-    <caption>When you Save As, you can change the filename, the file format, or both. (attribution: Used with permission from Microsoft)</caption>
+    <caption>When you Save As, you can change the file name, the file format, or both. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00019">Save As can also be helpful in other situations. For example, you may want to save your file in a different format so that it can be opened by a different application. You would also use the Save As command to save the file in a different folder, with a different name for categorization purposes. The default Word file format is .docx, but you could also save it as a .pdf or .rtf.</para>
     <para id="para-00020">Microsoft also offers the option to save to a different location—for example, your local computer, a shared private location (such as a company drive), or the cloud OneDrive. This allows you to save your work easily even if the device you are working on does not have saving capacity, and also gives you the ability to share your work with others. (You will learn more about collaboration later.) To share a file with others, first save your presentation to OneDrive. Choose File, then Share, and then Share with People.</para>
@@ -157,7 +157,7 @@
     <media alt="Print is selected and options available include Print, Copies, Printer, Print All Pages, Print One Sided, Collated, Custom Staple Setting, Portrait Orientation, and Letter. A Preview of document displays at the right.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Print.jpg"/>
     </media>
-    <caption>You can also choose to have your document stapled if that option is available on your printer. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can also choose to have your document stapled if that option is available on your printer. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00003">
    
@@ -206,11 +206,11 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left"><term class="no-emphasis" id="term-00027">Customize Ribbon</term></entry>
-    <entry valign="top" align="left">Allows users to choose which commands are shown on the Ribbon</entry>
+    <entry valign="top" align="left">Allows users to choose which commands are shown on the ribbon</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><term class="no-emphasis" id="term-00028">Quick Access Toolbar</term></entry>
-    <entry valign="top" align="left">Allows users to choose what is displayed on the Quick Access Toolbar above the Ribbon</entry>
+    <entry valign="top" align="left">Allows users to choose what is displayed on the Quick Access Toolbar above the ribbon</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><term class="no-emphasis" id="term-00029">Add-ins</term></entry>
@@ -232,51 +232,51 @@
     <media alt="General is selected. Word Options displays some selections: When using multiple displays: Optimize for best appearance, Show Mini Toolbar on selection, Enable Live Preview, Update document content while dragging, Enable modern comments.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Options.jpg"/>
     </media>
-    <caption>The Options command, present in all Office applications, opens an Options dialog box with many available options or settings that can be changed. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Options command, present in all Office applications, opens an Options dialog box with many available options or settings that can be changed. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00030">Customize Ribbon and the Quick Access Toolbar are useful features. Because you are likely to use both functions on a regular basis, you want their commands to always be visible. This is most easily done by customizing the Ribbon or the Quick Access Toolbar.</para>
-    <para id="para-00031">There are probably some other commands that you wish you had immediate access to but did not know this was possible. For example, did you know that you can add an email command to either the Ribbon or the Quick Access Toolbar? Suppose you want to email someone and add a presentation to your email as an attachment. If you add Email to your Ribbon or Quick Access Toolbar, you can just click on the Email command, which will open your regular email program with access to your address book and add an attachment of the presentation to the email. No more need to open the email program independently, then search for the file on your computer, and finally attach it.</para>
+    <para id="para-00030">Customize Ribbon and the Quick Access Toolbar are useful features. Because you are likely to use both functions on a regular basis, you want their commands to always be visible. This is most easily done by customizing the ribbon or the Quick Access Toolbar.</para>
+    <para id="para-00031">There are probably some other commands that you wish you had immediate access to but did not know this was possible. For example, did you know that you can add an email command to either the ribbon or the Quick Access Toolbar? Suppose you want to email someone and add a presentation to your email as an attachment. If you add Email to your ribbon or Quick Access Toolbar, you can just click on the Email command, which will open your regular email program with access to your address book and add an attachment of the presentation to the email. No more need to open the email program independently, then search for the file on your computer, and finally attach it.</para>
     <para id="para-00032">As another example, suppose you work with a lot of graphics. There are numerous commands associated with drawing and inserting graphics that are generally hidden. You may not even be aware that these functions exist, but when you change the scope to All Commands and look through the choices, you will find many commands that can save you a lot of time if you set them up for immediate access.</para>
     <para id="para-00033">There are two ways to customize the Quick Access Toolbar. First, from the Options dialog box, select the Quick Access Toolbar, shown in <link target-id="fig-00009"/>.</para>
     <figure id="fig-00009">
     <media alt="PowerPoint Quick Access Toolbar is selected. Customize the Quick Access Toolbar displays drop down menus for Choose commands from and Customize Quick Access Toolbar. Add and Remove buttons are between the drop-downs.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_QATCustom1.jpg"/>
     </media>
-    <caption>To customize the Quick Access Toolbar, add commands from the selections on the left to the list on the right. (attribution: Used with permission from Microsoft)</caption>
+    <caption>To customize the Quick Access Toolbar, add commands from the selections on the left to the list on the right. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00034">For example, to add a Quick Print option, scroll down to Quick Print in the list of commands on the left. Highlight Quick Print, click the Add button, and Quick Print will appear on the Quick Access Toolbar, as seen in <link target-id="fig-00010"/>, which shows the result of customizing the Quick Access Toolbar.</para>
     <figure id="fig-00010">
     <media alt="Quick Access Toolbar is selected in PowerPoint Options. Customize the Quick Access Toolbar displays Quick Print selected from Popular Commands and being Added to Customize Quick Access Toolbar.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_QATCustom2.jpg"/>
     </media>
-    <caption>Items added to the Quick Access Toolbar will appear at the top of the screen when you open the program. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Items added to the Quick Access Toolbar will appear at the top of the screen when you open the program. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00035">The second way to customize is to right-click on the Quick Access Toolbar, which opens a context menu. Choose Quick Print from the menu items, as shown in <link target-id="fig-00011"/>. The Quick Print option should appear on the Quick Access Toolbar.</para>
     <figure id="fig-00011">
     <media alt="Quick Print is being selected from the Customize Quick Access Toolbar drop-down located above the ribbon.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_QATCustom3.jpg"/>
     </media>
-    <caption>Using the context menu, you can easily add the Quick Print option to the Quick Access Toolbar. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Using the context menu, you can easily add the Quick Print option to the Quick Access Toolbar. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00004">
     
     <para id="para-00036">The Quick Access Toolbar is found on the Preferences tab on the app main page.</para>
    
     </note>
-    <para id="para-00037">Customizing the Ribbon is a similar process. Start at the Customize the Ribbon command from Options in Backstage view. To add a command to the Ribbon, you first have to create a new group, as follows:</para>
+    <para id="para-00037">Customizing the ribbon is a similar process. Start at the Customize the ribbon command from Options in Backstage view. To add a command to the Ribbon, you first have to create a new group, as follows:</para>
     <list list-type="enumerated" number-style="arabic" id="list-00002">
     <item>Choose the tab on the right where you want to add the new command. (For the purposes of this demonstration, choose the Draw group, making sure there is a check mark next to the Draw box.)</item>
     <item>Click on New Group, which will be listed when you click on the plus sign next to Draw.</item>
-    <item>In the box at the top left, select Commands Not in the Ribbon (see <link target-id="fig-00012"/>).</item>
+    <item>In the box at the top left, select Commands Not in the ribbon (see <link target-id="fig-00012"/>).</item>
     <item>Scroll down to Borders and Shading and click Add.</item>
     <item>Then, select another command, Brightness, and click Add.</item>
     </list>
-    <para id="para-00038">When you return to the application, you will see your New Group with the options selected. Using this method, you can select any command from the left and add it to the Ribbon commands on the right. This works for all the Office programs.</para>
+    <para id="para-00038">When you return to the application, you will see your New Group with the options selected. Using this method, you can select any command from the left and add it to the ribbon commands on the right. This works for all the Office programs.</para>
     <figure id="fig-00012">
     <media alt="Customize the Ribbon is selected in PowerPoint Options. Customize the Ribbon displays drop-down menus for Choose commands from and Customize the Ribbon. Add and Remove buttons are between the drop-downs.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_RibCustom.jpg"/>
     </media>
-    <caption>Customizing the Ribbon can facilitate your productivity by including items you use frequently for quicker access. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Customizing the ribbon can facilitate your productivity by including items you use frequently for quicker access. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="link-to-learning" id="note-00005">
     <para id="para-00039">Microsoft products offer hundreds of keyboard shortcuts (such as holding down the Ctrl button and S at the same time saves a document) that can help you work more quickly and efficiently. The <link url="https://openstax.org/r/78KeyShortWord">Microsoft support page on keyboard shortcuts in Word</link> provides a long list of these shortcuts, categorized by activity type.</para>
@@ -285,7 +285,7 @@
     </section>
     <section id="sect-00012">
     <title>Home Tab</title>
-    <para id="para-00040">The <term class="no-emphasis" id="term-00031">Home</term> tab is where you begin to create your document, spreadsheet, or presentation. The Ribbon for the Home tab in Word is shown in <link target-id="fig-00013"/>. You can view the Ribbon as command central for the application: It is a collection of commands and command groups that govern the basics of the program you are working with. Each group of commands is separated by a thin vertical line (see arrow in <link target-id="fig-00013"/>).</para>
+    <para id="para-00040">The <term class="no-emphasis" id="term-00031">Home</term> tab is where you begin to create your document, spreadsheet, or presentation. The ribbon for the Home tab in Word is shown in <link target-id="fig-00013"/>. You can view the ribbon as command central for the application: It is a collection of commands and command groups that govern the basics of the program you are working with. Each group of commands is separated by a thin vertical line (see arrow in <link target-id="fig-00013"/>).</para>
     <figure id="fig-00013">
     <media alt="Font command group includes Font, Font Size, Increase and Decrease Font Size, Change Case, Clear All Formatting, Bold, Italic, Underline, Strikethrough, Subscript, Superscript, Text Effects and Typography, Text Highlight Color, Font Color.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Ribbon.jpg"/>
