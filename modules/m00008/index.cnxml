@@ -18,7 +18,7 @@
     </section>
     <para id="para-00002">Microsoft Excel has been around for decades, yet there are no functions for subtracting or dividing numbers. Users must still build formulas with the appropriate mathematical operator to divide or subtract numbers. Google Sheets has added a MINUS and a DIVIDE function. WorldCorp likes being able to use these functions in their number crunching.</para>
     <section id="sect-00002">
-    <title>Adding Numbers in Sheets</title>
+    <title>Adding Numbers</title>
     <para id="para-00003">Adding numbers in Sheets uses the same commands and formulas as Excel does. Here, you will compare orders from two clients, who ordered the same product—headphones—but at different times and in different quantities (<link target-id="fig-00001"/>). You will design a new table that summarizes these orders by month. <link target-id="fig-00002"/> shows all orders of each client, separated by month, and the formula used to get the totals. Notice that the syntax is the same as it is in Excel. The FOB $ can be added in column N by copying the contents of cell L3 and pasting it in N3 without typing the formula again. This can be repeated for N4, N5, and N6, or you can drag the formula down the column to copy it (<link target-id="fig-00011"/>).</para>
     <figure class="scaled-down" id="fig-00001">
     <title/>

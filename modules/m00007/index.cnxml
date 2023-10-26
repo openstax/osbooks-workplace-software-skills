@@ -19,11 +19,11 @@
     <para id="para-00002">There is a great need for text and numeric data in databases. For example, in WorldCorp’s database, the client’s surnames and given names are in two separate text data columns. The address, city, and state are each in their own text columns, too. The zip code and telephone may be in text format. This is because these values are numerical, but they are not used to perform any calculations. They are instead providing information about the client. Order quantity may be a number, and total dollar value per client is in accounting format. Sheets can handle large datasets in a similar manner to Excel. The cell formatting in Sheets is similar to that of Excel. Sometimes it is more a matter of company and/or personal preference. Some companies may be used to using Sheets for collaboration and information sharing, or a user might prefer the Sheets GUI over Excel. One drawback of Sheets is that it offers fewer options for charts and graphs than Excel.</para>
     <section id="sect-00002">
     <title>Using the Copy-and-Paste and Insert Functions</title>
-    <para id="para-00003">Before learning to design and build a table from a blank worksheet, you need to understand how to use formatting from an existing table, as with Excel. Say a table to be copied to a new blank worksheet. Follow the same basic procedure as with Excel. First, select the table (<link target-id="fig-00001"/>), then choose <term class="no-emphasis" id="term-00002">Copy</term> from the Edit menu or press CTRL+C on the keyboard. Next, go to the new worksheet and choose Paste from the Edit menu or press CTRL+V. There will be are a few minor differences between your new table and the original. For example, the column widths of the original were adjusted to their contents, whereas in the pasted table, all columns have the same width. To adjust the widths, you can double-click on the edges of the header row between two columns you want to adjust.</para>
+    <para id="para-00003">Before learning to design and build a table from a blank worksheet, you need to understand how to use formatting from an existing table, as with Excel. Say a table to be copied to a new blank worksheet. Follow the same basic procedure as with Excel. First, select the table (<link target-id="fig-00001"/>), then choose <term class="no-emphasis" id="term-00002">Copy</term> from the Edit menu or press Ctrl+C on the keyboard. Next, go to the new worksheet and choose Paste from the Edit menu or press Ctrl+V. There will be are a few minor differences between your new table and the original. For example, the column widths of the original were adjusted to their contents, whereas in the pasted table, all columns have the same width. To adjust the widths, you can double-click on the edges of the header row between two columns you want to adjust.</para>
     <note class="mac-tip" id="note-00001">
     <exercise class="unnumbered" id="exer-00001">
     <problem id="prob-00001">
-    <para id="para-00004">As in Excel, Mac uses the <term class="no-emphasis" id="term-00003">Command key</term> instead of the Control key, so the shortcut for copy is CMD+C and the shortcut for paste is CMD+V.</para>
+    <para id="para-00004">As in Excel, Mac uses the <term class="no-emphasis" id="term-00003">Command key</term> instead of the Control key, so the shortcut for copy is Command+C and the shortcut for paste is Command+V.</para>
     </problem>
     </exercise>
     </note>
@@ -32,13 +32,13 @@
     <title/>
     <media alt="A spreadsheet with multiple columns and rows of data is shown. The whole table is selected.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_INSCO01.jpg"/></media>
-    <caption>Using the formatting of an existing table can make it easier to create a new one. The table being copied has formatted headers and cells. First, highlight the table and copy it. Then, paste it into the new workbook. Since the columns are all the same size, they need to be resized. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Using the formatting of an existing table can make it easier to create a new one. The table being copied has formatted headers and cells. First, highlight the table and copy it. Then, paste it into the new workbook. Since the columns are all the same size, they need to be resized. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00002" class="scaled-down">
     <title/>
     <media alt="(a) Insert opens to options for Column left and Column right. (b) Spreadsheet display a new column created to the right of Column B. All columns at right are now shifted right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_INSCO02.jpg"/></media>
-    <caption>(a) Insert a column to the left of the item description. (b) The empty column keeps the visual formatting in the header. Then, you can enter the data in the new column. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>(a) Insert a column to the left of the item description. (b) The empty column keeps the visual formatting in the header. Then, you can enter the data in the new column. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     <section id="sect-00003">
@@ -48,11 +48,11 @@
     <title/>
     <media alt="(a) Cells A1-A10 are selected in spreadsheet. 123 icon opens to Automatic option selected. (b) Fill color selected and displays options for Reset, various colors, Theme, Custom. Spreadsheet displays blue header.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_09_06_DATA01.jpg"/></media>
-    <caption>Creating a table from scratch requires many steps. First, enter your headers in the first row. (a) Then, format each column for the type of data it will contain. Adjust the column width when necessary. Format your header row by bolding and centering the content. (b) Finally, add the background fill from the custom color menu. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Creating a table from scratch requires many steps. First, enter your headers in the first row. (a) Then, format each column for the type of data it will contain. Adjust the column width when necessary. Format your header row by bolding and centering the content. (b) Finally, add the background fill from the custom color menu. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00007">The format types Sheets uses are similar to the ones Excel uses. <link target-id="table-00001"/> compares the formats between Sheets and Excel. The names differ slightly, but many mean almost the same thing. There are minor differences like the order the format types appear in the menu, and there are some formats that are unique to Sheets. Sheets has the Financial, Currency rounded, Date time, and Duration formats that are not available in Excel.</para>
     <table summary="" id="table-00001">
-    <title/>
+    <title>Data Formats in Google Sheets Compared with Excel</title>
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -109,25 +109,25 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Data Formats in Google Sheets Compared with Excel</caption>
+    
     </table>
     <para id="para-00008">Once you have your headers in place, you can apply the appropriate format to the cells below. Select all of column A and go to the More formats drop-down menu, and use the Date format (<link target-id="fig-00003"/>a). You can set the next three columns as Plain Text and leave columns E and F as Automatic format. Set column G as Accounting. Then, you can fill in the table by adding each order. With all of the data entered, you can make any final formatting changes. First, adjust the width of the columns by double-clicking at the edge of each column. Next, drag the edge of column F to make it narrower so that the header has one word per line. Then, center align and apply bold font on all headers. Finally, apply the background color from the Custom set of colors, which shows recently used colors (<link target-id="fig-00003"/>b).</para>
     </section>
     <section id="sect-00004">
     <title>Using Numeric and Text Data to Create Basic Graphs</title>
     <para id="para-00009">To create a chart or graph in Sheets, the process is slightly different from Excel. First, select the data as you would do when creating a graph or chart in Excel. Then, go to the Insert menu and choose <term class="no-emphasis" id="term-00016">Chart</term>. The chart will appear on the screen in the spreadsheet you have created. Google will analyze the type of data and choose the chart that seems appropriate for the data you have selected. The <term class="no-emphasis" id="term-00017">Chart Editor</term> window will appear to the right. Here, you can adjust the type of chart you want to use and customize the chart with titles and other formatting options. Use the sales report created in <link target-id="fig-00003"/>b to make a graph that compares the FOB $ to the Date. In other words, it will show the amount of money traded on each day. Sheets analyzes the data before creating the graph and will manipulate the data to be chronological, if necessary. It will also use its built-in artificial intelligence to choose the type of graph most appropriate for the data. You can override the graph type Sheets selects if there is one you feel is more appropriate. <link document="m00021">PivotTables/Charts</link> goes into more detail about creating graphs and charts.</para>
-    <para id="para-00010">To create a basic graph, first select the columns you want to compare (<link target-id="fig-00004"/>), using the CTRL key to select two noncontiguous columns. Then, click on Insert Chart, and Sheets will create the graph it determines is the most appropriate. You can change the type of graph if you prefer a different type. Using the Chart Type drop-down menu, you can choose a different layout (<link target-id="fig-00005"/>). Two other options for this data are a bar chart with the chronological order inversed, and an area chart, which is similar to the line chart. When choosing any chart option, Sheets will automatically reorder the dates.</para>
+    <para id="para-00010">To create a basic graph, first select the columns you want to compare (<link target-id="fig-00004"/>), using the Ctrl key to select two noncontiguous columns. Then, click on Insert Chart, and Sheets will create the graph it determines is the most appropriate. You can change the type of graph if you prefer a different type. Using the Chart Type drop-down menu, you can choose a different layout (<link target-id="fig-00005"/>). Two other options for this data are a bar chart with the chronological order inversed, and an area chart, which is similar to the line chart. When choosing any chart option, Sheets will automatically reorder the dates.</para>
     <figure id="fig-00004">
     <title/>
     <media alt="A spreadsheet with multiple columns and rows of data is shown. Columns A and G are selected. The Insert Chart icon on the toolbar is selected.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_GRAPH01.jpg"/></media>
-    <caption>Creating graphs in Sheets is simple because of the built-in analysis the application performs. First, choose the columns you want to compare and click on Insert Chart. Sheets automatically chose a line chart for the data. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Creating graphs in Sheets is simple because of the built-in analysis the application performs. First, choose the columns you want to compare and click on Insert Chart. Sheets automatically chose a line chart for the data. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00005">
     <title/>
     <media alt="Chart Editor sidebar displays Setup tab selected. Line hart is selected from Chart type and Suggested and Line options display thumbnail images for selection. Document displays chart selected.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_GRAPH02.jpg"/></media>
-    <caption>The Chart Editor sidebar gives other options for the type of chart. Another option for this set of data is a bar chart. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>The Chart Editor sidebar gives other options for the type of chart. Another option for this set of data is a bar chart. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
         <note class="link-to-learning" id="note-00002">
     <para id="para-00011">The help forums for Sheets contain a short introduction to all the types of graphs you can build. They describe the use of each of the graphs, previews, and short step-by-step instructions. Go to <link url="https://openstax.org/r/78GoogleGraph">Google’s support page on the different graph types</link> to learn more.</para>
@@ -140,26 +140,26 @@
     <title/>
     <media alt="Part a shows A1:G1 selected. Across the top, the Format tab is selected and the drop down shows: Theme (New), Number, Bold, Italic, Underline, Strikethrough, Font size, and Align.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_LAYOUT01.jpg"/></media>
-    <caption>Page layout features in Sheets differ somewhat from those in Excel. Themes are used to set a color scheme and/or font type for your spreadsheet. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Page layout features in Sheets differ somewhat from those in Excel. Themes are used to set a color scheme and/or font type for your spreadsheet. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
 <figure id="fig-00009">
 <title/>
 <media alt="(a) Insert opens to Image selected with options for In=mage in cell and Image over cells. (b) Image of table inserted into cell D1 on the spreadsheet, filling the entire cell.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_LAYOUT02.jpg"/></media>
-<caption>(a) You can insert an image in a single cell or over all of the cells in a worksheet. (b) Inserting an image in a single cell fills the cell with the image. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+<caption>(a) You can insert an image in a single cell or over all of the cells in a worksheet. (b) Inserting an image in a single cell fills the cell with the image. (Google Sheets is a trademark of Google LLC.)</caption>
 </figure>
     <para id="para-00013">The review features in Sheets differ somewhat from the Review tab commands in Excel. Sheets allows you to insert a comment (<link target-id="fig-00008"/>) and view all the comments on the document by clicking on the <term class="no-emphasis" id="term-00020">Comment History</term> button on the top. The <term class="no-emphasis" id="term-00021">Tools menu</term> in Sheets has a spelling and grammar check (<link target-id="fig-00010"/>).</para>
     <figure id="fig-00008">
     <title/>
     <media alt="Insert tab is selected and the drop down menu includes a selected option for Comment.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_REVIEW01.jpg"/></media>
-    <caption>Some review features in Sheets are similar to those of Excel. Comments are available in the Insert menu. You can also review all comments in a workbook. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Some review features in Sheets are similar to those of Excel. Comments are available in the Insert menu. You can also review all comments in a workbook. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00010">
 <title/>
 <media alt="The Tools tab is selected and opens to options for Spelling, which opens to options for Spell check and Personal dictionary.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_REVIEW02.jpg"/></media>
-<caption>The spelling and grammar check are in the Tools menu. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+<caption>The spelling and grammar check are in the Tools menu. (Google Sheets is a trademark of Google LLC.)</caption>
 </figure>
     </section>
     <section class="section-summary" id="sect-00006">

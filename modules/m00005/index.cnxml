@@ -28,7 +28,7 @@
   <title/>
   <media alt="(a) Shading button opens to options: Theme Colors, Standard Colors, No Fill, More Colors. (b) Font size opens to font sizes options. Spreadsheet displays blue fill in row 1 with bold font.">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_FONT01.jpg"/></media>
-  <caption>You can easily change the cell fill color, font type, and text color. (a) Select the paint bucket from the Home tab to change the color of the background fill. A drop-down menu gives you many options or you can define your own color using More Colors. The new background fill color is more visually appealing, but the text does not stand out as it would in a different color. (b) Font size, type, and color can also be changed using the commands in the Font command group. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>You can easily change the cell fill color, font type, and text color. (a) Select the paint bucket from the Home tab to change the color of the background fill. A drop-down menu gives you many options or you can define your own color using More Colors. The new background fill color is more visually appealing, but the text does not stand out as it would in a different color. (b) Font size, type, and color can also be changed using the commands in the Font command group. (Used with permission from Microsoft)</caption>
   </figure>
   </section>
   <section id="sect-00004">
@@ -38,13 +38,13 @@
   <title/>
   <media alt="Cell G11 is selected on a spreadsheet with multiple columns and rows of data.">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_BOR01.jpg"/></media>
-  <caption>To add borders, select the cells you want to add a border to. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>To add borders, select the cells you want to add a border to. (Used with permission from Microsoft)</caption>
   </figure>
   <figure id="fig-00010">
   <title/>
   <media alt="(a) Borders options include Borders (i.e., Bottom, Top, Left, Right, No, All, Outside), Draw Borders (Draw, Draw Border Grid, Erase). (b) Border tab in Format Cells options: Line Style, Color, Presets, Border.">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_BOR02.jpg"/></media>
-  <caption>(a) You can use the Borders command drop-down menu or right-click and choose Format Cells. (b) You can select various thickness levels of the border around the cell. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>(a) You can use the Borders command drop-down menu or right-click and choose Format Cells. (b) You can select various thickness levels of the border around the cell. (Used with permission from Microsoft)</caption>
   </figure>
   </section>
   <section id="sect-00005">
@@ -55,7 +55,7 @@
   <title/>
   <media alt="(a) Cell E1 displays cut off text. Cursor with two black arrows at top right in cell. (b) Wrap Text is selected and text in cell fits. Size of row 2 enlarged.">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_WRAP01.jpg"/></media>
-  <caption>Text wrapping can make long text fit in a column. (a) The header for column E is too long for the width of the column. Double-click or click and drag the line between columns to widen or narrow a column. The Wrap Text feature allows you to see text that is cut off. (b) Text wrapping changes the height of a row to accommodate long text. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>Text wrapping can make long text fit in a column. (a) The header for column E is too long for the width of the column. Double-click or click and drag the line between columns to widen or narrow a column. The Wrap Text feature allows you to see text that is cut off. (b) Text wrapping changes the height of a row to accommodate long text. (Used with permission from Microsoft)</caption>
   </figure>
   </section>
   <section id="sect-00006">
@@ -65,7 +65,7 @@
   <title/>
   <media alt="(a) Row 3 cells in spreadsheet all single cells. (b) Two cells in row highlighted. (c) Spreadsheet displays sets of cells merged together to create one larger cell with text centered inside.">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_MERGE01.jpg"/></media>
-  <caption>Merging cells is useful for presentation and readability purposes. You can (a) group columns by adding a row above the header row, merge and center cells to create a new label above the date and time, (b) merge and center cells to group the quantity and the code, and merge cells next to the total to create a more readable total. You can also add borders. (c) The final table is clear and readable. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>Merging cells is useful for presentation and readability purposes. You can (a) group columns by adding a row above the header row, merge and center cells to create a new label above the date and time, (b) merge and center cells to group the quantity and the code, and merge cells next to the total to create a more readable total. You can also add borders. (c) The final table is clear and readable. (Used with permission from Microsoft)</caption>
   </figure>
   <note class="link-to-learning" id="note-00001">
   <para id="para-00010">Did you know that you can embed Excel objects and components into other Microsoft applications? You can insert all or parts of an Excel worksheet into your presentations and documents, saving time from re-creating the same content in these applications. Embedding content also helps ensure that the content provided in your document or presentation is accurate, as changes in Excel will update in these files as well. Visit this <link url="https://openstax.org/r/78ExcelinPPT">Microsoft page that shows how to embed Excel content in PowerPoint</link> to learn more.</para>
@@ -82,7 +82,7 @@
   <title/>
   <media alt="(a) Header in spreadsheet not visible. (b) Freeze Panes is selected and opens to options: Freeze Panes, Freeze Top Row, Freeze First Column. Row 1 visible in spreadsheet with row 17 beneath.">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_FREZ01.jpg"/></media>
-  <caption>Using the Freezing Panes command keeps headers visible when data extends off the screen. (a) Before the header row is frozen, scrolling down removes the header from view. (b) The Freeze Panes options are found on the View tab. Clicking on Freeze Panes allows for freezing the top row, first column, or both. Freezing the header row shows a line that indicates the row is frozen and keeps it in view while scrolling. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>Using the Freezing Panes command keeps headers visible when data extends off the screen. (a) Before the header row is frozen, scrolling down removes the header from view. (b) The Freeze Panes options are found on the View tab. Clicking on Freeze Panes allows for freezing the top row, first column, or both. Freezing the header row shows a line that indicates the row is frozen and keeps it in view while scrolling. (Used with permission from Microsoft)</caption>
   </figure>
   <note class="mac-tip" id="note-00002">
   <exercise class="unnumbered" id="exer-00001">
@@ -103,13 +103,13 @@
   <title/>
   <media alt="(a) Column B is highlighted; Hide is selected from menu. (b) Column B is no longer visible on spreadsheet. Two vertical lines display between Columns A and C to indicate missing columns.">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_HID01.jpg"/></media>
-  <caption>Using the Hide command makes rows/columns temporarily not visible in a table. (a) Right-click on the column and select Hide. (b) When columns are hidden, double lines and skipped letters are indicated in the letter designation header. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>Using the Hide command makes rows/columns temporarily not visible in a table. (a) Right-click on the column and select Hide. (b) When columns are hidden, double lines and skipped letters are indicated in the letter designation header. (Used with permission from Microsoft)</caption>
   </figure>
   <figure id="fig-00011">
   <title/>
   <media alt="(a) Columns A and C are selected in the spreadsheet and Unhide is selected from menu. (b) Column B is visible again on the spreadsheet.">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_HID02.jpg"/></media>
-  <caption>(a) To reveal the columns again, select the two columns on either side of the hidden one, right-click, and select Unhide. (b) All columns are visible again. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>(a) To reveal the columns again, select the two columns on either side of the hidden one, right-click, and select Unhide. (b) All columns are visible again. (Used with permission from Microsoft)</caption>
   </figure>
   <note class="mac-tip" id="note-00004">
   <exercise class="unnumbered" id="exer-00002">
@@ -127,14 +127,14 @@
   <title/>
   <media alt="Column D selected. Conditional Formatting selection opens to Highlight Cell Rules, then to options: Greater Than…, Less Than…, Between…, Equal to…, Text that Contains…, A Date Occurring…, Duplicate Values…, and More Rules….">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_CON01.jpg"/></media>
-  <caption>Conditional formatting automatically applies designated formatting to values that meet a certain criterion. The Conditional Formatting drop-down menu lists several commonly used choices. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>Conditional formatting automatically applies designated formatting to values that meet a certain criterion. The Conditional Formatting drop-down menu lists several commonly used choices. (Used with permission from Microsoft)</caption>
   </figure>
 <figure id="fig-00012">
   <title/>
   <media alt="(a) Cells (2500, 3000) highlighted Red Fill with Dark Red Text (>1000). (b) Top 10 Items Format cells that rank in the TOP 10 with Red Text is selected ($39,102.00 $44,499.00).">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_CON02.jpg"/>
   </media>
-<caption>(a) The dialog box allows you to set the parameters. (b) There are numerous preset conditional formatting choices. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+<caption>(a) The dialog box allows you to set the parameters. (b) There are numerous preset conditional formatting choices. (Used with permission from Microsoft)</caption>
 </figure>
   <note class="real-application" id="note-00005">
   <title><term class="no-emphasis" id="term-00013">Excel</term> in the Construction Industry</title>
@@ -149,14 +149,14 @@
   <title/>
   <media alt="A built-in template of a sales report with five sheets is shown. The template comes with a few lines of generic data. Four other tabs are shown along the bottom.">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_TEMPL01.jpg"/></media>
-  <caption>Templates are preformatted and predesigned tables. You can find the templates by clicking on File and New. A sales report has formatting and formulas preset so that all you need to do is enter your data. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>Templates are preformatted and predesigned tables. You can find the templates by clicking on File and New. A sales report has formatting and formulas preset so that all you need to do is enter your data. (Used with permission from Microsoft)</caption>
   </figure>
   <para id="para-00022"><link target-id="fig-00009"/> shows a product price list downloaded from <link url="https://openstax.org/r/78OfficeTempl">http://templates.office.com</link> that has columns for a product inventory number, product name, product description, retail price, and volume-selling price. This sort of price list is an information sheet for potential business clients who are considering products from you. These templates are modifiable, so you can update the header with your company’s information. You can also add more products or change the headers.</para>
   <figure id="fig-00009" class="scaled-down-30">
   <title/>
   <media alt="A customizable spreadsheet is shown. Columns and rows offer example of information placement as well as style, fonts, colors, and organization.">
   <image mime-type="image/jpg" src="../../media/OSX_BCA_09_04_TEMPL02.jpg"/></media>
-  <caption>Although templates come with their own formatting, you can customize them based on your needs. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+  <caption>Although templates come with their own formatting, you can customize them based on your needs. (Used with permission from Microsoft)</caption>
   </figure>
   <note class="spotlight-ethics" id="note-00006">
   <title>Ethical Considerations in Using Templates</title>
