@@ -39,8 +39,14 @@
     <para id="para-00011">The changes on the versions themselves are shown in highlighted font, similar to the Track Changes feature in Word. But unlike Track Changes, each editor’s changes will not be identified with a different color. Just the changes overall will be highlighted. If you want to find out who made the changes, hover the mouse above the text you want to query, and the name of the collaborator will appear. If you don’t want to look at this highlight, as it may be distracting, go to the bottom of the sidebar and uncheck Show changes.</para>
     <figure id="fig-00002">
     <media alt="A sentence is highlighted. At right, a Version History pane is open. All versions is selected and all edits made are listed with date, time, and person who made the edits.">
-    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_BROWSEVE01.jpg"/></media>
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_BROWSEV01a.jpg"/></media>
     <caption>(a) You can check the date of the current version and the collaborator who made the edits. The changes are highlighted and show who made them. (b) If you want to find out who made the changes, make sure Show changes option is checked so you can hover the mouse above the text you want to query. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00012">
+    <media alt="As you hover over the highlighted text, the writer’s name is displayed. A box is checked for Show changes.">
+    <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_BROWSEV01b.jpg"/>
+    </media>
+    <caption>If you want to find out who made the changes, make sure Show changes option is checked so you can hover the mouse above the text you want to query. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     <section id="sect-00004">
@@ -103,20 +109,20 @@
     <figure id="fig-00009">
     <media alt="An Info screen displays a document with categories for: Protect Document, Inspect Document, Version History, and Manage Document. Properties of the document are listed such as size, pages, etc.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_REVHDES01a.jpg"/></media>
-    <caption>The version history in Microsoft Word desktop is activated if the document is located in OneDrive. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The version history in Microsoft Word desktop is activated if the document is located in OneDrive. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00026">If you have a desktop version of Word, you have to sign in to your Microsoft account. You will be able to access the last 25 versions of your file on OneDrive (that is, if your file is stored on OneDrive), as you can see in <link target-id="fig-00010"/>.</para>
     <figure id="fig-00010">
     <media alt="A Word Doc is shown. An open pane displays the Version History, listing dates, time, and editors. If the version is open, Open version is listed in blue font.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_REVHDES01b.jpg"/></media>
-    <caption>When you choose Version History from Info, you will see a pane open on the right side of the document with the versions that are saved. (attribution: Used with permission from Microsoft)</caption>
+    <caption>When you choose Version History from Info, you will see a pane open on the right side of the document with the versions that are saved. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00027">You can access your version histories in Word by going to the File tab and selecting History. If you have an Office 365 Word subscription, you can access the version history by going to the File tab, then Info, followed by Version History. There you can see the versions available and browse through them. You can also choose to restore a previous version, as <link target-id="fig-00011"/> shows. Moreover, if you have SharePoint Server or SharePoint365, the possibilities of versioning are much more powerful, allowing as many as 500 versions to be retained, as you can track a version’s history, view multiple earlier iterations, determine who can edit or write on the files, control the number of versions stored, and more.</para>
+    <para id="para-00027">You can access your version histories in Word by going to the File tab and selecting History. If you have a Microsoft 365 Word subscription, you can access the version history by going to the File tab, then Info, followed by Version History. There you can see the versions available and browse through them. You can also choose to restore a previous version, as <link target-id="fig-00011"/> shows. Moreover, if you have SharePoint Server or SharePoint365, the possibilities of versioning are much more powerful, allowing as many as 500 versions to be retained, as you can track a version’s history, view multiple earlier iterations, determine who can edit or write on the files, control the number of versions stored, and more.</para>
     <figure id="fig-00011">
     <media alt="(a) Info window selects: Open in Desktop App. (b) A blank screen displays: Select a version from the Version History pane. Version History pane highlights a Just now/Current version.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_09_REVH36501.jpg"/>
     </media>
-    <caption>(a) Office 365 also has Version History that is also accessed through the File tab. (b) Select a version from the pane on the right to see that version of the document. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) Microsoft 365 also has Version History that is also accessed through the File tab. (b) Select a version from the pane on the right to see that version of the document. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="link-to-learning" id="note-00002">
     <para id="para-00028">SharePoint is more pliable than Google Drive, but it is not free. Unless your company is paying for a corporate license, you would need to pay a fee per month per user for the standard version (Plan 1), and you would need to have the desktop Microsoft Office. The current plans are priced between $5 and $23 per month. Visit the <link url="https://openstax.org/r/78SharePtPlans">Microsoft page comparing SharePoint plan options</link> for more information.</para>

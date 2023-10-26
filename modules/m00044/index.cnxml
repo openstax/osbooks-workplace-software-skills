@@ -25,21 +25,21 @@
     <media alt="Table is selected and opens to a selection of a 4 x 5 Table. In the document, a blank table is visible with four columns and five rows.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TABLES01.jpg"/>
     </media>
-    <caption>The Table tool provides an easy-to-use visual guide for creating tables. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Table tool provides an easy-to-use visual guide for creating tables. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00005">When you insert the table, the Ribbon changes, giving you two additional tabs for changing the formatting and layout of the table. In <link target-id="fig-00002"/> you can see two new tabs: <term class="no-emphasis" id="term-00002">Table Design</term> and <term class="no-emphasis" id="term-00003">Layout</term>. These tabs open automatically when a table is inserted into the document. You can modify the table as a whole by selecting one of the Table Styles in the new Design tab. Select the whole table, then Table Styles, and then choose style; we have chosen one with alternating white and blue rows. You can now add the desired text to the table with the new table style.</para>
+    <para id="para-00005">When you insert the table, the ribbon changes, giving you two additional tabs for changing the formatting and layout of the table. In <link target-id="fig-00002"/> you can see two new tabs: <term class="no-emphasis" id="term-00002">Table Design</term> and <term class="no-emphasis" id="term-00003">Layout</term>. These tabs open automatically when a table is inserted into the document. You can modify the table as a whole by selecting one of the Table Styles in the new Design tab. Select the whole table, then Table Styles, and then choose style; we have chosen one with alternating white and blue rows. You can now add the desired text to the table with the new table style.</para>
     <figure id="fig-00002">
     <media alt="Table Styles command group displays options for Plain Tables, Grid Tables, Modify Table Style, Clear, New Table Style. In Grid Tables, a selected table displays information centered amid alternating blue/white rows.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TABLES02a.jpg"/>
     </media>
-    <caption>With the built-in styles, you can customize the table for a more visually appealing look. (attribution: Used with permission from Microsoft)</caption>
+    <caption>With the built-in styles, you can customize the table for a more visually appealing look. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00006">To add new rows or columns to your table, go to the other new tab, Layout. There are options for adding rows and columns above and below, or to the right and left, of the one you currently have your cursor on. This makes it easy to expand your table as you add more information. Select the area in the table you want to expand such as the column or row. Then, choose the applicable tool from the Layout menu. In this example, we chose Insert Below and Insert Right. In <link target-id="fig-00003"/>, you can see an added row to the bottom of the table, and a new column named YoY Same Month. (“YoY” stands for “Year over Year.”)</para>
     <figure id="fig-00003">
     <media alt="Insert Below and Insert Right buttons are selected from Rows &amp; Columns command group. A blue and white lined table is visible, with cells populated with text and numbers.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TABLES02b.jpg"/>
     </media>
-    <caption>The Layout tab tools are used to make physical adjustments to the table, such as inserting or deleting rows or columns. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Layout tab tools are used to make physical adjustments to the table, such as inserting or deleting rows or columns. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00003">
@@ -53,36 +53,36 @@
     <media alt="(a) Pictures button is selected; opens to options to Insert Picture From: This Device, Stock Images, Online Pictures. (b) Images tab is selected on pane. Category tabs/image options populate the window.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PICab.jpg"/>
     </media>
-    <caption>(a) Word makes it easy for you to insert images from a variety of locations into their document. (b) The Office stock images give you different options for more generic images or cartoons. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) Word makes it easy for you to insert images from a variety of locations into their document. (b) The Office stock images give you different options for more generic images or cartoons. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00010">Word also gives you the option of inserting a picture directly from the internet. If you choose <term class="no-emphasis" id="term-00006">Online Pictures</term>, a dialog box will open, with Microsoft Bing’s image search available, as <link target-id="fig-00005"/> shows. This might be a nice option if you want to include a picture of a competitor’s product in the market trends report.</para>
     <figure id="fig-00005">
     <media alt="Online Pictures window displays Search Bar and thumbnails of various image categories (i.e, Airplane, Animals, Autumn, Background, Balloons, Baseball, Birds, Birthday Cake, Books, Car, Celebration, and Coffee).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PICc.jpg"/>
     </media>
-    <caption>Bing’s image search tool helps you look for images by categorizing them by topic. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Bing’s image search tool helps you look for images by categorizing them by topic. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00011">Let’s find images of laptops for the WorldCorp market trends report. Let’s include one stock image and one online picture. For now, insert the images in a blank document just for practice. Later, you can insert the images into the market trends report if you desire. Open a blank document and go to the Insert tab.</para>
-    <para id="para-00012">Choose Picture and then choose Stock Images. Choose the Icons tab and, in the search bar, type “laptop” (<link target-id="fig-00006"/>). This will narrow our search to icons, or simple black-and-white illustrations, rather than photographs. This type of image might be useful in a report because it is clear and simple. Notice that when an icon is inserted into the document, a new tab, <term class="no-emphasis" id="term-00007">Graphics Format</term>, appears on the Ribbon. The Graphics Format tab will appear when you insert something like an icon or a cartoon into your document. This tab gives you the tools to make adjustments to the icon that you inserted.</para>
+    <para id="para-00012">Choose Picture and then choose Stock Images. Choose the Icons tab and, in the search bar, type “laptop” (<link target-id="fig-00006"/>). This will narrow our search to icons, or simple black-and-white illustrations, rather than photographs. This type of image might be useful in a report because it is clear and simple. Notice that when an icon is inserted into the document, a new tab, <term class="no-emphasis" id="term-00007">Graphics Format</term>, appears on the ribbon. The Graphics Format tab will appear when you insert something like an icon or a cartoon into your document. This tab gives you the tools to make adjustments to the icon that you inserted.</para>
     <figure id="fig-00006">
     <media alt="(a) Icons is selected in a search for laptops with laptop icons visible beneath. (b) The Graphic Format is selected and an icon of a computer is being inserted into a document.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PIC2.jpg"/>
     </media>
-    <caption>(a) Word gives you different categories to help you narrow down your search. (b) The Graphics Format tab offers tools for applying different styles, effects, and other features to your image. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) Word gives you different categories to help you narrow down your search. (b) The Graphics Format tab offers tools for applying different styles, effects, and other features to your image. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00013">Now, let’s find a picture of a laptop from the internet. Choose Online Pictures and type “laptop” in the search bar. This will initiate a Bing web search for that key term. Notice that you can also search by license; here, we have chosen to search for images under the Creative Commons license only. To select an image, click on the picture and choose Insert (<link target-id="fig-00007"/>).</para>
     <figure id="fig-00007">
     <media alt="Online Pictures window displays laptop typed in search bar. A filter is applied to the search (Creative Commons only). Images of laptops are visible beneath.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PIC3a.jpg"/>
     </media>
-    <caption>Bing is the search engine used for images because it is also a Microsoft product. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Bing is the search engine used for images because it is also a Microsoft product. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00014">In this case, because you are inserting an actual full-color image, such as a photograph, the tab added to the Ribbon is the <term class="no-emphasis" id="term-00008">Picture Format</term> tab, not the Graphics Format tab. As with the Graphics Format tab, this tab gives you the tools to make adjustments to the picture and its placement in the document, as <link target-id="fig-00008"/> shows.</para>
+    <para id="para-00014">In this case, because you are inserting an actual full-color image, such as a photograph, the tab added to the ribbon is the <term class="no-emphasis" id="term-00008">Picture Format</term> tab, not the Graphics Format tab. As with the Graphics Format tab, this tab gives you the tools to make adjustments to the picture and its placement in the document, as <link target-id="fig-00008"/> shows.</para>
     <figure id="fig-00008">
     <media alt="A picture of an open laptop image is inserted into a document. The bottom left corner of the picture reads: This Photo by Unknown Author is licensed under CC BY.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PIC3b.jpg"/>
     </media>
-    <caption>When images are used from the web, be sure to recognize copyrights and give credit for images when appropriate. Although this image is a stock photo with an unknown author, other photos you may use will show the author's name and the photo's license in the copyright line that Bing automatically generates. (attribution: Used with permission from Microsoft)</caption>
+    <caption>When images are used from the web, be sure to recognize copyrights and give credit for images when appropriate. Although this image is a stock photo with an unknown author, other photos you may use will show the author's name and the photo's license in the copyright line that Bing automatically generates. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00005">
@@ -94,14 +94,14 @@
     <media alt="Shapes is selected from Illustration command group in Insert tab. Categories of various shapes for selection are visible: Recently Used Shapes, Lines, Rectangles, Basic Shapes, Block Arrows, Equation Shapes, and Flowchart.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SHAPEa.jpg"/>
     </media>
-    <caption>There are many shapes for adding emphasis and visual appeal to your documents. (attribution: Used with permission from Microsoft)</caption>
+    <caption>There are many shapes for adding emphasis and visual appeal to your documents. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00018">After you select and insert a shape, the <term class="no-emphasis" id="term-00010">Shape Format</term> tab is added to the Ribbon, as shown in <link target-id="fig-00010"/>. You can change the color of the shape, add visual effects, align the object, use a word wrap, and change the position of the item.</para>
+    <para id="para-00018">After you select and insert a shape, the <term class="no-emphasis" id="term-00010">Shape Format</term> tab is added to the ribbon, as shown in <link target-id="fig-00010"/>. You can change the color of the shape, add visual effects, align the object, use a word wrap, and change the position of the item.</para>
     <figure id="fig-00010" class="scaled-down">
     <media alt="The Shape Format tab is selected. Command groups visible are Shape Styles, WordArt Styles, Text, Accessibility. An orange arrow is highlighted next to a table.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SHAPEb.jpg"/>
     </media>
-    <caption>The Shape Format tab is used to change the color, size, and other features of the shape. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Shape Format tab is used to change the color, size, and other features of the shape. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00006">
@@ -111,23 +111,23 @@
     <media alt="Choose a SmartArt Graphic window is open; All is selected. Various categories of list options are in the middle pane. The Basic Block List is selected and visible at the right.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMARTART01.jpg"/>
     </media>
-    <caption>There are various business charts that you can design in SmartArt. (attribution: Used with permission from Microsoft)</caption>
+    <caption>There are various business charts that you can design in SmartArt. (Used with permission from Microsoft)</caption>
     </figure>
     <section id="sect-00007">
     <title>SmartArt Lists</title>
     <para id="para-00020"><link document="m00043">Microsoft Word: Advanced Formatting Features</link> covered basic numbered and bulleted lists. But there are other, more visually complex options in SmartArt that an employee might have to use when creating documents that contain deeper levels of content than, say, a memo or introductory letter to a customer. SmartArt can also be used to outline an organizational structure to show reporting relationships between employees and managers.</para>
-    <para id="para-00021">To insert a SmartArt list, select the SmartArt icon from the Insert tab and click on the List menu to see all the options for Lists. <link target-id="fig-00012"/> shows a Horizontal Bullet List, which we can use to list the strengths and weaknesses of WorldCorp in the market trends report. Click OK to insert the SmartArt. As you insert it, the SmartArt Design tab is added to the Ribbon, which has options for modifying the SmartArt. <link target-id="fig-00028"/> shows what a Horizontal Bullet List SmartArt looks like.</para>
+    <para id="para-00021">To insert a SmartArt list, select the SmartArt icon from the Insert tab and click on the List menu to see all the options for Lists. <link target-id="fig-00012"/> shows a Horizontal Bullet List, which we can use to list the strengths and weaknesses of WorldCorp in the market trends report. Click OK to insert the SmartArt. As you insert it, the SmartArt Design tab is added to the ribbon, which has options for modifying the SmartArt. <link target-id="fig-00028"/> shows what a Horizontal Bullet List SmartArt looks like.</para>
     <figure id="fig-00012">
     <media alt="SmartArt is selected in Illustrations command group. Choose a SmartArt Graphic pane is open, List is selected. Middle pane displays list options. Horizontal Bullet is selected at right.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMRTART02a.jpg"/>
     </media>
-    <caption>SmartArt also includes helpful hints on how to use each type of list best. (attribution: Used with permission from Microsoft)</caption>
+    <caption>SmartArt also includes helpful hints on how to use each type of list best. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00028">
       <media alt="Three vertical boxes with dark blue band at the top with a [Text] box and light blue larger band along the bottoms with two bulleted [Text] boxes is inserted into a document.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMRTART02b.jpg"/>
       </media>
-      <caption>Using the text boxes, you can enter the relevant information into the SmartArt graphic. (attribution: Used with permission from Microsoft)</caption>
+      <caption>Using the text boxes, you can enter the relevant information into the SmartArt graphic. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00008">
@@ -139,7 +139,7 @@
     <media alt="A Layout of 3 x 3 blue boxes connected by a travelling arrow is inserted into a document. [Text] is visible inside the boxes.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMARTART03.jpg"/>
     </media>
-    <caption>This type of SmartArt is called a Vertical Bending Process chart. It can be used to show many different steps in a linear workflow, without taking up too much space on the page. (attribution: Used with permission from Microsoft)</caption>
+    <caption>This type of SmartArt is called a Vertical Bending Process chart. It can be used to show many different steps in a linear workflow, without taking up too much space on the page. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="link-to-learning" id="note-00001">
     <para id="para-00025">Check out this tutorial to <link url="https://openstax.org/r/78CrtFlowchart">learn about creating flowcharts</link> in detail. This site provides basic terminology and a step-by-step walk-through on how to create a simple flowchart using the Shapes commands and a more complicated flowchart using the SmartArt commands.</para>
