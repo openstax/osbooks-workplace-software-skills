@@ -28,7 +28,7 @@
     <title>Entering and Formatting Numeric Data in a Worksheet Cell</title>
     <para id="para-00007">The information made of numerals that Excel reads like a calculator to perform mathematical equations is called <term id="term-00004">numeric data</term>. There are many purposes of numerical values in spreadsheets. The numbers can represent quantities, currency, dates, time stamps, percentages, and more. <link target-id="table-00001"/> summarizes the numerical values Excel uses.</para>
     <table id="table-00001" summary="">
-    <title/>
+    <title>Numerical Values in Excel</title>
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -73,8 +73,7 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Numerical Values in Excel</caption>
-    </table>
+        </table>
     <note class="mac-tip" id="note-00001">
     <exercise class="unnumbered" id="exer-00001">
     <problem id="prob-00001">
@@ -87,7 +86,7 @@
     <title/>
     <media alt="A Format Cells pane opens to the Number tab selected. Options for Category (Number is selected), Sample, Decimal places, Negative numbers (-1234.10 is selected) are visible with drops-downs for selection.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_NUMER02.jpg"/></media>
-    <caption>You can format numbers on the Home tab. The Number command group contains several buttons for commonly used formats and a drop-down menu. The drop-down menu contains an expanded list of common number formats. More options are available in the Format Cells dialog box. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>You can format numbers on the Home tab. The Number command group contains several buttons for commonly used formats and a drop-down menu. The drop-down menu contains an expanded list of common number formats. More options are available in the Format Cells dialog box. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00010">The Format Cells dialog box allows you to choose the category and formatting for your cell, based on the data. For example, you can determine the number of decimal places you want to show with your Accounting data. You can also use the Custom formatting category. There are numerous complicated formatting options in the Custom category, such as combining a date with a time, but you can also design your own by modifying an existing one to meet your needs.</para>
     <para id="para-00011">Say a sales report table contains a set of orders and the name of the salesperson who fulfilled them. This worksheet contains a variety of types of data: dates, text, general, number, accounting, and more. In order to determine the type of data, click on the cell, and check the drop-down menu in the Number command group. <link target-id="fig-00002"/> shows that cell A2 is a Date. You can convert any number to currency by selecting a cell and then clicking on the “$” button on the Home tab.</para>
@@ -95,7 +94,7 @@
     <title/>
     <media alt="Cell A2 is selected and includes 3/22/2021. A zoomed-in view of the Ribbon shows that “Date” is selected in the Number tab.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_NUMER03.jpg"/></media>
-    <caption>When a worksheet has multiple types of data, make sure to format it as the most appropriate type. Column A is formatted as a Date. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>When a worksheet has multiple types of data, make sure to format it as the most appropriate type. Column A is formatted as a Date. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00012"><link target-id="fig-00003"/>a shows a summary of the sales figures of all agents. You will notice that the first row is shaded blue and the text is bolded. This is an effective way to differentiate the headings for each column, often referred to as the column header, title row, or header row. More about formatting cells will be covered in <link document="m00005">Formatting and Templates in Excel</link>. For now, to make the header row stand out, you can highlight (select) the row and use the commands in the Font command group on the Home tab to change the formatting, such as bolding, shading (fill), or text color.</para>
     <para id="para-00013"><link target-id="fig-00003"/>a includes a column for each agent’s percentage of the FOB $ total, but by default, Excel formats cell contents as General, so it displays the calculation as a decimal number. You can format it as a Percentage by selecting the cell and changing the number format in the drop-down menu or by clicking on the button in the Number command group. We can use the same process to display the next cell as a fraction. <link target-id="fig-00003"/>b shows the finished table.</para>
@@ -103,7 +102,7 @@
     <title/>
     <media alt="(a) Percentage and Fraction columns in a spreadsheet display with decimals (0.2197). (b) Percentage column in a spreadsheet display with % sign (21.97%) and Fraction column displays fractions (2/9).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_NUMER04.jpg"/></media>
-    <caption>By default, Excel formats cells as General, so formatting may require adjustment for numbers to display properly. (a) The unformatted table shows percentages and fractions as decimals. You can choose the Percentage format for the cells in the Percentage column. You can choose the Fraction format for the cells in the Fraction column. (b) The formatted table displays the percentages and fractions correctly. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>By default, Excel formats cells as General, so formatting may require adjustment for numbers to display properly. (a) The unformatted table shows percentages and fractions as decimals. You can choose the Percentage format for the cells in the Percentage column. You can choose the Fraction format for the cells in the Fraction column. (b) The formatted table displays the percentages and fractions correctly. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00004">
@@ -114,14 +113,14 @@
     <title/>
     <media alt="Spreadsheet displays Text and Number columns filled with various numbers in both. Last cell in Text column displays =4*5 and last cell in Number column displays 20.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_TEXT02.jpg"/></media>
-    <caption>Numbers can be stored as text data to retain symbols or leading zeros, which are regularly used in some government reports, identification numbers, and some phone numbers. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Numbers can be stored as text data to retain symbols or leading zeros, which are regularly used in some government reports, identification numbers, and some phone numbers. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00016">You are not restricted to the autoformatting that occurs when you type your data into a cell with General formatting. If you enter a number using the General format (<link target-id="fig-00006"/>a), but you want the number to display as currency, for example, simply select the cell or column and then choose Currency from the Number command group’s drop-down menu (<link target-id="fig-00006"/>b). Excel will automatically add the currency symbol and two decimal places. All cells in a new workbook are by default set to General format, but you can design your tables with the correct format for your purpose.</para>
     <figure id="fig-00006" class="scaled-down-30">
     <title/>
     <media alt="(a) Price per Unit column displays plain numbers/decimals. General is selected in Number command group. (b) Price per Unit column displays monetary numbers (i.e., $48.00). Currency is selected in Number command group.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_GENER01.jpg"/></media>
-    <caption>The default formatting for cell data is (a) General, but if you change it to (b) Currency, Excel will add two decimal places and a currency symbol. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The default formatting for cell data is (a) General, but if you change it to (b) Currency, Excel will add two decimal places and a currency symbol. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00005">
@@ -131,14 +130,14 @@
     <title/>
     <media alt="Excel Page Layout tab command groups: Themes (Themes, Colors, Fonts, Effects), Page Setup (Margins, Orientation, Size, Print Area, Breaks, Background, Print Titles), Scale to Fit (Width, Height, Scale), Sheet Options (Gridlines, Headline).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_LAYOUT01.jpg"/></media>
-    <caption>The Page Layout tab includes commands for page setup and manipulation of objects. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The Page Layout tab includes commands for page setup and manipulation of objects. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00018">The <term class="no-emphasis" id="term-00019">Review tab</term> contains the commands for adding and reviewing comments and activating the track-changes tool, as shown in <link target-id="fig-00008"/>. It also has password protection options, where you can restrict others’ editing capabilities when you are collaborating on the same project. The spell checker and thesaurus tools are also included in the Review tab. Your Review tab might look somewhat different based on the version of Excel that you are using. If these commands are not included on your Ribbon, you can add those using the process outlined in [link]Essentials of Business Software Applications for Business[link]<!--Chapter 2 Module 0-->.</para>
+    <para id="para-00018">The <term class="no-emphasis" id="term-00019">Review tab</term> contains the commands for adding and reviewing comments and activating the track-changes tool, as shown in <link target-id="fig-00008"/>. It also has password protection options, where you can restrict others’ editing capabilities when you are collaborating on the same project. The spell checker and thesaurus tools are also included in the Review tab. Your Review tab might look somewhat different based on the version of Excel that you are using. If these commands are not included on your ribbon, you can add those using the process outlined in <link document="m00049">Essentials of Business Software Applications for Business</link>.</para>
     <figure id="fig-00008">
     <title/>
     <media alt="Excel Review tab command groups: Proofing (Spelling, Thesaurus, Workbook Statistics), Accessibility (Check Accessibility), Insights (Smart Lookup), Language (Translate), Changes (Show Changes), Comments (New Comment, Delete, Previous Comment, Next Comment, Show Comments).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_REVIEW01.jpg"/></media>
-    <caption>The Review tab lets you manage comments, sharing settings, and spelling tools. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The Review tab lets you manage comments, sharing settings, and spelling tools. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section class="section-summary" id="sect-00006">

@@ -87,16 +87,16 @@
     <para id="para-00018">Now that you understand how to navigate a worksheet, let’s see how to apply this skill. Suppose you need to build sales figures of different retail store locations. Each location will have its own worksheet, and then you’ll add one more sheet to total the sales figures and make a comparison using a table. <link target-id="fig-00007"/>a gives the data for location X. You will need to use the copy-and-paste method to use this table to make the table for location Y. In the copy-and-paste method, copy text or objects by typing Ctrl+C (or right-click to Copy or use the Clipboard command group on the Home tab), and then typing Ctrl+V to paste the text or object in the new area. To use this procedure in this workbook, follow these steps:</para>
     <list number-style="arabic" list-type="enumerated" id="list-00002">
     <item>Highlight the table, as shown in <link target-id="fig-00007"/>a.</item>
-    <item>Press CTRL+C to copy the table.</item>
+    <item>Press Ctrl+C to copy the table.</item>
     <item>Create a new sheet by clicking on the circled plus sign at the bottom of the worksheet.</item>
     <item>Click on cell A1.</item>
-    <item>Press CTRL+V to paste the table into your new sheet.</item>
+    <item>Press Ctrl+V to paste the table into your new sheet.</item>
     </list>
     <para id="para-00019">This process copies the table exactly, so you will need to change the data so that it reflects the sales figures of location Y using the sales figures received from the finance department.</para>
     <note class="mac-tip" id="note-00003">
       <exercise class="unnumbered" id="exer-00009">
         <problem id="prob-00009">
-    <para id="para-00020">Macs use a CMD (command) key, whereas PCs use a CTRL (control) key. These keyboard shortcuts on a Mac are CMD+C to copy and CMD+V to paste. Mac also uses CTRL+click to bring up the right-click menu Windows uses.</para>
+    <para id="para-00020">Macs use a Command key, whereas PCs use a Ctrl (control) key. These keyboard shortcuts on a Mac are Command+C to copy and Command+V to paste. Mac also uses Ctrl+click to bring up the right-click menu Windows uses.</para>
     </problem>
   </exercise>
     </note>
@@ -105,7 +105,7 @@
     <title/>
     <media alt="(a) Table with four columns and 5 rows labeled Location X is highlighted. (b) Same table copied, but now labeled Location Y displays different information in column D from table in (a).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_01_CREAT01.jpg"/></media>
-    <caption>The copy-and-paste process makes it easy to create multiple tables that are similar to each other. Start with a formatted data table for location X. (a) Highlight (select) the table and copy it. Notice the dotted line around the selection to show that it has been copied. (b) Paste the table in a new worksheet and update it with the data for location Y. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The copy-and-paste process makes it easy to create multiple tables that are similar to each other. Start with a formatted data table for location X. (a) Highlight (select) the table and copy it. Notice the dotted line around the selection to show that it has been copied. (b) Paste the table in a new worksheet and update it with the data for location Y. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00022">Now, replicate the steps for location Z: copy and paste the table, and then retype the real data. Next, focus on creating the final sheet that displays the totals. In the workbook, this would be “Sheet 4.” Because the summary table needs to be a similar structure to the other tables, you can copy and paste the same table here, but you will need to modify Column D so that it adds up the units sold in each location. However, the summary table will need to use the data from Sheets 1, 2, and 3.</para>
     <para id="para-00023">To calculate the totals, you need an addition formula. Follow the same process used previously to insert a formula. First, in cell D2, type “=,” which tells <term class="no-emphasis" id="term-00012">Excel</term> that a formula or a function is being entered. Next, click on the tab for Sheet 1 and then on cell D2 in that sheet (<link target-id="fig-00008"/>a). Then, type the operator (in this case +), and then repeat the process for the appropriate cells in Sheets 2 and 3. When finished, press Enter, and Excel will display the total in the cell. Notice in the syntax that Excel has inserted “Sheet1!” before the cell designation in the first part of the formula. This tells Excel that it needs to use the contents of cell D2 in Sheet 1 for that portion of the calculation. The next element is “Sheet2!D2,” which is cell D2 in Sheet 2.</para>
@@ -113,7 +113,7 @@
     <title/>
     <media alt="(a) Simple table titled Location X. Cell D2 selected (8752). Formula bar displays =Sheet1!D2. (b) Same table displayed with Column D (Units Sold) updated and Location updated to All three locations.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_01_CREAT02.jpg"/></media>
-    <caption>Excel allows formulas to reference data appearing on any worksheet in the workbook. To create a total of the number of units sold at each location, begin the equation with an equals sign. (a) Then, click on the relevant cell in the first worksheet. Insert the mathematical operator and click on another cell you want in the formula. The formula shows the references to other worksheets. AutoFill can complete the table with formulas that reference the relevant cells. (b) The completed table uses data from other worksheets. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>Excel allows formulas to reference data appearing on any worksheet in the workbook. To create a total of the number of units sold at each location, begin the equation with an equals sign. (a) Then, click on the relevant cell in the first worksheet. Insert the mathematical operator and click on another cell you want in the formula. The formula shows the references to other worksheets. AutoFill can complete the table with formulas that reference the relevant cells. (b) The completed table uses data from other worksheets. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00024">Now that the formula is in place for cell D2, use the <term class="no-emphasis" id="term-00013">AutoFill</term> feature to apply the formula to subsequent rows. Highlight cell D2, click on the cross, and drag it to the bottom of the table. If you then click on cell D3, for example, you will see that the formula has been repeated but references cells D3 in the other sheets. <link target-id="fig-00008"/>b shows the completed table.</para>
     <para id="para-00025">This summary table can be very useful. In addition to providing a straightforward list of the totals, you could create graphs using this data and have a visual representation of sales trends. This is a simple scenario assumption; in the real-world sales totals, you would have much more than just five TV models. Imagine adding all the unit and dollar sale figures of three Best Buy locations in a given city; there would be hundreds of different products. You will learn increased complexity that will help in analyzing real-world problems such as this as your knowledge of Excel grows. The sorting and filtering feature is covered in <link document="m00011">Data Tables and Ranges</link><!--Chapter 10 Module 1-->, where you will learn how to set up a condition and a criterion to hide or show values for analysis.</para>
@@ -125,13 +125,13 @@
     <title/>
     <media alt="Print is selected and opens to options for Print, Copies, Printer, and Settings that include Print Entire Workbook, Pages, Collated, Portrait Orientation, Letter, Normal Margins, No Scaling, and Page Setup.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_01_PRINT01.jpg"/></media>
-    <caption>The options for printing are on the File tab. Click on Print. To print only a worksheet, leave the default selection of Print Active Sheets and make any necessary changes to the options. To print the whole workbook, select Print Entire Workbook from the first menu in the Settings. On a Mac, the steps are the same, but the appearance will differ slightly. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license, Used with permission from Microsoft)</caption>
+    <caption>The options for printing are on the File tab. Click on Print. To print only a worksheet, leave the default selection of Print Active Sheets and make any necessary changes to the options. To print the whole workbook, select Print Entire Workbook from the first menu in the Settings. On a Mac, the steps are the same, but the appearance will differ slightly. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00027">It is important to note that, when constructing spreadsheets, what you see on the computer screen is rarely how it looks when you actually print the workbook. When you have large spreadsheets with multiple rows or columns, they may not always fit within the bounds of the printed page. When you print the document, the result could be columns of data split oddly across several pages. Be sure to preview the printed version prior to printing. When you select Print, you will see the print preview on the right of the screen. Double-check that the columns and rows are displayed in the way you would like them to print. If not, you can change the margins of the worksheet or insert a page break as appropriate to print a final, professional workbook. More will be covered about formatting the worksheets and workbook in <link document="m00005">Formatting and Templates in Excel</link>.</para>
     <note class="mac-tip" id="note-00004">
       <exercise class="unnumbered" id="exer-00010">
         <problem id="prob-00010">
-    <para id="para-00028">You can get to the Print menu with CMD+P, but you can also use the File tab at the top of the window. There is a separate menu in the File menu to set your print area, and you can select which worksheets to print from the Print menu.</para>
+    <para id="para-00028">You can get to the Print menu with Command+P, but you can also use the File tab at the top of the window. There is a separate menu in the File menu to set your print area, and you can select which worksheets to print from the Print menu.</para>
     </problem>
       </exercise>
     </note>
