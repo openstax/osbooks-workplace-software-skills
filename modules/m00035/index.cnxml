@@ -25,7 +25,7 @@
     <media alt="Six different fonts are shown (Times New Roman, Cambria, Garamond, Calibri, Arial, and Tahoma) and represented at the right with all 26 upper- and lower-case letters of the alphabet in those fonts.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_03_Serif.jpg"/>
     </media>
-    <caption>The top three fonts are common serif fonts, while the three on the bottom are sans serif. Note the differences in the lines on the ends of the letter strokes. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The top three fonts are common serif fonts, while the three on the bottom are sans serif. Note the differences in the lines on the ends of the letter strokes. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00005">You can select fonts using the drop-down menu within the <term class="no-emphasis" id="term-00004">Font</term> options on the Home tab. There are many fonts in Word, most of which are not appropriate for business reports because they are too ornate or decorative. You should think carefully about the type of font you want to use and what it will convey to its readers. You want to stay professional and avoid “fun” fonts like Comic Sans and Papyrus. Font choice also affects the readability of your document. Script-like or blocky fonts can be difficult to read, especially with long documents. Additionally, some fonts are more appropriate for headings or logos instead of the body of a report or document.</para>
     <note class="mac-tip" id="note-00001">
@@ -39,7 +39,7 @@
     <media alt="(a) Bottom right corner of Font command group displays small arrow icon. When clicked, opens (b) Font pane. Font tab options: Font/Font style, Size, Font color, Underline style Underline color, Effects, Preview.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_03_Fonts.jpg"/>
     </media>
-    <caption>(a) The Font command group lets you select your font and font size, apply special treatment like bold or italic, and set case. Selecting the arrow (a) opens the dialog box (b) where you can apply multiple formats at once. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) The Font command group lets you select your font and font size, apply special treatment like bold or italic, and set case. Selecting the arrow (a) opens the dialog box (b) where you can apply multiple formats at once. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00003">
@@ -51,20 +51,20 @@
     <media alt="(a) 2.0 is selected from Line and Paragraph Spacing button. (b) Paragraph pane displays tabs for Indents and Spacing (selected) and Line and Page Breaks. Selections include General, Indentation, Spacing, Preview.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_03_Paragraph.jpg"/>
     </media>
-    <caption>The Paragraph command group offers a variety of line spacing options in (a) a drop-down menu or (b) in more detail in a dialog box. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Paragraph command group offers a variety of line spacing options in (a) a drop-down menu or (b) in more detail in a dialog box. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00012">Paragraph separation is typically indicated in one of two ways: by indenting the first line of the paragraph with a tab <term class="no-emphasis" id="term-00008">indentation</term> as <link target-id="fig-00004"/>a shows, or by adding a space between paragraphs, as you can see in <link target-id="fig-00004"/>b. In the latter case, the paragraph is usually not indented, as the space serves the same purpose as the indentation (i.e., to indicate a new paragraph). Most documents, including those used in business, have small 0.5” indentations at the start of each new paragraph as the default setting. If indentations are too small, they are difficult to distinguish, and large indentations can look awkward and confuse readers.</para>
     <figure id="fig-00004">
     <media alt="(a) A document is shown where the start of a paragraph is indented. (b) A document is shown with a blank space between paragraphs and no indents visible.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_03_Spacing.jpg"/></media>
-    <caption>Paragraphs can be indicated by (a) a first-line indentation or (b) by spaces between paragraphs. The latter works well in documents where page count is not an issue as it could make for a longer document. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Paragraphs can be indicated by (a) a first-line indentation or (b) by spaces between paragraphs. The latter works well in documents where page count is not an issue as it could make for a longer document. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00013">Paragraphs can also be formatted with different <term id="term-00009">alignment</term>, or <term class="no-emphasis" id="term-00010">justification</term>, styles (<link target-id="fig-00005"/>). In documents, the most common alignments for the body of the text are <term class="no-emphasis" id="term-00011">left-justified</term> or <term class="no-emphasis" id="term-00012">fully justified</term>. Left-justified means that the text all lines up in a straight line along the left margin, but where text ends on the right margin varies. Fully justified text lines up in a straight line along both the left and right margins. This produces a clean and professional look and is often used in publishing or print materials. However, full justification can also lead to awkward gaps within lines of text if the material contains a lot of long words or specialized content. Determining which alignment is appropriate for a document depends on the audience. For example, if you submit your WorldCorp market trends report for publication in an industry journal, it should be fully justified.</para>
     <figure id="fig-00005">
     <media alt="(a) Document displays text lined up in a straight line along the left margin, with right margin varying. (b) Document displays text aligned in straight lines at left and right margins.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_03_Align.jpg"/>
     </media>
-    <caption>Most documents set the main text with either (a) left alignment or (b) full justification. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Most documents set the main text with either (a) left alignment or (b) full justification. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00014">Other alignment options include centering text and right alignment. Centering is often used to give special treatment to a particular element of content. Right justification is often used in financial data, where, for example, numbers align best if they align on the right.</para>
     </section>
@@ -85,7 +85,7 @@
     <media alt="(a) Styles command group displays heading option selected and reflected in document. (b) Print Layout and Vertical tabs selected. Navigation pane Heading tab lists headings in document. Selected headings in document visible.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_03_Heading.jpg"/>
     </media>
-    <caption>(a) Headings serve as organizational signposts for a reader, collecting passages into sections and providing a hierarchy. (b) Headings can also help you navigate documents. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) Headings serve as organizational signposts for a reader, collecting passages into sections and providing a hierarchy. (b) Headings can also help you navigate documents. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00018">Heading hierarchies use the design of the heading to indicate levels of sections. The heading levels are usually referred to by numbers (such as Heading 1) and sometimes the shorthand H1, H2, H3 is used. Word’s default heading styles are designed to have a logical and intuitive hierarchy, which typically includes font size, and sometimes font style. In general, color should not be used to indicate levels in a hierarchy since this is neither logical (i.e., it is not clear why one color would be higher or lower than another) nor accessible (some colors are not readily conveyed to users who may be visually impaired or have other accessibility needs).</para>
     </section>
@@ -96,19 +96,19 @@
     <media alt="Layout pane displays tabs: Position, Text Wrapping (selected), and Size. Wrapping Styles are available for selection: In line with text, Square, Tight, Through, Top and bottom, Behind text, In front of text.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_03_Position.jpg"/>
     </media>
-    <caption>The wrapping style of how an image and text interact should be based on the purpose of the image. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The wrapping style of how an image and text interact should be based on the purpose of the image. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00020">For example, let’s assume you want to add an image of one of WorldCorp’s products to the market trends report. As you may recall, WorldCorp sells products such as computer accessories, laptops, and TVs. When discussing trends in the laptop industry, you may want to include a picture of a laptop from a top-selling brand in the industry, such as HP. To insert the image into the report, place your cursor in the area of the report where you want the image. Then, copy and paste the image into the market trends report. Then, from the Layout tab, select the <term class="no-emphasis" id="term-00015">Wrap Text</term> tool and select the appropriate text wrapping style to present a professional look for the inserted picture. The Wrap Text tool can also be accessed by right-clicking on the inserted image or figure, as shown in <link target-id="fig-00008"/>.</para>
     <figure id="fig-00008">
     <media alt="Image of a laptop is inserted at end of sentence. Layout Options pane displays options (with images): In Line with Text, With Text Wrapping, Move with text, and Fix position on page.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_03_Picture_a.jpg"/></media>
-    <caption>The default when inserting a picture is to have the picture inserted where the cursor is located “In line with text.” (attribution: Used with permission from Microsoft)</caption>
+    <caption>The default when inserting a picture is to have the picture inserted where the cursor is located “In line with text.” (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00021">Notice that you can change the wrapping style using the tool that appears in the upper-right corner of the image when you paste it in the document (<link target-id="fig-00009"/>).</para>
     <figure id="fig-00009">
     <media alt="Image of a laptop is inserted at right side of paragraph. With Text Wrapping (image in middle of text selected) and Move with text (selected) in Layout Options.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_03_Picture_b.jpg"/></media>
-    <caption>You can choose to have the picture inserted with text wrapping blocked around the picture using “Square.” (Inserting the picture “In front of text” does not present a professional appearance as it hides some of the text.) (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can choose to have the picture inserted with text wrapping blocked around the picture using “Square.” (Inserting the picture “In front of text” does not present a professional appearance as it hides some of the text.) (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section class="section-summary" id="sect-00006">

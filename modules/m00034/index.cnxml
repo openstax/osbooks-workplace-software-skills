@@ -19,7 +19,7 @@
     <figure id="fig-00001">
     <media alt="Command groups in Layout tab include Page Setup (Margins, Orientation, Size, Columns, Breaks, Line Numbers, Hyphenation), Paragraph (Left/Right indent, Before/After spacing), Arrange (Position, Wrap Text, Bring Forward/Send Backward, Selection Pane, Align, Group/Rotate).">
        <image mime-type="image/jpg" src="../../media/OSX_BCA_03_02_LayoutTab.jpg"/></media>
-    <caption>The Layout tab has clearly defined drop-down menus and buttons for its page layout tools. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Layout tab has clearly defined drop-down menus and buttons for its page layout tools. (Used with permission from Microsoft)</caption>
     </figure>
     <section id="sect-00002">
     <title>Page Setup</title>
@@ -38,7 +38,7 @@
     <media alt="(a) Margins opens to various margin options (Custom Margins selected). (b) Page Setup pane options: Margins (selected), Paper, Layout. Margins options include: Margins, Orientation, Pages, Preview, and Apply to: (Whole document selected).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Margins.jpg"/>
     </media>
-    <caption>The Margins tab in the Page Setup dialog box lets you (a) choose from predetermined selections, or (b) create your own specifications through the custom margin dialog box. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Margins tab in the Page Setup dialog box lets you (a) choose from predetermined selections, or (b) create your own specifications through the custom margin dialog box. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00004">
@@ -48,7 +48,7 @@
     <media alt="The Layout tab is selected and in the Page Setup command group the Orientation button displays a drop-down pane with Portrait and Landscape available for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Orient.jpg"/>
     </media>
-    <caption>Inserting sections in your document allows you to change the page orientation between sections. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Inserting sections in your document allows you to change the page orientation between sections. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00005">
@@ -59,7 +59,7 @@
     <media alt="(a) Line and Paragraph spacing is selected listing spacing options (Line Spacing Options selected). (b) Paragraph pane selects Indents and Spacing tab. Various options are displayed for General, Indentation, and Spacing.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Space.jpg"/>
     </media>
-    <caption>(a) You can change the line spacing of a document by using the tool in the Paragraph command group. (b) There are additional options for indentation and line spacing by selecting Line Spacing Options. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) You can change the line spacing of a document by using the tool in the Paragraph command group. (b) There are additional options for indentation and line spacing by selecting Line Spacing Options. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00013">Through the <term class="no-emphasis" id="term-00011">Line Spacing Options</term> tool, you can change the spacing before and after lines of text, the spacing before and after paragraphs, and the indentation of lines of text.</para>
     </section>
@@ -71,7 +71,7 @@
     <media alt="Size is selected (Layout tab/Page Setup command group) and lists options for selection (i.e., Letter, Legal, A4, Executive, Japanese Postcard, Double Japan Postcard Rotated, Envelope #10, Envelope Monarch, Envelope DL, etc.).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Size.jpg"/>
     </media>
-    <caption>You can select from a variety of predetermined page sizes for your document, or create a custom paper size if desired, such as for a poster or invitation. This figure shows the entire drop-down list as two panels. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can select from a variety of predetermined page sizes for your document, or create a custom paper size if desired, such as for a poster or invitation. This figure shows the entire drop-down list as two panels. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00007">
@@ -82,7 +82,7 @@
     <media alt="(a) Columns button lists options: One, Two, Three, Left, Right, More Columns (selected). (b) Columns pane offers options for Presets, Number of columns, Line between, Width/spacing, Preview, Apply to, Start new column.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Columns.jpg"/>
     </media>
-    <caption>(a) More Columns opens a window where you can (b) customize their width and spacing. Columns are common in certain types of documents, such as newsletters and brochures. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) More Columns opens a window where you can (b) customize their width and spacing. Columns are common in certain types of documents, such as newsletters and brochures. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     </section>
@@ -97,13 +97,13 @@
     <media alt="(a) Breaks option: Page Breaks and Section Breaks (Next Page selected). (b) Page Number options: Top of Page, Bottom of Page (selected), Page Margins, Current Position, Format Page Numbers, Remove Page Numbers.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Sections.jpg"/>
     </media>
-    <caption>Section breaks (a) allow you to have different page formats for different areas of the document. Panel (b) shows that the number will be at the bottom of the page. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Section breaks (a) allow you to have different page formats for different areas of the document. Panel (b) shows that the number will be at the bottom of the page. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00023">Another advantage to having different sections in a document is that you can accommodate different graphics well. This can be helpful when working with graphics that are best suited for landscape orientation, for example. As with the page numbering, you can change the orientation for a specific section. <link target-id="fig-00008"/> shows successive pages of a document with different orientations.</para>
     <figure id="fig-00008">
     <media alt="Orientation in Page Setup of Layout tab is selected. Two document pages are visible on the screen, one in a portrait style (thinner) and one in an orientation style (wider).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_02_Orient2.jpg"/></media>
-    <caption>Inserting sections in your document allows you to change the page orientation between sections. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Inserting sections in your document allows you to change the page orientation between sections. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section class="section-summary" id="sect-00009">

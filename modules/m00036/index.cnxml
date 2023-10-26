@@ -27,7 +27,7 @@
     <media alt="The words “id est” are selected in a document. Open pane in front of the text lists spelling options and Ignore All, Add to Dictionary (selected), Smart Lookup, Hyperlink, and New Comment.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_04_Spell.jpg"/>
     </media>
-    <caption>Adding regularly used new words to your dictionary will save you time when spell-checking a document. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Adding regularly used new words to your dictionary will save you time when spell-checking a document. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00007">Another language customization feature is setting the proofing language. Word comes with dictionaries for several languages, as well as a variety of English dialects, including British, Canadian, Australian, Caribbean, Singaporean, New Zealander, and American English. After you set your preferred dialect, Word will check your spelling and grammar according to that dialect. For example, if you choose American English as your preferred dialect, the Spelling and Grammar tool will mark the word “favour” as an error and suggest the American spelling “favor.”</para>
     </section>
@@ -38,14 +38,14 @@
     <media alt="Show Comments is selected in Comments command group. The words “New Comment” are highlighted and a speech bubble is visible. A comment box displays name of commenter, comment, date, and Reply box.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_04_Comment.jpg"/>
     </media>
-    <caption>Comments can be used to communicate collaboratively within a document, or to add notes to yourself. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Comments can be used to communicate collaboratively within a document, or to add notes to yourself. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00009">When working in a document with comments, you can reply to any comment to add additional information or start a dialogue about a specific item. Once comments are addressed and are no longer needed in the document, you can either delete or resolve them, as <link target-id="fig-00003"/> shows. Deleting a comment removes it completely from the document, whereas resolving a comment retains the comment in a history stored digitally with the document.</para>
     <figure id="fig-00003">
     <media alt="The word “across” is highlighted and a speech bubble is visible. Three dots in the comment box open to options for Delete thread and Resolve thread (selected).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_04_Comment3.jpg"/>
     </media>
-    <caption>Comments can be either deleted or resolved when they are no longer needed. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Comments can be either deleted or resolved when they are no longer needed. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00010">In a collaborative business document like your market trends report, you may find that another collaborator added content that was not ideal. The next collaborator or editor in the process could flag this content with a comment and send the document back to be revised. When the collaborator is done making the changes, you or they can resolve the issue.</para>
     </section>
@@ -58,14 +58,14 @@
     <media alt="(a) Display for Review option lists All Markup selected from drop-down. (b) Show Markup option lists Specific People selected and opens to selected options for All Reviewers and a list of names.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_04_Comment2.jpg"/>
     </media>
-    <caption>(a) Users can adjust how much markup they see, as well as (b) what types or markups are shown and which reviewers’ feedback is displayed. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) Users can adjust how much markup they see, as well as (b) what types or markups are shown and which reviewers’ feedback is displayed. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00014">Collaborators, or a final author, have the option to accept or reject each change that has been tracked. While reviewing changes, you can hover over any individual edit to see who made the edit and when, as shown in <link target-id="fig-00005"/>. The Changes command group on the Review tab has the option of accepting or rejecting the various tracked edits as they are reviewed. You can also select to accept all changes in the document without reviewing them individually.</para>
     <figure id="fig-00005" class="scaled-down">
     <media alt="(a) Words display with a strikethrough followed by replacement words. Window displays with name, date, time, and the words edited. (b) Accept This Change is selected, making the change in the document.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_04_Accept.jpg"/>
     </media>
-    <caption>(a) Track Changes tells you who made a revision, and at what time, and (b) lets you accept or reject each suggested edit. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) Track Changes tells you who made a revision, and at what time, and (b) lets you accept or reject each suggested edit. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="real-application" id="note-00001">
     <title>Résumé Peer Evaluation</title>
@@ -80,13 +80,13 @@
     <media alt="Restrict Editing is selected (Protect command group). Restrict Editing pane lists options: 1. Formatting restrictions, 2. Editing restrictions, and 3. Start enforcement.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_04_RestrictA.jpg"/>
     </media>
-    <caption>Document protections can be added by restricting editing to certain components of a document, or to limited levels of editing. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Document protections can be added by restricting editing to certain components of a document, or to limited levels of editing. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00007">
     <media alt="(a) Formatting Restrictions options selected: Limit formatting to a selection of styles/Checked styles are currently allowed. (b) Editing restrictions options selected: Allow only this type of editing in the document, No Changes.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_04_RestrictBC.jpg"/>
     </media>
-    <caption>(a) Formatting restrictions can get quite detailed; however, they’re important to set to keep your document’s style from becoming inconsistent. (b) Editing restrictions for other users can range from allowing others to work freely, to work in Track Changes, or to “read only” and not make any changes. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) Formatting restrictions can get quite detailed; however, they’re important to set to keep your document’s style from becoming inconsistent. (b) Editing restrictions for other users can range from allowing others to work freely, to work in Track Changes, or to “read only” and not make any changes. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00002">
     
@@ -103,7 +103,7 @@
     <media alt="Word “differences” is highlighted in document. Editor pane opens with Grammer heading Paragraph displays with the word “differences” underlined with blue font. A suggestions heading follows with “differences,” in bold font.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_04_Editor2.jpg"/>
     </media>
-    <caption>Editor will provide explanations and suggested revisions for errors of spelling, grammar, clarity, inclusivity, conciseness, and more. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Editor will provide explanations and suggested revisions for errors of spelling, grammar, clarity, inclusivity, conciseness, and more. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section class="section-summary" id="sect-00008">

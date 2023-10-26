@@ -27,7 +27,7 @@
     <media alt="Styles command group displays options. Normal0 is selected. Styles pane lists options for selection: Footer, Heading 1, Heading 2, Heading 3, Heading 4, Heading 5, Heading 6, Normal, Normal0 (selected), and Subtitle.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_05_Styles.jpg"/>
     </media>
-    <caption>The Styles pane allows you to assign each part of a document a functional style, which can then coordinate with Word’s existing themes. Hovering over each style choice will reveal the changes to the text block in which you have placed your cursor. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Styles pane allows you to assign each part of a document a functional style, which can then coordinate with Word’s existing themes. Hovering over each style choice will reveal the changes to the text block in which you have placed your cursor. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00007">This is the manual way of applying styles. But the real power in using styles is to simply use them as identifiers for your text so that themes can “read” and style the text properly. For example, it wouldn’t matter if you chose Calibri as your Normal font style; if you select the “Madison” theme, for instance, the new Normal font will automatically change to Arial, because that is what comes with the theme. Different themes have different Normal font settings. To see what font a theme uses, you will need to select the theme and see the fonts it uses. Now, let’s explore how to apply a theme and why it works so well with styles.</para>
     </section>
@@ -38,7 +38,7 @@
     <media alt="Themes button is selected from Design tab. Pane with various color palettes for selection is open, followed by options for Reset to Theme from Template, Browse for Themes, and Save Current Theme.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_05_Themes.jpg"/>
     </media>
-    <caption>Word offers a variety of themes, each with its own set of fonts, colors, and styles. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Word offers a variety of themes, each with its own set of fonts, colors, and styles. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00009">You can change the colors and fonts associated with the selected theme by choosing the menus on the Design tab. Choose the Green color group and Arial font and apply it to the report.</para>
     <para id="para-00010">When you change the color and font, all headings and titles of the section will change in one step. There is no need to select each heading one by one because you already coded your document with the correct styles before you applied the theme, so the theme knows which text is which type of heading, and so forth. In the template, the current font of the Normal text is Corbel. By selecting the <term class="no-emphasis" id="term-00005">Fonts</term> drop-down menu, you can change all of the Normal text and/or Headings font. Go to the bottom of the drop-down Fonts menu and select Customize Fonts. A new dialog box will appear with all the fonts installed in Office, as seen in <link target-id="fig-00003"/>. Choose a new font and select Save and the headings will be changed.</para>
@@ -46,7 +46,7 @@
     <media alt="(a) Create New Theme Fonts pane options: Heading font, Body font, Sample (with preview of font choice), Name. (b) Document displays text in Castellar font with the same green hues for heading.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_05_Themes2.jpg"/>
     </media>
-    <caption>You can modify the fonts in components of a theme, such as headings, and they will change from (a) the default font associated with that theme to (b) the customized font you select to apply. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can modify the fonts in components of a theme, such as headings, and they will change from (a) the default font associated with that theme to (b) the customized font you select to apply. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     </section>
@@ -58,13 +58,13 @@
     <media alt="Watermark button is selected. Confidential pane displays four options for placement of Confidential/Do Not Copy words in various position in background of document. More Watermarks, Custom Watermarks, and Remove Watermark options follow.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_05_Watermark1.jpg"/>
     </media>
-    <caption>You can insert customized watermarks such as company logos using the Custom Watermark option. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can insert customized watermarks such as company logos using the Custom Watermark option. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00005">
       <media alt="In the document, the word Confidential is seen written behind the text diagonally across the page in a pale gray color.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_05_Watermark2.jpg"/>
       </media>
-      <caption>Watermarks are used to display letters or images on the page background. (attribution: Used with permission from Microsoft)</caption>
+      <caption>Watermarks are used to display letters or images on the page background. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section class="section-summary" id="sect-00006">
