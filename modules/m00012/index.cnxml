@@ -171,7 +171,7 @@
     <media alt="(a) Formula bar displays =E4:E12 - D4:D12 in blue (Column E) and red (Column D). Cell G4 displays D4:D12. (b) Formula bar displays {=E4:E12 - D4:D12}. Column G displays positive/negative numbers.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_02_ARR01.jpg"/>
     </media>
-    <caption>Make sure to highlight all the cells you want the formula to be entered into. (a) Notice the color coding of the formula that corresponds to the colors in the columns below. (b) If you don’t press the CTRL+Shift+Enter combination, the array will not work. You will see the curly braces when you have a formula as an array. (Used with permission from Microsoft)</caption>
+    <caption>Make sure to highlight all the cells you want the formula to be entered into. (a) Notice the color coding of the formula that corresponds to the colors in the columns below. (b) If you don’t press the Ctrl+Shift+Enter combination, the array will not work. You will see the curly braces when you have a formula as an array. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="link-to-learning" id="note-00005">
     <para id="para-00032">For those who are new to using the Excel math syntax and notation, the first section of <link url="https://openstax.org/r/78MathExcel">this video tutorial on using math in Excel</link> has a series of handwritten math exercises set alongside the same calculations using Excel. Seeing math equations written out in the “traditional” way may help you better understand how to devise Excel formulas. You can access the <link url="https://openstax.org/r/78CompHandout">companion handout</link> to use as a reference.</para>

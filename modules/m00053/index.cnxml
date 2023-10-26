@@ -263,7 +263,7 @@
     <para id="para-00036">The Quick Access Toolbar is found on the Preferences tab on the app main page.</para>
    
     </note>
-    <para id="para-00037">Customizing the ribbon is a similar process. Start at the Customize the ribbon command from Options in Backstage view. To add a command to the Ribbon, you first have to create a new group, as follows:</para>
+    <para id="para-00037">Customizing the ribbon is a similar process. Start at the Customize the ribbon command from Options in Backstage view. To add a command to the ribbon, you first have to create a new group, as follows:</para>
     <list list-type="enumerated" number-style="arabic" id="list-00002">
     <item>Choose the tab on the right where you want to add the new command. (For the purposes of this demonstration, choose the Draw group, making sure there is a check mark next to the Draw box.)</item>
     <item>Click on New Group, which will be listed when you click on the plus sign next to Draw.</item>
