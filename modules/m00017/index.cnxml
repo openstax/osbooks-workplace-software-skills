@@ -7,11 +7,10 @@
   </metadata>
   <content class="introduction">
     <figure id="fig-00001" class="splash">
-    <media alt="On a Facebook page, under the Insights tab, the Overview option is selected and “Your 5 Most Recent Posts” lists across the top. In the bottom half of the screen, text, numbers, images, and bar graphs populate rows with these column headers: Published, Post, Type, Targeting, Reach, Engagement, and Promote. Above the column headers on the right are colored squares with a key for the bar graphs: orange square – Reach: Organic/Paid, blue square – Post clicks, and red square – Likes, Comments &amp; Shares.">
-    <!--<image mime-type="image/jpeg" src="../../media/OSX_BCA_11_00_Opener.jpg"/>-->
-    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    <media alt="A group of women are gathered around a conference table with laptops and notebooks.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_11_00_Opener.jpg"/>
     </media>
-    <caption>Using the advanced tools in Excel can help businesses evaluate the effectiveness of their social media marketing efforts.</caption>
+    <caption>Using the advanced tools in Excel can help businesses evaluate the effectiveness of their social media marketing efforts. (credit: modification of "Group of Women gathered inside Conference Room" by Christina Morillo/Pexels, CC0)</caption>
     </figure>
     <para id="para-00001">As with many corporations, at WorldCorp there is a need to share information internally across various business functions, such as marketing, accounting, and operations. This could include information about current customers and their purchasing patterns or price changes in shipping cost over the last five years. This type of information can then be used by each department to evaluate their performance or to identify opportunities. The data used by each group might vary and the analysis will also differ based on the needs of the department. The information gathered internally might also be shared with external stakeholders in the business, such as customers or investors. Data shared with external entities could include shipping volume per customer or overall profit calculations for key investors in the business.</para>
     <para id="para-00002">Microsoft <term class="no-emphasis" id="term-00001">Excel</term> can facilitate data analysis at various levels within WorldCorp and for external audiences. It is a useful tool for assisting management with decision making and to understand the business at a higher level. Excel’s advanced tools facilitate the management, interpretation, and presentation of data critical to managing a business or an organization.</para>

@@ -89,7 +89,7 @@
     <para id="para-00024">In addition, Excel can also restrict what content is input in certain cells to ensure it is correct—for instance, you can use data validation to have Excel reject an entry of 000-000-0000 as a valid phone number. In Excel, you would enter this validation criteria in data validation settings (Data tab, Data Validation, then select Settings). You can also prompt the person entering the data with an input message, giving them instructions to enter specific information in a cell.</para>
     </note>
     <section id="sect-00007">
-    <title>Data Validation in Excel</title>
+    <title>Data Validation</title>
     <para id="para-00025">The process of validating data is made easier with Excel. There are several ways to customize the validation processes to meet specific needs. One simple validation approach is removing duplicates. You access this tool through the Data tab. This function is helpful if you are unsure whether there are duplicate entries in your data.</para>
         <para id="para-00026">Consider an example in which there are twenty employees at WorldCorp’s warehouse location in Portland and each of those employees has a unique company identification number. In a spreadsheet keeping track of the number of days of vacation remaining for the year for each employee, you would not expect to have more than one line per employee. For a dataset of only twenty employees, it would be easy to identify a duplicate entry. But what if your company had two thousand employees? This could take a good bit of time to manually identify duplicates.</para>
     <para id="para-00027">To remove duplicates from your data, first open the spreadsheet that you want to examine. Click on the Data tab and then on the <term class="no-emphasis" id="term-00019">Remove Duplicates</term> tool (<link target-id="fig-00006"/>).</para>
@@ -147,7 +147,7 @@
     </list>
     </section>
     <section id="sect-00009">
-    <title>Excel Data Validation List</title>
+    <title>Data Validation List</title>
     <para id="para-00039">Creating a <term class="no-emphasis" id="term-00023">data validation list</term> is a convenient way to ensure that only specific values are entered into a spreadsheet. The user chooses the appropriate response from a predetermined set of values, which can be numbers or text. This assures that only acceptable values will be entered into the spreadsheet. For example, let’s add a column to the employee spreadsheet that indicates the employee’s location. Suppose the company has three different locations: North, East, and South. The management team may want to review staffing at the various locations when vacation time is used, so this column might provide helpful information for scheduling purposes.</para>
     <para id="para-00040">To create a data validation list, first click in an empty cell on the spreadsheet. Then, access the Data Validation tool. On the Settings tab under Allow, choose List. In the Source, you have two options. You can input text or values into the box separated by commas (<link target-id="fig-00012"/>a), or if you have the list already in the named range, you can reference the named range in the Source box (<link target-id="fig-00012"/>b). By using the cell range reference, the drop-down list is dynamic and will update if you change the source list. This is often the preferred method unless it is certain that the options will remain the same.</para>
     <figure id="fig-00012">
@@ -215,16 +215,16 @@
     <caption>Pie charts are an effective way to visually represent data when categories equal 100 percent.</caption>
     </figure>
     <section id="sect-00013">
-    <title>Constructing a Data Table in Excel</title>
+    <title>Constructing a Data Table</title>
     <para id="para-00050">To add even more functionality, you can format data to be an Excel <term class="no-emphasis" id="term-00032">Data Table</term>, rather than simply a table of numbers. Using the Data Table formatting sets the data as a separate object in the spreadsheet. It is more than simply adding column or row headings. This feature allows you to easily add rows or columns, is automatically formatted to look professional, and allows you to quickly sort and filter information with a filter button at the top of the column. The table will automatically expand with the insertion of new rows or columns, and the preset formatting will carry over to these additions. Column headings are always visible without manually freezing the row, and formulas entered into cells are automatically applied to all cells in that column. Although these functions are available without formatting a set of data as a Data Table, working with the data is much easier if it is set this way.</para>
-    <para id="para-00051">You can create a Data Table from scratch and then add the data at another time. However, it is often easier to work from an existing spreadsheet of data to create the Data Table. To do so, open the Excel file that contains the data to format as a table. There are two ways to format the data as a Data Table. For both, first highlight the data you want to convert to a Data Table. Then, press CTRL+T, which opens a small window showing the selected range and a checkbox if the data contains a header row (<link target-id="fig-00018"/>). Click OK. The other method is to click on the Home tab and choose Format as a Table in the Styles command group.</para>
+    <para id="para-00051">You can create a Data Table from scratch and then add the data at another time. However, it is often easier to work from an existing spreadsheet of data to create the Data Table. To do so, open the Excel file that contains the data to format as a table. There are two ways to format the data as a Data Table. For both, first highlight the data you want to convert to a Data Table. Then, press Ctrl+T, which opens a small window showing the selected range and a checkbox if the data contains a header row (<link target-id="fig-00018"/>). Click OK. The other method is to click on the Home tab and choose Format as a Table in the Styles command group.</para>
     <figure id="fig-00018">
     <media alt="Create Table pane window is open. Where is the data for your table? (=$A$1:$H$18) is visible. My table has headers is checked. Entire spreadsheet is selected.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_Table.jpg"/>
     </media>
     <caption>To create a Data Table, first select the columns and rows to be included in the table. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00052">Once you click OK, you will notice that your data looks different. There are drop-down arrows associated with each column, and there is a new tab in the Ribbon: the Table Design tab (<link target-id="fig-00019"/>).</para>
+    <para id="para-00052">Once you click OK, you will notice that your data looks different. There are drop-down arrows associated with each column, and there is a new tab in the ribbon: the Table Design tab (<link target-id="fig-00019"/>).</para>
     <figure id="fig-00019">
     <media alt="Table Design tab is selected. In selected spreadsheet, drop-down arrow in column F header is indicated.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_TableDes.jpg"/>
