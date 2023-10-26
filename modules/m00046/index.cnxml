@@ -29,7 +29,7 @@
     <media alt="Insert tab opens to Page number option that opens to choices of locations for placing the numbers in the document (various locations and combinations displayed). More options and Page count also available.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_PAGEN01a.jpg"/>
     </media>
-    <caption>Although the default page number doesn’t seem to allow the user to insert the number on the left or in the center, you can align it later using the alignment tools in the Action Bar. (Google Docs is a trademark of Google LLC.)</caption>
+    <caption>Although the default page number doesn’t seem to allow the user to insert the number on the left or in the center, you can align it later using the alignment tools in the action bar. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00012">
       <media alt="Page numbers pane is open with options for Apply to, Header and Footer positions, Show on first page, Numbering to Start at # and Continue from previous section.">
@@ -86,14 +86,14 @@
     <section id="sect-00004">
     <title>Lists</title>
     <para id="para-00012">The chapter <link document="m00032">Creating and Working in Documents</link> briefly discussed how to insert a bulleted or numbered list in Docs. In this section, we will use the document outline we used earlier in this chapter to create a multilevel list in Docs.</para>
-    <para id="para-00013">To access numbered, lettered, or bulleted lists, go to the Format menu and choose the <term class="no-emphasis" id="term-00006">Bullets &amp; numbering</term> option. This will open a drop-down menu, where you can see your choices for customization. You can also access lists (numbered and bulleted) from the Action Bar (<link target-id="fig-00005"/>).</para>
+    <para id="para-00013">To access numbered, lettered, or bulleted lists, go to the Format menu and choose the <term class="no-emphasis" id="term-00006">Bullets &amp; numbering</term> option. This will open a drop-down menu, where you can see your choices for customization. You can also access lists (numbered and bulleted) from the action bar (<link target-id="fig-00005"/>).</para>
     <figure id="fig-00005">
     <media alt="Format tab opens to option for Bullets &amp; numbering, which opens to options for List options, Numbered list, Bulleted list, and Checklist. Numbered list is selected and displays six options for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST01a.jpg"/>
     </media>
-    <caption>There are two ways to insert a list into your Doc: through the Format menu, or via the Action Bar. (Google Docs is a trademark of Google LLC.)</caption>
+    <caption>There are two ways to insert a list into your Doc: through the Format menu, or via the action bar. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <para id="para-00014">Because adding lists to your document is generally done for organization and visual purposes, you want to make sure they are easy to read and showcase the most important information. For all list types, you can increase or decrease the space between the lines. This can help with readability. To do this, select the whole list and go to the <term class="no-emphasis" id="term-00007">Line and Paragraph spacing</term> command and choose a wider or narrower space, as shown in <link target-id="fig-00006"/>. You can also change the color of the text, which could be useful for helping your list stand out from the rest of your document. Select the text you want to format and use the Action Bar command for Text color.</para>
+    <para id="para-00014">Because adding lists to your document is generally done for organization and visual purposes, you want to make sure they are easy to read and showcase the most important information. For all list types, you can increase or decrease the space between the lines. This can help with readability. To do this, select the whole list and go to the <term class="no-emphasis" id="term-00007">Line and Paragraph spacing</term> command and choose a wider or narrower space, as shown in <link target-id="fig-00006"/>. You can also change the color of the text, which could be useful for helping your list stand out from the rest of your document. Select the text you want to format and use the action bar command for Text color.</para>
     <figure id="fig-00006">
     <media alt="Text in a numbered list is selected. Spacing is selected and offers options for selection. 1.15 and Prevent single lines are selected.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST01c.jpg"/>
@@ -102,7 +102,7 @@
     </figure>
     <section id="sect-00005">
     <title>Numbered and Lettered Lists</title>
-    <para id="para-00015">To create a <term class="no-emphasis" id="term-00008">multilevel list</term>, choose the style of list you want, then use the Tab key to indent your lines. We want to create an outline of the headings and subheadings for our marketing trends report. This will give collaborators an idea of the format for the report, as well as allow us to use the outline to allocate sections to certain people or departments to fill in the content. For example, <link target-id="fig-00006"/> shows a straightforward Numbered list from the Insert menu, but <link target-id="fig-00007"/> shows one with multiple levels. You can create these list levels by using the Tab key, which will increase the indent on the line, creating a sublevel. If you want a further sublevel, press the Tab key twice, making it a subcategory of the category. You can also do this by using the Increase indent command in the Action Bar.</para>
+    <para id="para-00015">To create a <term class="no-emphasis" id="term-00008">multilevel list</term>, choose the style of list you want, then use the Tab key to indent your lines. We want to create an outline of the headings and subheadings for our marketing trends report. This will give collaborators an idea of the format for the report, as well as allow us to use the outline to allocate sections to certain people or departments to fill in the content. For example, <link target-id="fig-00006"/> shows a straightforward Numbered list from the Insert menu, but <link target-id="fig-00007"/> shows one with multiple levels. You can create these list levels by using the Tab key, which will increase the indent on the line, creating a sublevel. If you want a further sublevel, press the Tab key twice, making it a subcategory of the category. You can also do this by using the Increase indent command in the action bar.</para>
     <figure id="fig-00007">
     <media alt="In the Google Doc, information is displayed in a tiered list with 1., 2., a., b., c., i., ii., d., i., ii., and e.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST02.jpg"/>
@@ -149,7 +149,7 @@
     <title>Summary</title>
     <list id="list-00002">
     <item>Docs gives the user a few ways to customize page numbers in the document.</item>
-    <item>Headers and footers can be added to the Doc and formatted using the tools in the Action Bar.</item>
+    <item>Headers and footers can be added to the Doc and formatted using the tools in the action bar.</item>
     <item>Making multilevel lists in Docs is similar to the same process in Word. But Docs also has checklists, which are unique to Docs and are a form of bulleted list.</item>
     </list>
     </section>

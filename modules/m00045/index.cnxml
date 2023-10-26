@@ -26,7 +26,7 @@
     <media alt="Page Break is selected Pages group. Left page displays document with a -----Page Break----- after text. Second document displays no Page Break after the first paragraph.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_PAGES01.jpg"/>
     </media>
-    <caption>Page breaks make the subsequent text start on the next page. Here, it was placed at the end of the Introduction/Executive Summary, so that the Industry and Market Analysis section started on a new page. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Page breaks make the subsequent text start on the next page. Here, it was placed at the end of the Introduction/Executive Summary, so that the Industry and Market Analysis section started on a new page. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00006">There is another command, <term class="no-emphasis" id="term-00003">Blank Page</term>, which is not as commonly used as Page Break, but can be impactful in long documents such as reports and textbooks. These intentionally blank pages are added to provide a sense of closure or finality before a new chapter or section begins; they make a bigger impact than just a page break because they leave a full page empty. This convention is more often used in the publishing world when needing to, say, start a new chapter on a right-hand page.</para>
     <para id="para-00007">To insert a blank page, go through the same steps as inserting a page break: Put the cursor where you want the blank page to be, and select the Blank Page icon.</para>
@@ -36,7 +36,7 @@
     <media alt="Cover Page is selected; displays option for Built In (various cover page styles for selection and More Cover Pages from Office.com, Remove Current Cover Page, and Save Selection to Cover Page Gallery).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_PAGES03.jpg"/>
     </media>
-    <caption>Word comes with some built-in styles and layouts for cover pages, some of which include spaces for graphics. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Word comes with some built-in styles and layouts for cover pages, some of which include spaces for graphics. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00003">
@@ -48,7 +48,7 @@
     <media alt="The Home tab is selected on the Ribbon and in the Clipboard command group Format Painter is selected. In the document, a paragraph with blue font is selected (highlighted in gray).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FORMATP01.jpg"/>
     </media>
-    <caption>The Format Painter is useful for applying multiple types of formatting to a single chunk of text. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Format Painter is useful for applying multiple types of formatting to a single chunk of text. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00004">
@@ -75,13 +75,13 @@
     <media alt="Table of Contents selected; opens to Built-In with style options and More Table of Contents from Office.com, Custom Table of Contents, Remove Table of Contents, Save Selection to Table for Contents Gallery.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOC01a.jpg"/>
     </media>
-    <caption>Creating a hyperlinked table of contents in Word allows the reader to click right to each section, directly from the table of contents. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Creating a hyperlinked table of contents in Word allows the reader to click right to each section, directly from the table of contents. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00005">
     <media alt="A Table of Contents is visible with headings, subheadings, and page numbers.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOC01b.jpg"/>
     </media>
-    <caption>The table of contents is arranged using the headings we defined when composing the document. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The table of contents is arranged using the headings we defined when composing the document. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00021">Note that any time you update your document, and add or delete any headings, you will also need to update your table of contents. You can do this simply by putting your cursor anywhere on the table of contents and selecting the Update Table button. This will automatically update your headings and page numbers.</para>
     </section>
@@ -96,19 +96,19 @@
     <media alt="In the document, the words “$20 billion” are followed with a superscript 1.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01a.jpg"/>
     </media>
-    <caption>The superscript “1” indicates that there is a footnote at the bottom of the page. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The superscript “1” indicates that there is a footnote at the bottom of the page. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00007">
     <media alt="The words “$20 billion” are followed with a superscript 1. At bottom of document a line separates the document text from the footnote. Superscript 1 is below line followed by website link.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01c.jpg"/>
     </media>
-    <caption>Footnotes will be numbered in the body of the document and numbered at the bottom of the page where the footnote is inserted. Include the citation for the reference in the footnote. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Footnotes will be numbered in the body of the document and numbered at the bottom of the page where the footnote is inserted. Include the citation for the reference in the footnote. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00008">
     <media alt="Footnote text is highlighted in a document and Styles is selected. Options are visible for styles of font and Create Style, Clear Formatting, and Apply Styles.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01d.jpg"/>
     </media>
-    <caption>The style of the footnote font can be formatted using a wide variety of built-in styles. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The style of the footnote font can be formatted using a wide variety of built-in styles. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00026">An endnote will look exactly the same as a footnote. The only difference is that it is at the end of the document instead of at the bottom of the page. For the market trends report, we could use endnotes to identify the departments that contributed the specific information in the sections or to add additional context to a statement in the report.</para>
     <para id="para-00027">For both footnotes and endnotes, you have the option of changing the numbering system. Word will automatically use numbers (for footnotes) or Roman numerals (for endnotes), but you can change this. Double-click to select the endnote or footnote, then right-click it to activate the context menu, and select Note Options where you can change the numbering format. If you want to change the font or layout, select Style from the context menu.</para>
@@ -124,13 +124,13 @@
     <media alt="References is selected on ribbon and in Captions command group, Insert Caption is selected. In the document, a cursor sits at the start of a blank line underneath a table of information.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF01a.jpg"/>
     </media>
-    <caption>You must use the Insert Caption tool to make sure all of your captions will appear in the table of figures. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You must use the Insert Caption tool to make sure all of your captions will appear in the table of figures. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00011">
     <media alt="(a) Caption pane is open with options for Caption, Label/Position Options, and Exclude label from caption. (b) In the document, the caption is visible on the left side underneath a table.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF01bc.jpg"/>
     </media>
-    <caption>(a) You can use the default text for captions or type in your own information. (b) The caption is placed below the table in this example, and is formatted according to the Style formatting used for the rest of the document. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) You can use the default text for captions or type in your own information. (b) The caption is placed below the table in this example, and is formatted according to the Style formatting used for the rest of the document. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00012">
@@ -141,13 +141,13 @@
     <media alt="Table of Figures pane opens to a Table of Figures tab with options for Print Preview, Web Preview, Show and Right align page numbers, Tab leader, and Format and Caption label.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF02a.jpg"/>
     </media>
-    <caption>You can change some formatting options when you choose Insert Table of Figures. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can change some formatting options when you choose Insert Table of Figures. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00017">
       <media alt="A two-paged document with header in blue contains a Table of Contents with tiered headings/page numbers. The other page displays a Table of Figures with title, Table name, and page number.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF02b.jpg"/>
       </media>
-  <caption>The table of figures should look similar to a table of contents, but without the multilevel tiers. (attribution: Used with permission from Microsoft)</caption>
+  <caption>The table of figures should look similar to a table of contents, but without the multilevel tiers. (Used with permission from Microsoft)</caption>
     </figure>
   </section>
     </section>
@@ -159,33 +159,33 @@
     <media alt="A Bookmark button is selected and opens to Bookmark pane with options for Bookmark name, Sort by Name and Location, box for Hidden Bookmarks selection, and Add, Delete, and Go to buttons.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKMARKa.jpg"/>
     </media>
-    <caption>When creating Bookmarks, make sure to choose a descriptor word that has meaning to the content you are designating. (attribution: Used with permission from Microsoft)</caption>
+    <caption>When creating Bookmarks, make sure to choose a descriptor word that has meaning to the content you are designating. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00018">
       <media alt="Insert Hyperlink pane opens to Link to Existing File/Web Page, Place in This Document, Create New Document, E-mail Address. Text to Display and Select a place in this document offer selections.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKMARKb.jpg"/>
               </media>
-              <caption>The bookmark is now set. Linking a section of text to a bookmark eases navigation through a long document. (attribution: Used with permission from Microsoft)</caption>
+              <caption>The bookmark is now set. Linking a section of text to a bookmark eases navigation through a long document. (Used with permission from Microsoft)</caption>
             </figure>
     <para id="para-00033">Another reason to use bookmarks is to help digital readers of your document navigate back to important sections of the document while they read. For example, you can add a link at the end of each chapter that says, “Go to Table of Contents.” To do this, first place a bookmark in front of the table of contents as <link target-id="fig-00014"/> shows. To locate the roster of bookmarks, click the Bookmark command on the Insert tab, and then click Go to. If you want to relocate the bookmark, place the cursor where you want the bookmark to be relocated to, then open the Bookmark dialog box, click the original bookmark’s name, and then click Add. This will update the new location.</para>
     <figure id="fig-00014">
     <media alt="Button for Update Table visible in document. Bookmark Pane is open and lists the tableofcontents in Bookmark name. Sort by Name and Location and Hidden bookmarks buttons are located below.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKM01a.jpg"/>
     </media>
-    <caption>When you create the bookmark at the table of contents, you will be able to see it in your roster of bookmarks. (attribution: Used with permission from Microsoft)</caption>
+    <caption>When you create the bookmark at the table of contents, you will be able to see it in your roster of bookmarks. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00034">Next, move to the area of the document where you want to link the table of contents. Go to the Insert tab and select Link. From the <term class="no-emphasis" id="term-00033">Insert Link</term> window, choose the bookmark you just created. In the text box that appears, write the text you want readers to see (“Go to Table of Contents”), then choose Place in this Document as shown in <link target-id="fig-00015"/> and <link target-id="fig-00016"/>. Choose the placement in the document and click OK.</para>
     <figure id="fig-00015">
     <media alt="Insert Hyperlink lists options to Link to Existing File or Web Page, Place in This Document, E-mail Address. Text to Display and Select a place in this document are available with options.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKM01b.jpg"/>
     </media>
-    <caption>Remember to name your hyperlink something that will be helpful to the reader. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Remember to name your hyperlink something that will be helpful to the reader. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00016">
     <media alt="Go to Table of Contents is located at the bottom left of the document in a green font and hyperlinked.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKM01c.jpg"/>
     </media>
-    <caption>Readers can simply click on the inserted hyperlink to go straight to the table of contents. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Readers can simply click on the inserted hyperlink to go straight to the table of contents. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="spotlight-ethics" id="note-00001">
     <title>Academic Integrity</title>

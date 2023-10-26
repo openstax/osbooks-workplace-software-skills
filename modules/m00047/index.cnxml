@@ -94,12 +94,12 @@
     </media>
     <caption>The image will be inserted at the location of your cursor in the document. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <para id="para-00013">If you want to edit the image, simply select it with your cursor; Docs gives the user many ways and options for modification. You will first notice that when you have the image selected, a small toolbar will appear below the image. From here, you have options for text wrapping, sizing, and rotating, as <link target-id="fig-00010"/> presents. If you want even more configuration options, choose Image Options from the Action Bar, and a sidebar will appear. From here, you can modify all the above options with more detail, such as specific margin sizes. The Action Bar now displays, on the right side, tools for accessing image borders, cropping the image, and replacing the image.</para>
+    <para id="para-00013">If you want to edit the image, simply select it with your cursor; Docs gives the user many ways and options for modification. You will first notice that when you have the image selected, a small toolbar will appear below the image. From here, you have options for text wrapping, sizing, and rotating, as <link target-id="fig-00010"/> presents. If you want even more configuration options, choose Image Options from the action bar, and a sidebar will appear. From here, you can modify all the above options with more detail, such as specific margin sizes. The action bar now displays, on the right side, tools for accessing image borders, cropping the image, and replacing the image.</para>
     <figure id="fig-00010">
     <media alt="Map image is inserted into document. Image options button on Action Bar. Options available for editing include Add comment, Suggest edits, Text (In line, Wrap, Break, Behind, In front of, Image options).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_IMAGE02.jpg"/>
     </media>
-    <caption>Select Image options from the Action Bar when the image is selected for additional formatting options. (Google Docs is a trademark of Google LLC.)</caption>
+    <caption>Select Image options from the action bar when the image is selected for additional formatting options. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     <section id="sect-00006">
@@ -107,7 +107,7 @@
     <para id="para-00014">Google’s <term class="no-emphasis" id="term-00006">Drawing</term> tool is an interactive tool that allows the user to create custom shapes and insert preset shapes. Drawings is its own application that can be accessed either by going to <link url="https://openstax.org/r/78GoogleDraw">Google Drawings</link> or through applications such as Docs. You can create drawings and save them to your Drive. Creating custom shapes or drawings can be particularly useful if you want to insert a specific shape or combination of shapes that isn’t available in the roster of preset shapes. The Drawing app also gives the user the option to insert standard preset shapes or WordArt.</para>
     <section id="sect-00007">
     <title>Creating and Modifying Custom Drawings</title>
-    <para id="para-00015">To create a new drawing, go to the Insert menu and select Drawing. Docs will open a dialog box to another app called Drawings, as shown in <link target-id="fig-00011"/>. Through the interface, you can add straight lines, curved lines, WordArt, freehand drawings, and more. This can be a particularly useful tool if you are working on a computer with a trackpad or touch screen. You can also change the color and thickness of the lines in your drawing. When you are finished with the drawing, just select Save and Close, and your drawing will appear in your Doc where your cursor is. You can change the position of the object by aligning it using the Action Bar align tools, or you can resize it by using the mouse over the edges of the object (<link target-id="fig-00021"/>).</para>
+    <para id="para-00015">To create a new drawing, go to the Insert menu and select Drawing. Docs will open a dialog box to another app called Drawings, as shown in <link target-id="fig-00011"/>. Through the interface, you can add straight lines, curved lines, WordArt, freehand drawings, and more. This can be a particularly useful tool if you are working on a computer with a trackpad or touch screen. You can also change the color and thickness of the lines in your drawing. When you are finished with the drawing, just select Save and Close, and your drawing will appear in your Doc where your cursor is. You can change the position of the object by aligning it using the action bar align tools, or you can resize it by using the mouse over the edges of the object (<link target-id="fig-00021"/>).</para>
     <figure id="fig-00011">
     <media alt="Drawing pane is visible with options for Actions drop-down, Undo, Redo, Paint Format, Zoom, Select, Polyline, Shape, Text Box, Image, and Format Options. A tulip is drawn sideways in the window.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_DRAW01a.jpg"/>
@@ -183,7 +183,7 @@
     </media>
     <caption>Right-clicking anywhere within the table gives you many options for adjusting your table. The menu makes it easy to add, delete, or alter existing rows and columns. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <para id="para-00024">As for applying formatting changes within the table, you can select the cells to format and use the Action Bar to change the borders and the background color, as shown in <link target-id="fig-00019"/>.</para>
+    <para id="para-00024">As for applying formatting changes within the table, you can select the cells to format and use the action bar to change the borders and the background color, as shown in <link target-id="fig-00019"/>.</para>
     <figure id="fig-00019">
     <media alt="An 8 x 2 section of a larger table is filled in with a teal color. Background color is selected and displays Transparent, colors, and Custom options for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_TABLE01c.jpg"/>

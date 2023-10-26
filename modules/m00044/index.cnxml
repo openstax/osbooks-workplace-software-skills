@@ -149,13 +149,13 @@
     <media alt="Choose a SmartArt Graphic window is open, Process is selected. Various options of process charts are available for selection in the middle. Basic Process chart is selected.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMRTART04a.jpg"/>
     </media>
-    <caption>Becoming familiar with a Basic Process chart will lay the foundation for progressing to more complex charts in SmartArt that you might need later in the workplace. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Becoming familiar with a Basic Process chart will lay the foundation for progressing to more complex charts in SmartArt that you might need later in the workplace. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00029">
       <media alt="Colors is selected and opens to options for Primary Theme Colors, Colorful, Accent 1, Recolor Pictures in SmartArt Graphic. In the document, a colorful process chart is displayed, connected by arrows.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMRTART04b.jpg"/>
       </media>
-      <caption>The default color scheme is blue and white when the process chart is inserted, but there are many color options to make the process chart look more professional and visually appealing. (attribution: Used with permission from Microsoft)</caption>
+      <caption>The default color scheme is blue and white when the process chart is inserted, but there are many color options to make the process chart look more professional and visually appealing. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00009">
@@ -165,7 +165,7 @@
     <media alt="A chart style is selected from the SmartArt Styles command group. A hierarchy chart is inserted into the document in blue and white.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SMARTART05.jpg"/>
     </media>
-    <caption>You can see the chart formatting and design options on the Ribbon on this hierarchy chart. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can see the chart formatting and design options on the ribbon on this hierarchy chart. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="real-application" id="note-00002">
     <title>Understanding Types of Organizational Charts</title>
@@ -177,25 +177,25 @@
     <section id="sect-00010">
     <title>Charts</title>
     <para id="para-00030">Charts are another type of visual representation available in Word. While tables present just data, and SmartArt figures show relationships, charts can show both. Word charts include many types of charts that are likely familiar to you, such as bar charts, line graphs, and pie charts. Charts can use data from another source, such as a Microsoft Excel spreadsheet, to create the visual representation.</para>
-    <para id="para-00031">You can create charts in Word using the tool in the Illustrations command group. You will use some of the data from the sales data in <link target-id="fig-00009"/> and <link target-id="fig-00010"/> to create a bar <term class="no-emphasis" id="term-00014">chart</term> of the quantity sold for each product. First, select the Chart command in the Illustrations command group, and choose the type of chart that you want to design. Let’s choose a bar chart, also known as a Clustered Column chart (<link target-id="fig-00016"/>). As you select OK, Word will immediately open an Excel window so that you can enter the data. When you finish inputting the data, you will see the chart in your document. As with the other types of graphical representations that we’ve covered, once you click on the chart, a new tab will appear in the Ribbon. Click on the chart and you can further format the chart using the Chart Format tab that appears. You can also edit the data in the chart or table using the Edit Data tool on the Chart Format tab, as shown in <link target-id="fig-00030"/>. You can choose to edit the data in Word. If you choose this option, an Excel window will open in Word with the data used to build the chart. If you would like to save the data as an Excel file, choose Edit Data in Excel. This will open the Excel application. Here, you can edit the data, but also save the information as an Excel file.</para>
+    <para id="para-00031">You can create charts in Word using the tool in the Illustrations command group. You will use some of the data from the sales data in <link target-id="fig-00009"/> and <link target-id="fig-00010"/> to create a bar <term class="no-emphasis" id="term-00014">chart</term> of the quantity sold for each product. First, select the Chart command in the Illustrations command group, and choose the type of chart that you want to design. Let’s choose a bar chart, also known as a Clustered Column chart (<link target-id="fig-00016"/>). As you select OK, Word will immediately open an Excel window so that you can enter the data. When you finish inputting the data, you will see the chart in your document. As with the other types of graphical representations that we’ve covered, once you click on the chart, a new tab will appear in the ribbon. Click on the chart and you can further format the chart using the Chart Format tab that appears. You can also edit the data in the chart or table using the Edit Data tool on the Chart Format tab, as shown in <link target-id="fig-00030"/>. You can choose to edit the data in Word. If you choose this option, an Excel window will open in Word with the data used to build the chart. If you would like to save the data as an Excel file, choose Edit Data in Excel. This will open the Excel application. Here, you can edit the data, but also save the information as an Excel file.</para>
     <figure id="fig-00016" class="scaled-down">
     <media alt="Insert Chart window is open and Column is selected. Various column charts display across the top and a Clustered Column chart is selected and visible beneath.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_CHARTa.jpg"/>
     </media>
-    <caption>Within each chart type, there are many further options for customization. (attribution: Used with permission from Microsoft)
+    <caption>Within each chart type, there are many further options for customization. (Used with permission from Microsoft)
     </caption>
     </figure>
     <figure id="fig-00017">
     <media alt="Excel file open in Microsoft Word reflects information from the column chart in the document. Excel columns (TV Type and Quantity) reflect the x and y axis in the document’s column chart.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_CHARTb.jpg"/>
     </media>
-    <caption>As you create a chart, Word will create a new Excel file embedded in the document. You can choose to open the data in Excel using the Edit data tool. (attribution: Used with permission from Microsoft)</caption>
+    <caption>As you create a chart, Word will create a new Excel file embedded in the document. You can choose to open the data in Excel using the Edit data tool. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00030">
       <media alt="Chart Styles selected the colors of the chart. In the document, the chart is highlighted with icon options for selection: Layout Options, Chart Element, Chart Styles, and Chart Filters.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_CHARTc.jpg"/>
       </media>
-      <caption>You can change the design and type of chart using the Chart Format tab. (attribution: Used with permission from Microsoft)</caption>
+      <caption>You can change the design and type of chart using the Chart Format tab. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00032">It is worth noting that when you are looking to design a chart, typically you can use <term class="no-emphasis" id="term-00015">Excel</term> as a starting point for creating your chart. This is often a much easier approach than starting your chart in Word; this process is covered in <link document="m00001">Working with Spreadsheets</link>. After creating the chart in Excel, you would then copy and paste the chart from Excel into Word or import the file into Word.</para>
     </section>
@@ -210,7 +210,7 @@
     <media alt="Text Box is selected and opens to Built-in (displays a variety of text box options). Banded Sidebar is selected. In the document visible, a blue background can be seen with white text.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM04.jpg"/>
     </media>
-    <caption>Text boxes such as this Banded Sidebar can help make your report more visually appealing and easy to read. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Text boxes such as this Banded Sidebar can help make your report more visually appealing and easy to read. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00013">
@@ -220,24 +220,24 @@
     <media alt="Selection of Quick Parts button opens to Document Property, which opens to Abstract, Author, Category, Comments, Company, Company Address, Company E-mail, Company Fax, Company Phone, Keywords, Manager, Publish Date, Status, Subject, Title.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_QUICK.jpg"/>
     </media>
-    <caption>Key company information, such as address, email, and phone number, can also be added through the Quick Parts tool. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Key company information, such as address, email, and phone number, can also be added through the Quick Parts tool. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00014">
     <title>WordArt</title>
     <para id="para-00036"><term id="term-00019">WordArt</term> is a type of stylized font available in Word. WordArt can be used to add colors, shadows, or borders to text. In can also be used to change the text to be vertical or even diagonal. While it is appropriate to use in graphic-heavy formats, such as front pages of business reports, newsletters, or brochures, it is not appropriate for more text-heavy or professional documents, such as business correspondences, the inside of a business report, a résumé, or a cover letter. That said, using WordArt in your document can be a fun way to experiment and add color and creativity to it. WordArt could also be used to start the creation process for a logo, although many businesses will use a graphic design company to create corporate logos.</para>
-    <para id="para-00037">Let’s practice with the company name, WorldCorp, to get an idea of what WordArt can do for plain text. To insert WordArt, select the WordArt icon from the Text command group <link target-id="fig-00031"/>. Choose a style, and a box with “Your text here” will appear on the page, as shown in <link target-id="fig-00020"/>a. The Ribbon will change to add a <term class="no-emphasis" id="term-00020">Shape Format</term> tab, where you can change the color, the font effects, and the position of the WordArt object. Replace the text in the box with “WorldCorp” and choose a design that incorporates blue as the color because this is the company’s primary color. Changes are made using the options in the WordArt Styles command group. You may place the WordArt object behind or in front of other objects, or align it in a certain position within the document, as you would with an image.</para>
+    <para id="para-00037">Let’s practice with the company name, WorldCorp, to get an idea of what WordArt can do for plain text. To insert WordArt, select the WordArt icon from the Text command group <link target-id="fig-00031"/>. Choose a style, and a box with “Your text here” will appear on the page, as shown in <link target-id="fig-00020"/>a. The ribbon will change to add a <term class="no-emphasis" id="term-00020">Shape Format</term> tab, where you can change the color, the font effects, and the position of the WordArt object. Replace the text in the box with “WorldCorp” and choose a design that incorporates blue as the color because this is the company’s primary color. Changes are made using the options in the WordArt Styles command group. You may place the WordArt object behind or in front of other objects, or align it in a certain position within the document, as you would with an image.</para>
     <figure id="fig-00031">
       <media alt="On the Ribbon the Text group is shown with WordArt selected. A drop down shows different styles of WordArt.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TextCom07.jpg"/>
       </media>
-      <caption>Whatever you type in the WordArt box will initially be center aligned. You can change text alignment by going to the Paragraph command group under the Home tab. (attribution: Used with permission from Microsoft)</caption>
+      <caption>Whatever you type in the WordArt box will initially be center aligned. You can change text alignment by going to the Paragraph command group under the Home tab. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00020">
     <media alt="(a) Shape Format tab is selected and opens to Shape Styles, WordArt Styles, Text, Accessibility, Arrange groups. (b) A textbox displays WorldCorp entered inside in blue font. Layout Options box is visible.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM05.jpg"/>
     </media>
-    <caption>(a) When you insert WordArt, you will get another tab on the Ribbon to further customize the text. (b) You can send the WordArt forward or backward using the Arrange command group. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) When you insert WordArt, you will get another tab on the ribbon to further customize the text. (b) You can send the WordArt forward or backward using the Arrange command group. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00015">
@@ -247,21 +247,21 @@
     <media alt="(a) Drop Text button selected with options visible. (b) First letter of a paragraph is larger (spanning three lines) with the rest of the text wrapped in regular size to the right.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM01.jpg"/>
     </media>
-    <caption>(a) You can choose from among a few different drop cap styles. (b) The drop cap design is a decorative style that you might have seen at the start of a novel or magazine editorial. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) You can choose from among a few different drop cap styles. (b) The drop cap design is a decorative style that you might have seen at the start of a novel or magazine editorial. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00039">You have probably seen a signature line in many emails and letters in Word. The <term class="no-emphasis" id="term-00023">signature line</term> is an autogenerated graphical object that has your name, job title, and email address, as <link target-id="fig-00022"/> shows.</para>
     <figure id="fig-00022">
     <media alt="(a) Signature Setup pane lists various options followed by blank boxes for inserting information. (b) A blank signature line is visible with an X and John Doe/Manager below the line.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM02.jpg"/>
     </media>
-    <caption>The signature line on (b) is what you will see once you fill the dialog box in (a). (attribution: Used with permission from Microsoft)</caption>
+    <caption>The signature line on (b) is what you will see once you fill the dialog box in (a). (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00040">The <term class="no-emphasis" id="term-00024">Date &amp; Time</term> command is an autogenerated time stamp of the date or/and time format of your choosing, as <link target-id="fig-00023"/> shows. You might want to include the date and time stamp to your market trends report as it moves through the development process. This can help you keep track of the edits that are made in the document at various stages of writing or through the different departments at WorldCorp that will contribute to the report. You could include this information as a header or footer in your document. Note that if you use the Date &amp; Time command, it will update to the current date and time, even if you did not make any changes to the document.</para>
     <figure id="fig-00023">
     <media alt="A Date and Time pane lists Available formats (various time, date, and day of the week combinations) and Language (options available). Update automatically checkable box follows.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM03.jpg"/>
     </media>
-    <caption>You can choose among different date and time formats, depending on the style of your company and what kind of information you want captured. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can choose among different date and time formats, depending on the style of your company and what kind of information you want captured. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00016">
@@ -273,7 +273,7 @@
     <media alt="(a) Object is selected and lists Object and Text from File options. (b) Object window is open with Create New tab selected. Options for Object Type available. Result pane is at bottom.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TEXTCOM06.jpg"/>
     </media>
-    <caption>(a) You can insert an object or use text from another file in your document. (b) When you choose Object, you can create a new object or use an existing file. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) You can insert an object or use text from another file in your document. (b) When you choose Object, you can create a new object or use an existing file. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     </section>
@@ -284,21 +284,21 @@
     <media alt="Symbol window is open; Symbols tab selected. Drop-downs for Font and Subset display with symbols available. Recently used symbols bar follows with other options for viewing the Unicode name/selecting a Character.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SYMBOLS01.jpg"/>
     </media>
-    <caption>You can use the Subset combo box to look for the category you are looking for, to help narrow down your choices. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can use the Subset combo box to look for the category you are looking for, to help narrow down your choices. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00045">The <term class="no-emphasis" id="term-00028">Equation</term> command is for inserting mathematical equations into the document. The drop-down arrow by the Equation tool allows you to see some built-in equations from common calculations, as <link target-id="fig-00026"/> shows.</para>
     <figure id="fig-00026" class="scaled-down">
     <media alt="Equation is selected in Symbols. Options visible in Built-In: Area of Circle, Binomial Theorem, Expansion of a Sum, More Equations from Office.com, Insert New Equation, Ink Equation, Save Selection for Equation Gallery.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SYMBOL02a.jpg"/>
     </media>
-    <caption>Several built-in equations are available in the Equation tool. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Several built-in equations are available in the Equation tool. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00046">You can also choose to insert a new equation if none of the built-in options meet your needs. When you insert the equation (either new or built-in), a new tab appears on the Ribbon called Equation. Here, you can choose the math notation of your choice and build your own equations. This is especially useful for economic and finance research, engineering reports, or any other kind of quantitative discipline or science. You can even draw the equation that you want to insert, and Word will recognize the numbers and symbols. Select Ink Equation from the Equation drop-down menu. This allows you to use the mouse or your finger to draw the equation symbols if your touch screen or pad allows this (<link target-id="fig-00027"/>).</para>
+    <para id="para-00046">You can also choose to insert a new equation if none of the built-in options meet your needs. When you insert the equation (either new or built-in), a new tab appears on the ribbon called Equation. Here, you can choose the math notation of your choice and build your own equations. This is especially useful for economic and finance research, engineering reports, or any other kind of quantitative discipline or science. You can even draw the equation that you want to insert, and Word will recognize the numbers and symbols. Select Ink Equation from the Equation drop-down menu. This allows you to use the mouse or your finger to draw the equation symbols if your touch screen or pad allows this (<link target-id="fig-00027"/>).</para>
     <figure id="fig-00027">
     <media alt="(a) Equation opens to groups: Symbols/Structures. A Type equation here box is visible. (b) Math Input Control pane displays typed formula and hand drawn image of that same formula. Editing buttons available.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SYMBOL02bc.jpg"/>
     </media>
-    <caption>(a) The Equation tool can be helpful in making your documents look professional when you need to incorporate mathematical equations. (b) Word has the ability to read your drawings and recognize the symbols. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) The Equation tool can be helpful in making your documents look professional when you need to incorporate mathematical equations. (b) Word has the ability to read your drawings and recognize the symbols. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section class="section-summary" id="sect-00018">
