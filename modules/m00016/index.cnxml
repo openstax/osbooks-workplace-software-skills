@@ -22,7 +22,7 @@
     <para id="para-00004">The tables and datasets you’ve been working with were finished versions, with color, font, table size, and background set. Here, you’ll create these tables step-by-step with themes and other style elements.</para>
     <section id="sect-00003">
     <title>Using Existing Themes</title>
-    <para id="para-00005">To make formatting easy to use and high quality, Excel offers Themes. Applying a <term id="term-00002">Theme</term> can quickly change the color scheme, fonts, and size of a table or graph. For example, you could easily change the formatting of a table without manually readjusting everything. If your objective is to save time when changing the overall formatting, choose a default theme and all the formatting will be handled automatically.</para>
+    <para id="para-00005">To make formatting easy to use and high quality, Excel offers Themes. Applying a Theme can quickly change the color scheme, fonts, and size of a table or graph. For example, you could easily change the formatting of a table without manually readjusting everything. If your objective is to save time when changing the overall formatting, choose a default theme and all the formatting will be handled automatically.</para>
     <para id="para-00006">To access Themes, go to the <term class="no-emphasis" id="term-00003">Page Layout</term> tab and select the Themes icon (<link target-id="fig-00001"/>a). Then, choose any of the available themes. (“Wisp” is shown in <link target-id="fig-00012"/>.) All of the formatted tables and graphs in that particular workbook will be changed. If you have a simple worksheet with no specific formatting such as colors, font style, and the like, when you choose a theme, nothing will change. However, if you have a worksheet with formatted headings and charts, you will notice changes when you select a theme. The Color combo box lets users further modify the theme by selecting a different color palette (<link target-id="fig-00001"/>b).</para>
     <para id="para-00007">For additional changes, the Home tab has a combo box called <term id="term-00004">Cell Styles</term> that lets users select other font sizes or background colors, as shown in <link target-id="fig-00002"/>. Depending on your selection in the <term class="no-emphasis" id="term-00005">Colors</term> menu in the Themes command group (Page Layout tab), the options in the Styles menu will change. For instance, use Blue from the palette, and in the Styles combo box, select Heading 3 and Accent 5, 40%. If an orange color palette from the Color menu was chosen, the Styles options would be orange tones.</para>
     <figure id="fig-00001">
@@ -177,7 +177,7 @@
     </problem>
     </exercise>
     </note>
-    <para id="para-00023">There are also other ways to copy formatting. Another way is to use the <term class="no-emphasis" id="term-00017">Paste Special</term> tool. You first select the whole formatted table and press <term class="no-emphasis" id="term-00018">CTRL+C</term> (to copy it), then select your entire unformatted table (<link target-id="fig-00011"/>a). Then, on the Home tab, choose Paste Special from the <term class="no-emphasis" id="term-00019">Paste</term> menu and click on Formatting (R) from the last row, as shown in <link target-id="fig-00011"/>b. This tool will paste just the formatting from your original selection; it will not paste any of the values or formulas (<link target-id="fig-00011"/>c).</para>
+    <para id="para-00023">There are also other ways to copy formatting. Another way is to use the <term class="no-emphasis" id="term-00017">Paste Special</term> tool. You first select the whole formatted table and press <term class="no-emphasis" id="term-00018">Ctrl+C</term> (to copy it), then select your entire unformatted table (<link target-id="fig-00011"/>a). Then, on the Home tab, choose Paste Special from the <term class="no-emphasis" id="term-00019">Paste</term> menu and click on Formatting (R) from the last row, as shown in <link target-id="fig-00011"/>b. This tool will paste just the formatting from your original selection; it will not paste any of the values or formulas (<link target-id="fig-00011"/>c).</para>
     <figure id="fig-00011">
     <title/>
     <media alt="(a) A table is selected for copying. (b) Paste button opens to Paste Special option. (c) Formatting has been applied to the previously selected table (Row 1 is blue and bolded).">
@@ -247,9 +247,5 @@
     <term>Format Painter</term>
     <meaning>tool that lets you copy a certain range’s formatting and apply it to a new range</meaning>
     </definition>
-    <definition id="def-00004">
-    <term>Theme</term>
-    <meaning>tool that can quickly change the color scheme, fonts, and size of a table or graph</meaning>
-    </definition>
-    </glossary>
+        </glossary>
     </document>

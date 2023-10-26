@@ -19,7 +19,7 @@
     </section>
     <para id="para-00002">PivotTables help data analysts use raw data and organize it into an interactive tool for summarizing and analyzing the data points. WorldCorp can, for example, gather their manufacturing datasets of each machine’s daily performance and put this information into a table that the PivotTable tool can use to analyze the information. This type of organization would be useful for producing various metrics (such as machine performance) and company Key Performance Indicators (KPIs). The PivotTable tool can also divide data into a set of criteria, which will organize your data by variables you choose. This separation and division of data help you create business intelligence with ease.</para>
     <section id="sect-00002">
-    <title>Definition and Uses for a PivotTable</title>
+    <title>Definition and Uses</title>
     <para id="para-00003"><term class="no-emphasis" id="term-00001">Excel</term> has various ways to store data and various tools that aid in data intelligence queries. You’ve learned the purpose of using What-If Data Tables, naming ranges, using comparison operators and writing statistical and logical functions—all of which can be combined with arrays (or other tools) to make interactive and automated tables. Excel has an even quicker way to make relational tables and automated business intelligence: PivotTables.</para>
     <para id="para-00004">A <term id="term-00002">PivotTable</term> lets users create interactive charts and tables from raw datasets. They can process large, raw datasets and allow the user to choose how the data will be tabulated and summarized using easy drag-and-drop features. PivotTables also help summarize the data for a professional appearance and to show it in a more user-friendly way. Out of thousands of rows and columns of raw data, you can produce a simple, easy-to-read table with different options for displaying your metrics. Some applications of PivotTables might include producing metrics for website views and ad clicks, displaying demographic information for a county or city, or gathering information about small business revenue. In each of these cases, PivotTables can be used to process large, ever-growing datasets into readable tables.</para>
     </section>
@@ -93,7 +93,7 @@
     </section>
     <section id="sect-00006">
     <title>Adding a PivotChart to Visually Present Data</title>
-    <para id="para-00015">Excel has a feature that allows you to create a <term class="no-emphasis" id="term-00007">PivotChart</term> to visually present the data in your PivotTable. The first step is to select the entire PivotTable, which causes the Ribbon tab “<term class="no-emphasis" id="term-00008">PivotTable Analyze</term>” to appear. Next, select the PivotChart icon. You will use a small dataset from <link document="m00013" target-id="fig-00006"/> to create a chart of the information. More in-depth coverage of PivotTables is in <link document="m00021">PivotTables/Charts</link>. <link target-id="fig-00006"/> shows the original data and <link target-id="fig-00009"/> shows the data summarized in a PivotTable by sales agent. To create a chart of the data summarized in the PivotTable, choose PivotChart from the PivotTable Analyze tab.</para>
+    <para id="para-00015">Excel has a feature that allows you to create a <term class="no-emphasis" id="term-00007">PivotChart</term> to visually present the data in your PivotTable. The first step is to select the entire PivotTable, which causes the ribbon tab “<term class="no-emphasis" id="term-00008">PivotTable Analyze</term>” to appear. Next, select the PivotChart icon. You will use a small dataset from <link document="m00013" target-id="fig-00006"/> to create a chart of the information. More in-depth coverage of PivotTables is in <link document="m00021">PivotTables/Charts</link>. <link target-id="fig-00006"/> shows the original data and <link target-id="fig-00009"/> shows the data summarized in a PivotTable by sales agent. To create a chart of the data summarized in the PivotTable, choose PivotChart from the PivotTable Analyze tab.</para>
     <figure id="fig-00006">
     <title/>
     <media alt="Cell A1 is selected in a spreadsheet with Date in the formula bar.">
@@ -174,14 +174,8 @@
     <para id="para-00025"><link class="os-embed" url="#exercise/10-04-BCA-PE01"/></para>
     </problem>
     </exercise>
-    <exercise id="exer-00008">
-    <problem id="prob-00008">
-    <para id="para-00026"><link class="os-embed" url="#exercise/10-04-BCA-PE02"/></para>
-    </problem>
-    </exercise>
     </section>
     </content>
-    
     <glossary>
     <definition id="def-00001">
     <term>PivotTable</term>
