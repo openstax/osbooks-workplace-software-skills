@@ -290,7 +290,7 @@
     <media alt="Font command group includes Font, Font Size, Increase and Decrease Font Size, Change Case, Clear All Formatting, Bold, Italic, Underline, Strikethrough, Subscript, Superscript, Text Effects and Typography, Text Highlight Color, Font Color.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Ribbon.jpg"/>
     </media>
-    <caption>The Home tab contains items such as formatting the font size and determining the line spacing. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Home tab contains items such as formatting the font size and determining the line spacing. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00041">First is the <term class="no-emphasis" id="term-00032">Clipboard</term> group, which contains the commands for all the cut-and-paste functions. As in all the Office applications, an arrow next to or below a label means that there are other possible choices for that function. Notice that the Paste command has an arrow below it. Clicking on the arrow gives you several Paste options; if you hover over them, you will see helpful descriptions and previews.</para>
     <para id="para-00042">The <term class="no-emphasis" id="term-00033">Font</term> command group is similar across applications. You can choose Bold, Italic, Underline, Strikethrough, and Highlight. You can also regulate character spacing and add a superscript or subscript. Primarily, however, you will change the font face, color, and size.</para>
@@ -387,7 +387,7 @@
     <media alt="In PowerPoint, the Format Painter icon (a paintbrush) from the Clipboard command group is enlarged for view.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Format.jpg"/>
     </media>
-    <caption>Format Painter is a handy tool to brush, so to speak, over text and format it as you like. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Format Painter is a handy tool to brush, so to speak, over text and format it as you like. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     </section>
@@ -398,17 +398,17 @@
     <media alt="(a) Word Insert tab includes Pages, Tables, Illustrations, Reuse Files, Add-ins, Media. (b) Excel Insert tab includes Tables, Illustrations, Add-ins, Charts. (c) PowerPoint Insert tab includes Slides, Tables, Images, Illustrations, Forms, Links.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Insert.jpg"/>
     </media>
-    <caption>(a) Insert tab for Word, (b) Excel, and (c) PowerPoint. Different tabs appear for each program depending on the program’s purpose. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) Insert tab for Word, (b) Excel, and (c) PowerPoint. Different tabs appear for each program depending on the program’s purpose. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00015">
     <title>Design Tab</title>
-    <para id="para-00050">The <term class="no-emphasis" id="term-00038">Design</term> tab is found on the Ribbon in Word and in PowerPoint. See <link target-id="fig-00016"/>. The tab includes options to customize the look of the document or presentation. There are preset themes that you can use to enhance the document or slide, or you can create your own theme. The options on the Design tab are covered in more depth in <link document="m00032">Creating and Working in Documents</link> and [link]Preparing Presentations[/link].</para>
+    <para id="para-00050">The <term class="no-emphasis" id="term-00038">Design</term> tab is found on the ribbon in Word and in PowerPoint. See <link target-id="fig-00016"/>. The tab includes options to customize the look of the document or presentation. There are preset themes that you can use to enhance the document or slide, or you can create your own theme. The options on the Design tab are covered in more depth in <link document="m00032">Creating and Working in Documents</link> and [link]Preparing Presentations[/link].</para>
     <figure id="fig-00016">
     <media alt="(a) Word Design tab selected. The command group Document Formatting displays various document Themes for selection. (b) PowerPoint Design tab selected. The command group Themes displays various document theme options for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Design.jpg"/>
     </media>
-    <caption>(a) The Design tab in Word allows you to choose preset themes for formatting text or you can create your own design choices. (b) PowerPoint’s Design tab functions similarly. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) The Design tab in Word allows you to choose preset themes for formatting text or you can create your own design choices. (b) PowerPoint’s Design tab functions similarly. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00016">
@@ -418,7 +418,7 @@
     <media alt="(a) Word Layout tab displays Page Setup and Paragraph command groups. (b) Excel Page Layout tab displays Themes, Page Setup, Scale to Fit, and Sheet Options command groups.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Layout.jpg"/>
     </media>
-    <caption>(a) The Layout tab in Word and (b) Page Layout tab in Excel allow you to set up your document or spreadsheet for easier reading and visual appeal. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) The Layout tab in Word and (b) Page Layout tab in Excel allow you to set up your document or spreadsheet for easier reading and visual appeal. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00017">
@@ -428,7 +428,7 @@
     <media alt="(a) Word Review tab displays Proofing, Speech, Accessibility, Language, Comments. (b) Excel Review tab displays Proofing, Accessibility, Insights, Language, Comments. (c) PowerPoint Review tab displays Proofing, Accessibility, Language, Comments.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Review.jpg"/>
     </media>
-    <caption>The Review tab in (a) Word, (b) Excel, and (c) PowerPoint all share common functions, such as creating and managing comments from multiple users. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Review tab in (a) Word, (b) Excel, and (c) PowerPoint all share common functions, such as creating and managing comments from multiple users. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00018">
@@ -438,7 +438,7 @@
     <media alt="(a) Word View tab includes Views, Immersive, Page Movement, Show, Zoom. (b) Excel View tab includes Sheet/Workbook Views, Show, Zoom. (c) PowerPoint View tab includes Presentation/Master Views, Show, Zoom, Color/Grayscale.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_View.jpg"/>
     </media>
-    <caption>The (a) View tab in Word, (b) Excel, and (c) PowerPoint sets how your document, spreadsheet, or presentation will appear on-screen. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The (a) View tab in Word, (b) Excel, and (c) PowerPoint sets how your document, spreadsheet, or presentation will appear on-screen. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00019">
@@ -448,12 +448,12 @@
     <media alt="Help is selected. Help dialog box displays Search Bar, Get Started, Collaborate, Insert Text, Pages &amp; layouts, Pictures, Save &amp; print, Mail Merge, Recommended Topics (Words for Windows training, Lay out pages).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Help.jpg"/>
     </media>
-    <caption>When you select the general help search with the question mark, you can type the topic or question you need help with into the search bar. (attribution: Used with permission from Microsoft)</caption>
+    <caption>When you select the general help search with the question mark, you can type the topic or question you need help with into the search bar. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00020">
     <title>Other Tabs</title>
-    <para id="para-00055">Based on the application you are using, there are different tabs that are included in the Ribbon specific to that program. These tabs offer options that relate to the functionality of the program. For example, in Word, you have a Mailings tab that can send a document to a large database of individuals. In PowerPoint, you have the Slide Show tab that contains options for developing your presentation. <link target-id="table-00004"/> gives you the default tabs for each program. Remember, using the Customized Ribbon option, you can change which tabs you have displayed in the programs.</para>
+    <para id="para-00055">Based on the application you are using, there are different tabs that are included in the ribbon specific to that program. These tabs offer options that relate to the functionality of the program. For example, in Word, you have a Mailings tab that can send a document to a large database of individuals. In PowerPoint, you have the Slide Show tab that contains options for developing your presentation. <link target-id="table-00004"/> gives you the default tabs for each program. Remember, using the Customized Ribbon option, you can change which tabs you have displayed in the programs.</para>
     <table id="table-00004" summary="">
     <title>Default Tabs by Office Program</title>
     <tgroup cols="2">
@@ -478,16 +478,16 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Each program has a Ribbon of default tabs.</caption>
+    <caption>Each program has a ribbon of default tabs.</caption>
     </table>
     </section>
     <section class="section-summary" id="sect-00021">
     <title>Summary</title>
     <list id="list-00003">
     <item>Applications in the Office suite have generally the same layout.</item>
-    <item>The options to customize files are arranged on the Ribbon by tabs based on the usage.</item>
+    <item>The options to customize files are arranged on the ribbon by tabs based on the usage.</item>
     <item>The Save, Save As, Open, and Print options are common among all applications.</item>
-    <item>By using the settings options in the applications, you can customize the view and the Ribbon to meet your needs.</item>
+    <item>By using the settings options in the applications, you can customize the view and the ribbon to meet your needs.</item>
     </list>
     </section>
     <section class="review-questions" id="sect-00022">
@@ -565,19 +565,19 @@
     </definition>
     <definition id="def-00002">
     <term>command</term>
-    <meaning>process the user selects; located on the toolbar, on the Ribbon, or in a menu</meaning>
+    <meaning>process the user selects; located on the toolbar, on the ribbon, or in a menu</meaning>
     </definition>
     <definition id="def-00003">
     <term>command group</term>
-    <meaning>group of related commands that are placed together in one area of the Ribbon</meaning>
+    <meaning>group of related commands that are placed together in one area of the ribbon</meaning>
     </definition>
     <definition id="def-00004">
-    <term>Ribbon</term>
+    <term>ribbon</term>
     <meaning>area at the top of the application window where all commands are housed; organized into tabs</meaning>
     </definition>
     <definition id="def-00005">
     <term>tabs</term>
-    <meaning>sections of the Ribbon that refer to related processes, organized by labels</meaning>
+    <meaning>sections of the ribbon that refer to related processes, organized by labels</meaning>
     </definition>
     <definition id="def-00006">
     <term>template</term>
