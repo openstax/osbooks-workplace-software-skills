@@ -112,7 +112,7 @@
     <title>Summary</title>
     <list id="list-00002">
     <item>Sheets serves many of the same purposes as Excel, but some of its tools are limited, compared with Excel. Many of the features are the same as or similar to Excel.</item>
-    <item>The toolbar on Sheets is called the Action Bar. It is just one row of commands, unlike the wider Microsoft Office Ribbon, with menus that are essentially the same as the tools in Excel, but the Action Bar also includes a row of buttons for frequently used commands.</item>
+    <item>The toolbar on Sheets is called the Action Bar. It is just one row of commands, unlike the wider Microsoft Office Ribbon, with menus that are essentially the same as the tools in Excel, but the action bar also includes a row of buttons for frequently used commands.</item>
     <item>The process of creating a worksheet and formatting cells in an existing worksheet in Sheets is similar to that of Excel, with drop-down menus for common commands.</item>
     <item>Printing in Sheets is similar to printing in Excel.</item>
     </list>
@@ -170,7 +170,7 @@
     
     <glossary>
     <definition id="def-00001">
-    <term>CTRL+Select</term>
+    <term>Ctrl+Select</term>
     <meaning>command that allows you to select two or more areas that are not contiguous</meaning>
     </definition>
     </glossary>

@@ -22,49 +22,49 @@
     <para id="para-00003">Sheets has the same functionality for formatting cells as Excel does. For example, you can use contrasting color combinations to make text easier to read. The main difference in formatting cells between Sheets and Excel is the location of the tools.</para>
     <section id="sect-00003">
     <title>Using Color and Fonts</title>
-    <para id="para-00004">The tables in <link document="m00008" target-id="fig-00001"/> have the standard blue headers we’ve been using. Starting with these tables, we will apply formatting changes. First, let’s change the font of the headers and the body of the tables. Click on the header row and choose Courier New from the Font drop-down box (<link target-id="fig-00001"/>a). Next, change the color of the font. Since the headers are still selected after the font change, go to the <term class="no-emphasis" id="term-00004">Action Bar</term> and click on the <term class="no-emphasis" id="term-00005">Text color command</term>. Select dark orange (last option in the third column from the left) as the text color. You can then change the background color to a lighter blue using the Fill color command on the Action Bar (<link target-id="fig-00001"/>b). In this case, changing the color of the background or the color of the font can make the column headers stand out more and is more visually appealing.</para>
+    <para id="para-00004">The tables in <link document="m00008" target-id="fig-00001"/> have the standard blue headers we’ve been using. Starting with these tables, we will apply formatting changes. First, let’s change the font of the headers and the body of the tables. Click on the header row and choose Courier New from the Font drop-down box (<link target-id="fig-00001"/>a). Next, change the color of the font. Since the headers are still selected after the font change, go to the <term class="no-emphasis" id="term-00004">action bar</term> and click on the <term class="no-emphasis" id="term-00005">Text color command</term>. Select dark orange (last option in the third column from the left) as the text color. You can then change the background color to a lighter blue using the Fill color command on the action bar (<link target-id="fig-00001"/>b). In this case, changing the color of the background or the color of the font can make the column headers stand out more and is more visually appealing.</para>
     <figure id="fig-00001" class="scaled-down">
     <title/>
     <media alt="(a) Row 2 selected and Font opens to Recent fonts (Courier New selected). (b) Fill color is selected and opens to options for Custom, another Custom, and rows of color option selections.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_FONT01.jpg"/></media>
-    <caption>In Sheets, you can format headers by (a) changing the font, changing the color of the font, and (b) changing the cell background color, just as in Excel. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>In Sheets, you can format headers by (a) changing the font, changing the color of the font, and (b) changing the cell background color, just as in Excel. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     <section id="sect-00004">
     <title>Borders</title>
-    <para id="para-00005">The <term class="no-emphasis" id="term-00006">Borders command</term> lets users modify the borders on each cell. Using the same table, let’s change the thickness of the borders around the headers to differentiate them from the body. You will also add an outside border for the body of the table. First, select the headers and click on the Borders command on the Action Bar, then click on the Border style drop-down menu  and select the third thickest (<link target-id="fig-00002"/>a). To apply the thicker border, click on the command for All borders (<link target-id="fig-00002"/>b).</para>
+    <para id="para-00005">The <term class="no-emphasis" id="term-00006">Borders command</term> lets users modify the borders on each cell. Using the same table, let’s change the thickness of the borders around the headers to differentiate them from the body. You will also add an outside border for the body of the table. First, select the headers and click on the Borders command on the action bar, then click on the Border style drop-down menu  and select the third thickest (<link target-id="fig-00002"/>a). To apply the thicker border, click on the command for All borders (<link target-id="fig-00002"/>b).</para>
     <figure id="fig-00002">
     <title/>
     <media alt="(a) Borders is selected and opens to options available for location, color, line thickness (selected -opens to thickness options (thick line is selected)). (b) All borders is selected from the Borders options.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_BORDER01.jpg"/></media>
-    <caption>You can change the borders from the Action Bar. Click on the Borders command and choose Border style. (a) There are several border styles to choose from in the list. (b) After choosing the style, apply it to all borders. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>You can change the borders from the action bar. Click on the Borders command and choose Border style. (a) There are several border styles to choose from in the list. (b) After choosing the style, apply it to all borders. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00006">For the border around the table body, repeat the same first step, selecting the third thickest. Then, instead of applying it to all borders, choose the Outer borders option (<link target-id="fig-00003"/>).</para>
     <figure id="fig-00003" class="scaled-down">
     <title/>
     <media alt="Borders opens to Outer borders selected. Spreadsheets displays thick black border around the outside and around Row 2. No borders encase the individual cells in rows 3-11.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_BORDER02.jpg"/></media>
-    <caption>The header borders are formatted, and the same styling can be used to add a border to the outside of the table. Click on the Borders command, choose the border style, and then apply it to the outer borders. The final table looks neat and professional with borders. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>The header borders are formatted, and the same styling can be used to add a border to the outside of the table. Click on the Borders command, choose the border style, and then apply it to the outer borders. The final table looks neat and professional with borders. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     <section id="sect-00005">
     <title>Wrapping Text</title>
-    <para id="para-00007">You may have noticed that because you changed the font, the header in column C does not fit the width of the column. This is easily fixed by using the Text wrapping command on the Action Bar. First, select cell C2, then click the <term class="no-emphasis" id="term-00007">Text wrapping command</term>, and select the middle command for Wrap (<link target-id="fig-00004"/>a). Now all of the text is visible, as seen in <link target-id="fig-00004"/>b. If the text is still a little tight, widen the column slightly by hovering over the edge of the column until the cursor changes to a double arrow, then drag the edge of the column to the right to accommodate the text.</para>
+    <para id="para-00007">You may have noticed that because you changed the font, the header in column C does not fit the width of the column. This is easily fixed by using the Text wrapping command on the action bar. First, select cell C2, then click the <term class="no-emphasis" id="term-00007">Text wrapping command</term>, and select the middle command for Wrap (<link target-id="fig-00004"/>a). Now all of the text is visible, as seen in <link target-id="fig-00004"/>b. If the text is still a little tight, widen the column slightly by hovering over the edge of the column until the cursor changes to a double arrow, then drag the edge of the column to the right to accommodate the text.</para>
     <figure id="fig-00004" class="scaled-down">
     <title/>
     <media alt="(a) Text in cell C2 is cut off, lacking space. Text wrapping opens to options for Wrap selected. (b) The words Item Description in cell C2 show completely on two lines.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_WRAP01.jpg"/></media>
-    <caption>When the text does not fit in a cell, one option is to wrap the text. (a) Select the cell and use the Wrap command. (b) The text should automatically fit in the cell. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>When the text does not fit in a cell, one option is to wrap the text. (a) Select the cell and use the Wrap command. (b) The text should automatically fit in the cell. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     <section id="sect-00006">
     <title>Merging Cells</title>
-    <para id="para-00008">As with Excel, Sheets allows cell merging. This enables information to be grouped to make it more readable for the user. For example, the <term class="no-emphasis" id="term-00008">Merge cells command</term> could group sales agents by region. To use this function, first select the cells you would like to merge. Then, use the Merge cells tool in the Action Bar, as shown in <link target-id="fig-00005"/>. You have several options with the tool: Merge all, Merge vertically (working with rows), Merge horizontally (working with columns), and Unmerge.</para>
+    <para id="para-00008">As with Excel, Sheets allows cell merging. This enables information to be grouped to make it more readable for the user. For example, the <term class="no-emphasis" id="term-00008">Merge cells command</term> could group sales agents by region. To use this function, first select the cells you would like to merge. Then, use the Merge cells tool in the action bar, as shown in <link target-id="fig-00005"/>. You have several options with the tool: Merge all, Merge vertically (working with rows), Merge horizontally (working with columns), and Unmerge.</para>
     <figure id="fig-00005">
     <title/>
     <media alt="A blank spreadsheet shows cells A1 and B1 selected and the Merge icon selected on the toolbar. The drop down menu shows the options: Merge all, Merge vertically, Merge horizontally, and Unmerge.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_MERG.jpg"/></media>
-    <caption>The Merge cells tool is found on the Action Bar. First, select the cells to be merged, then select the Merge cells tool. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>The Merge cells tool is found on the action bar. First, select the cells to be merged, then select the Merge cells tool. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     </section>
@@ -75,7 +75,7 @@
     <title/>
     <media alt="(a) Row 2 is selected and Bold selected. (b) Data in Row 2 is bolded. Row 2 is still selected. Alignment icon is selected and Center is applied to row 2.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_HEADER01.jpg"/></media>
-    <caption>Most professionally designed tables (a) use bold font on the headers and (b) are center aligned. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Most professionally designed tables (a) use bold font on the headers and (b) are center aligned. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     <section id="sect-00008">
     <title>Freezing Columns and Rows</title>
@@ -84,7 +84,7 @@
     <title/>
     <media alt="Freeze is selected. Options available: No rows, 1 row, 2 rows, Up to row 2, No columns, 1 column, 2 columns, Up to column A. Spreadsheet displays row 7 below row 1.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_FPANES01.jpg"/></media>
-    <caption>You can freeze panes anywhere on a sheet. Click on the row that you want to freeze and freeze up to that row. That row freezes, and you can scroll through the data below it. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>You can freeze panes anywhere on a sheet. Click on the row that you want to freeze and freeze up to that row. That row freezes, and you can scroll through the data below it. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     <section id="sect-00009">
@@ -94,7 +94,7 @@
     <title/>
     <media alt="(a) Hide column available on open pane. (b) Unhide column available on open pane. Two black arrows visible in header on right side of Column A and left side of next column.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_HIDEC01.jpg"/></media>
-    <caption>Hiding and unhiding columns in Sheets is similar to the process in Excel. (a) Select the column you want to hide, right-click, and click on Hide column. (b) To unhide, select the columns on either side of the hidden column, right-click, and click on Unhide columns. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Hiding and unhiding columns in Sheets is similar to the process in Excel. (a) Select the column you want to hide, right-click, and click on Hide column. (b) To unhide, select the columns on either side of the hidden column, right-click, and click on Unhide columns. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     </section>
@@ -105,13 +105,13 @@
     <title/>
     <media alt="Cell G6 selected. Format tab selected and drop-down lists Theme, Number, Text, Alignment, Wrapping, Rotation, Font Size, Merge cells, Conditional formatting, Alternating colors, and Clear formatting. Arrow points to Conditional formatting.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_CONFOR01.jpg"/></media>
-    <caption>In Sheets, you can set up conditional formatting as in Excel. Conditional formatting is in the Format menu. The sidebar opens up to set the criteria. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>In Sheets, you can set up conditional formatting as in Excel. Conditional formatting is in the Format menu. The sidebar opens up to set the criteria. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
 <figure id="fig-00011">
 <title/>
 <media alt="Single color tab selected in Conditional format pane. Format rules for Greater than 999 and Default Formatting style are selected. In column G of spreadsheet, items over 999 are highlighted.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_CONFOR02.jpg"/></media>
-<caption>When the criteria are set, the table instantly updates. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+<caption>When the criteria are set, the table instantly updates. (Google Sheets is a trademark of Google LLC.)</caption>
 </figure>
     </section>
     <section id="sect-00011">
@@ -122,13 +122,13 @@
     <title/>
     <media alt="Templates on the Welcome screen are shown; eight different options are available with a Work heading.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_TEMPL01.jpg"/></media>
-    <caption>Sheets templates are available on the Welcome screen. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    <caption>Sheets templates are available on the Welcome screen. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     <figure id="fig-00012">
 <title/>
 <media alt="Monthly budget spreadsheet template displays header and sample charts and infomation boxes for customization.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_TEMPL02.jpg"/></media>
-<caption>Sheet templates are also available online from other users. (Google Sheets is a trademark of Google LLC.) (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+<caption>Sheet templates are also available online from other users. (Google Sheets is a trademark of Google LLC.)</caption>
 </figure>
     <note class="link-to-learning" id="note-00001">
     <para id="para-00015">It is not always easy to present data in an appealing and interesting way. Following a few simple steps and best practices in formatting Sheets can ensure you are able to get your message across, while also engaging your audience. Check out <link url="https://openstax.org/r/78DataBestPract">these best practices for presenting data</link> to learn more.</para>
