@@ -28,7 +28,7 @@
     <media alt="New is selected. Opens to Search bar and options of templates: Blank document, Chronological letter, and Adjacency letter (the last two showing an example of the type of letter for selection).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_TEMPLATE01.jpg"/>
     </media>
-    <caption>You can search for templates using the desktop version of Word, or you can go to your web browser and download the templates. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can search for templates using the desktop version of Word, or you can go to your web browser and download the templates. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00004">Using prebuilt templates can be incredibly useful, but sometimes you might use a custom document type often enough that you want to save it as your own template. To do this, go to the File tab and use the Save As command to save the document with the .dotx extension. That will save the document as a template. This means that every time you open this <term class="no-emphasis" id="term-00003">.dotx</term> file, a new file will be created, with all your formatting already in place. Once you make your edits to the new document, use the Save As command again to save the template file (.dotx) as a standard Word document file (.docx), making sure to choose the .docx extension to keep the changes. This will ensure that your edits are saved to a new document not to the template file. The .docx files are standard Word documents used for editing and sharing, while .dotx files are Word templates used for creating new documents with a consistent format and style. These same steps need to be followed when building a template for any kind of file, whether it is a memo, envelope, brochure, flyer, or invoice.</para>
     <note class="link-to-learning" id="note-00001">
@@ -45,7 +45,7 @@
     <media alt="In a Memo, the Heading section contains company name, To, From, CC, Date, and Re. The Body text section contains Comments.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_MEMO01.jpg"/>
     </media>
-    <caption>Today’s emails have copied the classic style of a business memo. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Today’s emails have copied the classic style of a business memo. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00010">Newsletters can follow a similar format but consider that your audience will be different. You may want to use different language, incorporate graphics, or include more details. Newsletters may not only communicate information and updates to an external audience but are often used as advertising. Microsoft’s <term class="no-emphasis" id="term-00006">newsletter</term> templates are a good place to get started if you are not sure how to format your newsletter.</para>
     <note class="link-to-learning" id="note-00002">
@@ -58,7 +58,7 @@
     <figure id="fig-00003" class="scaled-down">
     <media alt="A letterhead template with geometric designs is displayed. The top right corner has space for inserting a Logo, Address, and Email. The body of the template is in business letter format.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_LETTERHEAD.jpg"/></media>
-    <caption>Using the letterhead templates can make creating a brand/image for your company easier by providing prebuilt designs. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Using the letterhead templates can make creating a brand/image for your company easier by providing prebuilt designs. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00013">Business letterheads are also used in conjunction with company envelopes. You may have preprinted company envelopes with the company logo on them. If not, you can create one using templates. When corresponding by mail, it is much more professional to have a printed envelope with the recipient’s information, rather than have handwritten details. While we will cover creating envelopes for larger mailings in the next section, here we are focused on printing one or two envelopes.</para>
     <para id="para-00014">Word has templates and other customizable capabilities to create printed, custom envelopes. You just need to fill in your address with your name in the left corner, and fill the recipient’s data in the middle. To print the <term class="no-emphasis" id="term-00008">envelope</term>, you will need to load the envelope in the correct orientation in the printer. Then, you will go to the File tab and select Print. Printers can vary by brand, so consult the owner’s manual for your printer or search online for the proper way to print an envelope.</para>
@@ -67,7 +67,7 @@
     <media alt="Advanced is selected in a Word Options window. Options selected include Provide feedback with animation and Update automatic links at open. An address is inserted into Mailing address pane.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_ENV02.jpg"/>
     </media>
-    <caption>The Advanced tab of the Word Options window is where you can make sure your address is saved. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Advanced tab of the Word Options window is where you can make sure your address is saved. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00003">
     
@@ -79,20 +79,20 @@
     <media alt="The Envelopes tab is selected in an Envelopes and Labels window. Delivery address window is blank. Return address pane has address inserted. An Options button is at bottom.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_ENV03a.jpg"/>
     </media>
-    <caption>The Envelopes and Labels dialog box shows you a simple preview of what your customized envelope will look like. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Envelopes and Labels dialog box shows you a simple preview of what your customized envelope will look like. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00006" class="scaled-down">
     <media alt="An Envelope Options tab is selected in an Envelope Options window. Options available include Envelope size, Delivery address, Return address, and Preview.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_ENV03b.jpg"/>
     </media>
-    <caption>The Envelope Options dialog box allows you to customize the placement of addresses, as well as set custom printer settings. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The Envelope Options dialog box allows you to customize the placement of addresses, as well as set custom printer settings. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00018">As <link target-id="fig-00007"/> shows, the envelope is inserted as the first page of the document, and along it, there is a section break. If you want to repeat the styling and envelope size again, it would be a good idea to create the envelope in a new blank document, and then save it as a .dotx.</para>
     <figure id="fig-00007">
     <media alt="An envelope is visible with an address in the top left and another address in the middle of the envelope.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_ENV04.jpg"/>
     </media>
-    <caption>This is what the Envelope command will ultimately generate. (attribution: Used with permission from Microsoft)</caption>
+    <caption>This is what the Envelope command will ultimately generate. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00005">
@@ -104,7 +104,7 @@
     <media alt="A template for business cards is visible, two across, and three down. A design runs across the top and spaces for adding a logo and address, email, and web address are available.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_BUCARD01.jpg"/>
     </media>
-    <caption>Using a business card template can make designing your cards easy. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Using a business card template can make designing your cards easy. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00006">
@@ -117,13 +117,13 @@
     <media alt="An image of a brochure in three columns is visible. Images and text fill the pages in a variety of fonts, styles, and colors.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_BROCHR01a.jpg"/>
     </media>
-    <caption>This template is a trifold design. When folded, the panel on the right is the cover and the panel in the middle is the last page. (attribution: Used with permission from Microsoft)</caption>
+    <caption>This template is a trifold design. When folded, the panel on the right is the cover and the panel in the middle is the last page. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00010" class="scaled-down">
     <media alt="A tri-fold brochure is shown. Each column is formatted with headings and space for text. There is space for a quote in the middle column.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_BROCHR01b.jpg"/>
     </media>
-    <caption>Designing the brochure from an existing template saves time. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Designing the brochure from an existing template saves time. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00026">To change the two images, right-click on one of them and select <term class="no-emphasis" id="term-00014">Change Picture</term>, as shown in <link target-id="fig-00011"/>, then browse to the folder where the image is and select Insert.</para>
 <note class="mac-tip" id="note-00005">
@@ -136,20 +136,20 @@
     <media alt="Options available for customization include Cut, Copy, Paste Options, Edit Picture, Change Picture (selected), Group, Bring to Front/Send to Back, Link, Save as Picture, Insert Caption, Wrap Text, Edit Alt Text.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_BROCHR02.jpg"/>
     </media>
-    <caption>The pictures can be customized to your needs either from stock photos, photos on your computer, or photos you find online. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The pictures can be customized to your needs either from stock photos, photos on your computer, or photos you find online. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00012" class="scaled-down">
     <media alt="Colors button is selected and opens to options Custom (options visible) and Office (lists a variety of color palettes with labels). The Blue Warm palette is selected.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_BROCHR03.jpg"/>
     </media>
-    <caption>The color scheme can be changed using the Design tab. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The color scheme can be changed using the Design tab. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00027">To create a flyer, choose a flyer template from Microsoft’s templates, and follow the same steps as for creating a brochure. As you can see in <link target-id="fig-00013"/>, flyer templates are just one, single page, meant to be printed single-sided on one sheet of paper.</para>
     <figure id="fig-00013" class="scaled-down">
     <media alt="A sample flyer is shown with space for a title and subtitle, images, headings, flyer text, and contact information. The flyer has pre-set spacing, font, and design elements included.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_FLYER01.jpg"/>
     </media>
-    <caption>A flyer is similar to a brochure, but it is printed on one single-sided page. (attribution: Used with permission from Microsoft)</caption>
+    <caption>A flyer is similar to a brochure, but it is printed on one single-sided page. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00007">
@@ -161,7 +161,7 @@
     <media alt="New window displays Search Bar (with invoice typed inside). Options of templates are visible beneath with thumbnail images and short test descriptions.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_INV.jpg"/>
     </media>
-    <caption>Invoices can be customized to include the company logo and include custom fields, such as sales tax or discounts. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Invoices can be customized to include the company logo and include custom fields, such as sales tax or discounts. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00008">
@@ -171,7 +171,7 @@
     <media alt="Side to Side is selected in the Page movement command group of the View tab. Two pages of a document are visible side by side on the screen.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_BP.jpg"/>
     </media>
-    <caption>The purpose of a business plan is to discuss the road map for opening or expanding a business. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The purpose of a business plan is to discuss the road map for opening or expanding a business. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00009">
@@ -192,13 +192,13 @@
     <media alt="A sample cover letter for a résumé displays. Date, name, return address, and salutation are at the top left. The body of the letter follows in a business format.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_RESUME01.jpg"/>
     </media>
-    <caption>A cover letter is a complement to your résumé and specifically outlines how you are a good fit for the position to which you are applying. (attribution: Used with permission from Microsoft)</caption>
+    <caption>A cover letter is a complement to your résumé and specifically outlines how you are a good fit for the position to which you are applying. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00017">
     <media alt="A New window is open. Resume is visible in the Search Bar. Various options for résumé selection are shown with sample thumbnail images provided.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_01_RESUME02.jpg"/>
     </media>
-    <caption>Choose a résumé template that not only matches your personality, but also coincides with the type of job you are applying for. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Choose a résumé template that not only matches your personality, but also coincides with the type of job you are applying for. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="real-application" id="note-00004">
     <title>Creating Brand “You”</title>

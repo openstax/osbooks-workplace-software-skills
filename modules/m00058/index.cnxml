@@ -32,7 +32,7 @@
     <media alt="A form letter template displays a gray line across the top and WorldCorp in large font below. Address and salutation are highlighted green. The letter is in business letter format.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_02_MERGE01.jpg"/>
     </media>
-    <caption>Templates can be used to create the main document for mail merge. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Templates can be used to create the main document for mail merge. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00004">
@@ -49,27 +49,27 @@
     <media alt="Select Recipients is selected and opens to options for selection: Type a New List (selected), Use an Existing List, and Choose from Outlook Contacts.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_02_MERGE02a.jpg"/>
     </media>
-    <caption>Although you can create a new recipient list, if you have a long list, it is better to work from an existing file. (attribution: Used with permission from Microsoft)</caption>
+    <caption>Although you can create a new recipient list, if you have a long list, it is better to work from an existing file. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00013">When you choose to create a new list, a dialog box will open so that you can build your list of recipients. Here, you type in the relevant information for the mail merge, as shown in <link target-id="fig-00003"/>. By choosing Customize Columns at the bottom of the dialog box, you can add or remove the fields that you are not using. Make sure you add all the information you think you will need for your custom fields. When you do the final mail merge, you will only be able to choose from the defined information you provided in the source document. For this example, we need the customer name and address.</para>
     <figure id="fig-00003">
     <media alt="A Customize Address List pane displays options for Field Names (Title is selected). Add, Delete, Rename, Move Up and Move Down buttons are available.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_02_MERGE02b.jpg"/>
     </media>
-    <caption>You can customize the fields used in the list. (attribution: Used with permission from Microsoft)</caption>
+    <caption>You can customize the fields used in the list. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00014">When you finish selecting the fields needed for the mail merge, you will be prompted to save the list as a new file for use as the source document in the mail merge (see <link target-id="fig-00004"/>). The default location for the file is in a folder called “My Data Sources” (<link target-id="fig-00005"/>). You might consider a descriptive name to tell you that this file contains data used in a mail merge.</para>
     <figure id="fig-00004">
     <media alt="New Address List window reads: Type recipient information in the table. To add more entries, click New Entry. Tabs include First Name, Last Name, Address Line 1, City, State, and ZIP Code.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_02_MERGE02c.jpg"/>
     </media>
-    <caption>When you finish entering the information, click OK to save the file. (attribution: Used with permission from Microsoft)</caption>
+    <caption>When you finish entering the information, click OK to save the file. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00005" class="scaled-down">
     <media alt="Windows (C:) drive is selected in a Save Address List window. A .pdf file titled customers1.mdb is visible. Save as type: Microsoft Office Address Lists (*.mdb) displays at the bottom">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_02_MERGE02d.jpg"/>
     </media>
-    <caption>The list will be saved as a file with a special extension so that Word knows the list is the source document for mail merge. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The list will be saved as a file with a special extension so that Word knows the list is the source document for mail merge. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00005">
@@ -80,20 +80,20 @@
     <media alt="Mailings tab is selected. In the Write &amp; Insert Fields command group, Insert Merge Field is selected. The drop-down lists these options for selection: First_Name, Last_Name, Address_Line_1, City, State, and ZIP_Code.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_02_MERGE03a.jpg"/>
     </media>
-    <caption>The fields in your source document are in the Insert Merge Field drop-down menu. (attribution: Used with permission from Microsoft)</caption>
+    <caption>The fields in your source document are in the Insert Merge Field drop-down menu. (Used with permission from Microsoft)</caption>
     </figure>
     <figure id="fig-00007">
     <media alt="In the source document, below the date, Address_Line_1; City, State, ZIP_Code is highlighted green as well as: Dear First_Name Last_Name. The body of the text is not highlighted.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_02_MERGE03b.jpg"/>
     </media>
-    <caption>Be sure to remove the green highlighting in the document as we just used this to show where we wanted to insert the merge fields.</caption>
+    <caption>Be sure to remove the green highlighting in the document as we just used this to show where we wanted to insert the merge fields. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00017">Now that we have our source document with all of the customer information saved, and we have inserted the custom fields into the main document, we can complete the mail merge process. First, you should always preview the document to make sure it looks as it is supposed to. Go to the Mailings tab and select Preview Results, as shown in <link target-id="fig-00008"/>a. This allows you to see all of the letters with the actual, personalized information in place, as in <link target-id="fig-00008"/>b. All the merge fields you designated in the main document will be substituted by the actual information. You can use the left and right arrows at the top-right area of the Ribbon to toggle between recipients.</para>
+    <para id="para-00017">Now that we have our source document with all of the customer information saved, and we have inserted the custom fields into the main document, we can complete the mail merge process. First, you should always preview the document to make sure it looks as it is supposed to. Go to the Mailings tab and select Preview Results, as shown in <link target-id="fig-00008"/>a. This allows you to see all of the letters with the actual, personalized information in place, as in <link target-id="fig-00008"/>b. All the merge fields you designated in the main document will be substituted by the actual information. You can use the left and right arrows at the top-right area of the ribbon to toggle between recipients.</para>
     <figure id="fig-00008">
     <media alt="(a) Preview Results button is selected. The source document displays discernable spaces where information will be inserted. (b) Preview Results button is selected. Addresses and names are inserted into the document.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_02_MERGE04.jpg"/>
     </media>
-    <caption>(a) Before you complete the merge, preview the results so that everything looks as it should. (b) Notice the fields have been replaced with the first name in our recipient list. (attribution: Used with permission from Microsoft)</caption>
+    <caption>(a) Before you complete the merge, preview the results so that everything looks as it should. (b) Notice the fields have been replaced with the first name in our recipient list. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00018">If everything looks okay, then you can complete the mail merge. Go to the last icon on the Mailings tab, <term class="no-emphasis" id="term-00007">Finish &amp; Merge</term>. The drop-down menu gives you options to edit, print, or send emails with the merged documents. In this case, we are going to mail the letters to the customers, so we will choose Print documents from the list. If there were any issues when you previewed the letters, you could select <term class="no-emphasis" id="term-00008">Edit Individual Documents</term> to make the necessary changes. When you choose to print, you are given the option to select which ones you want to print. We will choose “All” for our example. The Print dialog box will open with the default printer displayed. You can choose to send the letters directly to the printer now by selecting OK, or you can choose to print the file to a .pdf file so that it will be saved. This .pdf file will have four pages, one for each of the four recipients in the source document list.</para>
     <para id="para-00019">What you have just walked through is a mail merge from scratch. There is also a “Step-by-Step Mail Merge Wizard” that guides you through the same steps. You can use mail merge for a wide variety of applications, such as creating name tags for an event; making labels for mailing packages/letters; creating envelopes, business cards, or postcards; or sending emails to a large group. Even though the tool is called mail merge, its capabilities go beyond simply creating a mailing.</para>
