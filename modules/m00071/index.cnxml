@@ -6,5 +6,145 @@
     <md:uuid>772e9dc2-b3a1-42c8-a071-14d74db91693</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to . . .</para>
+    <list id="list-00001">
+    <item>Understand why and when presentations are used in business</item>
+    <item>Understand the importance of knowing your audience and defining your presentation goals</item>
+    <item>Describe two essential qualities of good digital presentation design</item>
+    <item>Create an appropriate plan for a presentation</item>
+    </list>
+    </section>
+    <para id="para-00002">Whether we are in front of an audience or in an online meeting, today’s workers should know how to create <term class="no-emphasis" id="term-00001">digital presentation</term>s to help communicate their ideas to diverse and different types of audiences. Our starting point is learning how to create a digital presentation, or slideshow. Each slide can contain text, pictures, videos, bullet item lists, WordArt—just about anything.</para>
+    <para id="para-00003">WorldCorp uses presentations for sales, training, internal communication programs, and external communication within its ever-growing community. This is accomplished by using the power of words and imagery to engage audiences. Always keep in mind that the person who delivers a <term id="term-00002">presentation</term> is front and center to their audience. <term class="no-emphasis" id="term-00003">Microsoft PowerPoint</term> and <term class="no-emphasis" id="term-00004">Google Slides</term> are tools to help facilitate the presentation for the presenter—not a distraction that takes away from the presentation. This chapter will help you understand both elements (the person and the program) as you construct your first presentation at WorldCorp called <emphasis effect="italics">My Life in a Snapshot</emphasis>.</para>
+    <section id="sect-00002">
+    <title>Why and When Presentations Are Used in Business</title>
+    <para id="para-00004">WorldCorp is a large, expansive corporation with a vast community of stakeholders. Business presentations in numerous operational settings share information with internal stakeholders such as employees, managers, and executives. They also are used to communicate with external stakeholders, such as customers, vendors, shareholders, and the local community. The marketing team and public relations (PR) professionals are typically the ones responsible for communicating messages to external stakeholders. But whatever your title within an organization, you may be expected to know how to build and give presentations.</para>
+    <para id="para-00005">For example, an employee in the human resources (HR) department may be expected to design and present on topics, such as business ethics or sexual harassment training, that are mandatory for all employees. These presentations could be used multiple times to help educate the entire team by using multiple presenters. Or a presentation may show something fun, such as the end-of-the-year awards celebration. A presentation can have any number of purposes, uses, and audiences. Your first presentation as a member of the marketing team will help you make a strong first impression with your coworkers.</para>
+    <para id="para-00006">Presentations typically fall into one of several categories: to educate or train, to sell an idea, or simply to convey information to others. The size of your audience doesn’t matter—even a one-on-one meeting may still necessitate the creation of a presentation. The location doesn’t matter, either. Technology has provided ever-growing opportunities for communicating effectively and efficiently. Often, a Zoom call, sharing a laptop screen, or screen casting to a TV may be the perfect option to conduct a presentation.</para>
+    <para id="para-00007">Keep in mind that a business presentation could be the audience’s first introduction to the topic. Audience members will expect the presentation to give them some information they can use to start their decision-making process.</para>
+    <para id="para-00008">As a new hire at WorldCorp, you need to craft a presentation to introduce yourself to the leadership in the marketing department as part of your training program. The presentation, called <emphasis effect="italics">My Life in a Snapshot</emphasis>, poses a typical workplace presentation challenge: You have a limited amount of time to effectively express a complex topic. <emphasis effect="italics">My Life in a Snapshot</emphasis> may feel like it takes longer than five minutes to fully explain. How can decades of information be condensed into such a narrow window of time? To achieve this, considering your audience’s requests and their needs becomes front and center.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Understanding Your Audience and Purpose</title>
+    <para id="para-00009">When you are conducting a presentation, your <term class="no-emphasis" id="term-00005">purpose</term> should not be what you want to do; instead, it is what you want your audience to do as a result of listening to what you expressed. Your <term class="no-emphasis" id="term-00006">audience</term> will consist of twenty-five WorldCorp employees. Ask yourself: What am I trying to convey? What is the best way to convey it to my audience? How will my presentation affect them? These are the questions you need to ask when developing a sense of purpose in a presentation.</para>
+    <para id="para-00010">You should also know how long your presentation should be. The recommended length will vary depending on the purpose and content of the presentation. In many cases, the length of your presentation is predefined. In that case, it will be up to you to maximize your use of limited time to cover everything you need to address. Planning, crafting, and practicing your presentation are all critical in ensuring the audience gets the most out of the available time.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Essentials of Good Digital Presentation Design</title>
+    <para id="para-00011">By following the best practices and helpful tips outlined here, you will be better able to craft effective <term class="no-emphasis" id="term-00007">digital presentation</term>s. Two important concepts to keep in mind are consistency and coherence. Consistency refers to the presentation having a uniform look and feel. You can achieve this by having a unified color scheme or a defined layout for each slide in the presentation. Coherence—how all the elements work together to communicate the intended purpose of the presentation—includes the slides and the presenters themselves. The purpose or key message of the presentation should be the focal point when creating a presentation. Keeping the purpose at the forefront will help with both consistency and coherence. Consistency and coherence work hand in hand when creating an effective presentation. These two concepts will be explained in more detail in the following sections.</para>
+    <section id="sect-00005">
+    <title>Consistency as an Essential Design Quality</title>
+    <para id="para-00012">WorldCorp has developed a corporate-wide PowerPoint design template that makes it easy for team members to maintain consistent brand messaging. Most companies will have established <term class="no-emphasis" id="term-00008">template</term>s and style guides for creating presentations. <term id="term-00009">Consistency</term> is the quality of always behaving or performing in a similar way, or of something always appearing or occurring in a similar way. Font styles, background color themes, and company logos are built into the brand to maintain consistent messaging. WorldCorp’s corporate color is blue, as we saw in the previous chapters on creating document files. To be consistent with WorldCorp’s brand image, we want the presentation template to follow that same color scheme. All the slides in the template will have a similar layout that includes the slide title and some visual elements with the blue WorldCorp branding. A consistently designed presentation would not use a different color scheme and layout for each slide. This would appear chaotic and unprofessional. Likewise, you would expect a consistently designed presentation to use similar font types and size on each slide. <link target-id="fig-00001"/> shows an example.</para>
+    <figure id="fig-00001" class="scaled-down">
+    <media alt="Screenshot of a page with WorldCorp typed in blue at the top right and a blue bar along the bottom. Empty spaces for adding text are included in the middle.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_01_Consistent.jpg"/>
+    </media>
+    <caption>Presentations designed with consistency in mind align with the company’s corporate brand, such as using the company logo and color scheme. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Coherence as an Essential Design Quality</title>
+    <para id="para-00013">In addition to slides needing to be consistent in design, the presentation must also be coherent. Each slide should have a logical reason for being a part of the entire slideshow and should connect to the overall purpose of the presentation. Good digital presentation design will enhance both the presenter and whom they represent. As you advance in creating digital presentations at WorldCorp, design will become part of your own messaging and branding of ideas. In designing a digital presentation, <term id="term-00010">coherency</term> refers to the smooth and logical flow of the slideshow while connecting to the overall message you want to convey. A coherent presentation includes elements and text that are connected to each other logically. For example, if a WorldCorp employee is presenting a quarterly sales recap for their team, a coherent presentation will be centered on sales data, include visuals and text related to sales goals, and maintain an overall professional and businesslike appearance.</para>
+    <para id="para-00014">The presenter should also be dressed in business attire, to match the goals of the presentation. See <link target-id="fig-00002"/> for a sample agenda slide for a coherent sales presentation.</para>
+    <figure id="fig-00002">
+    <media alt="Screenshot of a presentation slide with the heading Quarterly Sales Meeting Agenda followed by a bulleted list of agenda items, such as quarterly goals, sales summaries, and questions and comments.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_01_Coherency.jpg"/>
+    </media>
+    <caption>A coherent presentation will have a unified message that is focused on the purpose of the presentation. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00007">
+    <title>Create a Plan Before Getting Started</title>
+    <para id="para-00015">To create an effective presentation, you will need to become a storyteller. Start by thinking about how you want the presentation to unfold. As with dividing an essay into paragraphs, you will need to find an easy way to separate out the distinct topics in your presentation while also building a cohesive storyline that connects them. When you choose the ideas that you want to emphasize and the order in which you want to present them, you are building a plan. This plan will help much like developing an outline for a paper.</para>
+    <para id="para-00016">Before you begin designing the <term id="term-00011">storyboard</term> for <emphasis effect="italics">My Life in a Snapshot</emphasis>, you will want to sketch out (either digitally or by hand) a general plan for the content of each topic. A plan can allow you to organize the content of your presentation in a visual and logical manner. It breaks down the presentation into individual slides and shows the flow and progression of information. This can help ensure that the presentation is clear and easy to follow and that all the important points are covered.</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00017">One of the tools that can aid the process of developing stories with imagery is a storyboard. A storyboard divides the elements of a story into impactful moments, each with its own setting, characters, and storyline. Writers, directors, cartoonists—all sorts of creators use—storyboards.</para>
+    <para id="para-00018">Crafting a workplace presentation shares many of these storytelling best practices. Watch this <link url="https://openstax.org/r/78Strybd">video to view an example of storyboard creation and storytelling</link> to see how storyboarding can aid in presentation design.</para>
+    </note>
+    <para id="para-00019">For this project, your outline will cover five topics. Each topic should be unique, with each section of your presentation clearly distinguished from the next. Let’s revisit the example of the quarterly sales goals presentation that we discussed in this chapter's section on <link document="m00071">Coherence as an Essential Design Quality</link>. The presenter wants the presentation to be informative about WorldCorp’s sales performance last quarter, as well as help set the stage for next quarter’s goals. One way to approach this is to remind the audience of the sales goals first. Then, present the sales results from this quarter. Next, talk about how the results connect to the overall company goals for the quarter or year. And then, finally, discuss how this quarter’s performance can be used to set goals for the next quarter.</para>
+    <para id="para-00020">This linear method can be easily sketched out using the bulleted list tool in <term class="no-emphasis" id="term-00012">Microsoft Word</term> or <term class="no-emphasis" id="term-00013">Google Docs</term> that you learned about in previous chapters. You can then use this outline to create the slides for the presentation. <link target-id="fig-00003"/> shows an example of a presentation plan using a bulleted list.</para>
+    <para id="para-00021">You could create a similar outline for your <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation to help you plan out the slides and flow of the presentation.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="A bulleted outline list is visible with a title and black dots for the main topics, followed by blank circles and then black squares for the subtopics.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_01_Plan.jpg"/>
+    </media>
+    <caption>A good starting point for a presentation is to put together an outline of the key information you want to share. Each top-level bullet point could be its own slide. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00022">Once you have your presentation planned out, you will need to revisit its length and whether your plan can be achieved within the amount of time that you have. Rather than rewriting the entire presentation, you can look at your presentation in terms of topics, and see which topics can be lengthened or shortened. For example, if you think your presentation will take twenty minutes but you have only ten minutes, start by considering whether you’ve devoted too much time to the introduction. You could also consider which details, examples, or other potentially extraneous information to remove to shorten other sections. Remember, you don’t need to cut an entire topic out of your presentation if you can shorten it instead. With time and practice, you will learn how to make fine adjustments to the different topics in your presentation.</para>
+    </section>
+    <section class="section-summary" id="sect-00008">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Presentations are used in business to communicate information to both internal and external stakeholders. They are typically used to educate or train, sell an idea, or simply convey information to others.</item>
+    <item>Understanding your audience should drive the purpose behind the presentation. This is to ensure the presentation is geared toward the audience.</item>
+    <item>Consistency and coherency are essential for creating a professional, finished presentation. Consistency means ensuring that the presentation has a unified look and feel. Coherency means that the presentation is logically unified and applies to both the slides and the presenter.</item>
+    <item>It is important to create a plan or storyboard of the presentation, in the same way that it is important to outline an essay. A visual plan can ensure all key topics are covered and laid out in an effective manner.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00009">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00023"><link class="os-embed" url="#exercise/06-01-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00024"><link class="os-embed" url="#exercise/06-01-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00025"><link class="os-embed" url="#exercise/06-01-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00026"><link class="os-embed" url="#exercise/06-01-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00010">
+    <title>Written Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00027"><link class="os-embed" url="#exercise/06-01-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00028"><link class="os-embed" url="#exercise/06-01-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00011">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00029"><link class="os-embed" url="#exercise/06-01-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>coherency</term>
+    <meaning>smooth and logical flow of the slideshow or slide deck within a presentation</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>consistency</term>
+    <meaning>quality of always behaving or performing in a similar way, or of something always appearing or occurring in a similar way</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>presentation</term>
+    <meaning>spoken or visual information delivered to an audience</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>storyboard</term>
+    <meaning>visual plan that separates topics out into different scenes or sections</meaning>
+    </definition>
+    </glossary>
 </document>
