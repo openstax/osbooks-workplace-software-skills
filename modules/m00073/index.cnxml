@@ -6,5 +6,167 @@
     <md:uuid>51e411bb-552c-4fac-909c-1b4be49cac56</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to …</para>
+    <list id="list-00001">
+    <item>Format the layout of each slide</item>
+    <item>Understand best practices in design principles</item>
+    </list>
+    </section>
+    <para id="para-00002">It’s time to transform the five slides from <emphasis effect="italics">My Life in a Snapshot</emphasis> by manipulating the layout and adding options. Formatting the layout of each slide in <term class="no-emphasis" id="term-00001">Microsoft PowerPoint</term> is the process of adding, subtracting, and/or adjusting the arrangement of elements such as text, images, and shapes on a slide. You may want to format the layout of a slide in PowerPoint to make it more visually appealing and effective for your audience. <term class="no-emphasis" id="term-00002">PowerPoint</term> includes many options for altering the layout of the slide. The slide layout can be changed by using the tool on the <term class="no-emphasis" id="term-00003">Home tab</term> in the <term class="no-emphasis" id="term-00004">Slides command group</term>. From the Home tab, select <term class="no-emphasis" id="term-00005">Layout</term> from the Slides command group. Here, you will see a listing and image of the layout options.</para>
+    <para id="para-00003">We have used three types of layouts in <emphasis effect="italics">My Life in a Snapshot</emphasis>. Here are some commonly used slide layouts:</para>
+    <list list-type="enumerated" id="list-00002">
+    <item><term class="no-emphasis" id="term-00006">Title Slide</term>: This layout includes a title and subtitle and is typically used for the first slide of a <term class="no-emphasis" id="term-00007">presentation</term>.</item>
+    <item>Title and Content: This layout includes a title, subtitle, and one or two content boxes that you can use for text or media. This layout is typically used to give an overview of the presentation and the main topics to be covered.</item>
+    <item>Comparison: This layout includes two content boxes, which can be used to present different types of information, such as text and images, or to compare and contrast two pieces of information.</item>
+    <item>Section Header: This layout is used to create a slide that can be used as a header for a section of a presentation. It typically includes a title and subtitle, with a distinctive design.</item>
+    <item>Content with Caption: This layout includes a content box and a caption box, which can be used to present a single image or other media and provide additional information about it.</item>
+    </list>
+    <para id="para-00004">These common PowerPoint slide layouts can help you create a clear and effective presentation structure. You can add, remove, or customize placeholders as you need, as well as use combinations of these layouts to create a unique, personalized presentation. PowerPoint also offers a variety of built-in slide layouts that you can use to create different types of slides.</para>
+    <section id="sect-00002">
+    <title>Formatting Layout</title>
+    <para id="para-00005">When you design your slide layouts, arranging text boxes and other objects becomes key in making sure they are positioned in an effective manner. In this section, we will review the <term class="no-emphasis" id="term-00008">Alignment Guides</term> option within the <term class="no-emphasis" id="term-00009">View tab</term> and discuss the numerous built-in layout designs that PowerPoint can offer.</para>
+    <section id="sect-00003">
+    <title>Alignment Guides</title>
+    <para id="para-00006">As stated previously, getting things to look exactly how you want them to appear next to each other is crucial to maximizing the design power of PowerPoint. But it can be difficult to align objects with other objects on a single slide, or objects with text, using only your mouse. Under the View tab, you will find a helpful alignment tool that you can access by checking the Guides box. When this box is checked, there will be two dashed lines on the presentation slide, one centered vertically and the other centered horizontally.</para>
+    <para id="para-00007">When you hover your mouse over one of these lines while holding down the Ctrl key, the cursor turns into a double line with arrows. Drag the line to where you want one guideline to be and let go of the mouse. When you do this, another line is created.</para>
+    <note class="mac-tip" id="note-00001">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00008">Hold down the Option key, not the Ctrl key, to turn your cursor into a double line with arrows.</para>
+    </problem>
+    </exercise>
+    </note>
+    <para id="para-00009">You can continue to add guidelines anywhere on your slide to insert and align objects, text boxes, photos, and so forth. (In the section on <link document="m00074">Adding Visuals and Features to Microsoft PowerPoint Slides</link>, we will cover inserting objects and images.) See <link target-id="fig-00001"/> for a visual example of what the guides look like after adding them to a slide. (If you see that the Guides box is checked but no lines are apparent, just uncheck it and check it again. That will usually bring the guides back into view.)</para>
+    <figure id="fig-00001" class="scaled-down">
+    <media alt="A screenshot of the View tab with Guides selected in the Show command group. Dashed lines in a grid pattern of varying sizes are visible on the page, labeled Alignment guides.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_03_Guides.jpg"/>
+    </media>
+    <caption>The lightly colored dashed lines set off a narrow margin around the slide. (Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00010">Not every presentation has to be delivered by a person. There are many reasons why creating a self-running presentation is valuable. Many companies will design a presentation that can be left unattended in a booth or kiosk, at a trade show or convention, or saved as a video and sent to a client list. A self-running presentation can also help address time-related constraints. Read Microsoft’s <link url="https://openstax.org/r/78MicroSelfRun">steps for creating a self-running slideshow in PowerPoint</link> to learn more.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00004">
+    <title>Design Principles</title>
+    <para id="para-00011">In this section, you will learn about some basic design principles that are best practices for designing your own slides or choosing a theme for your presentation. You’ll find out how to use proximity, alignment, repetition, contrast, and white space to make your design elements stand out.</para>
+    <section id="sect-00005">
+    <title>Proximity</title>
+    <para id="para-00012">In photography, <term id="term-00010">proximity</term> refers to <emphasis effect="italics">nearness</emphasis>—the distance between the camera and the subject being photographed. In the context of <term class="no-emphasis" id="term-00011">PowerPoint</term>, it refers to the distance between the audience and the subject matter being presented. You can control the relative proximity within a PowerPoint slide. In photography, proximity can affect the composition of the photograph by changing the relative sizes of the elements in the frame. For example, if the camera is positioned close to a small subject, the subject may appear larger in the frame; if the camera is positioned farther away, the subject may appear smaller. The proximity of the camera to the subject can also influence the overall look of the photograph. A photograph taken from a close distance may have a more intimate or detailed appearance, while one taken from farther away may have a more distant or expansive look.</para>
+    <para id="para-00013">Proximity is an important consideration in designing PowerPoint layouts because it can affect the composition, perspective, and overall look of each slide. In <link target-id="fig-00002"/>, you can see two different sizes of the budget sheet. The first one is effective for an overall view of what the document looks like. The second one is more effective if you want the audience to be able to read it. If so, it’s preferable to zoom in as close as possible to that content.</para>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="A (a) budget sheet in small font at the right with a large image at the left and (b) the same budget sheet in larger font with small graphics along the bottom.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_03_Example.jpg"/>
+    </media>
+    <caption>Two examples of proximity as it relates to how information is displayed to the audience. (a) displays a chart with a distant proximity to the subject matter. (b) displays the same information, but with the audience in closer proximity. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Alignment</title>
+    <para id="para-00014">Aligning objects or text on a page adds organization and creates a sense of cohesion, making your content in general more usable. When alignment exists on a slide, the human eye knows where to focus, and the slide is more comfortable to view. In PowerPoint, <term id="term-00012">alignment</term> is the way that text, images, and other elements are positioned on a slide. Proper alignment is important because it helps to create a cohesive, professional-looking presentation. When elements on a slide are aligned, they are more visually balanced, which can make the slide look more organized and appealing to the audience. Properly aligned elements can help guide the viewer’s eye and create a natural flow from one element to the next, making the presentation easier to follow and understand. In addition to the Guides checkbox that we reviewed in the section on <link document="m00073">Formatting Layout</link>, there are also checkboxes for Rulers and Gridlines. Ticking these boxes will show additional lines on the slide that will help you align your slide elements.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Repetition</title>
+    <para id="para-00015"><term id="term-00013">Repetition</term> is the use of similar or identical elements, such as colors, fonts, or design elements, across multiple slides in a presentation. In a slideshow, repetition—especially when similar elements are repeated across multiple slides—can make the presentation feel more polished and professional and make it easy for the audience to follow and understand. Repetition also promotes a consistent look and feel for the presentation. Repetition of important elements such as headings or key points can establish a visual hierarchy that guides the viewer’s eye and makes your presentation easier to follow.</para>
+    <para id="para-00016">Repetition of visual elements is a good way of reinforcing the key points you want to establish with the audience because they know where to look. In this way, repetition makes the main message of your presentation more memorable and connected for the audience.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Contrast</title>
+    <para id="para-00017">In presentations, <term id="term-00014">contrast</term> refers to the use of different elements, such as colors, fonts, and other design elements, to focus attention and create visual interest. You may want to use contrasting colors, such as complementary colors or light and dark shades, or contrasting fonts, such as a bold or decorative font for headings and a simple font for body text. Using contrast helps create a hierarchy and makes your presentation easier to follow.</para>
+    <para id="para-00018">Using contrasting design elements, such as different shapes or patterns, can help to add visual interest and break up the slide into distinct sections. Overall, contrast is a useful tool in presentations because it can help to draw attention, create visual interest, and make the presentation more effective and engaging for the audience. Notice how in the new <term class="no-emphasis" id="term-00015">title slide</term> of <emphasis effect="italics">My Life in a Snapshot</emphasis> (<link document="m00072" target-id="fig-00017"/>), the title is in large font, the subtitle is in small font, and the colors used are off-white, red, and black. The different font sizes and colors contrast with one another and create an engaging, yet professional, appearance.</para>
+    </section>
+    <section id="sect-00009">
+    <title>White Space</title>
+    <para id="para-00019">The last design element to consider within this section is <term id="term-00016">white space</term>. White space, also known as negative space, is the unoccupied areas of a slide that are not filled with text or other content. By leaving enough white space around text and other elements, you can make the content easier to read and understand. White space can be used to create visual interest by creating balance and separating different elements on the slide. By surrounding a key point or element with white space, you can draw attention to it and make it stand out. Additionally, using white space consistently throughout a presentation can help to create a cohesive look and feel. It is an important element of slide design and can be used in a variety of ways to enhance the readability, visual appeal, and effectiveness of a presentation. Filling your slides with text or images will make them look too busy and hard for your audience to read. Using the Designer tool to suggest different layouts can help add white space and sustain interest throughout the presentation with aesthetically pleasing slides.</para>
+    <para id="para-00020">Another principle that underlies all the design principles reviewed in this section is known as the <term id="term-00017">rule of thirds</term>. This is a basic principle of photography and design that suggests that an image can be divided into nine equal parts by two equally spaced horizontal lines and two equally spaced vertical lines. It is essentially a tic-tac-toe game board!</para>
+    <note class="real-application" id="note-00003">
+    <title>Applying the Rule of Thirds</title>
+    <para id="para-00021">The rule of thirds theory suggests that if you place the important elements of the image along these lines, or at their intersections, your photo or design will be more balanced and will have more visual interest. By placing the main subject of your photo or design along one of the lines or at an intersection, you can create a sense of tension and dynamism that draws the viewer’s eye into the image. Additionally, using the rule of thirds can help you avoid placing the subject of your image dead center every time, which can make for a static and uninteresting composition.</para>
+    <para id="para-00022">Although the rule of thirds is not a hard-and-fast rule, it is a useful guideline that can help you create more visually appealing and dynamic compositions in your slide creations and layouts. <link target-id="fig-00003"/> provides an example of a grid created according to the rule of thirds.</para>
+    <figure id="fig-00003">
+    <media alt="A screenshot of a grid (3 x 3) with red stars located at the bottom right of the top left and middle boxes, and the middle right of the bottom left box.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_03_Thirds.png"/>
+    </media>
+    <caption>This is an example of how you might set up alignment guides using the rule of thirds. The red stars show some of the ideal positions to place either text or images. (Used with permission from Microsoft)</caption>
+    </figure>
+    </note>
+    <para id="para-00023">There are other composition models you can use, as well. The point is that in design, composition is the basis of it all. You want a well-composed layout and placement of text and images, aligned so that the eye moves easily about the slide.</para>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00010">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>Adjusting the layout of the elements on a slide is an important skill. Formatting the layout includes arranging the text, graphics, and other objects on a slide.</item>
+    <item>Design principles provide guidelines and rules of thumb to consider as users start to change and manipulate themes and layouts on slides.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00011">
+    <title>Review Questions</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00024"><link class="os-embed" url="#exercise/06-03-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00025"><link class="os-embed" url="#exercise/06-03-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00012">
+    <title>Written Questions</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00026"><link class="os-embed" url="#exercise/06-03-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00027"><link class="os-embed" url="#exercise/06-03-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00013">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00028"><link class="os-embed" url="#exercise/06-03-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00029"><link class="os-embed" url="#exercise/06-03-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>alignment</term>
+    <meaning>way that text, images, and other elements are positioned on a slide</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>contrast</term>
+    <meaning>use of different elements, such as colors, fonts, or design elements, to draw attention and create visual interest</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>proximity</term>
+    <meaning>distance between the audience and the subject matter being presented in a slide</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>repetition</term>
+    <meaning>use of similar or identical elements, such as colors, fonts, or design elements, across multiple slides in a presentation</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>rule of thirds</term>
+    <meaning>basic principle of photography and design that suggests that an image can be divided into nine equal parts by two equally spaced horizontal lines and two equally spaced vertical lines; the theory is that if you place the important elements of the image along these lines, or at the intersections of them, your photo or design will be more balanced and will have more visual interest</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>white space</term>
+    <meaning>unoccupied areas of a slide that are not filled with text or other content</meaning>
+    </definition>
+    </glossary>
 </document>

@@ -6,5 +6,185 @@
     <md:uuid>a5925173-29d5-4e5f-9e09-47a797601406</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to …</para>
+    <list id="list-00001">
+    <item>Insert images and offer tips on best practices</item>
+    <item>Insert and format a shape in a slide</item>
+    <item>Insert a table into a slide</item>
+    <item>Insert a chart into a slide</item>
+    <item>Discuss why a diagram can be helpful to a slide presentation</item>
+    <item>Add special characters</item>
+    <item>Discuss how and why a link should be added to a slide presentation</item>
+    <item>Explain the process of adding video to a slide show</item>
+    </list>
+    </section>
+    <para id="para-00002">Adding visuals and features to <term class="no-emphasis" id="term-00001">Google Slides</term> can enhance the overall <term class="no-emphasis" id="term-00002">presentation</term> and make it more engaging for your audience. Much like Microsoft PowerPoint, there are numerous reasons why it’s important to focus on the visual aspect of a presentation that your audience will experience. To start, visuals can help convey information more effectively such as images, charts, and diagrams conveying complex information in a way that is easy to understand, making the presentation more effective. This also addresses a variety of learning styles, as some individuals are more visual than audio learners. Adding these features to a Slides presentation is fundamentally similar to how they are added in PowerPoint.</para>
+    <para id="para-00003">Let’s revise the <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation a little further. Because Slides does not have the same designs and themes that we find in PowerPoint, let’s choose a theme that presents a professional appearance. As we reviewed in the section on <link document="m00075" target-id="">Similarities between Google Slides and Microsoft PowerPoint</link>, choosing a theme in Slides is quite straightforward. Let’s choose the Swiss theme (see <link target-id="fig-00001"/>). Now that we’ve chosen the theme we want to use, let’s move to inserting images and adjusting the rest of the presentation in Slides.</para>
+    <figure id="fig-00001" class="scaled-down">
+    <media alt="A screenshot of the Insert tab opening to Image and these options: Upload from computer, Search the web, Drive, Photos, By URL, Camera). A Themes pane on the right displays various options.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_07_Selfie.jpg"/>
+    </media>
+    <caption>This theme has a completely different background and layout from our theme in PowerPoint. Slides automatically adjusted the image and text to fit. (Google Slides is a trademark of Google LLC.)</caption>
+    </figure>
+    <section id="sect-00002">
+    <title>Inserting an Image</title>
+    <para id="para-00004">Our presentation already includes an image of Amir, but if you want to update or change the picture, you can do so through <term class="no-emphasis" id="term-00003">Google Drive</term>. Once your image is saved to Drive, we can easily insert the photo into the presentation. Slides’s streamlined approach makes it simple to add imagery to slides. To add your new picture to the first slide, start by making sure that you have the first slide selected in your <term class="no-emphasis" id="term-00004">Slides</term> presentation. Click on the Insert menu at the top of the screen. Select Image from the drop-down menu. You can then choose to upload an image from your computer, or search for it in Drive, or select a photo from <term class="no-emphasis" id="term-00005">Google Photos</term>. Select Drive and select the recent profile picture you took on your smartphone. You can then move and resize the image as needed.</para>
+    <para id="para-00005">Keep in mind that copyrighted and trademarked images are not to be used in professional presentations. Take time to review the laws that apply and make sure that a basic understanding of where the images are derived from is taken into consideration when adding images to a presentation.</para>
+    <note class="spotlight-ethics" id="note-00001">
+    <title>Why Is Education Using Copyrighted Material?</title>
+    <para id="para-00006">Speaking in general terms, using copyrighted images for teaching and education is considered fair use. Fair use is not always clear and must be decided on a case-by-case basis using the four factors presented in U.S. Code, Title 17, Chapter 1, Section 107:</para>
+    <list list-type="enumerated" id="list-00002">
+    <item>Purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes</item>
+    <item>Nature of the copyrighted work</item>
+    <item>Amount and substantiality of the portion used in relation to the copyrighted work as a whole</item>
+    <item>Effect of the use on the potential market for or value of the copyrighted work</item>
+    </list>
+    <para id="para-00007">In general, it is considered fair use to use a copyrighted work in an educational setting, such as a college classroom or during a group tutoring session. But does this fair use extend to the workplace? It depends. An internal training session is a different scenario from a client-facing business presentation. Consider the preceding guidelines each time you want to use a copyrighted image and see which ones, if any, apply to you. To be safe, remember that it is always permissible to use a public domain image.</para>
+    </note>
+    </section>
+    <section id="sect-00003">
+    <title>Inserting a Shape</title>
+    <para id="para-00008">You can choose from a variety of shapes, such as rectangles, circles, arrows, and more to add to any slide in a slideshow. These design elements are useful and easy to adjust within Slides. Once you have selected a shape from the Insert tab (see the options in <link target-id="fig-00002"/>), click and drag on the side to create the desired size (<link target-id="fig-00003"/>). You can then move, resize, and customize the shape as desired.</para>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="A screenshot of Insert selected from the Google Slides tab opens to a pane with Shape selected. At the right, a pane with Shapes selected opens to a variety of different shapes.">
+      <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_07_AddShape1.jpg"/>
+    </media>
+    <caption>The drop-down window of the Insert tab in Slides has the option shapes listed. On further selection of shapes, a large variety of useful options appears. (Google Slides is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="A screenshot of a Google Slide inserting a shape. The shape displays squares at the corners as well as in the middle of all the sides and a circle at the top.">
+      <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_07_AddShape2.jpg"/>
+    </media>
+    <caption>When you select the desired shape, you can resize it by dragging the outline of the shape. (Google Slides is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00009">One way to effectively use a shape in Slides is to create a flowchart to illustrate a process or workflow. Using shapes also offers more customization than simply inserting a diagram. Once you have added the initial shape, you can then add a connector, such as an arrow. Then, you can use the formatting options to customize its appearance, such as changing its color or adding a border, as seen in <link target-id="fig-00004"/>. You can also insert a text box inside each of the rectangular or square shapes in your flowchart. In Slides, text boxes do not automatically come with a border, but borders can be added. Shapes can be used to create any number of diagrams, illustrations, and other types of visual aids to support your presentations. In the section on <link document="m00077" target-id="">Inserting a Diagram</link>, we will learn more about using the preset diagrams in Slides.</para>
+    <figure id="fig-00004" class="scaled-down-30">
+    <media alt="Screenshot of three rounded boxes in a row with gray arrows between them pointing to the right being inserted into a Google Slide. Sizing options are visible on the insertion box.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_07_Shape.jpg"/>
+    </media>
+    <caption>These shapes show a simple example of a flowchart. But you could arrange the shapes in different ways or add extra branches to the chart to represent your custom workflow. (Google Slides is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Inserting a Table</title>
+    <para id="para-00010">Tables are an important tool for displaying information because they organize and present data in a clear and concise manner to an audience. They are useful for displaying large amounts of data in a compact format, making it easy for the viewer to compare and contrast different values, as well as show how different variables are related to one another. For a slideshow, it may be best to use tables to showcase summary statistics, such as means, medians, and standard deviations, which provide a quick overview of most datasets. You do not want to overwhelm your audience with an overly detailed table with too many numbers. In general, tables are an effective tool for displaying information because they provide the ability to display and understand complex data sets in a concise way. They are widely used in fields such as finance, statistics, business, and scientific research to communicate data and results.</para>
+    <para id="para-00011">To add a table to a <term class="no-emphasis" id="term-00006">Slides</term> presentation, select the slide where you want to add it. Click on the Insert menu at the top of the screen. Select Table from the drop-down menu and choose the number of rows and columns you want for your table. Once you have selected the number of rows and columns, the table will be created and added to the slide. You may adjust or move the table as needed within the slide.</para>
+    <para id="para-00012">Use the options in the toolbar to format the table, like changing the color, size, or merge cells when required. Make sure the data is clear to view; try not to compress too much data into a single table by making the font too small to read and easily take in.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Inserting a Chart</title>
+    <para id="para-00013">Data is important in decision making because it provides a basis for understanding the current state of a problem or situation, and can be used to identify patterns, trends, and relationships that can inform the decision-making process. Your audience may expect to see data in a slideshow, particularly if it concerns finance or business, as data plays a crucial role in decision making by providing the information needed to make informed and well-informed decisions. Charts can be a perfect vessel to display this information to audiences.</para>
+    <para id="para-00014">The following will walk through the basic steps of adding a chart. Although your <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation doesn’t require the support of data, knowing how to create one will be helpful for future business presentations.</para>
+    <para id="para-00015">Follow these steps to add a chart to a Slides presentation:</para>
+    <list id="list-00003">
+    <item>Open your Slides presentation and select the slide where you want to add the chart.</item>
+    <item>Click on the Insert menu at the top of the screen. Select Chart from the drop-down menu. Choose the type of chart you want to add, such as a bar chart, line chart, pie chart, and so on.</item>
+    <item>Once you have selected the type of chart, you will be prompted to enter the data for the chart. You can also select data from a <term class="no-emphasis" id="term-00007">Google Sheets</term> document.</item>
+    </list>
+    <para id="para-00016">Once the data has been entered, the chart will be added. Customizing the chart through options can be accomplished in the toolbar of Slides. Such custom changes could be altering the colors, adding a title, and editing data. Like most objects, you can also move and resize the chart as needed.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Inserting a Diagram</title>
+    <para id="para-00017">You may have noticed after attending numerous presentations how helpful diagrams can be for the audience. A <term id="term-00008">diagram</term> is a graphical representation of information or data. Diagrams can be used to visually communicate complex information, ideas, or concepts in a simple and intuitive way. A diagram can help all types of audiences understand a concept by visually representing complex information in a simple and easy-to-understand proven format. Diagrams can help to clarify relationships and connections between different components or elements of a concept and can make it easier to identify patterns/trends. Additionally, diagrams can be used to highlight important information and make it more prominent, making it easier for the audience to retain and recall the information later. This drives the purpose home in your presentations.</para>
+    <para id="para-00018">We already learned about how to use shapes to create a custom diagram, like a flowchart. But Slides offers many preset diagrams that can show relationships and processes in different ways. These can be easier to use than shapes because the diagrams are already created for you. To add a diagram to a Slides presentation, click on the Insert menu at the top of the screen. Select Diagram from the drop-down menu and choose the type of diagram you want to add, such as a Grid, Hierarchy, Timeline, Process, Relationship, or Cycle. Each broad option offers several individual options to choose from, all with varying color themes and styles.</para>
+    <para id="para-00019">Once you have selected the desired type of diagram, Slides makes it intuitively easy to complete the diagram by adding content. Take your time to get maximum impact and experiment with different diagrams. With diagrams, you may find that a “less is more” approach works best when adding to a slide.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Inserting Special Characters</title>
+    <para id="para-00020">Much like PowerPoint, special characters have a useful effect when added. A <term id="term-00009">special character</term> in Slides is a character or symbol that is not typically found on a keyboard, but can be inserted into a presentation to add visual interest or convey specific meaning. Examples of special characters in Slides include arrows, currency symbols, mathematical symbols, emojis, and various types of punctuation marks.</para>
+    <para id="para-00021">Open any project and select the slide where you want to add a specific special character. Click on the text box or shape where the special character offers the most impact. Then, click on the Insert menu at the top of the screen and select Special Characters from the drop-down menu. A dialog box will appear with a list of special characters, such as currency symbols, mathematical symbols, and more.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Inserting a Link</title>
+    <para id="para-00022">For your <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation, you may not need to provide your audience members with any links, but you might want to include your email address. You can make this appear as a link so that when it is clicked on, it brings the user directly to their email client, like Outlook. This can be useful if a team member has a quick follow-up question after the presentation, or if they just want to send you a welcome message. Remember that the link will only work for them if the presentation has been distributed to them electronically. You can do this by emailing a link to the Slides presentation to your audience, or by sharing it as an email attachment.</para>
+    <para id="para-00023">To add a link to your <term class="no-emphasis" id="term-00010">Slides</term> presentation, first type in your email address as normal text. (In <link target-id="fig-00005"/>, we’ve added Amir’s email address on the title slide, below his information.) Then, select the Insert tab that provides the Link option near the bottom of the drop-down menu. Slides will recognize that it is an email address and add the appropriate hyperlink necessary to launch the email address.</para>
+    <figure id="fig-00005" class="scaled-down">
+    <media alt="In the slide, a text box is selected with an email address highlighted inside. Insert is selected from the toolbar and the pane opens to a selection for Link.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_07_Email.jpg"/>
+    </media>
+    <caption>When a link is “live,” it will turn bright blue and appear underlined. This lets you know you can click on it. (Google Slides is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00024">You may also want to provide clickable links within your presentation for your own demonstration purposes. For example, you may want to show your audience a new website or a new cloud-based tool. Instead of placing screenshots in your presentation to show these things, you could simply put a link to the content, and then click on the link yourself during your presentation. Doing this should open up the link in a new browser window or tab.</para>
+    </section>
+    <section id="sect-00009">
+    <title>Inserting a Video</title>
+    <para id="para-00025">With video sharing and recording platforms like Zoom and YouTube easily accessible, creating and playing videos has never been easier. Adding a short video clip to your presentation can pack a huge punch, and is easy to do. Sharing video content may be exactly what you need to emphasize a message in a presentation, perhaps preferable to showing an image or a chart. Be careful not to use a copyrighted video in professional presentations. Review the rules and laws on what constitutes a copyrighted video before adding one to your next presentation.</para>
+    <para id="para-00026">To add a video to a Slides presentation, open your Slides presentation and select the slide where you want to add the video. Click on the Insert menu at the top of the screen. Select Video from the drop-down menu. You can then choose to upload a video from your computer or search for a video on the internet using the Search option. Once you have selected the video, it will be added to your slide. You can then move and resize the video as needed. (You can also add a video by pasting a video link from a supported video hosting website such as YouTube, Vimeo, etc., and it will automatically embed the video on the slide.)</para>
+    <para id="para-00027">As we move into the chapter on <link document="m00070">Advanced Presentation Skills</link>, we will focus on more advanced aspects of both PowerPoint and Slides. You will learn more key skills for becoming an effective presenter in the next chapter, as well as learn more about the advanced features of PowerPoint and Slides, such as customizing themes, creating templates, and enhancing images. We will finalize Amir’s <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation in both PowerPoint and in Slides.</para>
+    </section>
+    <section class="section-summary" id="sect-00010">
+    <title>Summary</title>
+    <list id="list-00004">
+    <item>Images add visual interest to a presentation and enhance the audience’s understanding of the content.</item>
+    <item>Shapes can be used to create diagrams, highlight information, or add visual interest to a slide. They can also be used to create custom graphics or diagrams, or to illustrate a concept.</item>
+    <item>Tables can be used to organize and present data in a clear, concise manner.</item>
+    <item>Charts can be used to visualize data in a clear and meaningful way. Slides makes it simple to insert one into a presentation.</item>
+    <item>Diagrams can be used to represent complex ideas, processes, or relationships in a visual and understandable format.</item>
+    <item>Special characters can be used to add symbols, accents, or foreign characters to a slide.</item>
+    <item>Links allow you to quickly navigate to other pages or websites from within your presentation. They can also be used to provide additional information or resources, or to allow the audience to access additional content related to the presentation.</item>
+    <item>Adding video to your presentation can be a good way to add visual interest or provide a more immersive experience for the audience.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00011">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00028"><link class="os-embed" url="#exercise/06-07-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00029"><link class="os-embed" url="#exercise/06-07-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00030"><link class="os-embed" url="#exercise/06-07-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00031"><link class="os-embed" url="#exercise/06-07-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00032"><link class="os-embed" url="#exercise/06-07-BCA-RQ05"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00012">
+    <title>Written Questions</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00033"><link class="os-embed" url="#exercise/06-07-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00013">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00034"><link class="os-embed" url="#exercise/06-07-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00035"><link class="os-embed" url="#exercise/06-07-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>diagram</term>
+    <meaning>graphical representation of information or data; diagrams can be used to visually communicate complex information, ideas, or concepts in a simple and intuitive way</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>special character</term>
+    <meaning>character or symbol that is not typically found on a keyboard but can be inserted into a Slides presentation to add visual interest or convey specific meaning</meaning>
+    </definition>
+    </glossary>
 </document>

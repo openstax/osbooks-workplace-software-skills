@@ -6,5 +6,310 @@
     <md:uuid>a567f38e-56be-45da-97b2-1a1103fd67c5</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to …</para>
+    <list id="list-00001">
+    <item>Add tables to slides to organize and present data in a grid format</item>
+    <item>Insert images into slides</item>
+    <item>Add written information to slides</item>
+    <item>Use symbols to enhance visual appeal</item>
+    <item>Include equations to represent complex mathematical concepts</item>
+    <item>Utilize WordArt to maximize the impact of text</item>
+    <item>Use the tools in the Illustrations command group to increase the design appeal of slides</item>
+    </list>
+    </section>
+    <para id="para-00002">Adding visuals and features to <term class="no-emphasis" id="term-00001">Microsoft PowerPoint</term> slides makes your <term class="no-emphasis" id="term-00002">presentation</term> more engaging and interesting for the audience. It’s best to do this after the text has been formatted and the general layout established. Visuals such as images, charts, and videos can help to break up text and make the presentation more visually appealing, keeping the audience engaged and making it easier for the audience to understand and remember the information. Additionally, using relevant, high-quality images will help make your presentation look more professional.</para>
+    <section id="sect-00002">
+    <title>Adding Tables</title>
+    <para id="para-00003">A <term id="term-00003">table</term> in PowerPoint is a structure for organizing and presenting data in a grid format. It is similar to the Table feature in Microsoft Word. In <link target-id="fig-00001"/>, the Table option has been selected within the Insert tab. You will not need to include a table in your <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation, but tables are regularly included in professional presentations.</para>
+    <figure id="fig-00001" class="scaled-down-30">
+    <media alt="Screenshot of the Insert tab in PowerPoint with Table selected and an open pane with a 3x5 table highlighted on a 10x8 grid and Insert Table, Draw Table, and Excel Spreadsheet options.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_Tables.jpg"/>
+    </media>
+    <caption>The Insert Table option on the Insert tab of PowerPoint is identical to inserting a table in Word. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00004">There is a grid located directly under the Table option, followed by <term class="no-emphasis" id="term-00004">Insert Table</term>. Using the mouse, click and hold to select the desired number of cells you want to include. In the figure, a 3 x 5 table has been highlighted—specifically, three cells horizontally and five cells vertically. A 10 x 8 grid is provided, but if this size is too limiting, the Insert Table option enables you to build a grid all the way up to 75 x 75. Keep in mind that the facts and figures contained in your table need to be visible and easy for your audience to understand.</para>
+    <para id="para-00005">The <term class="no-emphasis" id="term-00005">Draw Table</term> option allows you to create a table by literally drawing it on your slide. As you select the option, the cursor becomes a pencil. You can first draw the table border and then sketch out cells that meet your needs. This option is especially useful when you’re not looking for a perfectly symmetrical grid. If you prefer to create tables within Microsoft Excel, you may prefer the last option within the table group, Microsoft Excel, which opens an Excel worksheet inside the slide. You will have to save the Excel sheet as its own document, but it will be stored within the PowerPoint slide.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Adding Images</title>
+    <para id="para-00006">The <term class="no-emphasis" id="term-00006">Images command group</term>, located to the right of the Insert Table option, gives you the following options: Pictures, Screenshot, and Photo Album. In general, an image is a visual representation of a scene, object, or information, often captured or created through digital means. In today’s technological world, your cell phone is also a professional camera with advanced formatting options, enabling you to share photos instantly on social media and in texts and emails. Adding photos and screenshots in PowerPoint can be just as effective. Those saved files can be at your fingertips to add to your presentation.</para>
+    <para id="para-00007">One good option is to use the Pictures feature to add an image to your <term class="no-emphasis" id="term-00007">PowerPoint</term> presentation, either from your device or from the internet. You can also add a <term id="term-00008">stock image</term>—a preexisting photograph or illustration that you can purchase for use in websites, brochures, presentations, advertisements, and other forms of media. Stock images are created by professional photographers and illustrators and are usually sold through online stock image agencies. These images can be used by anyone who buys the rights to use them, rather than having to commission a photo or illustration specifically for their project. Stock images can be used to supplement or enhance a presentation, brochure, or website by adding relevant and interesting visual elements. They can also be used to illustrate a point or idea, by providing an image that represents a concept or feeling. Stock images can save time and money, avoiding the need to create new images specifically for your project.</para>
+    <para id="para-00008">Stock photos are often fairly generic and not specific to a location or brand. For example, you can use a stock photo of a team working in an office environment to illustrate teamwork in the workplace. Many stock photos are considered to be available in the public domain and therefore are free to use, although this is not true of all stock photos. Be sure you keep copyright issues and licensing requirements in mind when using stock photos in your presentation. You can find websites of stock photos such as Vecteezy or Shutterstock. Some companies may have licenses or accounts with these websites. Some stock photo websites are starting to specialize in specific styles and types of stock photography, such as more diverse stock photos and more realistic, natural stock imagery.</para>
+    <para id="para-00009">To personalize <emphasis effect="italics">My Life in a Snapshot,</emphasis> add two photos from your personal collection to the last slide. To add a photo from your computer to a PowerPoint slide, follow these steps:</para>
+    <list list-type="enumerated" id="list-00002">
+    <item>Open PowerPoint and select the slide on which you want to add the photo.</item>
+    <item>Click on the Insert tab in the ribbon at the top of the screen (<link target-id="fig-00002"/>). In the Images command group, click on Picture, then select This Device. (This means that you will be inserting a picture from your computer.) If you want to add a picture from your phone, you can email the photo to yourself and download it to your computer. If you want to use a picture from the internet, again, download the picture and save it to your computer. A window will appear, allowing you to browse your computer for the photo you want to add. Navigate to the folder where the photo is located, select it, and then click the Insert button (<link target-id="fig-00003"/>).</item>
+    <item>The photo will be inserted onto the slide. You can then move it around by clicking and dragging it to the desired position. You can also resize the photo by clicking and dragging the handles (small squares) around the edges of the photo (<link target-id="fig-00004"/>).</item>
+    </list>
+    <figure id="fig-00002">
+    <media alt="A PowerPoint screenshot of the editor clicking Insert, Images, Pictures, and then Insert Picture From This Device in a slide presentation. The slide contains no images.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_ImgPlcmnt1.jpg"/>
+    </media>
+    <caption>PowerPoint also gives users the option to access stock photos or online pictures directly from the Insert Picture menu. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00003">
+    <media alt="A screenshot of a PowerPoint Insert Picture pane displays thumbnail images with filenames located in Desktop > Photos and an Insert button highlighted at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_ImgPlcmnt2.jpg"/>
+    </media>
+    <caption>After you locate the image file on your device, choose Insert to place the image on the slide. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00004">
+    <media alt="A screenshot of the Picture Format tab selected in PowerPoint and an image being inserted into a slide. The handles (small circles) around the edges of the photo are highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_ImgPlcmnt3.jpg"/>
+    </media>
+    <caption>Once you have placed the image, you can resize it and move it on the slide. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00010">To format the picture, first select it with your cursor and then use the options under the <term class="no-emphasis" id="term-00009">Picture Format tab</term>, such as cropping, adjusting brightness and <term class="no-emphasis" id="term-00010">contrast</term>, and adding a border. The Picture Format tab only shows up if the picture is selected. When you are finished, save your presentation by clicking on the File menu and selecting Save. By following these steps, you can add photos from your history that will be shared with WorldCorp’s team.</para>
+    <para id="para-00011">The Picture option supports all picture formats. Notice that when any of the three pictures are highlighted/selected, the Picture Format tab opens, as shown in <link target-id="fig-00005"/>. This new ribbon tab will appear all the way on the right end of the ribbon. The first command group, Adjust, lets you adjust and add corrections to the actual picture, such as its color, brightness, and transparency. The last command group in this ribbon, <term class="no-emphasis" id="term-00011">Size</term>, is helpful to know. The Size group within the Picture Format ribbon contains a feature called <term class="no-emphasis" id="term-00012">Crop</term>, which is available in most Microsoft Office programs.</para>
+    <figure id="fig-00005">
+    <media alt="A screenshot of the Picture Format tab in PowerPoint selected with the Adjust (includes Corrections, Color, Artistic Effects, Transparency) and Size (includes Crop, Height, Width) command groups highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_Format.jpg"/>
+    </media>
+    <caption>The Picture Format ribbon opens automatically when you select any kind of image. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00012">Having the ability to crop a picture to a preferred size can be a time-saver. You no longer need to find a perfect image, but only a piece of the image that is perfect for your needs. Notice in <link target-id="fig-00006"/> how much ice is in the picture in part a. The ice skates appear small in relation to the entire slide. By cropping some of the ice out of the picture, then enlarging the image to fit the space, you can emphasize what you want your audience to see.</para>
+    <figure id="fig-00006" class="scaled-down">
+    <media alt="Image (a) shows text on an orange background and a black/white image of ice skates on the ice. (b) The same slide is shown with the image of the ice skates enlarged.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_Crop.jpg"/>
+    </media>
+    <caption>Parts (a) and (b) show a before-and-after example of how a picture can be cropped to expand the focal point. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Adding Text</title>
+    <para id="para-00013">A great way to add a well-placed description of an image is to insert a text box. Let’s add a text box to your <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation, as shown in <link target-id="fig-00007"/>.</para>
+    <para id="para-00014">To add a text box, open the <term class="no-emphasis" id="term-00013">PowerPoint</term> presentation to the slide where you want to insert the text box. Click on the Insert tab in the top menu. In the Text section, click the Text Box button. Click and drag on the slide to create the text box. Type or paste your text into the text box that describes each photo that you selected to share with the WorldCorp team.</para>
+    <figure id="fig-00007" class="scaled-down">
+    <media alt="Text is visible on an orange background at the left and a black/white image of ice skates on the ice at the right. Above the image a text box is added.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_Textbox.jpg"/>
+    </media>
+    <caption>By default, text boxes will not have visible borders unless you choose to add them. This gives a seamless look when placed next to or on top of an image. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00015">You can use the <term class="no-emphasis" id="term-00014">Shape Format tab</term> to customize the text box, such as changing the font, color, or size of the text, just as you did when adding text to existing text boxes provided by PowerPoint in the various defined layouts. Once finished, you can move the text box around by clicking and dragging it, much like any other object or image within the slide.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Adding Symbols</title>
+    <para id="para-00016">You can add symbols to a PowerPoint slide to enhance the visual appeal of your presentation and to make it more engaging. Symbols can include anything from emojis to arrows to creative shapes, like hearts. You can use symbols to represent different ideas or concepts, to emphasize certain points, or to create a <term id="term-00015">visual hierarchy</term>, arranging the elements of your design according to their level of importance. The purpose of visual hierarchy is to guide the viewer’s eye to the most important information or elements first, then to less important information. It’s a good idea to use symbols sparingly, and only when they add value to your presentation, so they don’t become distracting. This first presentation doesn’t require the addition of a symbol, but the steps for adding one to a slide are as follows:</para>
+    <list list-type="enumerated" id="list-00003">
+    <item>Open the PowerPoint slide where you want to add the symbol.</item>
+    <item>Click on the Insert tab in the top menu.</item>
+    <item>In the <term class="no-emphasis" id="term-00016">Illustrations command group</term>, click the Symbol button. A menu will appear with a selection of symbols. Choose the symbol you want to use and click on it to add it to the slide. (Note that these steps may vary slightly depending on the version of PowerPoint you are using. In some versions, Symbols is its own command group on the ribbon.)</item>
+    </list>
+    <para id="para-00017">You can also use the Format tab to customize the symbol by changing its size, color, or shape.</para>
+    <para id="para-00018">It is helpful to know the most common types of symbols that you can use in a PowerPoint presentation:</para>
+    <list id="list-00004">
+    <item>Icons: simple, graphic symbols that you can use to represent concepts or ideas, such as an <term class="no-emphasis" id="term-00017">icon</term> of a light bulb to represent an idea or an icon of a person to represent a customer</item>
+    <item>Arrows: used to direct attention, to show cause and effect, or to indicate a process</item>
+    <item>Emojis: used to add a personal touch or to create an emotional impact</item>
+    <item>Shapes: can include simple symbols such as check marks, stars, and hearts; they can be used to emphasize a point or to indicate a positive or negative aspect</item>
+    </list>
+    <para id="para-00019">Always note that the symbols you use in your PowerPoint presentation should be appropriate for the context, audience, and purpose of the presentation.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Adding Equations</title>
+    <para id="para-00020">Another feature to consider inserting in PowerPoint slides are designed equations. An <term id="term-00018">equation</term> is a mathematical statement that shows the relationship between two or more quantities, using mathematical symbols and operators. Equations are used to describe a wide range of physical, biological, and economic phenomena, and are central to many areas of science and engineering. Simply click on the option on the Insert tab and select from a list of drop-down options. (Note that the Equation option will be grayed out unless your cursor is active on the slide canvas.) A new tab, Equations, will appear on the ribbon, revealing many options for inserting and editing equations.</para>
+    <para id="para-00021">Adding an equation to a slide in PowerPoint can enable you to represent complex mathematical concepts in a clear and concise manner, making it easier for your audience to follow your presentation. Equations can convey a level of technical expertise and professionalism, which can be especially important in the STEM fields (science, technology, engineering, and mathematics). They can be used to emphasize certain points in your presentation, such as key formulas or important calculations. Using equations to support your arguments can increase the credibility of your presentation and give your audience more confidence in your claims. Additionally, you can use PowerPoint to create interactive equations that allow the audience to manipulate variables—a useful option in fields like education and training.</para>
+    <para id="para-00022">You will not be asked to add an equation to <emphasis effect="italics">My Life in a Snapshot</emphasis>. However, it is important to remember that when adding anything, even equations, to your PowerPoint slides, they should be formatted correctly and should be used in a way that supports the overall message of your presentation. The process for inserting and editing equations is covered in more detail in the chapter on <link document="m00042">Document Preparation</link>.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Adding WordArt</title>
+    <para id="para-00023">In PowerPoint, <term class="no-emphasis" id="term-00019">WordArt</term> can add visual interest to a slide by using different font styles, colors, and effects that are prebuilt and designed for maximum impact. This can make your presentation more engaging and memorable for your audience.</para>
+    <para id="para-00024">WordArt can be used to emphasize important points or quotes in your presentation, making them stand out from the rest of the text and allowing for more creative expression than a simple text box. For example, you can create shapes, bend text, and add different effects to make your text more appealing than what is offered in a simple text box.</para>
+    <para id="para-00025">WordArt can be used to give your presentation a consistent look and feel, which can be especially important when creating presentations for work or business purposes as the exaggerated font is easy to duplicate across different slides. Additionally, WordArt can be used to create a <term class="no-emphasis" id="term-00020">visual hierarchy</term>, making it easier for people with visual impairments to read your slide.</para>
+    <para id="para-00026">Now, let’s put this tool into action. As seen in <link target-id="fig-00008"/>, start by selecting the fourth slide, Goals, to work on. This slide tells the audience about your short-term and long-term goals within the coming year at WorldCorp. To clearly separate the goals, we will use WordArt to change the headings for each.</para>
+    <list list-type="enumerated" id="list-00005">
+    <item>Start by highlighting the heading “Long Term.”</item>
+    <item>Select Insert, WordArt, and then choose a style.</item>
+    <item>Once selected, WordArt will appear in the center of the slide. Delete the original text box.</item>
+    <item>Select and drag over the WordArt text in replace of the original heading.</item>
+    <item>Repeat these steps for “Short Term” using a contrasting style choice (<link target-id="fig-00009"/>).</item>
+    </list>
+    <figure id="fig-00008" class="scaled-down">
+    <media alt="WordArt is selected from the Text command group and displays four rows of different styles of letters for selection. In the slide, a text box shows with the text inside highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_WordArt1.jpg"/>
+    </media>
+    <caption>WordArt can enhance your text beyond simple formatting, adding elements such as gradients, fills, and shadows. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00009" class="scaled-down">
+    <media alt="In the slide, two headers are displayed in two different styles (one is pink filled, outlined in dark pink and the other is white filled, outlined in dark pink).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_WordArt2.jpg"/>
+    </media>
+    <caption>Giving slightly different styles to “Long Term” and “Short Term” helps differentiate the lists. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00027">WordArt should be used sparingly, and only when it adds value to your presentation. It’s also important to make sure that the WordArt doesn’t distract from the main message of your slide. Always consider if a text box is more appropriate due to the length or positioning of the statement. In addition, consider if the provided text needs to be formatted.</para>
+    <section id="sect-00008">
+    <title>Shape Format Tab</title>
+    <para id="para-00028">You can easily create and change <term class="no-emphasis" id="term-00021">WordArt</term> within the <term class="no-emphasis" id="term-00022">Shape Format tab</term>. To format WordArt in PowerPoint, open the PowerPoint slide where you want to format the WordArt. Click on the WordArt that you want to format. Click on the Shape Format tab in the top menu. Use the options in the Text Effects and WordArt Styles sections to change the font, color, and effects of the WordArt. Additionally, you can use the Text Fill and Text Outline to change the fill and outline color of the WordArt. There are numerous options to explore and evaluate on what may work best.</para>
+    <para id="para-00029">Use the Text Box to change the size and shape of the text box that contains the WordArt. Use Arrange to change the position of the WordArt in the slide and use 3D Rotation to rotate the WordArt, as seen in <link target-id="fig-00010"/>. As with all additions and changes, use WordArt sparingly, only when it enhances the overall look and feel of your presentation and adds emphasis to certain points—but not every point!</para>
+    <figure id="fig-00010" class="scaled-down">
+    <media alt="A Format Shape pane is open with 3-D Rotation highlighted and various presets and rotations available. In the slide, the text is shown at an upward angle, from left to right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_BendWrdArt.jpg"/>
+    </media>
+    <caption>Rotating your WordArt-formatted text gives a dramatic appearance. Use caution when employing this feature, as it can sometimes be too informal for business presentations. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00009">
+    <title>Adding Illustrations</title>
+    <para id="para-00030">Much like adding images, illustrations can have a lasting impact in a presentation. An illustration is an image that’s “handmade,” so to speak, using either tangible elements such as pens and pencils or digital elements such as media. In this case, please take note of understanding the copyrights of the original work before selecting illustrations. In this section, we will walk through how to add a star to your presentation along with exploring some of the various illustration options. There are several types of illustrations that can be inserted in PowerPoint, including:</para>
+    <list id="list-00006">
+    <item>Shapes: basic shapes such as rectangles, circles, and arrows, as well as more complex shapes like flowchart symbols and callout shapes</item>
+    <item>Icons: simple, symbolic images that can be used to represent concepts or ideas</item>
+    <item>Charts: bar charts, line charts, and pie charts that can be used to present data in a visual way</item>
+    <item>SmartArt: predesigned graphics that can be used to create diagrams, lists, and other types of illustrations</item>
+    <item>3D models: models that allow you to rotate and zoom in on an object to show it from different angles</item>
+    </list>
+    <para id="para-00031">These types of illustrations can be used to make slides more engaging and memorable and to effectively convey the intended message. Now, we will take a closer look at shapes, icons, and the use of charts.</para>
+    <section id="sect-00010">
+    <title>Shapes</title>
+    <para id="para-00032">To add a shape to a slide in <term class="no-emphasis" id="term-00023">PowerPoint</term>, first click on the Insert tab in the ribbon at the top of the PowerPoint window. Click the Shapes button in the <term class="no-emphasis" id="term-00024">Illustrations command group</term>. Select the desired shape from the drop-down menu; in the next step of your project, you will be looking for the shape of a star (<link target-id="fig-00011"/>). Click and drag on the slide to create the shape. Shapes can be resized and positioned to enhance text and images on slides.</para>
+    <para id="para-00033">Now, it’s your turn to add a shape to <emphasis effect="italics">My Life in a Snapshot</emphasis>. When selecting the area to draw the shape, consider that it can be formatted later on to fit more exactly. It may take several attempts and practice to get the hang of working with these digital drawing tools. Simply select the corners of the shape and position the shape according to the location in <link target-id="fig-00012"/>.</para>
+    <figure id="fig-00011" class="scaled-down">
+    <media alt="Screenshot of the Shapes button selected in the Illustrations command group of the Insert tab of PowerPoint. A pane opens to display various lines, shapes, and images for selection.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_Shape1.jpg"/>
+    </media>
+    <caption>PowerPoint includes a large inventory of shapes that can be used to enhance your slides’ visual appeal. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00012" class="scaled-down">
+    <media alt="In PowerPoint, a red star is inserted into a slide. Circles are visible at the corners and middle sides of the image and a curved arrow is visible at the top.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_Shape2.jpg"/>
+    </media>
+    <caption>Dragging any of the dots will allow you to resize your shape. Select and hold the curved arrow to rotate your shape. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00011">
+    <title>Icons</title>
+    <para id="para-00034">Icons can be used in PowerPoint slides to enhance the visual appeal and convey information in a more exact manner. An <term id="term-00025">icon</term> is a small graphic symbol that represents a specific function, feature, or tool. Icons can be added much like Shapes by selecting the icon you want and then drawing it on the slide. These, too, can be resized and formatted after being placed on the slide.</para>
+    <para id="para-00035">Icons are slightly different from shapes in that they are intended to be universal messaging tools used to illustrate a point or concept for your audience. You might use a compass icon to indicate “direction” or a heart icon to indicate “emotion.” You can also use icons as bullet points to make your slides more visually interesting and easier to read, or you can add them to diagrams and flowcharts to help clarify the meaning of different elements instead of using text. You can use premade icons from the PowerPoint library or from the internet, or you can also create your own icons by combining different shapes and formatting them as you want, using different colors, sizes, and other options to convey your message effectively.</para>
+    </section>
+    <section id="sect-00012">
+    <title>Charts</title>
+    <para id="para-00036">PowerPoint provides various types of charts, including column, bar, line, pie, and scatter charts. To add charts to your slides, go to the Insert tab, <term class="no-emphasis" id="term-00026">Illustrations command group</term> (<link target-id="fig-00013"/>). You can customize your charts with formatting options such as color, labels, and legends. Additionally, you can import data from external sources, such as Excel and Microsoft Access, to create your chart in PowerPoint. This is another element you won’t need to use in your <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation, but it will be a useful tool when presenting data.</para>
+    <figure id="fig-00013" class="scaled-down">
+    <media alt="Chart is selected in the Illustrations command group and opens to an option pane. Column is selected and opens to a pane of various 2-D and 3-D Column and Bar chart options.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_Chart.jpg"/>
+    </media>
+    <caption>Inserting a chart allows you to provide a visual representation of numbers and data in your presentation. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00037">Depending on your settings, inserting a chart may automatically open Excel so that you can input data to create your chart. Experiment with this process so that you can better understand how to create your data, series labels, and categories.</para>
+    </section>
+    <section id="sect-00013">
+    <title>SmartArt</title>
+    <para id="para-00038"><term class="no-emphasis" id="term-00027">SmartArt</term> can be effectively used in a PowerPoint slide to visually represent information or ideas. It can be used to create diagrams, flowcharts, organizational charts, and other types of graphic organizers. To use SmartArt in a PowerPoint slide, you can select the Insert tab, then click the SmartArt button. This will open a menu of different SmartArt options to choose from, as seen in <link target-id="fig-00014"/>.</para>
+    <figure id="fig-00014" class="scaled-down">
+    <media alt="A screenshot of Choose a SmartArt Graphic window with All selected. Various lists are available in the middle pane and examples of the selected lists are visible on the right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_SmartArt.jpg"/>
+    </media>
+    <caption>SmartArt offers a list of options to select from with a preview screen on the right side. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00039">Once you have selected the desired SmartArt option, you can enter the text or information that you want to include in the graphic, as you would in a text box. You can also customize the appearance of the SmartArt by changing the typical colors, shapes, and layouts. Each option is designed toward a particular function, such as showing a linear process (like a flowchart) or relationships in a company (like an organizational chart). Take your time looking through these options to ensure that the intent matches the design.</para>
+    </section>
+    <section id="sect-00014">
+    <title>3D Models</title>
+    <para id="para-00040">One of the newest options that <term class="no-emphasis" id="term-00028">PowerPoint</term> is offering is adding 3D models to a slide. A <term id="term-00029">3D model</term> in PowerPoint is a digital representation of a three-dimensional object that can be inserted into a presentation and manipulated to show different views and perspectives. 3D models can be effectively used in a PowerPoint slide to add visual interest and help convey complex information. They can be used to demonstrate products, architecture, or other real-world objects in a more engaging and interactive way.</para>
+    <para id="para-00041">To use a 3D model in a PowerPoint slide, you can select the Insert tab, then click the 3D Models button, as seen in <link target-id="fig-00015"/>. This will open a menu of different 3D models to choose from, or you can also import your own 3D models. Once you have inserted a 3D model into your slide, you can rotate, pan, and zoom the model to show different angles and perspectives. Additionally, you can customize the lighting, shadow, and material of the model to suit your needs. A 3D model can help the audience to better understand the product or the object you’re showcasing by capturing the exact angle or motion that is called on.</para>
+    <figure id="fig-00015" class="scaled-down">
+    <media alt="3D Models is selected from the Illustrations command group in the Insert tab opening to Insert 3D Models from Stock 3D Models. An Online 3D Models pane opens to categories for selection.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_3DModels.jpg"/>
+    </media>
+    <caption>By selecting one of the categories, a unique list of options can be reviewed and considered for use. Many of the graphics show animation and movement. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00042">A good thing to note when deciding to work with 3D models: you will need to have a version of PowerPoint that supports 3D models, such as PowerPoint 2019 or later.</para>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00015">
+    <title>Summary</title>
+    <list id="list-00007">
+    <item>When including data on slides or related text elements, tables can be used to neatly organize the information in a presentation. The Table tool is similar to inserting tables in Word.</item>
+    <item>An impactful presentation includes visual elements such as images rather than just text. You can use images from your computer, images provided by PowerPoint, or images you find online.</item>
+    <item>The written (textual) information on a slide can be used to convey important details. However, keeping text to a minimum on each slide makes for a more effective presentation design.</item>
+    <item>Symbols and equations can be easily inserted into slides when mathematical content is needed.</item>
+    <item>You can use the WordArt tool to enhance basic textual information by adding borders, shading effects, and other elements.</item>
+    <item>Slides that include several visual elements are often more appealing. Using the tools in the Illustrations command group, you can insert shapes, pictures, and SmartArt into your slides.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00016">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00043"><link class="os-embed" url="#exercise/06-04-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00044"><link class="os-embed" url="#exercise/06-04-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00045"><link class="os-embed" url="#exercise/06-04-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00046"><link class="os-embed" url="#exercise/06-04-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00047"><link class="os-embed" url="#exercise/06-04-BCA-RQ05"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00017">
+    <title>Written Questions</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00048"><link class="os-embed" url="#exercise/06-04-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00049"><link class="os-embed" url="#exercise/06-04-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00018">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00050"><link class="os-embed" url="#exercise/06-04-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00051"><link class="os-embed" url="#exercise/06-04-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    
+    <glossary>
+    <definition id="def-00001">
+    <term>3D model</term>
+    <meaning>digital representation of a three-dimensional object that can be inserted into a presentation and manipulated to show different views and perspectives</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>equation</term>
+    <meaning>mathematical statement that shows the relationship between two or more quantities; equations are used to describe a wide range of physical, biological, and economic phenomena, and are central to many areas of science and engineering</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>icon</term>
+    <meaning>small graphic symbol that represents a specific function, feature, or tool; icons are used in PowerPoint to provide visual cues and to make it easier to navigate the software</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>stock image</term>
+    <meaning>generic image created or licensed by a stock photography company, often used in professional publications; may be copyrighted or only available through paid services</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>table</term>
+    <meaning>structure for organizing and presenting data in a grid format</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>visual hierarchy</term>
+    <meaning>arrangement of elements in a design according to their level of importance or emphasis; the purpose of visual hierarchy is to guide the viewer’s eye to the most important elements first, and then to less important information</meaning>
+    </definition>
+    </glossary>
 </document>

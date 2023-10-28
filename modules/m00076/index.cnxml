@@ -6,5 +6,125 @@
     <md:uuid>c808c5e0-5bf5-4580-b74b-c1776b124b64</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to …</para>
+    <list id="list-00001">
+    <item>Modify font</item>
+    <item>Change spacing options</item>
+    <item>Modify borders and lines</item>
+    <item>Understand how editing layouts works</item>
+    </list>
+    </section>
+    <para id="para-00002">Google Slides is a successful program that continues to grow in popularity, particularly with the rise of mobile technology, the use of digital tools in the classroom, and an increase in remote workplaces. At WorldCorp, you will need to know how to use both Microsoft PowerPoint and Slides, and understand the strengths and weaknesses of both programs. To become familiar with Slides, we will spend some time working with the tools and options on your existing project, <emphasis effect="italics">My Life in a Snapshot</emphasis>.</para>
+    <section id="sect-00002">
+    <title>How to Modify and Edit Text</title>
+    <para id="para-00003">As with any document, different fonts can convey different emotions and styles. Using a bold or italic font can help to emphasize certain words or phrases, while a different font can be used to create a specific style or theme for the <term class="no-emphasis" id="term-00001">presentation</term>. If your presentation is for a business or organization, it may be important to use a specific font that aligns with the company’s branding guidelines. WorldCorp prefers the Oswald font for external documents. If text boxes are being used, be sure to modify each text box to the company standard. Although this choice may feel limiting, this approach drives the <term class="no-emphasis" id="term-00002">consistency</term> of brand messaging for WorldCorp team members.</para>
+    <para id="para-00004">You may recall that converting a PowerPoint file to a Slides file may result in some changes. Take a look at slide number 4, “Goals,” in <link target-id="fig-00001"/> and <link target-id="fig-00002"/>. You will notice in <link target-id="fig-00002"/> that the WordArt formatting used for “short term” and “long term” has been removed, because WordArt is not a feature of Slides.</para>
+    <figure id="fig-00001" class="scaled-down">
+    <media alt="In the slide, two headers are displayed in two different styles (one is pink filled, outlined in dark pink and the other is white filled, outlined in dark pink).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_06_FontsA.jpg"/>
+    </media>
+    <caption>In PowerPoint, the WordArt feature allows users to add formatting to text as shown in the headers on this slide. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="In the slide, two headers are displayed in two different styles (one is pink filled and the other is white filled). The fonts in the two lists are different from each other.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_06_FontsB.jpg"/>
+    </media>
+    <caption>When converting PowerPoint slides to Google Slides, some formatting like WordArt is not supported and will be removed. (Google Slides is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00005">The headings on the <term class="no-emphasis" id="term-00003">Slides</term> version are rather light-colored and hard to read against the gray background. We can revisit the option of changing those to a new font color in the future. However, rather than modify the headings again now, we will walk through how to modify the text below each heading to the company’s preferred Oswald font. Please follow the four-step directions and refer to <link target-id="fig-00003"/>.</para>
+    <list list-type="enumerated" id="list-00002">
+    <item>Highlight the text within the text box.</item>
+    <item>Select the drop-down menu. Find Oswald in the list of fonts.</item>
+    <item>Select the Oswald font (this should alter the highlighted text).</item>
+    <item>Repeat for the text listed under “Short Term.”</item>
+    </list>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="In the slide, text is highlighted and in the Font selection on the toolbar, Oswald is selected in the Recent as well as in the font list.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_06_Fontchange.jpg"/>
+    </media>
+    <caption>You will notice that far fewer fonts are offered in Slides than the complete list of font options contained in Office. (Google Slides is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00006">Modifying the font can help to ensure <term class="no-emphasis" id="term-00004">consistency</term> throughout the presentation and make it look more professional. Some fonts may not be compatible with all devices or may not be accessible for people with visual impairments. Modifying the font can help to ensure that the presentation is accessible to all viewers and can be viewed correctly on different devices. However, note that the list of font options is drastically limited as compared with <term class="no-emphasis" id="term-00005">PowerPoint</term>.</para>
+    </section>
+    <section id="sect-00003">
+    <title>How to Modify Line Spacing</title>
+    <para id="para-00007">To modify the spacing of the font in a Slides presentation, select the slide where you want to modify the font spacing. In <emphasis effect="italics">My Life in a Snapshot,</emphasis> there’s no need to modify spacing, but this option may come in handy when working with large font sizes and unique font styles.</para>
+    <para id="para-00008">To get started, select the text box or shape that contains the text you want to modify. Click the Format option in the top menu bar. In the Format menu, select Line &amp; paragraph spacing. You can then choose the spacing you want, such as single, double, or custom (which allows you to enter a specific value). Make sure that Paragraph Spacing is set to 0. If not, spacing may continue to look off. Once the selection is made with the desired changes, click the OK button to apply them to the selected text.</para>
+    </section>
+    <section id="sect-00004">
+    <title>How to Modify Borders and Lines</title>
+    <para id="para-00009">An additional tool that can come in handy is the ability to format borders and lines. In general, format refers to the way something is arranged or structured, usually in terms of its appearance, organization, or presentation. This term is used in a variety of contexts and can refer to various aspects of a document, file, or image, such as its layout, font, color scheme, page margins, and overall design. When formatting a border, you may want to consider the color, weight, type, dashes, and decorations.</para>
+    <para id="para-00010">To do this, open the slide where you want to modify the border of a text box. Select the text box, it will appear highlighted in blue. Click on the Format tab at the top of the screen. In the drop-down menu, select Borders &amp; Lines. You can then choose the type of border you want, such as solid, dotted, or dashed. You can also choose the color weight and transparency of the border. Once the selection has been made with the desired changes applied, click the OK button to save the changes.</para>
+    </section>
+    <section id="sect-00005">
+    <title>How to Modify the Layout of a Slide</title>
+    <para id="para-00011">As in PowerPoint, each time text or images are added to a particular slide, the size and positioning of objects may need to be adjusted or changed. One option in Slides is to change the overall layout of the slide in the Slide menu. The Slide tab is a drop-down menu that allows users to create, edit, and organize slides within your presentation. <link target-id="fig-00004"/> shows the list of options from the drop-down menu.</para>
+    <figure id="fig-00004" class="scaled-down-30">
+    <media alt="A screenshot of the Slide option with selections for: New slide, Duplicate slide, Delete slide, Skip slide, Move slide, Change background, Apply layout, Transition, Edit theme, and Change theme.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_06_SlideTab.jpg"/>
+    </media>
+    <caption>The Slide menu gives you tools to customize your slides with themes, transitions, and background modifications. (Google Slides is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00012">Notice again the similarities between PowerPoint and Slides. PowerPoint’s <term class="no-emphasis" id="term-00006">Home tab</term> contains many of the same features that are available in the drop-down menu of the Slide tab in Slides. The Slide menu gives users a wide range of tools and options for creating and organizing slides in a presentation, so you can create engaging and effective presentations that can be easily shared and viewed by others.</para>
+    <para id="para-00013">The Slide menu also contains an interesting feature, Apply layout. This tool provides a default layout to the key elements on your slide.</para>
+    <para id="para-00014">In addition to using the tools and features in the Slide menu, you can also simply select an object (image, text box, or border), click and hold to move, then drag the object around the screen. Every object also comes with positioning points around the edges of the object to resize and adjust the shape, or to rotate and spin the object to the desired positioning. Take your time with these features. A special option for text box objects is that they will offer a helpful shrink to fit option for overflow text when selected.</para>
+    <para id="para-00015">You can also use the Arrange menu to change the layout of your slides. This menu offers options for bringing objects forward and back, centering and aligning, and rotating objects.</para>
+    <para id="para-00016">As with many of its features, Slides has more limited options for formatting, particularly text boxes. While PowerPoint will provide adjustment lines to help position the size and placement of similar objects next to one another, Slides does not offer these tools. However, Slides has many advantages over PowerPoint when it comes to ease of use, accessibility, and collaboration. Both tools are useful in different contexts.</para>
+    </section>
+    <section class="section-summary" id="sect-00006">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>You can modify text in Slides either by using the action bar or using the Format menu.</item>
+    <item>You can adjust the spacing of text on a slide in Google with the Align &amp; Indent tool or the Line spacing tool found in the Format menu.</item>
+    <item>Borders and lines can be used to enhance the look of slide elements such as a list of information or images. You can add borders using the Format menu.</item>
+    <item>The Arrange and Slide menus can be very helpful when finalizing your slides for a professional appearance. The tools in these menus help with lining up elements on the slide such as text boxes or images.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00007">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00017"><link class="os-embed" url="#exercise/06-06-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00018"><link class="os-embed" url="#exercise/06-06-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00019"><link class="os-embed" url="#exercise/06-06-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00020"><link class="os-embed" url="#exercise/06-06-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00008">
+    <title>Written Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00021"><link class="os-embed" url="#exercise/06-06-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00009">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00022"><link class="os-embed" url="#exercise/06-06-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00023"><link class="os-embed" url="#exercise/06-06-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
