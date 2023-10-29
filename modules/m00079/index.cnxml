@@ -6,5 +6,277 @@
     <md:uuid>263e1abf-1c74-4ec3-8b25-a86575880098</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Choose an appropriate and engaging color scheme.</item>
+    <item>Modify a theme of a presentation.</item>
+    <item>Utilize design ideas options to change the look of individual slides.</item>
+    <item>Enhance images used in slides.</item>
+    </list>
+    </section>
+    <para id="para-00002">At some point in your career, you might need to present an analysis of data to an audience of peers or management. Your information must appear clear and professional and will likely include graphs and charts of your analysis. In <link document="m00069">Preparing Presentations</link>, we learned the basics of putting together a presentation and including tables and images. However, when finalizing your presentation, you may want to adjust the colors, slide layout, and other aspects to take your presentation to the next level. The theme and color choices of these elements can be critical to developing a professional presentation that will impress the audience and effectively communicate your intended message. In this section, the focus is on PowerPoint. The use of these skills in Slides is covered in a later section.</para>
+    <section id="sect-00002">
+    <title>Color Schemes</title>
+    <para id="para-00003">Through the use of color and other design elements, you can visually highlight key points. Your color choices can also engage the audience by evoking emotions. If you are not careful, though, the color scheme can be distracting and take away from your message. You will also want to keep text to a minimum on each slide, focusing on key words or ideas, and using the notes section to capture your speaking notes and detail.</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00004">When preparing the colors for your presentations and charts, there are a few guiding principles you can follow that will help make your presentation look professional. Some of these tips include the following:</para>
+    <list id="list-00002">
+    <item>Keep the color scheme simple by using no more than three colors: one main color, a secondary color, and an accent color. The main color should represent about 60 percent of the color in your presentation, the secondary color should be about 30 percent, and the accent color should make up the remaining 10 percent.</item>
+    <item>Keep the colors in balance with tint and hue. For example, do not pair a rich royal blue with a pale, pastel yellow. Choose high-contrast colors for the most impact.</item>
+    <item>Spread the content out over several slides; do not put all the data or charts on a single slide.</item>
+    </list>
+    <para id="para-00005">Visit this <link url="https://openstax.org/r/78ColorPresent">web page on choosing the best colors for your presentations</link> for more details on how to use color to create an effective presentation.</para>
+    </note>
+    <para id="para-00006">Choosing your own <term class="no-emphasis" id="term-00001">color scheme</term> can be a fun way to create your own style for your presentation. However, you may want to go with a preset color scheme to ensure that all the chosen colors go together in a harmonious way. PowerPoint makes this process easy by providing themes, which provide a cohesive and unified design scheme across the whole presentation, allowing you to maintain consistency across slides, even if they have different content. When you apply a <term class="no-emphasis" id="term-00002">theme</term>, PowerPoint automatically updates the color palette, font styles, background designs, and other visual attributes of the presentation. This helps to save time and effort by eliminating the need to manually adjust the appearance and colors of each slide individually.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Modifying a Theme</title>
+    <para id="para-00007">PowerPoint offers a variety of built-in themes to choose from, each with its own unique combination of colors, fonts, and effects. Additionally, you can customize and create your own themes by modifying the visual elements according to your preferences. Themes keep the look and feel of slides consistent. The theme is applied to all slides you select and is designed with preset colors, fonts, and background styles.</para>
+    <para id="para-00008">Here we go more in depth about the changes you can make to the theme selected for a presentation. Let’s practice by modifying the existing theme selected for the <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation that you created in <link document="m00069">Preparing Presentations</link>. You have decided that, after learning more about color theory and how colors can evoke emotions in others, you want to change the theme and enhance some color elements. <link target-id="fig-00001"/> shows the original theme selected for the presentation as well as a starting slide that you created in <link document="m00069">Preparing Presentations</link>. Recall that themes are accessed through the Design tab in PowerPoint. The theme includes more muted, brown tones, and you want to add more color to the presentation to make it more engaging.</para>
+    <figure id="fig-00001">
+    <media alt="A PowerPoint application is open on the Design tab. It shows the theme currently used and several other options that could be used.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_THEME.jpg"/>
+    </media>
+    <caption>Each thumbnail displays the main font that theme will use (as shown by the “Aa”) as well as the color palette, shown in the form of the small rectangles at the bottom of each thumbnail. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00009">You decide to go with warm colors, as they convey energy and optimism. Let’s first look at how you can change the elements and colors of the current theme. From the Design tab, choose the command group <term id="term-00003">Variants</term> to make adjustments to the theme. Variants are changes to a theme such as colors or slide layouts—essentially, variations to your selected theme. You can also find these options in the Slide Master tab. <link target-id="fig-00002"/> shows the options you have for changing parts of the theme: Colors, Fonts, Effects, and Background Styles. Choose a vibrant color scheme that includes orange and yellow colors. When you select a new color scheme, it will be applied to all slides in the presentation. If you choose, you can also customize colors if you do not like the preset color schemes.</para>
+    <figure id="fig-00002">
+    <media alt="A PowerPoint screen is open to the Design tab. There is an arrow pointing to the open Colors option and an additional window indicating the various colors that could be used.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_VAR.jpg"/>
+    </media>
+    <caption>(a) In addition to colors, you can change other aspects of the theme, including fonts and backgrounds. (b) When you choose an option under Colors, you will see the change to your slides immediately on the screen. (Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00010"><term class="no-emphasis" id="term-00004">Color theory</term> focuses on the way colors mix together. Knowing a little bit about color theory and the color wheel can go a long way toward helping you select a color scheme, or theme, for your presentation. Watch this <link url="https://openstax.org/r/78ColorWheelPPT">video on the basics of the color wheel and how to apply it to PowerPoint</link> to learn more.</para>
+    </note>
+    <para id="para-00011">To create a customized color scheme, click on the Design tab located in the PowerPoint ribbon at the top of the screen. In the Variants section of the ribbon, click on the Colors drop-down button. This will display a list of built-in color schemes and options. At the bottom of the Colors drop-down, select Customize Colors. A new window titled Create New Theme Colors will appear. In the Create New Theme Colors window, you will see several categories of colors, such as Text/Background, Accent 1, Accent 2, and so forth. To create a custom color, click on the color square next to the category you want to customize.</para>
+    <para id="para-00012">For example, click on Text/Background to customize the color used for text and slide backgrounds. In the color picker window, you have several options to create a custom color. You can use the sliders or input fields to adjust the RGB (red, green, blue) values of the color. Alternatively, you can enter the <term class="no-emphasis" id="term-00005">hexadecimal value</term> (or “hex code”) of the desired color in the “#FFFFFF” format. You can also choose a color from the Standard or Custom color palettes. Choose Customize Colors at the bottom of the colors menu (<link target-id="fig-00003"/>). To create a custom color by selecting a color from your slide, click on the Eyedropper tool, and then click on the desired color within your slide. Once you have set the desired color, click the OK button to save it. Repeat for other color categories if you want to customize them as well. After customizing all the desired color categories, click the Save button in the Create New Theme Colors window. In the Save dialog box, enter a name for your custom color scheme and click Save. Naming the color scheme will save it for future use.</para>
+    <figure id="fig-00003">
+    <media alt="A PowerPoint screen is open to the Design tab. There is an additional window open for new theme colors.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_COLORS.jpg"/>
+    </media>
+    <caption>You can create a customized color scheme for your presentation and save it to use in future presentations. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00013">Now adjust the color of the first text option to be a dark red color, as shown in <link target-id="fig-00004"/>. Notice that the thumbnails of all the slides have changed to reflect the new color scheme.</para>
+    <figure id="fig-00004" class="scaled-down">
+    <media alt="A PowerPoint screen is open to the Design tab. There is an additional window open for new theme colors. There is a red circle around the first standard color.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_COLORS2.jpg"/>
+    </media>
+    <caption>The new dark red font color is used throughout the existing slides and any new slides created in the presentation. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00014">Other options in <term class="no-emphasis" id="term-00006">Variants</term> include changing the font for the theme and effects. To change the font, simply select a new font, and it will be applied to all slides in the current presentation and any additional slides that you might add. The Effects options change how images and other graphic elements are added to the slide. By adjusting effects, you can change the shadowing, lines, and fill elements in a graphic added to a slide.</para>
+    <para id="para-00015">For example, let’s insert a list as a SmartArt graphic. (SmartArt was introduced in <link document="m00069">Preparing Presentations</link>.) Choose an option from the List section of SmartArt and modify it to include shadows to see how the effects can change. Remember, when you change an item in Variants, whether it is a font, a color, or an effect, it will apply to all slides in the presentation.</para>
+    <para id="para-00016">First, navigate to the Strengths &amp; Skills slide in the <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation. You can either choose the list from the slide view on the left panel or use the page down key on the keyboard to get to the slide. Then go to the Insert tab to insert a SmartArt graphic that is appropriate for lists, such as the Basic Block List option. When the graphic is inserted, choose a SmartArt style that has shadows (<link target-id="fig-00005"/>).</para>
+    <figure id="fig-00005">
+    <media alt="A PowerPoint screen is open to the SmartArt Design tab. A red circle has been placed around one style. On the main screen is a template made up of five text boxes.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_EFFECT.jpg"/>
+    </media>
+    <caption>Effects changes the fill effects, lines, and shadows of inserted graphics. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00017">When you have selected the style, go back to the Design tab to adjust the Effects from the Variants command group. Choose a new Effect to see how the elements of the SmartArt graphic are modified. For this example, the Grunge Texture Effect was selected. You will see the change in the graphic as you hover over the various effect modifications. <link target-id="fig-00006"/>).</para>
+    <figure id="fig-00006">
+    <media alt="A PowerPoint screen is open to the Effects menu on the Design tab. It shows several different options. On the main screen are a set of template text boxes.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_EFFECT2.jpg"/>
+    </media>
+    <caption>The new effect chosen, Grunge Texture Effect, will now apply to all graphics that are currently in or added to the slides in a presentation. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00018">The last section of the Variants command group is the Background Style. This option allows you to change not only the color but also the fill and texture of the background of the slides. As with the other selections, you access this through the Design tab. Initially, you are given choices to change the color of the background. Note that these colors are preselected for you based on the color scheme that you chose for the theme. As with the other changes, you will see a preview of the change to the background color as you hover over the options (<link target-id="fig-00007"/>). Not all colors will work with your chosen font colors or other elements that you have included in the presentation. For example, choosing a dark red background color with the dark red font will make the font unreadable. The chosen color will be applied to all slides in the presentation and any new slides that you add, so consider the entire presentation when selecting the background color.</para>
+    <figure id="fig-00007">
+    <media alt="A PowerPoint screen is open to the Background Styles menu on the Design tab. It shows an additional open window with several colors to choose from.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_BACK.jpg"/>
+    </media>
+    <caption>Keep in mind the color of the fonts as you choose a new background color. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019">The <term class="no-emphasis" id="term-00007">Format Background</term> option gives you the tools to change the gradient, transparency, and fill pattern of the background. A gradient is when one color fades into another. For example, for a slide background, you could add a gradient effect to a slide where the color blends and transitions from green to blue. When you select Format Background, a panel will open on the right, giving options to change various aspects of the background. There are preset gradient options that will also change the color of the background beyond the few options that you originally have available in background styles, as <link target-id="fig-00008"/> shows. Or you can choose to adjust the current option. In this example, we are using the Radial gradient. But that can be adjusted through the Format Background options.</para>
+    <figure id="fig-00008" class="scaled-down">
+    <media alt="Image A shows the Format Background options. Image B shows the preset gradients for background color.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_GRAD.jpg"/>
+    </media>
+    <caption>(a) By changing the settings in the Format Background options, you can customize the look of your slides. (b) Preset gradients offer many more color choices for the background colors. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Designer</title>
+    <para id="para-00020">The latest version of PowerPoint includes a feature called <term id="term-00008">Designer</term>. This feature helps you create professional-looking presentations and enables you to change the layout of slides automatically. You can use it to format a slide using various preset formats and to add additional design elements to the slides. It gives you a nice way to vary the layout and enhance the visual appeal of slides in a presentation. When a new slide design is applied, it affects only the current slide, not the entire presentation.</para>
+    <para id="para-00021">Let’s try inserting a slide into the <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation after the title slide to include information such as hometown, education, and a fun fact about yourself. Using the skills acquired from <link document="m00069">Preparing Presentations</link>, insert a slide that will include this information. Start filling in the slide content with the title “Background.” Include the other items for the slide. Then select the Designer option on the Home tab to access the assorted designs for this slide (<link target-id="fig-00009"/>). The Designer tool can also be accessed through the Design tab. Note that the Designer tool might not have any “ideas”; when this happens, you will receive a message: “Sorry, no design ideas.” You might also receive suggestions that are not appropriate or helpful.</para>
+    <figure id="fig-00009">
+    <media alt="A PowerPoint screen is open with the Designer option selected. Below the Designer button is a small window showing several organization options.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_DESIGN.jpg"/>
+    </media>
+    <caption>Designer gives you various options for layout and design based on the information contained on the slide. Select one of the designs from the list to apply to the current slide only. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00022">You can also apply a new design to an existing slide by first selecting the slide and then once again going to Designer from the Home tab. The available slide design ideas vary by chosen theme. Some have more choices than others. <link target-id="fig-00010"/> shows the options available when you change the theme of the presentation.</para>
+    <figure id="fig-00010">
+    <media alt="A PowerPoint screen is open with the Designer option selected. Below the Designer button is a small window showing several organization options.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_DESIGN2.jpg"/>
+    </media>
+    <caption>The Designer tool can be used to add variety and visual interest to your slides. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Advanced Tools for Image Enhancement</title>
+    <para id="para-00023">When creating a presentation, you are likely to include visual elements such as pictures, graphics, and tables. You are likely to want to make some adjustments, such as cropping, to the images to make the pictures clearer and more professional in your presentation. There are several techniques that can help when inserting visual elements into your presentation. These include removing the background of a picture, cropping the picture, and creating an overlay for the image.</para>
+    <section id="sect-00006">
+    <title>Removing the Background of a Picture</title>
+    <para id="para-00024">When you have a slide that has a colored background, inserting an image with a different background color can be problematic, because the image's background may clash or stand out in an undesirable way. PowerPoint has a great tool to remove the background for images which allows you to select the areas to keep in the image. Go back to the <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation. Do you recall the empty space next to the star on slide 3? Let's add a picture of Amir next to the star. However, now that we have our yellow slide background, the image’s white background seems a bit out of place (<link target-id="fig-00011"/>). Let’s try removing it.</para>
+    <para id="para-00025">When you select the image, you get the Picture Format tab in the Ribbon. Select the tab, and the <term class="no-emphasis" id="term-00009">Remove Background</term> tool is on the far left of the tab selections.</para>
+    <figure id="fig-00011">
+    <media alt="A PowerPoint screen is open with the Remove Background option selected. It also shows a red box around the Picture Format features.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_REMOVE.jpg"/>
+    </media>
+    <caption>The Picture Format tab gives you tools to make changes to the image, including removing the background. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00026">To begin the process for removing the white background from the image of Amir, select Remove Background. PowerPoint will attempt to determine the background that you would like to remove by shading the space a different color—in this example, purple, as shown in <link target-id="fig-00012"/>a. Notice that Amir’s hair is part of the selection—we do not want to remove his hair! From the tools, select Mark Areas to Keep and click on the hair area of the image. When you select the tool, you will get a pencil icon that you can use to click on the areas that should remain in the image. Repeat this step to keep the rest of his shirt in the image. When you are finished with the selections, click on Keep Changes. To select areas to remove in an image, you follow a similar procedure.</para>
+    <figure id="fig-00012">
+    <media alt="Image A shows an open PowerPoint screen with the Background Removal option selected. The areas to be removed are highlighted in bright purple. Image B shows the background removed.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_REMOVE1.jpg"/>
+    </media>
+    <caption>(a) The bright purple highlight is a clear and obvious way for PowerPoint to indicate which parts of the image PowerPoint suggests you should remove. (b) Removing the background from the image gives the slide a much cleaner look. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00007">
+    <title>Crop and Fit Images to Shapes</title>
+    <para id="para-00027">Sometimes you may need to reduce the size of an image or change its shape to fit into a particular space on the slide. To accomplish this, you use the crop tool. To <term id="term-00010">crop</term> means to cut out parts of the image. Images can be cropped to remove items that are visible in the picture but that you do not want to see. For example, let’s assume that on the Background slide, we want to showcase that Amir enjoys kayaking. He has a picture of himself and his friend kayaking last summer, but he would like the image to include only himself. He can crop the photo to remove his friend from the picture. To crop an image, select the image and select the crop tool from the Picture Format tab (<link target-id="fig-00013"/>). The image can also be cropped to a specific shape, such as a circle. Additionally, the <term id="term-00011">aspect ratio</term> of the image can be changed to adjust the height (vertical) and width (horizontal) of the image with preset values. The aspect ratio sets the ratio between the height and the width of an image. We can also fit the image to a space or to specific dimensions.</para>
+    <para id="para-00028">For this example, let’s first crop the image to only include the top kayak. To do this, select the image and select Crop. Notice that the outline of the image changes with black boundary lines that you can use to cut the image. Click on one of the black lines or corners. In this example, we will crop the image by choosing the bottom center line and pulling it up. To finish cropping the image, click on the slide area outside of the image (<link target-id="fig-00014"/>).</para>
+    <figure id="fig-00013">
+    <media alt="A PowerPoint screen is open. An image on the slide has been selected for cropping.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_CROP1a.jpg"/>
+    </media>
+    <caption>By using the Crop tool, you can remove the unwanted parts of an image. You can crop an image from all sides and corners. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00014">
+    <media alt="A PowerPoint screen is open. An image on the slide is shown after it has been cropped.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_CROP1b.jpg"/>
+    </media>
+    <caption>After you have finished cropping the image, the black lines around the picture will disappear. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00029">The cropped image needs further adjustment to make it look appropriate in the space for the image. You can take several steps to accomplish this: You can move the image down to center it in the box. You can enlarge the image to fill the space more fully. You can also crop the image to a specific shape to add visual interest (<link target-id="fig-00015"/>). Finally, you can add a text box to provide a description of the image for the audience, as we learned in <link document="m00069">Preparing Presentations</link>.</para>
+    <figure id="fig-00015">
+    <media alt="A PowerPoint screen is open. An image on the slide is shown after it has been cropped in the form of an oval.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_CROP2.jpg"/>
+    </media>
+    <caption>The Crop tool gives you many options to fit an image to a specific space on the slide. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00008">
+    <title>Creating Transparent Picture Backgrounds</title>
+    <para id="para-00030">Suppose you decide that the kayaking picture might have more impact if it were placed in the background of the slide, rather than in the white box off to the right. You can accomplish this by adjusting the transparency of the image. The amount of light that is allowed to pass through an image is called <term id="term-00012">transparency</term>. If an object is totally solid, like the star included on slide 3 of the presentation, it is considered opaque, meaning no light is allowed through the shape. When we adjust the transparency, we are adjusting how opaque or translucent (clear) the image is.</para>
+    <para id="para-00031">This type of change is easy to make in PowerPoint. First, you will need to change the design of the slide to remove the framed box on the right of the slide. To do this, go to the Slide Master tab. (Recall that the <term id="term-00013">Slide Master</term> tab summarizes all the features contained on a slide.) Choose the Hide Background Graphics box in the Background command group (<link target-id="fig-00016"/>). Now you will notice the frame around the picture has been hidden.</para>
+    <figure id="fig-00016">
+    <media alt="A PowerPoint screen is open with the Hide Background Graphics option selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_HIDE.jpg"/>
+    </media>
+    <caption>The frame around the picture was added when we changed the design of the slide using Designer. We can hide it because it is considered a “Background Graphic” of the slide. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00032">Next, click on the picture and access the Picture Format tab to make the picture transparent. The Transparency tool is located in the Adjust command group. Choose the down arrow to see the transparency options for the photo (<link target-id="fig-00017"/>). When you have selected an option that works, you will need to resize the photo to take up more of the background of the slide. You can also adjust the cropping of the image from the circle to a different shape, if desired. It may be a good idea to change the font color of the text to make it stand out more from the image background. There are other options in the Adjust command group to change the look of the picture, such as the Artistic effects (<link target-id="fig-00018"/>). Explore the options and see how the changes impact the image. If desired, you can also reset the image to its original state.</para>
+    <para id="para-00033">Keep in mind that as you resize a picture, its quality may be diminished, depending on the original resolution of the image. You may not be able to enlarge all images to fill the entire slide while maintaining the clarity of the photo. In this example, the photo is slightly blurred, but because it is more transparent, the image quality is still acceptable.</para>
+    <figure id="fig-00017">
+    <media alt="A PowerPoint screen is open with the Transparency option selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_TRANSPRNTa.jpg"/>
+    </media>
+    <caption>You can adjust an image to various levels of transparency. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00018">
+    <media alt="A PowerPoint screen is open with the Picture Format tab open. There is a red box around the command group tools.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_02_TRANSPRNTb.jpg"/>
+    </media>
+    <caption>There are numerous ways to enhance images using the Adjust command group tools. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00009">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>Color can be used to enhance a presentation and convey emotions.</item>
+    <item>There are a variety of ways to modify a theme used in a presentation. You can modify colors, fonts, and placement of elements on the slide.</item>
+    <item>The Designer tool gives you options for adding variety and interest to your slides.</item>
+    <item>When images are included on slides, you can customize the size and look of an image through various tools, including cropping, removing the background, and changing the transparency of the image.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00010">
+    <title>Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00034"><link class="os-embed" url="#exercise/07-02-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00035"><link class="os-embed" url="#exercise/07-02-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00036"><link class="os-embed" url="#exercise/07-02-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00037"><link class="os-embed" url="#exercise/07-02-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00011">
+    <title>Written Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00038"><link class="os-embed" url="#exercise/07-02-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00012">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00039"><link class="os-embed" url="#exercise/07-02-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00040"><link class="os-embed" url="#exercise/07-02-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00041"><link class="os-embed" url="#exercise/07-02-BCA-PE03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00013">
+    <title>Case Exercises</title>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00042"><link class="os-embed" url="#exercise/07-02-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>aspect ratio</term>
+    <meaning>the relationship between the height of an image and its width</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>crop</term>
+    <meaning>a tool used to remove portions of an image that is inserted onto a slide</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>Designer</term>
+    <meaning>a feature that adds variety and interest to slides</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>Slide Master</term>
+    <meaning>summarizes features contained in a slide</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>transparency</term>
+    <meaning>the degree of light that is allowed to pass through an image</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>Variants</term>
+    <meaning>change elements in a theme, such as background color and fonts</meaning>
+    </definition>
+    </glossary>
 </document>
