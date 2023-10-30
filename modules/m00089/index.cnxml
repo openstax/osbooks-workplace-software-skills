@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+  <title>Chapter Scenario</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Chapter Scenario</md:title>
+    <md:content-id>m00089</md:content-id>
+    <md:uuid>f1fee5f3-740e-4950-a6c2-e4878fd7e080</md:uuid>
+  </metadata>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <media alt="Image of a person holding a scanner and tablet in front of items on a shelf. Other shelves with items are visible in the back.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_00_CHAPOP01.jpg"/>
+    </media>
+    <caption>As businesses grow, they often need to use more advanced features in Microsoft Access for complex database design and querying to help with tasks like managing inventory. (credit: modification of “Man in Black and Gray Plaid Dress Shirt Holding Black Smartphone” by Tiger Lily/Pexels, CC0)</caption>
+    </figure>
+    <para id="para-00001">Now it is time to discuss advanced database applications at WorldCorp. As you continue to grow with the company, we will expect you to dive deeper into what is possible with data analysis. Your role will continue to advance as an analyst working with data professionals supporting various teams within WorldCorp.</para>
+    <para id="para-00002">WorldCorp wants to grow and expand into its independent retail locations to better serve its vast customer base. It still needs to create a database to manage inventory for these new locations. This would involve more complex database design and querying, as well as the use of advanced features in Microsoft Access.</para>
+    <para id="para-00003">First, we want to determine the data WorldCorp might need to store. We can start by identifying the key elements to track—potential product names, SKU numbers, locations, quantity on hand, and likely reorder points—and designing a table structure to best serve each type of data. For example, you could create a “Products” table with fields for product name, SKU number, description, and unit cost, as well as a “Locations” table with fields for location name and address.</para>
+    <para id="para-00004">WorldCorp would need a user interface to enter the data for each product and location into their respective tables. We will walk through some advanced steps in Access queries to retrieve specific sets of data from specific tables—for example, a query to find all products with a quantity on hand below the reorder point, or to find all products located in a specific store. You will also learn how to create reports to help keep track of inventory by summarizing and displaying data in a user-friendly format. For example, you could create a report that shows inventory levels by location, or one that shows sales trends by product category.</para>
+    </content>
+</document>

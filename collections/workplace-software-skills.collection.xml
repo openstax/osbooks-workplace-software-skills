@@ -160,5 +160,17 @@
         <col:module document="m00088"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Advanced Database Use</md:title>
+      <col:content>
+        <col:module document="m00089"/>
+        <col:module document="m00090"/>
+        <col:module document="m00091"/>
+        <col:module document="m00092"/>
+        <col:module document="m00093"/>
+        <col:module document="m00094"/>
+        <col:module document="m00095"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
