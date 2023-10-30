@@ -1,10 +1,17 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Chapter Scenario</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Chapter Scenario</md:title>
     <md:content-id>m00082</md:content-id>
     <md:uuid>2be6be97-75a8-4dbd-aa7b-a123a1d5a614</md:uuid>
   </metadata>
-  <content>
-  </content>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <media alt="A person walks down the aisle of a warehouse holding a large box. Shelves on either side of the aisle are filled with various items.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_00_CHAPOP01.jpg"/>
+    </media>
+    <caption>Warehouses like this one require complex systems to manage their inventory. Microsoft Access is designed to handle and report on large amounts of data. (credit: modification of “Man Standing in an Aisle of a Warehouse Carrying a Box” by Tiger Lily/Pexels, CC0)</caption>
+    </figure>
+    <para id="para-00001">Welcome to the Business Analysis Department at WorldCorp. We are happy you will be working here. Your role as an analyst is to work with data professionals who support various teams within WorldCorp. Most of the time, you will be tasked with supporting the sales and marketing team, though you may also work with data from other areas of the company. To get started, you will learn what a database is and how to use its data, maintain its records, and create data reports. We focus on <term class="no-emphasis" id="term-00001">Microsoft Access</term> in this chapter, but other database programs have similar features and functionality.</para>
+    </content>
 </document>
