@@ -148,5 +148,17 @@
         <col:module document="m00026"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Understanding and Using Databases</md:title>
+      <col:content>
+        <col:module document="m00082"/>
+        <col:module document="m00083"/>
+        <col:module document="m00084"/>
+        <col:module document="m00085"/>
+        <col:module document="m00086"/>
+        <col:module document="m00087"/>
+        <col:module document="m00088"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
