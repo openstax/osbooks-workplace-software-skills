@@ -73,14 +73,14 @@
     <section id="sect-00004">
     <title>Multiplying Numbers</title>
     <para id="para-00007">As in Excel, when using the multiplication formula in Sheets, you can multiply a cell reference by a constant or a cell reference by a cell reference. Using the same dataset, you can find the FOB $ by multiplying the quantity by the price per unit. <link target-id="fig-00007"/>a shows multiplication of the cell reference from the Quantity column by the constant price per unit without adding a column for the value. A Price per Unit column is added and the constant in the formula is replaced with the cell reference (<link target-id="fig-00007"/>b). You can repeat the calculation for all rows, as previously illustrated.</para>
-    <figure id="fig-00007" class="scaled-down-30">
+    <figure id="fig-00007" class="scaled-down">
     <title/>
     <media alt="(a) Cell F3 displays $720.00 in cell and formula bar displays =D3*48. (b) An addition column (F) has been added (Price per Unit). Cell G3 (FOB$) displays =D3*F3.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_PRODUCT01.jpg"/></media>
     <caption>You can use cell references and constants for multiplication using formulas in Sheets. (a) The price per unit is the same for all items in this table, so you can multiply the quantity by the price without adding a column. Alternatively, you can add a column for the price per unit and (b) use cell references to perform the calculation. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00008">To use the function, replace the formula with “=multiply(” and add the constant and/or cell references in parentheses, separated by commas (<link target-id="fig-00008"/>). You can only multiply two numbers using the <term class="no-emphasis" id="term-00003">MULTIPLY function</term>. Sheets has another function, <term class="no-emphasis" id="term-00004">PRODUCT</term>, that can multiply a series of numbers rather than just two.</para>
-    <figure id="fig-00008" class="scaled-down-30">
+    <figure id="fig-00008" class="scaled-down">
     <title/>
     <media alt="Cell G3 is selected and the formula bar and cell say: =multiply(D3,F3)">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_MULTI01.jpg"/></media>

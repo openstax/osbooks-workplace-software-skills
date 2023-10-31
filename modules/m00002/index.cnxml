@@ -23,7 +23,7 @@
     <title>Common Uses of Spreadsheets</title>
     <para id="para-00003">Excel is a <term id="term-00002">spreadsheet</term> software application type that has rows and columns in a grid pattern. A cell is the intersection of a row and a column, and it looks like a rectangle. You can enter data into the cells to design tables and graphs and perform data analysis. A <term id="term-00003">workbook</term> is a file that contains at least one <term id="term-00004">worksheet</term>, which is a tab within a workbook where you can input data and design tables and graphs that use the data (<link target-id="fig-00001"/>). The terms <emphasis effect="italics">worksheet</emphasis> and <emphasis effect="italics">spreadsheet</emphasis> are interchangeable, but Excel uses the <emphasis effect="italics">worksheet</emphasis> terminology.</para>
     <para id="para-00004">A workbook may contain several worksheets, similar to taking a hard copy of a set of data and adding it to another hard copy in a file folder. One benefit of using a workbook is that the worksheets within it can communicate with each other. Having multiple worksheets in one workbook gives you flexibility in organizing and analyzing your data. Data analysis grows in complexity as a business grows. Even a simple accounting system for a small business designed in Excel will require many sheets, and each worksheet can feed or receive data from other worksheets. One workbook can contain all of these worksheets together, as in a manila file folder.</para>
-    <figure id="fig-00001" class="scaled-down-30">
+    <figure id="fig-00001" class="scaled-down">
     <title/>
     <media alt="A blank spreadsheet in Excel.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_01_WSheet.jpg"/></media>

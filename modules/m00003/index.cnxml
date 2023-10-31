@@ -109,14 +109,14 @@
     <title>Using the Text and General Cell Formats</title>
     <para id="para-00014">When your worksheet uses <term id="term-00014">text data</term>, which is information made up of words, letters, numerals, or a combination of those things, you can use the General or the Text cell format. For example, say you have salespersons’ names in <term class="no-emphasis" id="term-00015">Text format</term>, and item descriptions in the <term class="no-emphasis" id="term-00016">General format</term>. In a blank worksheet, you can enter your data using the default General format, and Excel will automatically format it according to the type of data you’re entering. For example, if you type a date in a cell formatted as General, <term class="no-emphasis" id="term-00017">Excel</term> will identify it as a date and reformat it accordingly. If Excel detects a number or text, it will remain in the General format. General formatting is flexible and can accommodate numbers or text. Because Excel may automatically change the format of your cell contents if you leave the format as General, consider formatting all numbers as Number or Accounting, as appropriate.</para>
         <para id="para-00015">If you format your words or letters as Text, then Excel will not try to autoformat them. <link target-id="fig-00005"/> compares the same data formatted as Text and formatted as Number. The Text format is flexible in that it can store numbers, letters, symbols, and words.</para>
-    <figure id="fig-00005" class="scaled-down-30">
+    <figure id="fig-00005" class="scaled-down">
     <title/>
     <media alt="Spreadsheet displays Text and Number columns filled with various numbers in both. Last cell in Text column displays =4*5 and last cell in Number column displays 20.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_TEXT02.jpg"/></media>
     <caption>Numbers can be stored as text data to retain symbols or leading zeros, which are regularly used in some government reports, identification numbers, and some phone numbers. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00016">You are not restricted to the autoformatting that occurs when you type your data into a cell with General formatting. If you enter a number using the General format (<link target-id="fig-00006"/>a), but you want the number to display as currency, for example, simply select the cell or column and then choose Currency from the Number command group’s drop-down menu (<link target-id="fig-00006"/>b). Excel will automatically add the currency symbol and two decimal places. All cells in a new workbook are by default set to General format, but you can design your tables with the correct format for your purpose.</para>
-    <figure id="fig-00006" class="scaled-down-30">
+    <figure id="fig-00006" class="scaled-down">
     <title/>
     <media alt="(a) Price per Unit column displays plain numbers/decimals. General is selected in Number command group. (b) Price per Unit column displays monetary numbers (i.e., $48.00). Currency is selected in Number command group.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_02_GENER01.jpg"/></media>

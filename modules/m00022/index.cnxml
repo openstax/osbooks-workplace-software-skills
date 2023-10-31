@@ -51,7 +51,7 @@
     <section id="sect-00002">
     <title>Clustered Column Chart</title>
     <para id="para-00006">A <term id="term-00001">clustered column chart</term> is simply a column chart that includes multiple variables to show the comparison between the groups. A column chart compares one variable against another variable. For example, you might put the sales region on the horizontal axis and the total sales on the vertical axis. A clustered column would have that, but it would include the same data for multiple years of data. The clustered column chart is great for showing comparisons (<link target-id="fig-00001"/>). Using the WorldCorp data, you can create a clustered column chart to see the comparisons between the quantity sold for each product type over time. A drawback of the clustered column chart is that it is not appropriate for large amounts of data. If you have more than five sets of data, the chart can look too busy and overwhelm your audience. The clustered column chart also works better with a 2D display rather than a 3D display. The 3D display can look too busy and can make it difficult to interpret the information easily.</para>
-    <figure id="fig-00001" class="scaled-down-30">
+    <figure id="fig-00001" class="scaled-down">
     <media alt="Clustered chart displays February, March on x axis; # of Units on y axis, (0 to 800, increments of 200). Blue bars indicate Computer Servers and Accessories and red bars indicate home Stereo Systems.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ClustCol.jpg"/>
     </media>
@@ -61,7 +61,7 @@
     <section id="sect-00003">
     <title>Combination Chart</title>
     <para id="para-00007">A <term id="term-00002">combination chart</term> combines two different chart types in one visual, allowing you to display data at different levels on the same chart. You can use combination charts to understand and examine comparisons between groups and the relationship between different variables. With this example, a combination chart can be created to show the FOB $ for each month based on the quantity sold for each of the two product types. With the combination chart, you determine which chart is appropriate for each data series you are including. <link target-id="fig-00002"/> uses a column chart for quantity sold and a line graph for FOB $. Combination charts are often easier to interpret as 2D than as 3D. Consider using contrasting colors to make the plotted series more visible.</para>
-    <figure id="fig-00002" class="scaled-down-30">
+    <figure id="fig-00002" class="scaled-down">
     <media alt="Combination chart displays bar chart with line chart in front.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Combo.jpg"/>
     </media>
@@ -160,7 +160,7 @@
       <caption>Remember to give it a file name and that the Save as file type is a chart template file. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00017">To access the saved template, go to the Insert tab and choose Recommended Charts (<link target-id="fig-00011"/>). Then, select All Charts and Templates. The saved template should be listed, and you can select that template to apply to the new dataset. Click on the template, then click OK, and Excel creates the chart based on your new dataset.</para>
-    <figure id="fig-00011" class="scaled-down-30">
+    <figure id="fig-00011" class="scaled-down">
     <media alt="Insert Chart pane selects Templates from left menu. All Charts is highlighted and My Templates displays a colorful Chart.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ChartTemp2.jpg"/>
     </media>
@@ -177,7 +177,7 @@
     <caption>The Quick Analysis tool can be used to add sparklines to the Data Table. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00019">When you access the tool, a menu of options appears (<link target-id="fig-00013"/>). Choose the appropriate tab and click on the option you want to use.</para>
-    <figure id="fig-00013" class="scaled-down-30">
+    <figure id="fig-00013" class="scaled-down">
     <media alt="Formatting tab is selected. Options listed: Data Bars, Color Scale, Icon Set, Greater Than, Top 10%, and Clear Format. Bottom reads, Conditional Formatting uses rules to highlight interesting data.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_QAMenu.jpg"/>
     </media>
@@ -186,35 +186,35 @@
     <section id="sect-00012">
     <title>Formatting</title>
     <para id="para-00020">The <term class="no-emphasis" id="term-00013">Formatting</term> options in the Quick Analysis tool will insert conditional formatting based on the criteria you select. You can also access these options through the Home tab in the Styles command group. Select the drop-down menu next to the Conditional Formatting button. <link document="m00005" target-id="sect-00010">Conditional Formatting</link> provided more detail on using conditional formatting for data. For formatting graphs and charts, there are a few options to choose from under the <term class="no-emphasis" id="term-00014">Conditional Formatting menu</term>, and you can stack the formatting options upon each other. For example, you can choose to have both the Data Bars and Icon Set displayed in your table at the same time. You can add data bars into the selected cells, and they will appear on top of the values and will be appropriately sized for the data in that cell (<link target-id="fig-00014"/>). You can format the bars through the Conditional Formatting menu on the Home tab. To remove the data bars, click on Clear Format on the far right of the Format tab in the Quick Analysis tools. You can also clear the formats by choosing the Clear Rules option in the Conditional Format menu on the Home tab.</para>
-    <figure id="fig-00014" class="scaled-down-30">
+    <figure id="fig-00014" class="scaled-down">
     <media alt="In the spreadsheet of data, column E is labeled FOB$ and lists monetary values. Horizontal bars are shown in various lengths in the column over the data.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_DataBars.jpg"/>
     </media>
     <caption>Data bars provide a visual representation of the magnitude of the data in a cell in relation to the other cells. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00021">The <term class="no-emphasis" id="term-00015">Color Scale</term> option adds colors to the cells based on the values relative to each other. There are several different color scales you can choose. For example, one color scale uses blues to represent the higher values and reds to represent the lower values in the dataset (<link target-id="fig-00015"/>). Again, to remove the colors, click on Clear Formats in the Quick Analysis tools or Clear Rules under Conditional Formatting.</para>
-    <figure id="fig-00015" class="scaled-down-30">
+    <figure id="fig-00015" class="scaled-down">
     <media alt="In the spreadsheet of data, Column D is labeled Quantity and lists numeric data. Various colors highlight the data.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_ColorScale.jpg"/>
     </media>
     <caption>Color scales are colors added to the cells based on the values relative to each other. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00022">Icon sets are a more visual way to see differences between the values in a dataset (<link target-id="fig-00016"/>). The default icon is an arrow that is either red, yellow, or green based on the value in the cell. The icon can be changed by accessing the Conditional Formatting menu on the Home tab.</para>
-    <figure id="fig-00016" class="scaled-down-30">
+    <figure id="fig-00016" class="scaled-down">
     <media alt="Column D in spreadsheet is labeled Quantity and lists numeric data. Icons of red arrows pointing down and blue arrows pointing up are visible on left sides of data in cells.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_IconSet.jpg"/>
     </media>
     <caption>Adding an icon set is yet another way to visually examine the differences within a dataset. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00023">The <term class="no-emphasis" id="term-00016">Greater Than</term> option in the Quick Analysis tools will highlight data that is greater than the value you set (<link target-id="fig-00017"/>). You set this value in the input window, choose the color scheme for the highlighted cells that meet the criteria, and then click OK. Using the default color scheme, the cells that are greater than the value you set will be highlighted with a light red fill and a dark red text.</para>
-    <figure id="fig-00017" class="scaled-down-30">
+    <figure id="fig-00017" class="scaled-down">
     <media alt="Greater Than pane displays option for Format cells that are GREATER THAN (15) with Light Red Fill with Dark Red Text. OK (selected) and Cancel buttons are located at the bottom right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Greater.jpg"/>
     </media>
     <caption>Using Greater Than, data that is outside the criteria you select is highlighted. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00024">The final option in the Formatting tab of the Quick Analysis tools is the <term class="no-emphasis" id="term-00017">Top 10%</term> tool. This tool highlights the values that are in the top 10 percent in the dataset. The default is to highlight those with light red fill and dark red text. This can be changed as desired (<link target-id="fig-00018"/>).</para>
-    <figure id="fig-00018" class="scaled-down-30">
+    <figure id="fig-00018" class="scaled-down">
     <media alt="In the spreadsheet of data, cells D7 and E6 are highlighted light red with dark red text.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Top10.jpg"/>
     </media>
@@ -224,7 +224,7 @@
     <section id="sect-00013">
     <title>Charts</title>
     <para id="para-00025">The Quick Analysis tools give you the option to quickly insert a chart of the data (<link target-id="fig-00019"/>) using the Charts tab. The chart will be inserted directly on the worksheet using the default color schemes. After you have created the chart, you can choose to customize it to meet your needs using the skills you have already learned. You can access charts not listed specifically by clicking on More Charts.</para>
-    <figure id="fig-00019" class="scaled-down-30">
+    <figure id="fig-00019" class="scaled-down">
     <media alt="Charts tab selected. Options include Line (selected), Clustered Column, Stacked Area, Stacked Column, Scatter, and More Charts. Recommended Charts help you visualize data. reads across the bottom.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Charts.jpg"/>
     </media>
@@ -244,7 +244,7 @@
     <section id="sect-00015">
     <title>Sparklines</title>
     <para id="para-00027">One way to show trends in your data is to use a <term id="term-00018">sparkline</term>, a small chart inserted into a cell next to your data that shows changes over time. There are three options in the Sparklines tab: Line, Column, and Win/Loss (<link target-id="fig-00021"/>). These can also be accessed through the Insert menu in the Sparklines command group.</para>
-    <figure id="fig-00021" class="scaled-down-30">
+    <figure id="fig-00021" class="scaled-down">
     <media alt="Sparklines tab selected. Options: Line (selected), Column, and Win/Loss. Across the bottom reads, Sparklines are mini charts placed in single cells.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_05_Sparklines.jpg"/>
     </media>

@@ -45,7 +45,7 @@
     <caption>Using the inputs of the interest rate, the number of years, and the principal amount, you can quickly determine the annual payment for the loan. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00009">The result is an annual payment on the loan of $104,328.52 (<link target-id="fig-00003"/>). The output for Excel with the PMT function is negative by default, which is displayed in parentheses and in red. This is to indicate that the loan total will decrease by that amount each year after the payment is made. Keep this in mind as you examine the output.</para>
-    <figure id="fig-00003" class="scaled-down-30">
+    <figure id="fig-00003" class="scaled-down">
       <title/>
     <media alt="Cell B4 is selected in the spreadsheet and =PMT(B2,B1,B3) shows in the formula bar. The number (104,328.52) in cell B4 is red font.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_PMT02.jpg"/>
@@ -85,7 +85,7 @@
     <caption>If you had placed the interest rates in a row rather than a column, you would use the “<emphasis effect="underline">R</emphasis>ow input cell” box instead of the “<emphasis effect="underline">C</emphasis>olumn input cell” box. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00015">The Data Table will automatically calculate the payment at each of the interest rates listed in the column below the PMT, as shown in <link target-id="fig-00007"/>. You will need to format the data to be Accounting or Currency.</para>
-    <figure id="fig-00007" class="scaled-down-30">
+    <figure id="fig-00007" class="scaled-down">
       <title/>
     <media alt="Column E lists numbers as percentages in 0.5% increments. Column F shows negative numbers with 3 or 4 decimal places to right. Cell A1 is selected with Years (N) in formula bar.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_DATTAB03.jpg"/>
@@ -93,7 +93,7 @@
     <caption>When the Data Table is created, the output is not formatted. Use the Accounting or Currency format to display the data correctly. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00016">This process will save a lot of time, as it eliminates manually creating a formula for each cell. Furthermore, with the same Data Table, any of the values in the list can be changed and the information will automatically update to the correct value. For example, to see the payments for a 6.4 percent interest rate instead of 6.5 percent, simply change that one value, and the row’s value will be autofilled to calculate the new installment payment. The rest of the data table stays the same, as you can see in <link target-id="fig-00008"/>.</para>
-    <figure id="fig-00008" class="scaled-down-30">
+    <figure id="fig-00008" class="scaled-down">
       <title/>
     <media alt="Two columns of data are shown. The cell with 6.40% shows the number $103,840.83 to its right.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_PMT03.jpg"/>
@@ -124,7 +124,7 @@
     <section id="sect-00006">
     <title>Method 1: Define a Range</title>
     <para id="para-00021">First, select the range of cells you want to name. Then, click on the leftmost box below the ribbon (Excel calls this the <term class="no-emphasis" id="term-00020">Name Box</term>). After the cursor on the Name Box begins blinking, type the name you want to use for the data range, and press Enter. Subsequently, you may refer to this range of cells as the name you typed in the Name Box. Type “digital scale” in the Name Box, as shown in <link target-id="fig-00011"/>.</para>
-    <figure id="fig-00011" class="scaled-down-30">
+    <figure id="fig-00011" class="scaled-down">
       <title/>
     <media alt="An arrow points to a box in the top left of the spreadsheet with digital_scale inside the box. RX-500 shows in the formula bar. Column A is selected.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_01_CellRang01.jpg"/>

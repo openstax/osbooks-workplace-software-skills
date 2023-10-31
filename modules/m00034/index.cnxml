@@ -44,7 +44,7 @@
     <section id="sect-00004">
     <title>Orientation</title>
     <para id="para-00010">Page orientation refers to whether the page is vertical or horizontal. The default in Word is the vertical layout, called <term id="term-00005">portrait</term> orientation. This layout works best for everyday text documents, such as business reports and correspondence. The horizontal layout is known as <term id="term-00006">landscape</term> orientation, and works best for documents with tables and graphs that otherwise would not fit well on a vertical page. Using the <term class="no-emphasis" id="term-00007">Orientation</term> command in the Page Setup command group, you can alter the orientation of your entire document, or also limit the changes to certain pages or sections. <link target-id="fig-00003"/> shows the two layout options.</para>
-    <figure id="fig-00003" class="scaled-down-30">
+    <figure id="fig-00003" class="scaled-down">
     <media alt="The Layout tab is selected and in the Page Setup command group the Orientation button displays a drop-down pane with Portrait and Landscape available for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_02_Orient.jpg"/>
     </media>

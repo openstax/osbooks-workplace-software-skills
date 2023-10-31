@@ -157,7 +157,7 @@
     <caption>When establishing a data validation list, you can (a) directly enter the text or values, but it is preferred to use (b) cell references so that the drop-down list is dynamic. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00041">Either method will give the user a drop-down list to choose from when inputting information into the spreadsheet (<link target-id="fig-00013"/>). If the list needs to be copied to other cells, it can be copied using the Paste Special technique (see <link document="m00049">Essentials of Software Application for Business</link>).</para>
-    <figure id="fig-00013" class="scaled-down-30">
+    <figure id="fig-00013" class="scaled-down">
     <media alt="Headers in a table include Employee (Column A), Days Left (Column B), Location (Column C). Cell C2 displays a drop-down button open with these options: North, East, and South.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_DropDown.jpg"/>
     </media>
@@ -180,7 +180,7 @@
     <section id="sect-00011">
     <title>Editing Validation Rules</title>
     <para id="para-00046">To edit existing validation rules, first identify the cells where data validation rules are located. To do this, on the Home tab, go to Find &amp; Select on the far right side of the tab, and choose the down arrow. When the menu appears, choose <term class="no-emphasis" id="term-00024">Data Validation</term>. This will highlight all cells that have data validation rules. To view the parameters of that rule, simply click in one of the highlighted cells. Then, go to the Data Validation tool. The tool window will appear and list the restrictions of the data validation rule. If you want to make any changes, you can make them here. However, before closing the window, ensure that you check the box next to the instruction “Apply these changes to all other cells with the same settings” (<link target-id="fig-00015"/>). This will then apply the changes to the other cells with the same data validation rule.</para>
-    <figure id="fig-00015" class="scaled-down-30">
+    <figure id="fig-00015" class="scaled-down">
     <media alt="Data Validation pane displays box checked for Apply these changes to all other cells with the same setting.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_EditRule.jpg"/>
     </media>

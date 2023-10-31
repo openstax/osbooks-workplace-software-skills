@@ -167,7 +167,7 @@
 <image mime-type="image/jpg" src="../../media/OSX_BCA_12_02_DB01.jpg"/></media>
 <caption>The salvage value is the worth of the asset if you were to sell it. The DB function calculates depreciation, which can reduce a company’s taxes. (Used with permission from Microsoft)</caption>
 </figure>
-<figure id="fig-00012" class="scaled-down-30">
+<figure id="fig-00012" class="scaled-down">
 <media alt="An arrow points to $18,627.12 in cell B5 (Depreciation).">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_12_02_DB01c.jpg"/></media>
 <caption>The resulting value is the annual depreciation of the asset to be deducted as an expense. (Used with permission from Microsoft)</caption>

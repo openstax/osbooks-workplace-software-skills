@@ -29,14 +29,14 @@
     <caption>The Scenario Manager tool provides a way to look quantitatively at contingency planning. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00006">A scenario determines the values that Excel will use to change the input cells. You can save different scenarios with different values to view the impact on your target cell(s) at the same time. When you choose Scenario Manager, an input window will appear (<link target-id="fig-00002"/>). From here, you will set the changing cells that define the scenario and the target cell for the results.</para>
-    <figure id="fig-00002" class="scaled-down-30">
+    <figure id="fig-00002" class="scaled-down">
     <media alt="Scenario Manager pane displays Scenarios options: window reds: No Scenarios defined. Choose Add to add scenarios. Add button selected at right. Changing cells and Comment windows blank.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_Scenario2.jpg"/>
     </media>
     <caption>To use the Scenario Manager, first set the changing cells and target cell. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00007">Let’s begin with a simple example of obtaining a home mortgage. The initial mortgage is for $150,000 for 30 years with an interest rate of 5 percent. You want to find a better interest rate and see the impact that rate will have on your payment and the total amount you will pay. Using the <term class="no-emphasis" id="term-00003">PMT</term> (payment) and <term class="no-emphasis" id="term-00004">FV</term> (future value) functions from the <term class="no-emphasis" id="term-00005">Function Library</term>, you can quickly determine the status of the loan (<link target-id="fig-00003"/>). With these values at the current rate of 5 percent, you will pay just over $800 per month and at the end of the life of the loan, you will have paid nearly $260,000. The functions by default return a negative number for the results, as indicated by the parentheses and the red font color. You will need to adjust the equation to convert the number to a positive number. You can either put a “-” in front of the function or use the <term class="no-emphasis" id="term-00006">ABS</term> function at the beginning of the formula to use the absolute value of the number. You can use the Scenario Manager to investigate different interest rates and different payment terms if you decide you want to pay the loan over 15 years or a time frame other than the standard 30-year mortgage term. You will use the same mortgage example to investigate different levels for the interest rate and repayment terms.</para>
-    <figure id="fig-00003" class="scaled-down-30">
+    <figure id="fig-00003" class="scaled-down">
     <media alt="In the spreadsheet, cell E3 is selected and =FV(A3,12,D3,C3) is in the formula bar. ($256,561.46) is inside cell E3 in red font.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_Mortgage.jpg"/>
     </media>
@@ -60,7 +60,7 @@
     <caption>Define the ranges of values for Excel to manipulate in the scenario. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00010">Notice that you have two scenarios listed in the Scenario Manager (<link target-id="fig-00006"/>).</para>
-    <figure id="fig-00006" class="scaled-down-30">
+    <figure id="fig-00006" class="scaled-down">
     <media alt="Scenario Manager pane displays selected options: Scenarios (High rate, Low rate). Add, Delete, Edit, Merge, Summary buttons visible. Changing cells: ($A$3:$B$3), Comment: (Created by AM on 3/25/2021, Modified by AM on 3/25/2021).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_03_List.jpg"/>
     </media>

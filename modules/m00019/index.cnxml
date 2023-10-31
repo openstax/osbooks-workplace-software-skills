@@ -22,14 +22,14 @@
     <section id="sect-00002">
     <title>Basic Statistical Functions</title>
     <para id="para-00005">There are several commonly used <term class="no-emphasis" id="term-00003">statistical functions</term> that can give you a basic summary and understanding of the information in your spreadsheet. You can access the functions through the Formulas tab. From this tab, you can either choose Insert Function on the far left of the tab or use the grouped functions in the Function Library (<link target-id="fig-00001"/>). The <term class="no-emphasis" id="term-00004">Function Library</term> is helpful if you are not quite sure of the appropriate function for your needs. The functions are organized by application (e.g., financial) and include the ones that are most commonly used.</para>
-    <figure id="fig-00001" class="scaled-down-30">
+    <figure id="fig-00001" class="scaled-down">
     <media alt="Formulas tab selected. Insert Function button is highlighted on toolbar. Function Library toolbar options: Auto Sum, Recently Used, Financial, Logical, Text, Date &amp; Time, Lookup &amp; Reference, Math &amp; Trig, More Functions.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_Functions.jpg"/>
     </media>
     <caption>Functions can be found in the Insert Function tool or in the Function Library. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00006">Using the <term class="no-emphasis" id="term-00005">Insert Function</term> command has some advantages. When you click on Insert Function, a window appears with the functions grouped by category like in the Function Library, and then listed alphabetically within each category. When you click on a function, a brief description of the function appears in the window. There is also an option to search for functions by typing a description or keyword. This is useful if you are unsure of the function’s purpose (<link target-id="fig-00002"/>).</para>
-    <figure id="fig-00002" class="scaled-down-30">
+    <figure id="fig-00002" class="scaled-down">
     <media alt="Insert Function pane displays options. Select a function displays multiple options for selection (COUNT selected). Counts the number of cells in a range that contains numbers. reads at bottom.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_InsertF.jpg"/>
     </media>
@@ -50,7 +50,7 @@
     <caption>The selected cells for the function are displayed on the spreadsheet. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00009">One of the most commonly used functions is <term class="no-emphasis" id="term-00007">SUM</term>. It even has its own button on the Home tab as the <term class="no-emphasis" id="term-00008">AutoSum</term> feature (<link target-id="fig-00005"/>). The function gives the total for a selected range of cells. Other commonly used functions in data analysis are <term class="no-emphasis" id="term-00009">MODE</term>, <term class="no-emphasis" id="term-00010">RANGE</term>, <term class="no-emphasis" id="term-00011">MEDIAN</term>, and <term class="no-emphasis" id="term-00012">AVERAGE</term>, which returns the mean of a selected range of data.</para>
-    <figure id="fig-00005" class="scaled-down-30">
+    <figure id="fig-00005" class="scaled-down">
     <media alt="An arrow points to the AutoSum shortcut on the toolbar.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_AutoSum.jpg"/>
     </media>
@@ -183,7 +183,7 @@
     <title>Data Analysis Tools Add-in</title>
     <para id="para-00017">Excel has many advanced data analysis tools available. These include a wide variety of simple and more complex statistical functions that are available as individual functions in Excel, but it is easier to access the tools through the add-in called Data Analysis. This add-in puts all the statistical tools together in one place. As this section discusses these tools, it will keep the focus on using the tools within Excel and not on statistical techniques, their assumptions, and usage for data analysis. (You can learn more about those topics in a statistics course or resource.) Some of the most commonly used built-in tools include <term class="no-emphasis" id="term-00027">Correlation</term>, <term class="no-emphasis" id="term-00028">Descriptive Statistics</term>, <term class="no-emphasis" id="term-00029">Histogram</term>, and <term class="no-emphasis" id="term-00030">Regression</term>. Additional advanced tools include <term class="no-emphasis" id="term-00031">Analysis of Variance (ANOVA)</term>, and several tools for testing hypothesis, including the <term class="no-emphasis" id="term-00032">F-Test</term>, <term class="no-emphasis" id="term-00033">t-Test</term>, and <term class="no-emphasis" id="term-00034">z-Test</term>.</para>
     <para id="para-00018">Excel also offers a helpful feature to guide you through ideas for analyzing your dataset, called the Analyze Data help feature, accessed on the far-right side of the Home tab (<link target-id="fig-00010"/>). This tool allows you to search for helpful functions or Excel tools to analyze your dataset. A pop-out will appear on the right side of the screen, listing a few examples of ways to understand the data better. If you are finding it difficult to get started on analyzing a dataset, this might be an effective way to generate ideas as you work through the information. Suggested items for data analysis might include charts, graphs, or a PivotTable.</para>
-    <figure id="fig-00010" class="scaled-down-30">
+    <figure id="fig-00010" class="scaled-down">
     <media alt="In the toolbar, the Analyze Data button on the Analysis command group is circled.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_Analyze.jpg"/>
     </media>
@@ -229,7 +229,7 @@
     <caption>Correlation is used to find the relationship between two variables. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00025">Using the dataset from WorldCorp’s product sales, you can create the correlation matrix in <link target-id="fig-00013"/> as the output. The default for Excel is to include several decimal points. Often, this level of detail is not necessary, so you may need to clean the output by reducing the number of decimal points and changing the column widths. You might also consider additional formatting such as bolding certain numbers or filling cells with color. According to the output, the correlation between sales and price is not very strong. The value −0.092 is closer to zero than it is to one, which indicates that management’s suspicion that more products at the lower price range are sold is not correct.</para>
-    <figure id="fig-00013" class="scaled-down-30">
+    <figure id="fig-00013" class="scaled-down">
     <media alt="In the spreadsheet, seven cells are populated with data: A2: Quantity, A3: Unit Price, B1: Quantity, C1: Unit Price, B2: 1, B3: -0.09249, and C3: 1.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_Matrix.jpg"/>
     </media>
@@ -246,7 +246,7 @@
     <caption>The Descriptive Statistics tool is a quick way to summarize a dataset. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00027">Notice that you also have an option to select confidence levels and both the <emphasis effect="italics">K</emphasis>th largest and smallest values in the output. These are more advanced level statistical analyses. If desired, choose those options to be included in the output. The default setting for confidence intervals in Excel is 95 percent, but you can customize that setting. If you use the dataset for WorldCorp, you obtain the following output when you use the Descriptive Statistics tool (<link target-id="fig-00015"/>).</para>
-    <figure id="fig-00015" class="scaled-down-30">
+    <figure id="fig-00015" class="scaled-down">
     <media alt="Unit Price spreadsheet header lists numerical data for Mean, Standard of Error, Median, Mode, Standard Deviation, Sample Variance, Kurtosis, Skewness, Range, Minimum, Maximum, Sum, and Count.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_SumStats.jpg"/>
     </media>
@@ -257,7 +257,7 @@
     <section id="sect-00009">
     <title>Histograms</title>
     <para id="para-00029">A <term id="term-00038">histogram</term> is a chart that displays the number of occurrences of data within a defined range. This is a convenient way to easily see the ranges of most of the data. It is not an in-depth statistical analysis of the data; instead, it provides a summary of the overall distribution of the data. Histograms can be used with data that is at least at the ordinal level of measurement. The histogram function can be accessed through the Data Analysis library. When selected, as with others in the analysis library, an input window will appear (<link target-id="fig-00016"/>). You will need to input some information such as the <term class="no-emphasis" id="term-00039">input range</term> and the <term class="no-emphasis" id="term-00040">bin range</term>.</para>
-    <figure id="fig-00016" class="scaled-down-30">
+    <figure id="fig-00016" class="scaled-down">
     <media alt="Histogram pans displays Input options for Input Range, Bin Range, Labels. Output options include: Output Range, New Worksheet Ply, New Workbook, Pareto (sorted histogram), Cumulative Percentage, Chart Output.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_Histogram.jpg"/>
     </media>
@@ -290,7 +290,7 @@
     <para id="para-00037">Regression is the primary tool used by businesses to determine if a relationship between variables exists, as well as the magnitude and nature of this relationship should it exist. In business, regression can be helpful in optimization and business forecasting across a variety of industries. For instance, you can investigate the increase in new home sales based on economic growth. You can also make determinations about how much inventory to purchase.</para>
     </note>
     <para id="para-00038">Regression is one of the Data Analysis tools. As with the other tools, when you open it, an input window will appear (<link target-id="fig-00019"/>). Select the column to use for the <emphasis effect="italics">Y</emphasis> variable and then select the column(s) to use for the independent variable(s) <emphasis effect="italics">X</emphasis>. If using more than one independent variable, be sure that all the <emphasis effect="italics">X</emphasis> variable columns are next to each other. Also note that you must have equal numbers of rows for all variables you select for analysis.</para>
-    <figure id="fig-00019" class="scaled-down-30">
+    <figure id="fig-00019" class="scaled-down">
     <media alt="Regression pane displays Input options for Input Y Range and Input X Range. Other options available include Labels, Confidence Level, Constant is Zero available. New Worksheet Ply is selected in Output options.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_Regress.jpg"/>
     </media>
@@ -321,7 +321,7 @@
     <para id="para-00043"><term class="no-emphasis" id="term-00043">Analysis of variance (ANOVA)</term> is a statistical technique used to compare more than two groups at the same time. It involves conducting an analysis to determine if differences are present in the data based on their respective variances.</para>
     <para id="para-00044">There are three types of ANOVA analyses available in Excel that are easily accessed through the Data Analysis tool. The input windows for the ANOVA functions look very similar, so be sure to check the title at the top of the input window.</para>
     <para id="para-00045"><term class="no-emphasis" id="term-00044">ANOVA: Single Factor</term> focuses on analyzing information for a single variable (<link target-id="fig-00021"/>). For example, perhaps you want to do some price checking on your favorite brands at three retailers. You could use ANOVA to determine if there are price differences between the retailers.</para>
-    <figure id="fig-00021" class="scaled-down-30">
+    <figure id="fig-00021" class="scaled-down">
     <media alt="Anova: Single Factor pane displays Input options: Input Range, Grouped By: Columns (selected) and Rows, Labels in First Row, Alpha (0.05). Output options include Output Range, New Worksheet Ply (selected), New Workbook.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_SingleFact.jpg"/>
     </media>
@@ -329,14 +329,14 @@
     </figure>
     <para id="para-00046">To use the Single Factor function, simply select the data of interest and choose the appropriate grouping of the data (columns or rows). Be sure to check the Labels box if you included the headings in your selection. You also have the option to change the alpha (significance level) for your analysis. The output will be in the form of a typical ANOVA table, which you may have seen in a statistics course.</para>
     <para id="para-00047"><term class="no-emphasis" id="term-00045">ANOVA: Two-Factor With Replication</term> is used to test two variables and to determine if there is any interaction present in the variables (<link target-id="fig-00022"/>). The input window looks like that of the Single Factor, except you will need to add the number of rows per sample. This number will need to be the same for all categories. You must also have row and column headings for this option. Excel assumes that the first column and the first row in the selection will include the headings for the data, so there is no Labels checkbox.</para>
-    <figure id="fig-00022" class="scaled-down-30">
+    <figure id="fig-00022" class="scaled-down">
     <media alt="Anova: Two-Factor With Replication pane Input options: Input Range, Rows per sample, Alpha (0.05). Output options include Output Range, New Worksheet Ply (selected), New Workbook.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_TwoFwRep.jpg"/>
     </media>
     <caption>ANOVA: Two-Factor With Replication requires that all samples have an equal number of rows. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00048">The final type of ANOVA in Excel is <term class="no-emphasis" id="term-00046">ANOVA: Two-Factor Without Replication</term>, which allows you to test two variables. Unlike With Replication, here you will not be testing for the interaction between the two variables. Instead, you are testing the two variables independent of each other, but simultaneously. Notice in <link target-id="fig-00023"/> that the window looks the same as the window for Single Factor, except for the title. There is no box to fill in the Rows per Sample, as there is in Two-Factor With Replication.</para>
-    <figure id="fig-00023" class="scaled-down-30">
+    <figure id="fig-00023" class="scaled-down">
     <media alt="Anova: Two-Factor Without Replication pane Input options: Input Range, Labels, Alpha (0.05). Output options include Output Range, New Worksheet Ply (selected), New Workbook.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_TwoFwoRep.jpg"/>
     </media>
@@ -349,7 +349,7 @@
     <section id="sect-00013">
     <title>F-Test</title>
     <para id="para-00050">The <term class="no-emphasis" id="term-00047">F-Test</term> is used to determine if two datasets are from the same population based on their variances. It is another type of hypothesis test that can be used for in-depth statistical analysis. Select F-Test: Two Sample for Variances from the Data Analysis tool library. As with the other functions, an input window will appear (<link target-id="fig-00024"/>). You will need to select the range of each variable separately. The ranges do not need to be the same size. Check the Labels box if you included the column headings. Click OK when you are ready to analyze the data.</para>
-    <figure id="fig-00024" class="scaled-down-30">
+    <figure id="fig-00024" class="scaled-down">
     <media alt="F-Test Two-Sample for Variances pane Input options: Variable 1 Range, Variable 2 Range, Labels, Alpha (0.05). Output options include Output Range, New Worksheet Ply (selected), New Workbook.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_FTest.jpg"/>
     </media>
@@ -359,14 +359,14 @@
     <section id="sect-00014">
     <title>T-Tests</title>
     <para id="para-00051"><term class="no-emphasis" id="term-00048">T-Tests</term> are also hypothesis tests. T-Tests are used when data does not follow the normal distribution (a concept in statistics), when the sample sizes are small (generally less than 30), or when you do not have a population standard deviation. It is often used in statistics to test for statistical differences between two groups of data. There are three t-Tests available in Excel. The input windows look the same, except for the title of the input window, so make sure you have selected the appropriate test. The first type, <term class="no-emphasis" id="term-00049">t-Test: Paired Two Sample for Means</term> is for dependent datasets, such as if you are determining the success of a coupon campaign. You could track sales for a group of customers before the coupon and then track the sales for the same group of customers after the coupon campaign. You can then use this test to determine if there is a statistical difference between the means of the two groups, or you can input a specific level for the difference in the Hypothesized Mean Difference input argument (<link target-id="fig-00025"/>). If there is no set difference level you are investigating, then type “0” in the Hypothesized Mean Difference box.</para>
-    <figure id="fig-00025" class="scaled-down-30">
+    <figure id="fig-00025" class="scaled-down">
     <media alt="t-Test: Paired Two Sample for Means pane Input options: Variable 1 Range, Variable 2 Range, Hypothesized Mean Difference, Labels, Alpha (0.05). Output options include Output Range, New Worksheet Ply (selected), New Workbook.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_Paired.jpg"/>
     </media>
     <caption>The Paired Two Sample for Means test examines before and after comparisons. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00052">The two remaining t-Tests in Excel are for analysis with independent datasets. The tests are <term class="no-emphasis" id="term-00050">t-Test: Two-Sample Assuming Equal Variances</term> and <term class="no-emphasis" id="term-00051">t-Test: Two-Sample Assuming Unequal Variances</term>. You could use the two-sample t-Test to determine if there is a difference between purchase amounts for males and females. You could also use the test to determine if sales have changed between last year and this year. The difference between the two tests is that one deals with equal variances, and the other deals with unequal variances. You will need to determine before selecting the test if the variances are nearly equal or not. You can determine if the variances of two datasets are equal by using the Descriptive Statistics tool discussed in <link target-id="sect-00008">Descriptive Statistics</link>. When you choose the appropriate function, an input window will appear (<link target-id="fig-00026"/>). As with the Paired test, you will need to select the two ranges of data and a Hypothesized Mean Difference. If there is no difference, then type “0” into the Hypothesized Mean Difference box.</para>
-    <figure id="fig-00026" class="scaled-down-30">
+    <figure id="fig-00026" class="scaled-down">
     <media alt="t-Test: Two-Sample Assuming Equal Variances pane Input options: Variable 1 Range, Variable 2 Range, Hypothesized Mean Difference, Labels, Alpha (0.05). Output options include Output Range, New Worksheet Ply (selected), New Workbook.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_TTest.jpg"/>
     </media>
@@ -390,7 +390,7 @@
     <section id="sect-00015">
     <title><term class="no-emphasis" id="term-00052">Z-Test</term></title>
     <para id="para-00055">The <term class="no-emphasis" id="term-00053">z-Test: Two Sample for Means</term> (<link target-id="fig-00029"/>) tests for differences between two independent datasets that follow the normal distribution. It is like the t-Test except that the data is normal.</para>
-    <figure id="fig-00029" class="scaled-down-30">
+    <figure id="fig-00029" class="scaled-down">
     <media alt="z-Test: Two Sample for Means pane Input options: Variable 1 Range, Variable 2 Range, Hypothesized Mean Difference. Hypothesized Mean Difference options: Variable 1 Variance (known), Variable 2 Variance (known), Labels, Alpha: (0.05).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_ZTest.jpg"/>
     </media>

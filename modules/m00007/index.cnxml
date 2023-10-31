@@ -28,7 +28,7 @@
     </exercise>
     </note>
     <para id="para-00005">You have now created a new table using the formatting of an existing table, but the table isn’t exactly what we need. Your manager asks you to add a new column between existing columns for the destination. To do this, first click on the top of column C to highlight the whole column, because you will insert the new column to its left. Then, click on the <term class="no-emphasis" id="term-00004">Insert menu</term> to select Column Left (<link target-id="fig-00002"/>a), which will insert a blank column (<link target-id="fig-00002"/>b) where you can input your new data.</para>
-    <figure id="fig-00001" class="scaled-down-30">
+    <figure id="fig-00001" class="scaled-down">
     <title/>
     <media alt="A spreadsheet with multiple columns and rows of data is shown. The whole table is selected.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_06_INSCO01.jpg"/></media>
