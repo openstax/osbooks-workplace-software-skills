@@ -17,6 +17,8 @@
     <item>Add a PivotChart to pictorially present the data</item>
     </list>
     </section>
+    <para id="para-00110">Test this link to <link url="https://openstax.org/l/78exceldata">ACT enrollments data file</link>.</para>
+    <para id="para-00111">Test this link to <link url="https://openstax.org/r/78ExcelPivotTableData">pivot table data file</link>.</para>
     <para id="para-00002">PivotTables help data analysts use raw data and organize it into an interactive tool for summarizing and analyzing the data points. WorldCorp can, for example, gather their manufacturing datasets of each machine’s daily performance and put this information into a table that the PivotTable tool can use to analyze the information. This type of organization would be useful for producing various metrics (such as machine performance) and company Key Performance Indicators (KPIs). The PivotTable tool can also divide data into a set of criteria, which will organize your data by variables you choose. This separation and division of data help you create business intelligence with ease.</para>
     <section id="sect-00002">
     <title>Definition and Uses</title>
