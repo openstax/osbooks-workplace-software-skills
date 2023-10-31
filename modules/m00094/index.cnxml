@@ -96,7 +96,7 @@
     <para id="para-00023">Finally, there is a request for which form to open after the message box appears. The following message box shown in <link target-id="fig-00006"/> was created through the code.</para>
     <figure id="fig-00006" class="scaled-down">
     <media alt="Main Menu screen opens to a NewCustomer pane with “Ask how they heard about us!” with an OK button at the bottom right.">
-    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_05_CodeBuildr.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_05_CodeBuildM.jpg"/>
     </media>
     <caption>Message boxes can be added to forms to give users specific instructions. (Used with permission from Microsoft)</caption>
     </figure>
