@@ -172,5 +172,19 @@
         <col:module document="m00095"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Integrating Applications</md:title>
+      <col:content>
+        <col:module document="m00096"/>
+        <col:module document="m00097"/>
+        <col:module document="m00098"/>
+        <col:module document="m00099"/>
+        <col:module document="m00100"/>
+        <col:module document="m00101"/>
+        <col:module document="m00102"/>
+        <col:module document="m00103"/>
+        <col:module document="m00104"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
