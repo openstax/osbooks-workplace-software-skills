@@ -23,7 +23,7 @@
     <section id="sect-00002">
     <title>Adding Tables</title>
     <para id="para-00003">A <term id="term-00003">table</term> in PowerPoint is a structure for organizing and presenting data in a grid format. It is similar to the Table feature in Microsoft Word. In <link target-id="fig-00001"/>, the Table option has been selected within the Insert tab. You will not need to include a table in your <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation, but tables are regularly included in professional presentations.</para>
-    <figure id="fig-00001" class="scaled-down-30">
+    <figure id="fig-00001" class="scaled-down">
     <media alt="Screenshot of the Insert tab in PowerPoint with Table selected and an open pane with a 3x5 table highlighted on a 10x8 grid and Insert Table, Draw Table, and Excel Spreadsheet options.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_Tables.jpg"/>
     </media>

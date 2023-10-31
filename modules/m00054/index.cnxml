@@ -161,7 +161,7 @@
     <para id="para-00021">The two most critical tools in the File menu are Version history and Share. <term id="term-00018">Version history</term> is a feature unique to Docs. Every time you make a change in a file, Google autosaves your document, keeping many versions of the file. Version history allows you to revert to a previous version of a file or simply to look back at previous versions for reference.</para>
     <para id="para-00022">The <term id="term-00019">Share</term> command enables a document’s owner to invite others to work on it. It is used to tag or add collaborators who can read, comment, develop, or edit the file.</para>
     <para id="para-00023">If you want to create a copy of an existing file, you can use the <term id="term-00020">Save a Copy</term> command. As <link target-id="fig-00006"/> shows, this command allows you to make a copy of your Doc and save the document under another name. You can save it to the Drive, which uses the cloud, as discussed. Or you can save the file to your hard drive, but your files are safer in the cloud, and using cloud storage allows you to free up storage on your local device.</para>
-    <figure id="fig-00006" class="scaled-down-30">
+    <figure id="fig-00006" class="scaled-down">
     <media alt="Copy document window lists Name (Copy of marketing_report), Folder (My Drive), options for Share it with the same people and Copy comments and suggestions. Cancel and Make a copy buttons at bottom.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_SAVEAS01(c).jpg"/>
     </media>
@@ -181,7 +181,7 @@
     <section id="sect-00008">
     <title>Creating a New File</title>
     <para id="para-00026">In the File menu, selecting New opens a menu, as shown in <link target-id="fig-00008"/>. You can select a new Presentation From template, new Document, new Spreadsheet, new Form, or new Drawing.</para>
-    <figure id="fig-00008" class="scaled-down-30">
+    <figure id="fig-00008" class="scaled-down">
     <media alt="New is selected and opens to these options for selection at the right: Presentation, From template, Document, Spreadsheet, Form, and Drawing.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_New.jpg"/>
     </media>
@@ -216,14 +216,14 @@
     <section id="sect-00010">
     <title>Edit Menu</title>
     <para id="para-00030">The <term class="no-emphasis" id="term-00024">Edit menu</term> contains the expected choices: Undo, Redo, Cut, Copy, Paste, Delete, Duplicate, Select All, and Find and Replace. Clicking on Find and Replace brings up the window shown in <link target-id="fig-00012"/>. You type in a word from your file. For each occurrence, you confirm whether you want to replace it with another word. Although most misspelled words will be caught by the spell-check function, if, for example, you have misspelled a title or name throughout the file, using Find and Replace is an efficient way to make sure you catch all the errors.</para>
-    <figure id="fig-00012" class="scaled-down-30">
+    <figure id="fig-00012" class="scaled-down">
     <media alt="Find and replace window displays these options: Find, Replace with, Search (drop-down), Match case, Match entire cell contents, Search using regular expressions (Help), Also search within formulas, and Also search within links.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Find.jpg"/>
     </media>
     <caption>You can use Find and Replace to find specific text in a file and replace it with other text. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00031">The Edit menu for each of the apps looks similar. <link target-id="fig-00013"/> shows the Edit menu.</para>
-    <figure id="fig-00013" class="scaled-down-30">
+    <figure id="fig-00013" class="scaled-down">
     <media alt="Edit is selected on the Ribbon and opens to these options for selection: Undo, Redo, Cut, Copy, Paste, Paste without formatting, Select all, Delete, and Find and replace.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Edit.jpg"/>
     </media>
@@ -270,7 +270,7 @@
     <section id="sect-00014">
     <title>Tools Menu</title>
     <para id="para-00036">The <term class="no-emphasis" id="term-00031">Tools menu</term> is where you’ll find the tools you need to help ensure the quality of your document, sheet, or slide. Let’s examine some of the Docs offerings, shown in <link target-id="fig-00018"/>. “Spelling and grammar” allows you to check for misspelled words, to ensure phrasing and sentences are grammatically correct, and to create a personal dictionary to which you can add frequently used names or words that are not in a standard dictionary. There are also tools for quickly checking editorial matters, such as counting the number of words in your document or seeing a list of linked objects. Notice how the menu also includes keyboard shortcuts. The Tools menu also offers the option of typing by voice recognition, and it includes accessibility settings such as the ability to use a screen reader to read the text on a page aloud and a magnifier to see content at a very large scale. The Tools menu among the three Google apps is very similar.</para>
-    <figure id="fig-00018" class="scaled-down-30">
+    <figure id="fig-00018" class="scaled-down">
     <media alt="Google Workspace Tools tab offers these options: Spelling and grammar, Word count, Review suggested edits, Compare documents, Citations, Explore, Linked objects, Dictionary, Translate document, Voice typing, Script editor, Preferences, and Accessibility settings.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Tools.jpg"/>
     </media>
@@ -291,7 +291,7 @@
     <section id="sect-00016">
     <title>Help Menu</title>
     <para id="para-00039">The <term class="no-emphasis" id="term-00033">Help menu</term> is self-explanatory: It contains the body of available knowledge concerning each Google application, as well as all the fine print of the terms of use for the consumer or business. You can search for content related to your question and you can access training materials in the Help menu (see <link target-id="fig-00020"/>). Conveniently, Docs also offers the user a dialog box with a list of all the keyboard shortcuts. The Help menu in each of the Google apps is similar to the one shown for Docs.</para>
-    <figure id="fig-00020" class="scaled-down-30">
+    <figure id="fig-00020" class="scaled-down">
     <media alt="A Help tab opens to these options for selection: Search the menus, Help, Training, Updates, Help Docs improve, Report abuse, Privacy Policy, Terms of Service, and Keyboard shortcuts.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Help.jpg"/>
     </media>

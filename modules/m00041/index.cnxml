@@ -59,7 +59,7 @@
     </figure>
     <para id="para-00013">To name the current version, go to the File menu, then Version history, then Name current version. Next, type the name of this version in the dialog box and click Save.</para>
     <para id="para-00014">After you finish your document, you might have named some of the versions, and you might just want to see only the named versions on the Version History sidebar. You can toggle the unidentified versions on and off, on the top of the sidebar with the option Only show named versions, as you can see in <link target-id="fig-00004"/>.</para>
-    <figure id="fig-00004" class="scaled-down-30">
+    <figure id="fig-00004" class="scaled-down">
     <media alt="Version history displays and Only show named versions is selected. A Version 2 May 6, 10:38pm Rick Arguello and Marketing Four Ps May 6, 7:37pm Rick Arguello is displayed.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_09_NAMINGVE03.jpg"/></media>
     <caption>The named versions might be the most important or relevant ones. (Google Docs is a trademark of Google LLC.)</caption>

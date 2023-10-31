@@ -92,7 +92,7 @@
     <section id="sect-00005">
     <title>Adjusting Graphic and Text Layouts</title>
     <para id="para-00019">If you are using graphics in your document, you will need to determine how the graphics and text should interact in the layout. When you insert a figure into a text document, the figure can be positioned in several ways in relation to the text using the <term id="term-00014">text wrapping</term> menu, as <link target-id="fig-00007"/> shows. Text wrapping refers to how the text is placed around an image or figure you place in the document. Text wrapping is accessed through the Layout tab in the Arrange command group. Your wrapping style may depend on the size of the graphic, as well as its purpose. If it is an important figure being discussed in the text and/or if it has a caption, you may want to clearly separate it from the text with the “Top and bottom” option, allowing the text to flow above and below the image, but not to either side of it. If the image functions more as a design element, such as a logo or photo to add interest, you might have the text wrap around it.</para>
-    <figure id="fig-00007" class="scaled-down-30">
+    <figure id="fig-00007" class="scaled-down">
     <media alt="Layout pane displays tabs: Position, Text Wrapping (selected), and Size. Wrapping Styles are available for selection: In line with text, Square, Tight, Through, Top and bottom, Behind text, In front of text.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_03_Position.jpg"/>
     </media>

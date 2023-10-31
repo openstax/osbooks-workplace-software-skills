@@ -121,7 +121,7 @@
       <caption>Once you insert the drawing into your document, you have further options for placement and sizing. (Google Docs is a trademark of Google LLC.)</caption>
       </figure>
     <para id="para-00016">If you want to insert an existing drawing, you need to have uploaded it first to Drive, as <link target-id="fig-00012"/> shows. To do this, go to the Insert menu, choose Drawing, then From Drive. You will then have to locate the item in your Drive and choose whether you want to Link to source or Insert unlinked. Link to source means that you are creating a live link from your original Drawing in your Drive, so that your drawing will be automatically updated if you change the original drawing. Insert unlinked means that you are inserting a static copy of your drawing into your current Doc.</para>
-    <figure id="fig-00012" class="scaled-down-30">
+    <figure id="fig-00012" class="scaled-down">
     <media alt="An Insert drawing pane displays options for Link to source (Only editors can update the drawing. Collaborators can see a link to the source.) and Insert unlinked.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_DRAW02.jpg"/>
     </media>

@@ -106,13 +106,13 @@
     <section id="sect-00005">
     <title>Advanced Settings for Viewing Comments and Suggested Edits</title>
     <para id="para-00015">Once you are ready to view comments in a Doc, navigate to the top-right area of your document and click on the <term id="term-00009">Comment history</term> icon (shown in callout 1 in <link target-id="fig-00012"/>). Then, click on the bell icon to view and customize notification settings (shown in callout 2). As shown in <link target-id="fig-00013"/>, if you choose Only yours, the email notifications of changes on the document will be sent to you only if you are being mentioned by an @ operator, or if someone edits some passage you wrote. If you choose None, you will not be notified by email, even if the changes and comments (and mentions) are related to your written passages.</para>
-    <figure id="fig-00012" class="scaled-down-30">
+    <figure id="fig-00012" class="scaled-down">
     <media alt="An icon for Open comment history is labeled with a number 1. A bell icon for Change email notification settings for this document is labeled with a number 2.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_COMME01a.jpg"/>
     </media>
     <caption>You can view the comments made on a document by choosing the comments tool. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <figure id="fig-00013" class="scaled-down-30">
+    <figure id="fig-00013" class="scaled-down">
     <media alt="A bell icon for Change email notification settings for this document is selected and opens to these options: All (selected), Only yours, and None.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_COMME01b.jpg"/>
     </media>
@@ -126,7 +126,7 @@
     </media>
     <caption>The comment history sidebar shows all of the comments made in a document, and includes information like usernames, timestamps, and comment status. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <figure id="fig-00015" class="scaled-down-30">
+    <figure id="fig-00015" class="scaled-down">
     <media alt="All is selected in Comments and displays options for All (selected), For you, Open, and Resolved. A bell icon for Change email notification settings for this document is located to the right.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_06_COMME01d.jpg"/>
     </media>

@@ -61,7 +61,7 @@
     <section id="sect-00005">
     <title>How to Modify the Layout of a Slide</title>
     <para id="para-00011">As in PowerPoint, each time text or images are added to a particular slide, the size and positioning of objects may need to be adjusted or changed. One option in Slides is to change the overall layout of the slide in the Slide menu. The Slide tab is a drop-down menu that allows users to create, edit, and organize slides within your presentation. <link target-id="fig-00004"/> shows the list of options from the drop-down menu.</para>
-    <figure id="fig-00004" class="scaled-down-30">
+    <figure id="fig-00004" class="scaled-down">
     <media alt="A screenshot of the Slide option with selections for: New slide, Duplicate slide, Delete slide, Skip slide, Move slide, Change background, Apply layout, Transition, Edit theme, and Change theme.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_06_SlideTab.jpg"/>
     </media>

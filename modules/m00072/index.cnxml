@@ -80,7 +80,7 @@
     <title>New Slide</title>
     <para id="para-00020">Following the outline in <link target-id="fig-00005"/>, the presentation requires five distinct groups of information arranged in numerical order with subtopics. In PowerPoint, you will want to add five slides, each of which will represent one of these groups. To do this, go to the <term class="no-emphasis" id="term-00025">New Slide</term> command group and, with your mouse, select the green button on New Slide four times. (Reminder: PowerPoint provides the first slide by default.) Note that you can change the layout at any time after creating a slide. For this exercise, any layout will do to get started. The default layout provided is fine.</para>
     <para id="para-00021">Once complete, there should be five slides listed in the thumbnail pane on the left side of the screen. (<link target-id="fig-00006"/> shows the first two of five.) You can then use the thumbnail feature to click in and out of individual slides as we develop and edit content that meets the <term class="no-emphasis" id="term-00026">storyboard</term> criteria.</para>
-    <figure id="fig-00006" class="scaled-down-30">
+    <figure id="fig-00006" class="scaled-down">
     <media alt="A screenshot of the left side of a PowerPoint presentation displaying the first two slides. The New Slide button in the Slides command group is indicated.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_02_Thmbnls.jpg"/>
     </media>

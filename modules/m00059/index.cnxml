@@ -49,7 +49,7 @@
     <section id="sect-00003">
     <title>Controls Command Group</title>
     <para id="para-00008">The <term class="no-emphasis" id="term-00003">Controls</term> command group includes several different icons to represent the fields you can use in your form. <link target-id="fig-00004"/> identifies the icons you will be using to create the form. The remaining icons in the command group are used for building sophisticated templates in Word. The controls we are using in this example are called <term id="term-00004">content control fields</term>. These fields give people a space to type in, add a date or image, or choose their response from a list. In other words, they are interactive fields that can be specially programmed to receive input from recipients. The content control fields create a user interface that seeks input from the respondent.</para>
-    <figure id="fig-00004" class="scaled-down-30">
+    <figure id="fig-00004" class="scaled-down">
     <media alt="The Controls command group is visible with these items crossed out: Building Block Gallery Content Control, Repeating Section Content Control, Legacy Tools, and Group.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_DEV02.jpg"/>
     </media>
@@ -111,7 +111,7 @@
     <caption>With a drop-down list, use Properties to define each of the categories in the list. Generally, the display name and the value should be the same. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00023">Finally, you need to format the checkbox field. As with the other control fields, you can change the font and style (see <link target-id="fig-00011"/>). But with the checkbox, you can also change what type of symbol is used in the box. For example, you can choose a heart instead of an X for the form. To do this, choose Change next to Checked Symbol. Choose what type of symbol you want for the checked box (see <link target-id="fig-00012"/>).</para>
-    <figure id="fig-00011" class="scaled-down-30">
+    <figure id="fig-00011" class="scaled-down">
     <media alt="Content Control Properties pane displays category for Check Box Properties. Options available are Checked symbol (selected with an X) and Unchecked symbol with buttons for Change located next to both.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORM07a.jpg"/>
     </media>

@@ -383,7 +383,7 @@
     <para id="para-00046"><term class="no-emphasis" id="term-00036">Format Painter</term>, represented with a paintbrush icon, is a shortcut tool that is available in Word, Excel, and PowerPoint. This tool lets you copy the formatting of a section of text, a cell, or whatever you choose to another place on a document, spreadsheet, or slide, respectively. It is especially useful when you need to reformat large amounts of text.</para>
     <para id="para-00047">First, select the text that has been formatted in the way you want. Then, click on Format Painter, and the cursor will turn into a little paintbrush, as <link target-id="fig-00014"/> shows. Brush over the text you want to change, let go of the mouse, and the text will now be formatted in the desired style.</para>
     <para id="para-00048">Note that if you want to use Format Painter again, you will have to repeat the steps outlined above. To format a lot of text, double-click on the Format Painter icon, and it will last until you click on it one more time.</para>
-    <figure id="fig-00014" class="scaled-down-30">
+    <figure id="fig-00014" class="scaled-down">
     <media alt="In PowerPoint, the Format Painter icon (a paintbrush) from the Clipboard command group is enlarged for view.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Format.jpg"/>
     </media>

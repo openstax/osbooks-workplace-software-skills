@@ -61,7 +61,7 @@
     <title>Headers and Footers</title>
     <para id="para-00007">You can add headers and footers to your document in Docs. The <term class="no-emphasis" id="term-00004">Headers &amp; footers</term> command is also located in the Insert menu. Once you have added your header or footer, you can choose to further configure it by choosing Options, the blue command that is located on the header or footer itself. This Options button opens to a drop-down menu with a few choices. If you select Header format or Footer format, you will see a dialog box with the option of applying certain header/footer settings to a section of the entire document, as seen in <link target-id="fig-00003"/>. You can also control the height of each header/footer in inches, as well as choose to not have the header or footer appear on the first page. This latter choice is useful in documents for which you have a cover page. Simply tick the box Different first page. When you are finished configuring the headers/footers, select Apply.</para>
     <para id="para-00008">You can edit and format the text contained in the header/footer as you would text in any other part of the document: by manually changing the font type; applying bold, italic, or underlined format; adding an image; or choosing a different alignment.</para>
-    <figure id="fig-00003" class="scaled-down-30">
+    <figure id="fig-00003" class="scaled-down">
     <media alt="Headers &amp; Footers pane offers options for Margins (Header (inches from the top), Footer (inches from bottom)), and Layout (boxes available for selecting Different from first page and Different odd &amp; even).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_HEAFOO01.jpg"/>
     </media>

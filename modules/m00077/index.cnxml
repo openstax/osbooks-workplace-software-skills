@@ -60,7 +60,7 @@
     <caption>When you select the desired shape, you can resize it by dragging the outline of the shape. (Google Slides is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00009">One way to effectively use a shape in Slides is to create a flowchart to illustrate a process or workflow. Using shapes also offers more customization than simply inserting a diagram. Once you have added the initial shape, you can then add a connector, such as an arrow. Then, you can use the formatting options to customize its appearance, such as changing its color or adding a border, as seen in <link target-id="fig-00004"/>. You can also insert a text box inside each of the rectangular or square shapes in your flowchart. In Slides, text boxes do not automatically come with a border, but borders can be added. Shapes can be used to create any number of diagrams, illustrations, and other types of visual aids to support your presentations. In the section on <link document="m00077" target-id="sect-00006">Inserting a Diagram</link>, we will learn more about using the preset diagrams in Slides.</para>
-    <figure id="fig-00004" class="scaled-down-30">
+    <figure id="fig-00004" class="scaled-down">
     <media alt="Screenshot of three rounded boxes in a row with gray arrows between them pointing to the right being inserted into a Google Slide. Sizing options are visible on the insertion box.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_07_Shape.jpg"/>
     </media>

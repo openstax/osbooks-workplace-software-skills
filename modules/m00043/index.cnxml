@@ -156,7 +156,7 @@
     <section id="sect-00007">
     <title>Bulleted Lists</title>
     <para id="para-00032">Creating a <term class="no-emphasis" id="term-00021">bulleted list</term> is a similar process. But unlike a numbered list, a bulleted list does not create a hierarchy. Instead of selecting the Numbering drop-down list, choose the <term class="no-emphasis" id="term-00022">Bullet</term> drop-down list, and select the type of bullet you want to use for your list, as shown in <link target-id="fig-00011"/>. You can either create your bulleted list from regular body text, or you can convert an existing numbered or lettered list to a bulleted list. To change from numbered to bulleted format, just reselect the list and go back to the Bullet drop-down menu and select the new format.</para>
-    <figure id="fig-00011" class="scaled-down-30">
+    <figure id="fig-00011" class="scaled-down">
     <media alt="Lists are selected and open to options for bullet lists which include Recently Used Bullets, Bullet Library, Document Bullets, Change List Level and Define New Bullet.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_01_LISTS03.jpg"/>
     </media>

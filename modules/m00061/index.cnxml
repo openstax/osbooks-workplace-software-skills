@@ -117,7 +117,7 @@
     <caption>Choose the question type that will give you the information you need. You have eleven question types to choose from.</caption>
     </table>
     <para id="para-00008">You should learn the various question types, as there are many interesting options for how to set up your form. There is a sidebar that lets you add a new question, as well as several additional commands, as seen in <link target-id="fig-00006"/>. The additional commands on that sidebar are importing a list, adding a text description (similar to the Design Mode instructive text in Word), and inserting an image or video for the question. Lastly, there is a command for making different section breaks; this can be used as a way to divide up the form, which can be useful if the form is chunked into different topics or if it is several pages long. For example, the demographic questions could all be in one section, and the TV viewing questions could be in another.</para>
-    <figure id="fig-00006" class="scaled-down-30">
+    <figure id="fig-00006" class="scaled-down">
     <media alt="Icons displayed: Add question (plus sign inside circle), Import questions (paper with arrow), Add title/descriptions (large/small T), Add image (square with two triangles), Add video (rectangle with triangle), Add section (two rectangles).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN04.jpg"/>
     </media>
@@ -125,7 +125,7 @@
     </figure>
     <para id="para-00009">Unfortunately, there is no way to format the text of the form questions, as we do in Word. You cannot have bold, italic, or underlined text, nor can you have different font types for different questions. However, you can add images and videos to questions, which could be useful for making a multimedia question—for example, asking a question via video, or asking the respondent to look at an image.</para>
     <para id="para-00010">There are two toolbars in Forms. The top toolbar is used for themes. The bottom toolbar (<link target-id="fig-00007"/>) gives the writer more question-level configuration options. It contains the <term class="no-emphasis" id="term-00003">Duplicate question</term> command, the <term class="no-emphasis" id="term-00004">Delete</term> command (the trash icon), and the <term class="no-emphasis" id="term-00005">Required toggle</term>. If you select the Duplicate icon, Forms will repeat the previous question, so that all you need to do is edit the question instead of writing it again from scratch. The Delete command is for removing the question from the list. The Required toggle allows the form creator to make the question mandatory; in other words, the respondent must provide an answer for this question before sending their final responses. In the form, the mandatory question will be followed by a red “*” to indicate that the question is required. The last item is the three-dots menu drop-down menu that contains a few more question-level settings, like letting you add a description to the question, manage the list of questions, and change the order of the questions.</para>
-    <figure id="fig-00007" class="scaled-down-30">
+    <figure id="fig-00007" class="scaled-down">
     <media alt="An icon for Duplicate (two pieces of paper stacked) and Delete (a garbage can) are visible along with a toggle for Required and More options (three dots).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN06.jpg"/>
     </media>
@@ -155,13 +155,13 @@
     <para id="para-00015">The first command, the painter’s palette icon, is for changing the overall survey form theme. When you select this, a sidebar, Theme options, will appear, with theme and background color configurations (see <link target-id="fig-00011"/>). From here, you can choose an image for the header, such as a custom design or a company logo, as well as change the color scheme of the document or change the font type of the whole document. There are only four font types available.</para>
     <para id="para-00016">The second command, the eye icon, is for previewing, and it displays the survey how the survey taker would see it. This can be a handy tool for previewing the form before it is sent to the survey takers.</para>
     <para id="para-00017">The third command, the gear icon, is the <term class="no-emphasis" id="term-00007">Form Settings</term>. When you access the Form Settings, you will see three tabs. The General tab gives you configurations for the survey takers, such as letting you collect the emails of survey takers, sending the survey takers an email receipt, limiting the takers to only do one survey response, and other configurations, as shown in <link target-id="fig-00012"/>. In the Presentation tab, you can change some of the appearance options for your survey, such as the confirmation message, the order of questions (e.g., shuffled or in the same order each time), and other options. The third tab is Quizzes, which contains configuration settings for survey types and is used more commonly in the education industry.</para>
-    <figure id="fig-00010" class="scaled-down-30">
+    <figure id="fig-00010" class="scaled-down">
     <media alt="Icons for Customize theme (a paint palette), Preview (an eye), and Settings (a gear) are visible with a Send button and More options (three dots stacked on top of each other).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN08.jpg"/>
     </media>
     <caption>The top toolbar is for previewing the form or for settings. (Google Forms is a trademark of Google LLC.)</caption>
     </figure>
-    <figure id="fig-00011" class="scaled-down-30">
+    <figure id="fig-00011" class="scaled-down">
     <media alt="Theme pane options: Text style (Header, Question, and Text (with options for font and font size in a drop-down menu)), Header (Choose image), Color (various colors displayed), Background (various colors displayed).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN09a.jpg"/>
     </media>
