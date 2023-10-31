@@ -6,5 +6,183 @@
     <md:uuid>7431a58b-e359-4335-8c31-214e68f4a437</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Record a macro that automates a common task</item>
+    <item>Record a macro that enhances database functions</item>
+    <item>Demonstrate some understanding of macro code</item>
+    </list>
+    </section>
+    <para id="para-00002">A <term id="term-00001">macro</term> is a set of instructions that can automate repetitive tasks or perform complex operations with a single click. Macros can be created using the <term class="no-emphasis" id="term-00002">Macro Builder</term>, which provides a graphical interface for creating and editing macros. Examples of how a macro can be used in Microsoft Access are many.</para>
+    <para id="para-00003">As an example, your database under construction that tracks inventory for retail stores that WorldCorp would like to launch has numerous options to consider. Each time a new transaction is entered, you need to generate an invoice for the customer that includes their name, the date of the sale, and a list of the items bought. To automate this process, you can create a macro that performs the following tasks:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00002">
+    <item>Open the Orders table and find the most recent order.</item>
+    <item>Get the customer’s name from the Customers table.</item>
+    <item>Get the date of the order.</item>
+    <item>Get a list of the items ordered from the Order Details table.</item>
+    <item>Create a new record in the Invoices table.</item>
+    <item>Populate the new record with the customer’s name, the date of the order, and the list of items ordered.</item>
+    <item>Save the new invoice record.</item>
+    </list>
+    <para id="para-00004">Once you have created this macro, you can run it whenever you need to generate a new receipt. Access will automatically perform all the necessary steps, saving you time and reducing the risk of errors. Macros provide the ability to automate repetitive tasks, improve productivity, and reduce errors in database management.</para>
+    <section id="sect-00002">
+    <title>Creating and Recording Macros</title>
+    <para id="para-00005">Macros can make tasks that you routinely perform in Access quicker through automation. Macros are built using computer coding language to perform specific tasks such as running reports, printing forms, or copying data from one table into another table.</para>
+    <para id="para-00006">To begin using macros, open the macro design builder, located under the Create tab. This will create a blank macro builder, which can be saved and stored for later use in the All Access Objects area. The <term class="no-emphasis" id="term-00003">Macro Designer</term> on the right side (<link target-id="fig-00001"/>) contains the Action Catalog, where all of your actions will be stored in folders. You have Data Entry options, Data Import/Export, and so on, and on the left in the main area you have a blank canvas to start building your macro.</para>
+    <figure id="fig-00001">
+    <media alt="Action Catalog is selected. Macro from Macros &amp; Code group inserts Add New Action pane on a blank page. Action Catalog lists options in Program Flow, Actions, and In this Database categories.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_05_Macro.jpg"/>
+    </media>
+    <caption>Macros are computer code written within the program to tell the app an action or actions to perform. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Recording a Macro to Automate Common Tasks</title>
+    <para id="para-00007">Recording a macro to <term class="no-emphasis" id="term-00004">automate</term> tasks in Access is a common way to save time and increase productivity. When you record a macro in Access, you essentially create a set of instructions that Access can use to automatically perform a sequence of tasks.</para>
+    <para id="para-00008">Let’s say you frequently need to create a report that shows the total sales for each region of the country in the growing area of retail sales. You can use the <term class="no-emphasis" id="term-00005">Macro Recorder</term> to automate this process. First, select the Create tab in the ribbon and select Macro. In the Macro Builder, click the Record button to start recording the macro. Perform the actions you want the macro to automate. For example, you could select the fields you want to include in the report, specify the criteria for grouping the data by region, and apply formatting to the report.</para>
+    <para id="para-00009">When you have finished performing the actions, click the Stop Recording button in the Macro Builder. Give the macro a descriptive name and save it. Now, whenever you need to create a report that shows the total sales for each retail store, you can simply run the macro you recorded (<link target-id="fig-00002"/>. Access will automatically perform all the steps you recorded, saving you time and reducing the risk of errors.</para>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="All Access Objects window lists categories Tables, Queries, Forms, Reports, and Macros (with macNewCustomer listed below and selected). A pane opens with Run and Design Review options.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_05_NewCustMcro.jpg"/>
+    </media>
+    <caption>Recording a macro is an easy way to automate a task such as running a report or printing a form that you perform regularly. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00010">A common use of macros is to add a button to a form. In the previous section, we discussed how a Main Menu form can help improve user experience by creating a navigation map. Buttons can have macros embedded that open and close certain forms; they can also control what record source is displayed.</para>
+    <para id="para-00011">For example, suppose you want to add your customer form to the Main Menu. The original goal is to add a button that will open the customer form. However, if you want to add a button that will add a new customer, you can create a macro that will open the customer form and move the record to the new source. The open form is shown in <link target-id="fig-00003"/>.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="Macro1 file visible. OpenForm category lists fields for: Form Name, View, Filter Name, Where Condition=, Data Mode, and Window Mode. Add New Action button at bottom and hyperlinked Update Parameters option available.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_05_McroOpnFrm.jpg"/>
+    </media>
+    <caption>Macros can be added to forms through buttons and can be programmed to perform a wide variety of actions such as adding a new field. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00012">You will see the form name with a drop-down arrow, which will show you the forms available in your database. For each form, there is a View option, which will allow you to open the form in Form view, Design view, or Print Preview view. You also can apply a filter name or a condition. In <link target-id="fig-00004"/>, the macNewCustomer macro that was created centered on finding particular records. You will notice this option is available to modify.</para>
+    <figure id="fig-00004" class="scaled-down">
+    <media alt="OpenForm category fields listed: Form Name, View, Filter Name, Where Condition, Data Mode, and Window Mode. GoToRecord category fields listed: Object Type, Object Name, Record, and Offset. Add New Action available below.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_05_MacroGoTo.jpg"/>
+    </media>
+    <caption>The drop-down menus give you options such as adding or deleting records in the form. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Recording a Macro to Enhance Database Functions</title>
+    <para id="para-00013">By customizing your database with macros, you can create a system for accomplishing many similar operations easily and efficiently. Two common applications for macros are displaying message boxes and validating data:</para>
+    <list id="list-00003">
+    <item>Displaying a <term id="term-00006">message box</term>: You can use the <term class="no-emphasis" id="term-00007">MsgBox action</term> to display alerts, warnings, and other useful information. The MsgBox action has four arguments: Message, Beep, Type, and Title.</item>
+    <item><term id="term-00008">Data validation</term>: Often used in Microsoft Excel, data validation is an extremely helpful step to take prior to adding the data to the database. To ensure that only valid data is entered in a form, you can specify a validation rule for the control in the form or set record and field validation rules in the underlying table design. For more complex data validation, you can use a macro or an event procedure to specify the rule.</item>
+    </list>
+    <para id="para-00014">As another example, you can use the RunApplication macro to run a Microsoft Windows-based application, such as Excel, Word, or PowerPoint, from within Microsoft Office. For example, you may want to paste Excel spreadsheet data into your Access database. This can greatly enhance your database’s ability to work with imported data.</para>
+    <section id="sect-00005">
+    <title>Reviewing Completed Macros</title>
+    <para id="para-00015">One of the easiest ways to review a macro is to simply run the macro and see if the desired outcome occurs. At any point, a macro can be edited to better serve the database developer’s goal for how it will function.</para>
+    <para id="para-00016">To review completed macros in Access that have been developed, you can start by opening the database that contains the macros you want to review. Go to the Navigation Pane on the left side of the screen and select the Macros option. This will display a list of all the macros in the database.</para>
+    <para id="para-00017">Double-click on the macro you want to review. This will open the macro in Design view. In this view, you can see all the actions and conditions that make up the macro. You can review each action to ensure that it performs the intended task and that it is configured correctly.</para>
+    <para id="para-00018">To run the macro and test its functionality, click the <term class="no-emphasis" id="term-00009">Run</term> button in the Macros tab of the ribbon. This will execute the macro and perform all the actions defined within it. If you encounter any issues or errors while running the macro, you can use the Debug mode to review the code and identify the problem. To exit the Design view of the macro, click the Close button in the top-right corner of the screen. By reviewing completed macros in Access, you can ensure that they function as intended. Additionally, you can use the insights gained from reviewing completed macros to improve future developments with your overall programming skills. These are big steps are mastering relationship databases.</para>
+    </section>
+    </section>
+    <section id="sect-00006">
+    <title>Understanding Macro Code</title>
+    <para id="para-00019"><link target-id="fig-00005"/>a shows how to add code to an event procedure. Although there is a steep learning curve for understanding the syntax, its applications are unlimited. In this example, we want to create a message box that will appear when a user opens the form. The code is written out just below the comments (shown in green in <link target-id="fig-00005"/>b) that were added. Whenever you add new code, either directly or by using a macro, be sure to include a comment. If there is a problem or a future need for a change, comments can help clarify what the code was designed to accomplish.</para>
+    <figure id="fig-00005">
+    <media alt="(a) Code Builder is selected from Choose Builder in the Customer Order form. Property Sheet displays tabs for Format, Data, Events, Other, and All. (b) Computer code is displayed for Customer Form.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_05_CodeBuildr.jpg"/>
+    </media>
+    <caption>(a) Using the Code Builder tool you can write the computer code to perform specific actions in Access. (b) The Code Builder tool adds in the specific requirements for the computer code to work such as “ “ and commands. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00020">Upon opening the builder options menu, select <term class="no-emphasis" id="term-00010">Code Builder</term>. This will open a new window, as shown, that will allow the developer to type in the desired code directly. This code can be broken into four sections.</para>
+    <para id="para-00021">First, MsgBox has been identified as the action. Because it is placed in the event procedure On Open, a message box will appear when it opens.</para>
+    <para id="para-00022">Second, text for the message box—in this example, “Ask how they heard about us!”—is included to remind associates to ask the customer this basic engaging question while taking a new customer order.</para>
+    <para id="para-00023">Finally, there is a request for which form to open after the message box appears. The following message box shown in <link target-id="fig-00006"/> was created through the code.</para>
+    <figure id="fig-00006" class="scaled-down">
+    <media alt="Main Menu screen opens to a NewCustomer pane with “Ask how they heard about us!” with an OK button at the bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_05_CodeBuildr.jpg"/>
+    </media>
+    <caption>Message boxes can be added to forms to give users specific instructions. (Used with permission from Microsoft)</caption>
+    </figure>
+    <section id="sect-00007">
+    <title>Understanding Visual Basic</title>
+    <para id="para-00024"><term id="term-00011">Visual Basic for Applications (VBA)</term> is a programming language that is integrated into Access, allowing you to create custom solutions for data management, reporting, and other tasks. VBA provides a powerful set of tools for developers to create robust and scalable applications within Access.</para>
+    <para id="para-00025">Some examples of how VBA can help developers in Access include automating repetitive tasks. With VBA, developers can create macros and scripts to automate repetitive tasks, such as importing data, running reports, or updating records. This can save time and reduce errors by eliminating the need for manual data entry.</para>
+    <para id="para-00026">Customizing user interfaces can be written in VBA and can be used to create custom forms and dialog boxes to provide a user-friendly interface for working with data. Developers can add buttons, menus, and other controls to simplify complex tasks and make the application more intuitive. VBA can also create custom functions and algorithms for analyzing data within Access. Developers can create advanced data models and calculations to help gain insight data. One of the keys to VBA is opening up the ability to integrate with other applications. It can be used to integrate Access with other applications, such as Excel or Outlook. This allows developers to create custom workflows and exchange data between applications.</para>
+    <para id="para-00027">VBA can be used to create custom reports within Access, including dynamic reports that update based on user input or other data sources. In summary, VBA is a powerful tool that seems to offer endless abilities and functionality in Access. It provides a wide range of features and capabilities for creating custom solutions to meet the specific needs of users and organizations. With VBA, you can automate repetitive tasks, customize user interfaces, enhance data analysis, integrate with other applications, and create custom reports, and that is just scratching the surface of possibilities.</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00028">Using VBA will take some practice as you are essentially writing computer code. VBA has a wide variety of applications to assist you in working Access and also in Excel. Most users can record macros to meet most of their automation needs in Access. However, if you have more advanced needs and are familiar with computer coding, VBA can be quite powerful. The best way to show how VBA can expand the power and agility of Access is by providing a demonstration. Please view this <link url="https://openstax.org/r/78VBADatabase">video tutorial on how to use VBA to create databases within Access</link> to learn more.</para>
+    </note>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00008">
+    <title>Summary</title>
+    <list id="list-00004">
+    <item>Macros can make tasks that you routinely perform in Access quicker through automation. Macros are built using computer coding language to perform specific tasks such as running reports, printing forms, or copying data from one table into another table</item>
+    <item>By customizing your database with macros, you can create a system for accomplishing many similar operations easily and efficiently. Two common applications for macros are displaying message boxes and validating data.</item>
+    <item>VBA is a programming language that is integrated into Access, allowing you to create custom solutions for data management, reporting, and other tasks. Using the Code Builder tool, you can add specialized macros to forms and reports.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00009">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00029"><link class="os-embed" url="#exercise/14-05-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00030"><link class="os-embed" url="#exercise/14-05-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00031"><link class="os-embed" url="#exercise/14-05-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00010">
+    <title>Written Questions</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00032"><link class="os-embed" url="#exercise/14-05-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00011">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00033"><link class="os-embed" url="#exercise/14-05-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00034"><link class="os-embed" url="#exercise/14-05-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00012">
+    <title>Case Exercise</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00035"><link class="os-embed" url="#exercise/14-05-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>macro</term>
+    <meaning>tool that allows you to automate tasks and add functionality to your forms, reports, and controls</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>message box</term>
+    <meaning>used to display alerts, warnings, and other useful information</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>Visual Basic for Applications (VBA)</term>
+    <meaning>event-driven programming language and environment from Microsoft that provides a graphical user interface (GUI), which allows programmers to modify code by simply dragging and dropping objects and defining their behavior and appearance</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>data validation</term>
+    <meaning>process of ensuring that data is entered correctly into a form by specifying a validation rule for the control in the form</meaning>
+    </definition>
+    </glossary>
 </document>

@@ -6,5 +6,552 @@
     <md:uuid>36980d13-dd36-419e-953f-dce7c7227eae</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Create a query with multiple criteria</item>
+    <item>Create queries that use operators and expressions</item>
+    <item>Design queries that select, aggregate, and run actions</item>
+    </list>
+    </section>
+    <para id="para-00002">As your database continues to evolve, the incorporation of advanced queries aids in the management and manipulation of the exact data of interest. For example, at WorldCorp, you might need to collect all types of information on customers (e.g., email, phone, address, demographics, shopping history). This information often needs to be stored across multiple tables for both speed and efficiency. As an example, a new customer’s basic information will be stored in one table. We assume this information doesn’t change often—only when the customer moves to a different location or makes a major life change. In addition to contact and location, basic information could include demographic information, which may never change in our records.</para>
+    <para id="para-00003">In a separate table, we would store a record of each time the customer makes a transaction. Transactions may happen often and are usually unique, as each one has a particular time/date, exact location of purchase, and possible coupons or rewards points added. Additionally, a customer’s purchase may be for a single item, several items, or perhaps 100 or more different items (think of a trip to the grocery store) on the same transaction.</para>
+    <para id="para-00004">By using an <term class="no-emphasis" id="term-00001">advanced query</term>, you can isolate both customer information and purchasing information at the same time from both tables. For example, suppose you want to know how many customers shop for a particular service or item at locations at least twenty miles from their homes. Determining this would require enforcing multiple criteria across multiple tables and using advanced features in query design to find the exact data requested. The design tools available in Access allow for this level of advanced database design and function.</para>
+    <section id="sect-00002">
+    <title>Queries with Multiple Criteria</title>
+    <para id="para-00005">A <term id="term-00002">query criterion</term> is a kind of formula used in Access to filter the records based on values in fields of interest to determine whether to include the record in your query results. Criteria may take the form of a number, full or partial text, or any combination of data points within a table, such as “Red” or “=>5”. You can include criteria for each field, as shown in <link target-id="fig-00001"/>. Only items that match all the criteria you enter will appear in the query results.</para>
+    <figure id="fig-00001">
+    <media alt="Connected queries TCustomerOrder and TCustomerOrderDetail are shown. A spreadsheet shows rows (Field, Table, Total, Sort, Show, Criteria, or) and columns (OrderID, OrderDate, Notes, Price, Qty, Order:[prince]*[qty]). Criteria and or rows are blank.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_Criteria.jpg"/>
+    </media>
+    <caption>Access data can be filtered and sorted using criterion such as by customer or order date. (Used with permission from Microsoft)</caption>
+    </figure>
+    <section id="sect-00003">
+    <title>Types of Criteria</title>
+    <para id="para-00006">Listed are the different types of criteria that can be used in an Access query:</para>
+    <para id="para-00007"><term id="term-00003">Simple criteria</term>: This type of criteria involves specifying an exact value or expression to filter the results. For example, when building out the inventory database for our potential freestanding retail locations, you could use simple criteria to specify which exact type of inventory you want to isolate.</para>
+    <para id="para-00008"><term id="term-00004">Comparison operator</term>: Comparison operators are used to compare two values or expressions. Examples include <term class="no-emphasis" id="term-00005">=</term>, <term class="no-emphasis" id="term-00006">&lt;></term>, <term class="no-emphasis" id="term-00007">&lt;</term>, <term class="no-emphasis" id="term-00008">></term>, <term class="no-emphasis" id="term-00009">&lt;=</term>, and <term class="no-emphasis" id="term-00010">>=</term>. The &lt; operator can be helpful to find out what inventory has less than a specified quantity on hand.</para>
+    <para id="para-00009"><term id="term-00011">Wildcard</term>: Wildcards are used to represent unknown characters in a search string. The two most common wildcards in Access are the asterisk (*) and the question mark (?). For example, a wildcard can be used to find all customers whose last name starts with a particular letter. <link target-id="table-00001"/> shows the most common wildcard symbols and a description of how they can be used when you have incomplete information or unknown characters.</para>
+    <table summary="" id="table-00001">
+    <title>Wildcard Characters</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row valign="top">
+    <entry valign="middle" align="left">Symbol</entry>
+    <entry valign="middle" align="left">Description</entry>
+    <entry valign="middle" align="left">Example</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00012">*</term></entry>
+    <entry valign="middle" align="left">Identifies zero or more characters. Often used as the first or last character in the character string.</entry>
+    <entry valign="middle" align="left">“ba*” finds ba, bat, ball, and balloon</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00013">?</term></entry>
+    <entry valign="middle" align="left">Finds any single alphabetic character.</entry>
+    <entry valign="middle" align="left">“w?ll” finds will and well</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00014">[ ]</term></entry>
+    <entry valign="middle" align="left">Matches any character found within the brackets.</entry>
+    <entry valign="middle" align="left">“T[ae]m” finds Tam and Tem, but not Tim</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00015">!</term></entry>
+    <entry valign="middle" align="left">Identifies all characters not in the brackets.</entry>
+    <entry valign="middle" align="left">“B[!ai]d” finds bed and bold, but not bad or bid</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00016">-</term></entry>
+    <entry valign="middle" align="left">Ties any one of a range of characters. Users must specify the range in ascending order (A to Z, not Z to A).</entry>
+    <entry valign="middle" align="left">“c[a-c]t” finds cat, cbt, and cct</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00017">#</term></entry>
+    <entry valign="middle" align="left">Finds any single numeric character.</entry>
+    <entry valign="middle" align="left">“5#4” finds 504, 514, and 524</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Wildcard characters are useful when filtering where data could lack uniformity or you have incomplete information.</caption>
+    </table>
+    <para id="para-00010"><term id="term-00018">Range criteria</term>: Range criteria are used to specify a range of values for a field. As an example, a vender that we buy from to resell in our new retail locations may want to know all of the orders we have sold of theirs within a specific date range that have been taken out of our inventory. Rather than waiting for our next order, our vender could receive critical information on how much we may be looking to order in the near future.</para>
+    <para id="para-00011"><term id="term-00019">Null criteria</term>: Null criteria are used to find records that have a null value in a particular field. For example, you could use null criteria to find any inventory labels that do not include product descriptions.</para>
+    <para id="para-00012"><term id="term-00020">Logical operator</term>: Logical operators are used to combine multiple criteria in a query. The two most common logical operators in Access are AND and OR. For example, you could use the AND operator to find all orders with a total greater than $100 and placed by a specific customer. <link target-id="table-00002"/> summarizes common logical operators.</para>
+    <table summary="" id="table-00002">
+    <title>Logical Operators</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row valign="top">
+    <entry valign="middle" align="left">Logical Operator</entry>
+    <entry valign="middle" align="left">Description</entry>
+    <entry valign="middle" align="left">Example</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00021">AND</term></entry>
+    <entry valign="middle" align="left">Returns TRUE if both operands are true, and FALSE otherwise. It is represented by the symbol &amp;.</entry>
+    <entry valign="middle" align="left">[quantity] > 100 AND [location] = Philadelphia</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00022">OR</term></entry>
+    <entry valign="middle" align="left">Returns FALSE if at least one of the operands is true, and FALSE otherwise. It is represented by the symbol |.</entry>
+    <entry valign="middle" align="left">[quantity] > 100 OR [location] = Philadelphia</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00023">EQV</term></entry>
+    <entry valign="middle" align="left">Returns TRUE if both operands are either true or false, and FALSE otherwise. It is represented by the symbol &lt;=>.</entry>
+    <entry valign="middle" align="left">[quantity] &lt;=> 25 OR [location] = Philadelphia</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00024">NOT</term></entry>
+    <entry valign="middle" align="left">Returns TRUE if both operands are false, and FALSE otherwise. It is represented by the symbol ~|.</entry>
+    <entry valign="middle" align="left">NOT ([quantity] > 10 OR [location] = Philadelphia)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00025">XOR</term></entry>
+    <entry valign="middle" align="left">Returns TRUE if exactly one of the operands is true, and FALSE otherwise. It is represented by the symbol ^.</entry>
+    <entry valign="middle" align="left">([quantity] > 10) ^ (quantity] > 100)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00026">IMP</term></entry>
+    <entry valign="middle" align="left">Returns FALSE if the first operand is true and the second operand is false, and TRUE otherwise. It is represented by the symbol ->.</entry>
+    <entry valign="middle" align="left">[location] = Philadelphia -> [quantity] > 100</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Logical operators are used often with databases to allow you to filter information with multiple criteria such as several locations, specific customers, or noncontiguous date ranges.</caption>
+    </table>
+    <para id="para-00013">By using these different types of criteria in an Access query, you can create powerful and flexible queries that can help you analyze and manipulate your data effectively.</para>
+    <para id="para-00014"><link target-id="fig-00002"/> displays a few sample criteria, shown in the highlighted box, and explains how they work with operators.</para>
+    <figure id="fig-00002">
+    <media alt="Rows (labeled Field, Table, Total, Sort, Show, Criteria, or) and columns (labeled OrderID, OrderDate, Notes, Price, Qty, Order:[prince]*[qty]) visible, filled with information. Criteria row and OrderDate column cell with Date()-1 is highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_DateCriter.jpg"/>
+    </media>
+    <caption>When delimiters are used to filter a database you will notice the criteria listed under the field column. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00015">At WorldCorp, you may need to isolate orders that took place during a certain time frame. For example, how did our marketing campaign do in sales over a particular time period for our retail locations? How many orders did we do over the past week? How many did we do over the past month? You might need this information to help schedule orders for our retail locations. This example returns items with yesterday’s date (Date()–1). Thus, if the current date is 5/12/2024, you will see only items for the previous day, 5/11/2024.</para>
+    <para id="para-00016">In addition to the <term class="no-emphasis" id="term-00027">Date()</term> function, there is also a <term class="no-emphasis" id="term-00028">Now()</term> function to consider in Access. Both Date() and Now() are used to retrieve the current date and time, but they have different purposes and applications. The Date() function returns only the current date, without any time component. It is useful for calculating dates and time intervals, such as the number of days between two dates, or for filtering data based on a specific date. On the other hand, the Now() function returns both the current date and time, including the hours, minutes, and seconds. It is useful for tracking events that occur at a specific date and time, such as recording the time that a delivery showed up in inventory at a retail location.</para>
+    <para id="para-00017">Some reasons why you might choose to use the Now() function instead of the Date() function in Access can include the need to record time stamps. If you need to keep track of when events occur, such as the time of day when items are most likely to sell, the Now() function can be used to record the time stamp accurately. In addition, if you want to filter records based on a specific time range, such as all transactions that occurred within the last hour, then you will make use of the Now() function. In designing tables, note that it is important to use the correct format for each field used in the table you are pulling from in the query so that the unique expressions can be applied to that field.</para>
+    <para id="para-00018">In the example shown in <link target-id="fig-00003"/>, the field labeled Order has a criterion of less than 50, so you will see only amounts that are less than $50 from what our customers spent at WorldCorp. The amount found in this field is calculated by multiplying two fields (price and qty) and grouping the results by sum for a total of all unique Order ID numbers. Greater-than (>), less-than (&lt;), equal-to (=), greater-than-equal-to (=>), less-than-equal-to (=&lt;), and other mathematical expressions can be used to query all fields that are formatted as numbers, including currency, integers, autonumbers, and calculated fields.</para>
+    <figure id="fig-00003">
+    <media alt="Rows (labeled Field, Table, Total, Sort, Show, Criteria, or) and columns (labeled OrderID, OrderDate, Notes, Price, Qty, Order:[prince]*[qty]) visible, filled with information. Criteria row and Order:[prince]*[qty] column cell with &lt;50 is highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_CritValue.jpg"/>
+    </media>
+    <caption>A logical operator is used for order price to only display orders that are less than $50. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019">In the example shown in <link target-id="fig-00004"/>, the Notes field in a query is based on a table that stores notes from sales orders that are formatted as long-text. A note can contain any amount of text, ranging from no words to a few words or even multiple paragraphs, depending on the order and the customer’s requirements. This criterion isolates all notes that contain the string Express, signifying the customer’s urgent need for the product. The key word “Express” can be extracted from all of the text logged in the Notes field, regardless of the order or length of the note.</para>
+    <figure id="fig-00004">
+    <media alt="Rows (labeled Field, Table, Total, Sort, Show, Criteria, or) and columns (labeled OrderID, OrderDate, Notes, Price, Qty, Order:[prince]*[qty]) visible, filled with information. Criteria row and Notes column cell with Like”*Express*” is highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_CritString.jpg"/>
+    </media>
+    <caption>Notice the asterisk following the word “Express” as a wildcard to filter the data where the word in any form appears in the notes section. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00020">Depending on how you format the data, your next task is to select the appropriate expression to extract the data. Yes/No, OLE objects, hyperlinks, and attachments all have unique expressions to help optimize Access’s ability to match your desired outcome. Again, formatting the data within tables is key to developing successful criteria expressions.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Building a Query with Criteria</title>
+    <para id="para-00021">When you create or modify a query in Access, you will be identifying/creating fields of data to isolate. These fields will represent the data you want to include, omit data that is not of interest to you, sort the data, and even combine data from multiple tables, as <link target-id="fig-00005"/> shows.</para>
+    <figure id="fig-00005">
+    <media alt="Two connected queries (TCustomerOrder (OrderID, OrderDate, Notes) and TCustomerOrderDetail (Qty and Price)) with corresponding locations in the Field Columns on the list (OrderID, OrderDate, Notes, Price, Qty, Order:[prince]*[qty]) shown by double arrows.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_QCustOrdr.jpg"/>
+    </media>
+    <caption>Several layers of filtering can be used in one query to build a customized list to meet specific needs. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00022">The example shown in <link target-id="fig-00005"/> of a query at WorldCorp combines two tables and isolates five fields from the related tables. The tables are related by the OrderID field. When a new order comes in, a unique OrderID is created in the TCustomerOrder table. Then, the order details are created in the TCustomerOrder table. The two tables are related by OrderID. This means that every order can have multiple sales items on the order. In short, every order is uniquely related to a customer. However, every order can have multiple sales items on the order. Those items are stored as a list in a separate table. Every customer, every order, and every list of order details need their own tables.</para>
+    <para id="para-00023">This example’s five fields to review are: OrderID, Order Date, Notes, Price, and Qty. Because running this query would yield every order, it may not be useful unless you create criteria to isolate a particular question.</para>
+    <para id="para-00024">Within <term class="no-emphasis" id="term-00029">Query Design</term> tab, choose the column of the field to which you want to apply a criterion. Click in the box below the field name in the Criteria row for that field. Type in your first expression or right-click in the Criteria box and choose “Build” to utilize the <term class="no-emphasis" id="term-00030">Criteria Wizard</term>. Repeat these steps for each field for which you want criteria that help answer the question at hand question. For instance, if you are concerned about offering free next-day shipping on all orders because of the rising costs of shipping, you might want to look at low-dollar purchases to see how often customers are asking for express shipping. One option is to review only those orders from yesterday (criterion #1), that were less than $50 (criterion #2), and also had the string “Express” in the notes (criterion #3) on the receipt. The following criteria would be typed out or built through the wizard for each field highlighted, in order, as <link target-id="fig-00006"/> shows.</para>
+    <figure id="fig-00006">
+    <media alt="Two queries (TCustomerOrder (OrderID, CustomerID, OrderDate, Notes) and TCustomerOrderDetail (DetailID, OrderID, StockItemID, Qty, Price)) visible; cells populated in Criteria row with Date()-1 (OrderDate column), Like “*Express*” (Notes column) and &lt;50 (Order:[price]*[qty] column).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_Query3Crit.jpg"/>
+    </media>
+    <caption>The Criteria Wizard can assist you in building a more complex query, or you can also type criteria directly into the query if you are familiar with the appropriate syntax needed. (Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00025">Have you ever wondered how books made into movies do in theaters? And if it is a series of books such as <emphasis effect="italics">Harry Potter</emphasis> or <emphasis effect="italics">The Hunger Games</emphasis>, which book/movie is more popular? Databases can be used to find out these answers. The power of a relational database lies in its ability to efficiently manage and organize large amounts of data in a structured and flexible way. To find answers—for a person, an organization, or society as a whole—data needs to be processed in a way that helps transform it into useful information. To learn more, watch this <link url="https://openstax.org/r/78BldQryData">video discussing how to build a query with basic criteria using data points</link> using the <emphasis effect="italics">Harry Potter</emphasis> movies for reference.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00005">
+    <title>Using Operators and Expressions</title>
+    <para id="para-00026">As you develop an inventory system for WorldCorp’s future retail locations, inventory becomes tied with POS (point of sale) systems. The actual sales amount for each inventory item has not been calculated yet. Taxes, discounts, and price corrections all have to be considered for a total. Expressions become an important element to know and understand.</para>
+    <para id="para-00027">You might want to use expressions to create a formula to calculate a total order amount. The order amount is calculated by multiplying the price-per-item in stock to the quantity ordered of each item. As discussed in the previous example, or any number of other requests, if the number can be calculated, there may not be a need to store it in a table. In the previous example, the field “Order” has no associated table syntax is important to consider and be aware of when writing expressions in Access because it defines the rules and structure for how the expression is written. The set of rules by which the words and symbols in an expression are correctly combined is called <term id="term-00031">syntax</term>. Access uses a specific syntax to understand and interpret expressions, and any deviation from that syntax can result in errors or unexpected results. Proper syntax ensures that the expression is written in a way that Access can understand and process it correctly. It helps to avoid errors such as syntax errors, calculation errors, or incorrect results. Additionally, consistent use of syntax can make the expression more readable and understandable to other users or developers who may need to review or modify the expressions you create in the future.</para>
+    <para id="para-00028">Overall, understanding and using proper syntax is crucial for writing accurate and efficient expressions in Access. See <link target-id="fig-00007"/>. Many of the expressions that are used in tables and forms are also applicable to writing/building expressions as criteria in queries. An expression is a combination of operators, identifiers, functions, and constants that are used to perform a calculation or to produce a result. An expression can be used in a variety of contexts, such as in queries, forms, reports, or macros.</para>
+    <figure id="fig-00007">
+    <media alt="Four boxes pointing to the word Expressions: Operators (+, -, *, &lt;>, >=, /), Identifiers (Form![frmOrder]![DateOut], Reports![rptSaleReport]![TotalSale], [qrySales]![Amount]), Constants (1978, 19.7, 0.009, “OH”, “Sara”, 12%), and Functions (Sum(), Avg(), Date(), Len(), Now()).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_ExprnChrt.jpg"/>
+    </media>
+    <caption>Through expressions, you can restrict queries based on text, numbers, and also perform functions. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00029">To be a valid expression in Access, an expression must contain the following elements:</para>
+    <list id="list-00002">
+    <item>Values: Every expression must contain constants that include one or more values, such as a number, string, or date. Values may be constants, which are entered directly into the expression. Values may also be retrieved from fields or controls in a table or form.</item>
+    <item>Operators: Operators are required symbols or keywords used to perform mathematical and/or logical operations on values.</item>
+    <item>Functions: Functions are predefined calculations or operations that can be used in an expression, but are not required. Access includes a wide range of built-in functions to perform such tasks as calculating totals, formatting values, and manipulating text.</item>
+    <item>Parentheses: Parentheses are used to group parts of an expression and control the order in which calculations are performed. Following the rules of mathematics, expressions within parentheses are evaluated first.</item>
+    <item>Identifiers: Identifiers are names used to refer to tables, fields, and other objects in an Access database. Identifiers must follow specific naming conventions, such as not containing spaces or special characters, and must be enclosed in square brackets to work within expressions.</item>
+    <item>Commas: Commas are used to separate multiple arguments in a function or expression.</item>
+    </list>
+    <para id="para-00030">In addition to containing these elements, keep in mind that correct syntax is established and maintained.</para>
+    <section id="sect-00006">
+    <title>Understanding Operators and Expressions</title>
+    <para id="para-00031">The two most common <term class="no-emphasis" id="term-00032">logical operator</term>s used in building an expression for criteria in a query are <term class="no-emphasis" id="term-00033">AND</term> and <term class="no-emphasis" id="term-00034">OR</term>. These are assumed depending on where you place the expression in query design. Any expression placed in line with the <term class="no-emphasis" id="term-00035">Criteria line</term> is defined as an AND operator. Our last example used all AND operators for the three expressions. See <link target-id="fig-00008"/> as an example.</para>
+    <figure id="fig-00008">
+    <media alt="Screenshot of a table with Criteria row with Date()-1 (DateOut column), &lt;50 (Amount column), Like “*Express*” (Notes column) populating the cells.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_QryAndCrit.jpg"/>
+    </media>
+    <caption>By default, when criteria are added to more than one field, those criteria will be used simultaneously in the query using the “AND” operator. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00032">Placing all three criteria on the same line means that the query will display only those items that are from yesterday <emphasis effect="italics">and</emphasis> are less than $50 <emphasis effect="italics">and</emphasis> contain the string Express. If you want the query to look for any of the three criteria, that is yesterday, <emphasis effect="italics">or</emphasis> less than $50, <emphasis effect="italics">or</emphasis> containing the string Express each needs to be on a separate line. Date()-1 would be in the criteria row, &lt;50 in the or row, and then place Like Express in the row below the <emphasis effect="italics">or</emphasis> row. Rather than a dataset needing to match all three criteria or to match either of the two requirements, it can now match any of the criteria.</para>
+    <para id="para-00033">Any expression placed below the Criteria line is then defined as an OR logical operator. If we change our last example by rearranging the placement of the expressions, it operates very differently, as <link target-id="fig-00009"/> shows.</para>
+    <figure id="fig-00009">
+    <media alt="Screenshot of or row with &lt;50 (Amount column) and Like “*Express*” (Notes column) populating the cells.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_QryOrCrit.jpg"/>
+    </media>
+    <caption>To query using the “OR” operator, the selected criteria should be moved one line below to the “or:” line. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00034">Placing the second and third expressions on the line below the first criterion means that the query will now yield those items that are from yesterday “or” are less than $50 “and” contain the string “Express.” Rather than a dataset needing to match all three criteria, it now needs to match either of the two requirements.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Common Operators</title>
+    <para id="para-00035">In both Excel and Access, the most common operators are arithmetic, comparison, and logical. Each has its own function and returns different results.</para>
+    <list id="list-00003">
+    <item>An <term id="term-00036">arithmetic operator</term> is used to calculate a value from two or more numbers or to change the sign of a number from positive to negative or vice versa (<link target-id="table-00003"/>).
+    <table summary="" id="table-00003">
+    <title>Arithmetic Operators</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="middle" align="left">Operator</entry>
+    <entry valign="middle" align="left">Description</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00037">-</term></entry>
+    <entry valign="middle" align="left">Subtraction (2-1=1)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00038">*</term></entry>
+    <entry valign="middle" align="left">Multiplication (2*3=6)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00039">/</term></entry>
+    <entry valign="middle" align="left">Division (12/4=3)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00040">\</term></entry>
+    <entry valign="middle" align="left">Integer division (6\4=1)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00041">+</term></entry>
+    <entry valign="middle" align="left">Addition (15+4=19)</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>A mathematical operator could be used to combine data such as getting the total sales amount for two or more company purchases.</caption>
+    </table></item>
+    <item>A <term class="no-emphasis" id="term-00042">comparison operator</term> is used to compare values and return a result that is true, false, or null (<link target-id="table-00004"/>).
+    <table summary="" id="table-00004">
+    <title>Comparison Operators</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="middle" align="left">Operator</entry>
+    <entry valign="middle" align="left">Description</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00043">&lt;</term></entry>
+    <entry valign="middle" align="left">Less than</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00044">&lt;=</term></entry>
+    <entry valign="middle" align="left">Less than or equal to</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left">&lt;></entry>
+    <entry valign="middle" align="left">Not equal to</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00045">=</term></entry>
+    <entry valign="middle" align="left">Equal to</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00046">>=</term></entry>
+    <entry valign="middle" align="left">Greater than or equal to</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00047">></term></entry>
+    <entry valign="middle" align="left">Greater than</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left">Between “Value1” And “Value2”</entry>
+    <entry valign="middle" align="left">Between two values, inclusive (for example, “Between 1 And 3” would return 1, 2, 3)</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>To compare one customer’s sales to another, you can use comparison operators such as greater than or less than.</caption>
+    </table></item>
+    <item>A <term class="no-emphasis" id="term-00048">logical operator</term> is used to combine two Boolean values and return a true, false, or null result. There are three main logical operators that are commonly used in Access:
+    <list id="list-00004">
+    <item>AND Operator: This is used to combine two or more expressions and returns TRUE only if all the expressions are true. For example, the expression ‘sizes > 8 AND Color = 'Blue'’ will return TRUE only if the size of a shirt is greater than 8 and the color is blue.</item>
+    <item>OR Operator: This is used to combine two or more expressions and returns TRUE if any one of the expressions is true. For example, the expression “Size > 8 OR Color = 'Red'” will return TRUE if either the size is greater than 8 or the color of the shirt in inventory is red.</item>
+    <item>NOT Operator: This is used to reverse the logical value of an expression. It returns TRUE if the expression is false and FALSE if the expression is true. For example, the expression “NOT (size > 8)” will return TRUE if the size of the shirt is less than or equal to 8.</item>
+    </list></item>
+    </list>
+    <para id="para-00036">These logical operators can be used in combination with comparison operators such as =, &lt;, >, &lt;=, >=, and &lt;> to create complex expressions that evaluate to true or false (<link target-id="table-00005"/>).</para>
+    <table summary="" id="table-00005">
+    <title>Logical Operators</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="middle" align="left">Operator</entry>
+    <entry valign="middle" align="left">Description</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00049">AND</term></entry>
+    <entry valign="middle" align="left">Both elements of an expression must be true.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00050">NOT</term></entry>
+    <entry valign="middle" align="left">The expression must evaluate as false.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00051">OR</term></entry>
+    <entry valign="middle" align="left">At least one element of an expression must be true.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="left"><term class="no-emphasis" id="term-00052">XOR</term></entry>
+    <entry valign="middle" align="left">Exactly one element of an expression must be true, not both.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>Queries that filter using several layers might involve logical operators to extract information from a large database.</caption>
+    </table>
+    <para id="para-00037">The next example, shown in <link target-id="fig-00010"/> is a query designed to help create a report—in this case, you need to generate an <term class="no-emphasis" id="term-00053">invoice</term> after a customer places a new order with WorldCorp. Invoices for customer sales include items such as the customer information, the date, the products ordered, price for each product, and total for the entire invoice. Refer to the chapter on <link document="m00056">Advanced Document Preparation</link> for examples of invoices. For the report to work properly, two different criteria must be used with the logical operator AND. The first expression is [Forms]![frmOutBound2]![Document], which uses identifiers to isolate which document number the report will generate. In essence, this expression uses identifiers to query only the exact document number that is in use on the frmOutBound2 form, which is used to place all new orders from customers. By identifying the form number, the invoice will generate the exact order and only the called-upon order.</para>
+    <figure id="fig-00010">
+    <media alt="Queries (tblCustomers, tblOutbound, tblCustomerOrderDetail, qryStock, tbleState, tblCity with criterion listed underneath) visible with table below; table rows (labeled Field, Table, Sort, Show, Criteria, or) and columns filled with information.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_QryReport.jpg"/>
+    </media>
+    <caption>Access not only lists the fields in text, but also provides a visual representation of how elements are connected in the database. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00038">The second criterion is a function expression that isolates the order date to today, and today only, ensuring that the query only creates new invoices that represent new orders from today (see <link target-id="fig-00011"/>).</para>
+    <figure id="fig-00011">
+    <media alt="Queries (tblStock, tblShirtStyle, tblShirtSize, tblShirtGraph…, tblShirtColors (* highlighted)) display in Field row (column 2) as Item:[style]&amp;”,”&amp;[Color]&amp;”,”&amp;[graphic]&amp;”,”&amp;[size) and Criteria row as “Hoody” (Style), “XL” (Size), “green” (Color) and or row as “red” (Color).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_QueryLookp.jpg"/>
+    </media>
+    <caption>Notice how several fields are used to perform the query using logical operators. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00039">This example shows a query designed to help show which items a T-shirt design company has in stock. Each stock item has four fields that collectively describe the piece of clothing: style, size, primary color, and graphic design on the item. In this example, a customer wants to know what graphic designs are available on a hoodie that is size XL <emphasis effect="underline">and</emphasis> has a base color of green <emphasis effect="underline">or</emphasis> red. These criteria combine both constants and logical operators to help isolate the data requested by the customer.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Guidelines for Using Criteria</title>
+    <para id="para-00040">There are best practices to follow when using criteria:</para>
+    <list id="list-00005">
+    <item>Keep it simple. Do not try to do too much with any one query to get an answer. A query can do a great deal, one strategy is to copy previously designed queries and rename before making small changes to each copied query for a very specific purpose.</item>
+    <item>To stay organized, be consistent in how your queries are named. When you first learn the syntax used in creating criteria, it is tempting to try to use all of the syntax in a single query. When creating a query, however, it is more important to keep the main purpose of the query in mind. If you have several questions, don’t be afraid to create multiple queries—a separate one for each question or task.</item>
+    <item>Be sure to create tables carefully, using the correct format for each field within each table. Using good naming practices is important: A key reason that queries won’t run is likely to be the formatting of the fields rather than incorrect syntax.</item>
+    <item>Develop a list of expressions that you know and can use for future projects. Often, these can be repeated in various queries for various uses.</item>
+    </list>
+    </section>
+    </section>
+    <section id="sect-00009">
+    <title>Designing Queries to Run Actions</title>
+    <para id="para-00041">Now that you know how to build a query, let’s look at the different types of queries in Access. There are five types of queries, each with a unique function and use: (1) select queries, (2) action queries, (3) parameter queries, (4) crosstab queries, and (5) SQL (structured query language) queries.</para>
+    <para id="para-00042"><term id="term-00054">Select query</term> is the most common type of query and the easiest to use. They retrieve data from one or more tables and display the result in a datasheet. Select queries are also used to group records and calculate averages, sums, counts, and other types of totals. As an example, a select query might be used to group customers by state to see which states have the highest demand.</para>
+    <para id="para-00043"><term id="term-00055">Action query</term> specifies a particular action, such as creating a new table, deleting rows, updating records, or creating new records. Action queries are very popular in data management because they allow for many records to be changed at one time. For example, suppose you need to update your records to reflect a new state tax rate that affects numerous types of transactions. Creating an action query can help update records across various tables.</para>
+    <para id="para-00044">There are four types of action queries:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00006">
+    <item><term id="term-00056">Append query</term>: Adds records from one or more tables to the end of one or more tables.</item>
+    <item><term id="term-00057">Update query</term>: Makes global changes to a group of records in one or more tables. For example, you can use an update query to increase the prices on your menu by 25 percent for products within certain categories.</item>
+    <item><term id="term-00058">Delete query</term>: Deletes a group of records from one or more tables. For example, you can use a delete query to remove products that have been discontinued or for which there are no orders.</item>
+    <item><term id="term-00059">Make-table query</term>: Creates a new table and populates it with data from one or more existing tables. When you create a make-table query, you specify the fields and criteria that you want to include in the new table. Access then creates a new table and copies the selected data from the existing table(s) into the new table. The new table will have the same field names and data types as the original table(s). These queries can be useful in a variety of situations, such as creating an archive or backup of data. You can use a make-table query to create a backup copy of important data before making changes to it. In addition, simplifying complex data can be very helpful. As an example, if you have a table with many fields or complex relationships, you can use a make-table query to create a simplified version of the data that is easier to work with on a different project. Also, aggregating data can be accomplished. You can use the query to aggregate data from multiple tables into a single table, which can be useful for reporting or analysis purposes.</item>
+    </list>
+    <para id="para-00045"><term id="term-00060">Parameter query</term> is a type of query that prompts the user for input values when it is run. The input values are used to filter the data that is returned by the query, based on the specified criteria. Parameter queries are useful when you want to create a query that can be easily customized to return different results based on specific criteria. For example, this query can be used in building a form that asks users which employee is logging into the Main Menu screen to start a transaction at WorldCorp; you type [Which User?] on the Criteria line. When the query runs, Access will prompt the WorldCorp employee for the answer to your question.</para>
+    <para id="para-00046"><term id="term-00061">Crosstab query</term> calculates and restructures data for easier analysis when looking for trends or patterns. Much like the PivotTable option in Excel, Crosstab queries calculate a sum, average, count, or other type of total for data that is grouped according to two different types of information. For example, total sales for WorldCorp might be grouped in two ways: by salesperson, listed down the left side of the datasheet, and also by month and year, listed across the top of the datasheet, which now shows total sales for each salesperson by month and year.</para>
+    <para id="para-00047"><term id="term-00062">SQL query</term> is created by using an SQL statement. When you create a query in Query Design view, Access builds the equivalent SQL statements for you behind the scenes. You can view or edit the SQL statement in SQL view. Upon viewing any of the created statements by Access, you can edit or add to the statement. This creates additional options for you that are often more efficient than using the Query Design view options.</para>
+    <section id="sect-00010">
+    <title>Building a Query that Aggregates</title>
+    <para id="para-00048"><term id="term-00063">Aggregate query</term> lets you carry out calculations on record groups rather than performing individual operations. An aggregate query considers the total, subset, or gross amount of records.</para>
+    <para id="para-00049">Aggregation is a powerful tool because of the nature of relational data. By looking across the connected tables and through the built-in relationships, these can be accounted for when performing complex data searches and totals among a vast area of applications.</para>
+    <para id="para-00050">Often, the first step in building an aggregate query is to turn on the Totals tool that is found within the <term class="no-emphasis" id="term-00064">Query Design</term> tab, as seen in <link target-id="fig-00012"/>.</para>
+    <figure id="fig-00012">
+    <media alt="Screenshot of Query Design tab in Access selected, with Totals highlighted on the toolbar in the Show/Hide command group.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_QryTotals.jpg"/>
+    </media>
+    <caption>The Totals tool is found in the Show/Hide command group when you are designing a query. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00051">After you select Total from the menu, a new row, labeled Total, appears just below the field names, with an option area in the Access query, as seen in <link target-id="fig-00013"/>.</para>
+    <figure id="fig-00013" class="scaled-down">
+    <media alt="Screenshot of a Total row with a drop-down in the cell with options for: Group By (indicated), Sum, Avg (selected), Min, Max, Count, StDev, Var, First, Last, and Expression.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_GroupBy.jpg"/>
+    </media>
+    <caption>Although the word “Total” is used, you can choose to get values other than just the sum of the numbers such as the average or the maximum number in the field. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00052">The default option is Group By, which groups all identical data items in the field. For example, if you wanted to know which stock item in your company’s inventory sold the most units, you could use the StockID in two ways:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00007">
+    <item>Create a field for StockID in the query, and list the Totals as Group By. This will provide a list of each type of item you have sold.</item>
+    <item>Create another field, also with the StockID, but this time, choose the Sum function of the Total to provide a complete sales count for each unique item. Both fields together provide a report on which items have sold the most and the least.</item>
+    </list>
+    <section id="sect-00011">
+    <title>Examples of Aggregate Queries</title>
+    <para id="para-00053"><emphasis effect="italics">Scenario #1:</emphasis> You have an online business that has customers from around the country, and you want to find out which states have the fewest customers. You decide to create an aggregate query to summarize the list of states and count the number of instances in which each state appears among your current customers. Selecting the Totals option creates the following query from the customer table, as <link target-id="fig-00014"/> shows: Group By StateName and Count StateName.</para>
+    <figure id="fig-00014" class="scaled-down">
+    <media alt="Queries (tblCustomers (Customer ID, First Name, Last Name, Email, Phone Number, Address, CityID, StateID, Zip, Notes) and tbleState (StateID, StateAbbreviation, StateName) are displayed in table with StateName (drop-down highlighted in Field row).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_QueryState.jpg"/>
+    </media>
+    <caption>This query will give a summary of the total number of customers in each state using the “Count” operator. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00054"><emphasis effect="italics">Scenario #2:</emphasis> You receive two free tickets to the Super Bowl. Unfortunately, you cannot attend this year’s game, so you want to give the tickets away as a thank-you gift to the customer with whom you have done business the longest. To determine the recipient, you decide to do an aggregate query on customer orders, using date ranges to identify the longest-standing customer. The following aggregate query (shown in <link target-id="fig-00015"/>) is then created by grouping the customer ID, using DateOut as the minimum total (first order) and then using DateOut as a maximum total to establish the last sale the customer made (last order).</para>
+    <figure id="fig-00015">
+    <media alt="Queries (tblCustomers (Customer ID, First Name, Last Name, Email, Phone Number, Address, CityID, StateID, Zip, Notes) and tblOutbound (Document, DateOut, Customer, Notes)) are displayed in table with Fields for CustomerID, FirstOrder:DateOut, LastOrder:DateOut).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_01_QueryCust.jpg"/>
+    </media>
+    <caption>More complex queries can be constructed to compare dates or other fields using the Total tool. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00055">In this scenario, it would be best to build an additional query to calculate the length of time between FirstOrder and LastOrder, as determined in the original aggregate query. The query has to solve both totals before it can calculate the difference in time between the two fields using the Min and Max functions.</para>
+    </section>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00012">
+    <title>Summary</title>
+    <list id="list-00008">
+    <item>Queries can handle multiple types of criteria to help isolate data.</item>
+    <item>Learning how to build/record expressions through correct syntax can help control numerous operators in a query. Using multiple criteria in a single query can help drill down when asking questions about data records.</item>
+    <item>Creating an aggregate within a query can help find totals and groupings within data.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00013">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00056"><link class="os-embed" url="#exercise/14-01-BCA-RQ01"/></para>
+    </problem>
+    </exercise>   
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00057"><link class="os-embed" url="#exercise/14-01-BCA-RQ02"/></para>
+    </problem>
+    </exercise>   
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00058"><link class="os-embed" url="#exercise/14-01-BCA-RQ03"/></para>
+    </problem>
+    </exercise>   
+    </section>
+    <section class="written-questions" id="sect-00014">
+    <title>Written Questions</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00059"><link class="os-embed" url="#exercise/14-01-BCA-WQ01"/></para>
+    </problem>
+    </exercise>   
+    </section>
+    <section class="practice-exercises" id="sect-00015">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00060"><link class="os-embed" url="#exercise/14-01-BCA-PE01"/></para>
+    </problem>
+    </exercise>   
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>action query</term>
+    <meaning>query that specifies a particular action, such as creating a new table, deleting a row or rows from a table, updating records, or creating new records</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>aggregate query</term>
+    <meaning>instruction that carries out calculations on a group of records rather than on individual records</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>append query</term>
+    <meaning>query that adds records from one or more tables to the end of another table or tables</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>arithmetic operator</term>
+    <meaning>used to calculate a value from two or more numbers or to change the sign of a number from positive to negative, or vice versa</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>comparison operator</term>
+    <meaning>used to compare values and return a result that is true, false, or null</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>crosstab query</term>
+    <meaning>instructions that calculate and restructure data for easier identification of trends or patterns</meaning>
+    </definition>
+    <definition id="def-00007">
+    <term>delete query</term>
+    <meaning>query that deletes a group of records from one or more tables</meaning>
+    </definition>
+    <definition id="def-00008">
+    <term>logical operator</term>
+    <meaning>used to combine two Boolean values and return a true, false, or null result; also known as Boolean operators</meaning>
+    </definition>
+    <definition id="def-00009">
+    <term>make-table query</term>
+    <meaning>query that creates a new table from all or part of the data in one or more existing tables</meaning>
+    </definition>
+    <definition id="def-00010">
+    <term>null criteria</term>
+    <meaning>query used to find records that have a null value in a particular field</meaning>
+    </definition>
+    <definition id="def-00011">
+    <term>parameter query</term>
+    <meaning>query that allows you to prompt users whenever a query runs</meaning>
+    </definition>
+    <definition id="def-00012">
+    <term>query criterion</term>
+    <meaning>expression that Access compares with query field values to determine whether to include the record that contains each value</meaning>
+    </definition>
+    <definition id="def-00013">
+    <term>range criteria</term>
+    <meaning>query used to specify a range of values for a field</meaning>
+    </definition>
+    <definition id="def-00014">
+    <term>select query</term>
+    <meaning>query that retrieves data from one or more tables and displays the result in a datasheet</meaning>
+    </definition>
+    <definition id="def-00015">
+    <term>simple criteria</term>
+    <meaning>query that specifies an exact value or expression to filter results</meaning>
+    </definition>
+    <definition id="def-00016">
+    <term>SQL query</term>
+    <meaning>query created by using a statement in SQL, a programming language designed to manage data stored in relational databases</meaning>
+    </definition>
+    <definition id="def-00017">
+    <term>syntax</term>
+    <meaning>set of rules by which the words and symbols in an expression are correctly combined</meaning>
+    </definition>
+    <definition id="def-00018">
+    <term>update query</term>
+    <meaning>query that makes global changes to a group of records in one or more tables</meaning>
+    </definition>
+    <definition id="def-00019">
+    <term>wildcard</term>
+    <meaning>symbol used to represent an unknown character in a search string</meaning>
+    </definition>
+    </glossary>
 </document>

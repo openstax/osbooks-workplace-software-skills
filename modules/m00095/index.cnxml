@@ -6,5 +6,182 @@
     <md:uuid>6adf14b5-c386-403d-a1c9-957c404abfa4</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Integrate data from outside sources</item>
+    <item>Export data from Access to other applications</item>
+    <item>Build a form to serve as a dashboard that is updated automatically</item>
+    </list>
+    </section>
+    <para id="para-00002">Now that you are comfortable with building and maintaining databases, it is time to start talking about integration. Suppose you have one database that controls all accounting functions and another that simply focuses on operations. Integration allows you to share information between these two databases to provide comprehensive information about the company.</para>
+    <para id="para-00003">The simplest way to bring data from one Access database into another is by copying and pasting; however, this method does not support the updating of information, but for better control and flexibility, you may want to use importing and linking instead. When you import data from one database into another, Access creates a copy of the data in the destination database without altering the source. During the import operation, you can choose the objects you want to copy, control how tables and queries are imported, and specify whether relationships between tables should be imported. Relational databases have many layers and details baked into the cake. Making sure the details are captured is important.</para>
+    <para id="para-00004">You may want to import data to create a table or tables that are similar to tables that already exist in another database. You may want to copy the entire table or you may just need to import the table definitions so you can avoid the need to manually design each table. When you import only the table definition, the fields and field properties are copied to the destination database, but not the data in the table. The result is an empty table, which you can populate with your data.</para>
+    <para id="para-00005">If your goal is to add records from one database to an existing table in another database, you should consider importing the records to a new table and then creating an append query. You cannot append records to an existing table during an import operation.</para>
+    <section id="sect-00002">
+    <title>Integrating Data from Outside Sources</title>
+    <para id="para-00006">Data stored outside the current database is called <term id="term-00001">external data</term>. External data may be data that you store in another Access database, or it may be data that you store in a multitude of other file formats. The first step in bringing outside data from Excel or other applications is to prepare the external data. An administrator may need to create an account and provide permissions to ensure that the right people have access to the data and that the data does not end up in the wrong hands. (For example, employees’ confidential information must be kept absolutely confidential.) In an external database, the administrator may also want to create specific tables, views, queries, and so on to limit the results to only what is needed.</para>
+    <para id="para-00007">Access provides a powerful and effective means of presenting data, even data from external sources. When you access external data, you can either import the data into an Access database or you can link to the data from an Access database. Importing the data, though optimal, is not always possible. If you can’t import external data, you should link to external files because Access maintains information about these linked files that will optimize performance when manipulating the external files.</para>
+    <section id="sect-00003">
+    <title>Importing Data</title>
+    <para id="para-00008">The first step is to decide what you want to import and how it will join with your existing data. Normally, data is stored in various formats, files, and locations, which makes it hard to get and use it. If you have data in a spreadsheet, a SharePoint list, or some other format, you can import it into an Access database with just a few steps, making it much more easily available in Access. On the External Data tab, there are a number of tools for importing and linking to data in the Import &amp; Link command group (<link target-id="fig-00001"/>).</para>
+    <figure id="fig-00001" class="scaled-down">
+    <media alt="External Data tab is selected and Import &amp; Link command group offers these options: New Data Source, Saved Imports, and Linked Table Manager.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_06_ExtrnlData.jpg"/>
+    </media>
+    <caption>Data may often be stored in other programs but can generally be imported into or linked to an Access database. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00009">Linking to external data is quite different from <term class="no-emphasis" id="term-00002">importing data</term>. Linked data remains in its native format. By establishing a link to the external data, you can build queries, forms, and reports that present the data. Once you have created a link to external data, the link remains permanently established unless you explicitly remove it. The linked table appears in the Navigation Pane just like any other Access table, but with a different icon. In fact, if the data source permits multiuser access, the users of an application can modify the data, just as users of applications written in the data source’s native database format are able to do. The main difference between a linked table and a native table is that you cannot modify a linked table’s structure from within Access.</para>
+    <para id="para-00010">There are two circumstances in which you should import (rather than linking to) external data:</para>
+    <para id="para-00011">(1) If you are migrating an existing system into Access</para>
+    <para id="para-00012">(2) If you want to use external data to run a large volume of queries and reports, and you do not intend to update the data.</para>
+    <para id="para-00013">In either case, you would choose the import option because it gives you the added performance that native Access data provides.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Steps for Importing</title>
+    <para id="para-00014">Now you are ready to take the steps to import data from another source. Often, data analytics seems to grow in Excel. More and more, we see far too much data being stored in Excel. Luckily, the following steps can help move the data into Access for you.</para>
+    <para id="para-00015">Open the database into which you want to import objects. You will only be able to import tables and queries from other Access databases; you can’t import forms, reports, macros, or modules. The location of the <term class="no-emphasis" id="term-00003">Import Wizard</term> will vary slightly depending on your version of Access. On the External Data tab, in the Import &amp; Link command group, click New Data Source (<link target-id="fig-00002"/>). Follow the wizard directions to add the imported records.</para>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="New Data Source button is selected and opens to these options: From File, From Database, From Online Servies, and From Other Sources.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_06_NewDataSrc.jpg"/>
+    </media>
+    <caption>Access can accommodate importing data from a variety of different sources and file types. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00016">As an example, suppose that once a month your local distributor sends you an updated list of wines to sell at your restaurant. The distributor emails you an Excel file that includes both the updated list of names of wines and their updated prices. The wines listed will not change often, but the prices will reflect supply-and-demand changes in the industry. Because the list is extensive, it will be helpful for you to know how to import the list into Access and then how to make changes as needed.</para>
+    <para id="para-00017">You will need a table that contains both its own product ID and a corresponding Stock Number—the number the distributor uses to identify each type of bottle. <link target-id="fig-00003"/> shows an example of the Excel sheet a wine distributor might send.</para>
+    <figure id="fig-00003">
+    <media alt="Data file with headers for Stock Number, Region, Wine, Vintage, and Price is visible. Information populates the cells. Green triangles are located at top left of all cells in the Vintage column.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_06_ExclFleEx1.jpg"/>
+    </media>
+    <caption>Data is often contained in Excel spreadsheets that might contain formulas or links to other spreadsheets. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00018">In this example, start by adding a new data source from the saved file on your computer. The Import Wizard dialog box will appear, asking several questions to help you import the Excel data (<link target-id="fig-00004"/>). Rather than just importing the Excel sheet, you can go ahead and link the sheet, knowing that the distributor will update the Excel sheet continuously.</para>
+    <figure id="fig-00004">
+    <media alt="Button for “Link to the data source by creating a linked table” is selected in response to Specify how and where you want to store the data in the current database.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_06_ImportWiz.jpg"/>
+    </media>
+    <caption>You can import data into the database you have open as a new table currently or you can instead link it to an existing table. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019">After the link is made, a permanent object is created in the All Access Objects list. The example shown in <link target-id="fig-00005"/> has the WineList table from Excel linked. It will automatically display any changes that have been made to the Excel file. The Excel table that is now visible in Access is easy to work with and functions much like a table.</para>
+    <figure id="fig-00005">
+    <media alt="A WineList file is selected from Table in All Access Objects. The file open at right displays column headers of Stock Number, Region, Wine, Vintage and Price and corresponding information in cells.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_06_ExclFleEx2.jpg"/>
+    </media>
+    <caption>The imported data file looks very similar in format to the Excel spreadsheet using the column titles. (Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00020">One of the challenges of managing and analyzing data is understanding what to do when data contains errors. Read this <link url="https://openstax.org/r/78DataCleaning">article discussing data cleaning and what to consider when cleaning data</link> to learn more. It will help you understand the importance of cleaning data as you plan your future data projects.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00005">
+    <title>Exporting Data</title>
+    <para id="para-00021">To export data from Access, first select the table or other database object to export in the Navigation Pane. Click the External Data tab in the ribbon, and then click the button in the Export button group for the file format to which you want to export the object. This will open the <term class="no-emphasis" id="term-00004">Export Wizard</term> for the type of export you want to perform.</para>
+    <para id="para-00022">The specific steps shown in each wizard will vary slightly, depending on the file type to which you are exporting. In most cases, you must select a name and file location for the exported object. You also often need to set additional parameters for the export routine. You will be prompted to save your export routine, if desired.</para>
+    <para id="para-00023">The Export Wizard enables you to export data from an Access database to a file format that can be read by Excel. When you export data to Excel, Access creates a copy of the selected data and then stores the copied data in a file that can be opened in Excel. If you copy data from Access to Excel frequently, you can save the details of the export operation for future use and can even schedule the export operation to run automatically at set intervals.</para>
+    <para id="para-00024">Typically, your department or work group will use both Access and Excel to work with data. You store the data in Access databases, but you use Excel to analyze the data and to distribute the results of your analysis. As another example, you may be a longtime user of Access, but your manager or another colleague prefers to work with data in Excel.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Building a Dashboard with Navigation Forms</title>
+    <para id="para-00025">Dashboards provide a visual interface for users to interact with when using forms. The Dashboard provides a listing of buttons that direct the user to specific forms or reports. The first thing you see on opening many Access databases is a <term id="term-00005">dashboard</term>, a form populated with navigation forms that will be accessed through clicking on the specific command button. Using these provides the means for the user to navigate the database, opening forms, reports, and so on. The key for the user is a way to navigate. Traditionally, a dashboard is a graphical interface that allows a quick view of visualized data, as shown in <link target-id="fig-00006"/>. In Access, however, we can build a dashboard from a form that will let us easily run queries and pull up reports. This section will demonstrate how to upgrade a Main Menu form that has only buttons and labels into a full dashboard of information for your company to use.</para>
+    <figure id="fig-00006" class="scaled-down">
+    <media alt="A Main Menu window displays white buttons for New Shipment Received, Current Customer History, and New Customer Order in the middle of the screen.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_06_Dashboard.jpg"/>
+    </media>
+    <caption>A dashboard is a menu of buttons that allows users to access other forms and subforms that you have created. (Used with permission from Microsoft)</caption>
+    </figure>
+    <section id="sect-00007">
+    <title>Planning Your Dashboard</title>
+    <para id="para-00026">There are four general subtypes of dashboards:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00002">
+    <item><term class="no-emphasis" id="term-00006">Strategic dashboard</term>: focused on long-term strategies and high-level metrics</item>
+    <item><term class="no-emphasis" id="term-00007">Operational dashboard</term>: shows shorter time frames and operational processes</item>
+    <item><term class="no-emphasis" id="term-00008">Analytical dashboard</term>: contains vast amounts of data created by analysts</item>
+    <item><term class="no-emphasis" id="term-00009">Tactical dashboard</term>: used by middle management to track performance</item>
+    </list>
+    <para id="para-00027">In the following example, imagine that you are a mid-level sales manager who wants to track a basic sales summary. A tactical dashboard seems like the best fit for your situation. Business intelligence has evolved into smart solutions that provide effective data management—from extracting, monitoring, analyzing, and deriving actionable insights needed to stay competitive in the market, to powerful visualizations created with a dashboard builder, which enable business users to interact with the specific bits and pieces of information they may need at any time. In this simple example, you want to record and track total orders and number of customers. Adding these elements to your Main Menu is a good place to start.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Building Your Dashboard</title>
+    <para id="para-00028">It is often helpful to first make a listing of the forms that will need to be regularly accessed by users. The forms could vary by department but there might be a group of forms that are routinely used company-wide. At WorldCorp, key performance indicators (KPIs) are critical to monitor for the success of their strategies. A dashboard that contains navigation options, as well as KPIs, can help manage the business. <link target-id="fig-00007"/> shows an example of this.</para>
+    <figure id="fig-00007" class="scaled-down">
+    <media alt="Main Menu window displays buttons for New Shipment Received, Current Customer History, and New Customer Order, a Sales Summary with Orders and # of Customers, and Bar graph with Date and Sales.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_06_CompDshbrd.jpg"/>
+    </media>
+    <caption>Dashboards can include not only navigation buttons but also summary information for tracking purposes. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00029">DSum and DCount expressions can add both a sales total and a customer count to your dashboard. These have been added to text boxes that were unbound to the form. Each text box was then formatted to fit the theme of the form. Under form design, Insert Modern Form was selected. This is a simple yet powerful way to add context to a sale. Additionally, your team can review the form and see the results as they are updated after each launch of the form. Note that there is an option to Refresh All on the Home tab, which will update the text box and charts.</para>
+    <note class="real-application" id="note-00002">
+    <title>Relational Databases in the Cultural World</title>
+    <para id="para-00030">Many industries use relational databases. They are often hard at work in the background compiling data, gathering customer information, optimizing inventory, or organizing content for decision making. Database usage is more evident in industries such as banking, airlines and transportation, manufacturing, and retail.</para>
+    <para id="para-00031">In recent years, the usage of relational databases in unexpected industries has surged. One example is in libraries and historical preservation. Libraries and museums have utilized new technologies to make their collections of archives and artifacts available digitally for a much larger audience to enjoy, appreciate, and use for their own research. Wilmington College, a four-year liberal arts college in Ohio that was founded by the Religious Society of Friends (Quakers), has done just that. Through the generosity of a significant peace activist and donor to the institution, the college has extensive collection of artifacts related to Hiroshima and the impacts of nuclear weapons held at its Peace Resource Center (PRC).</para>
+    <quote id="quote-00001"><para id="para-00032">“The PRC archives is the most extensive collection of interdisciplinary materials related to the legacy of nuclear war in the United States. Each year, the PRC BRMA receives between 400-450 visitors, including researchers, students, and members of the public. The archives holds documents; creative responses to the atomic bombings, such as poetry, plays, and artistic works; historic poster collections; historic photos; slides; scrapbooks; photo albums; 16-mm films; reel-to-reel audio; cassette tapes; and artifacts among others.”<footnote id="foot-00001">www.library.wilmington.edu/brma/home</footnote></para></quote>
+    <para id="para-00033">Through the use of digital archiving and cataloging in an extensive database, this collection is available online to the broader public. The searchable, relational database is linked to several research libraries and contains digital images of the archives and artifacts held in the college’s collection. Many other such databases of items of historical significance exist across the world such as through the Smithsonian and the United States National Archives. Historians and archivists have taken advantage of these technological tools to make history more accessible without compromising the integrity of the artifacts.</para>
+    </note>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00009">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>Integrating data from outside sources may take some planning.</item>
+    <item>Steps for importing and exporting data were reviewed.</item>
+    <item>Building a dashboard with navigation forms helps drive business. Plan and build your dashboard around forms are used most often in the organization.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00010">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00034"><link class="os-embed" url="#exercise/14-06-BCA-RQ01"/></para>
+    </problem>
+    </exercise>   
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00035"><link class="os-embed" url="#exercise/14-06-BCA-RQ02"/></para>
+    </problem>
+    </exercise>   
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00036"><link class="os-embed" url="#exercise/14-06-BCA-RQ03"/></para>
+    </problem>
+    </exercise>   
+    </section>
+    <section class="written-questions" id="sect-00011">
+    <title>Written Questions</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00037"><link class="os-embed" url="#exercise/14-06-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00038"><link class="os-embed" url="#exercise/14-06-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00012">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00039"><link class="os-embed" url="#exercise/14-06-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00040"><link class="os-embed" url="#exercise/14-06-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>dashboard</term>
+    <meaning>allows users to view account activity at a glance and quickly find records and reports</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>external data</term>
+    <meaning>data stored outside the current database</meaning>
+    </definition>
+    </glossary>
 </document>

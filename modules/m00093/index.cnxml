@@ -6,5 +6,277 @@
     <md:uuid>b6d9d4e3-9298-474c-b1af-c44a8e7bae88</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Create a customized report</item>
+    <item>Modify what appears on a report</item>
+    <item>Change the appearance of a report</item>
+    </list>
+    </section>
+    <para id="para-00002">Reports offer a way to view, format, and summarize the information in your Access database. For example, at WorldCorp, you can create an invoice for all your sales, or a summary of total sales across different regions and time periods depending on which corporate business unit on WorldCorp you are surveying. In the chapter on <link document="m00082">Understanding and Using Databases</link>, you learned about how to create and modify reports using the Report Wizard. In this chapter, we will go deeper into creating and modifying reports.</para>
+    <section id="sect-00002">
+    <title>Building a Custom Report</title>
+    <para id="para-00003">The <term class="no-emphasis" id="term-00001">Report Wizard</term> does provide a quick and efficient way to create reports. At times, however, you will need to make a <term class="no-emphasis" id="term-00002">report</term> from scratch. Understanding the section types enables you to use them to their fullest potential.</para>
+    <para id="para-00004">Often, queries are used to combine tables and define fields that will be included in a report at WorldCorp. As with creating a form, queries become the primary building block for developing a desired report that meets the current demands of the ever-changing WorldCorp objectives.</para>
+    <para id="para-00005">A report is divided into sections that can be seen in Design view. To create professional-looking reports, you will need to understand how each section works. For example, the section in which you choose to place a calculated control determines how Access calculates the results. What you want on the cover page of the report may be very different than what you want at the top of the pages that follow.</para>
+    <para id="para-00006">In addition to the report header, page header, report footer, and page footer, which we covered in <link document="m00082">Understanding and Using Databases</link>, there are other sections in the report that you should know:</para>
+    <list id="list-00002">
+    <item><term id="term-00003">Group Header</term>: This section appears at the beginning of each group in the report and is used to display summary information about each group.</item>
+    <item><term class="no-emphasis" id="term-00004">Detail</term>: This section is where the actual data from the report is displayed. It appears for each record in the report.</item>
+    <item><term id="term-00005">Group Footer</term>: This section appears at the end of each group and is used to display summary information about the group.</item>
+    </list>
+    <para id="para-00007">Using these sections allows you to create a well-organized, easy-to-read report that contains all the necessary information.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Modifying a Report</title>
+    <para id="para-00008">There are several tools and views that you can use to create, format, and customize reports. The different views allow you to see and preview your report in different ways, each of which may be useful to you at times. We reviewed these different views and some of these tools in <link document="m00082">Understanding and Using Databases</link>, but here, we will go into more depth.</para>
+    <section id="sect-00004">
+    <title>Layout View</title>
+    <para id="para-00009"><term class="no-emphasis" id="term-00006">Layout view</term> is a great way to see the print preview grid lines, with the ability to change the size and placement of all labels, text boxes, and design elements. Right-clicking and selecting Layout view shows how much of the report will fit on a page. In Layout view, each control on the report displays real data, making this a useful view for setting the size of controls or performing tasks that affect the report’s appearance and usability, as <link target-id="fig-00001"/> shows.</para>
+    <figure id="fig-00001">
+    <media alt="Screenshot of an Invoice for Awesome Clothes, Inc. displays an open pane with Save, Close, Close All, Report View, Layout View (selected), Design View, and Print Preview available for selection.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtLayVw.jpg"/>
+    </media>
+    <caption>In the Layout View, you can make changes while viewing the form to see how the user will see the form with data included. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Design View</title>
+    <para id="para-00010">In Access, <term class="no-emphasis" id="term-00007">Design view</term> is a view that allows you to create and customize the layout and structure of a report. Design view is an important feature for creating professional-looking reports, as it allows you to customize the design and appearance of the report to suit your needs.</para>
+    <para id="para-00011">When you open a report in Design view, you’ll see a grid that represents the layout of the report. The report is divided into several sections, including the Report Header, Page Header, Group Header, Detail, Group Footer, Page Footer, and Report Footer. Each section has its own set of properties that you can modify to change the appearance and behavior of the section. You can also add various types of controls to the report, including text boxes, labels, buttons, and images in this view. Grouping and sorting options to the report can help organize and display the data in a meaningful way.</para>
+    <para id="para-00012">Design view also allows you to set properties for the entire report, such as its orientation, margins, and page size. You can also add themes and styles to give the report a consistent and professional appearance. Overall, this view allows you to create custom reports that suit your needs in inventory management and retail store operations while at WorldCorp. By taking advantage of the many customization options available in Design view, you can create reports that are both informative and visually appealing.</para>
+    <para id="para-00013">As you can see in <link target-id="fig-00002"/>, the Design view includes all sections of the report.</para>
+    <figure id="fig-00002">
+    <media alt="Screenshot of Invoice for Awesome Clothes Inc. displays gridlines and text boxes and sections for Report Header, Page Header, Detail, Page Footer, and Report Footer in Design View.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtDesVw.jpg"/>
+    </media>
+    <caption>The gridlines in Design View are helpful to keep the form looking professional by lining up controls and sizing elements appropriately for the fields. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Grouping and Sorting in a Report</title>
+    <para id="para-00014">Tools that can group and sort your information will be of utmost importance when organizing your report. Information is often easier to understand when it is divided into groups. For example, in the invoice for Awesome Clothes Inc., the sections are used to group the details and relevant information. In addition, placing a total (a sum of all Amounts) in the Report Footer section can replace a lot of manual interaction with a calculator. The customer can quickly see the total of the grouped sections, showing the amount owed.</para>
+    <para id="para-00015">Grouping and sorting are important features in Access reports that allow you to organize data in a meaningful way. Additional considerations why you might want to use grouping and sorting in your Access reports are endless. Grouping and <term class="no-emphasis" id="term-00008">sorting</term> can make it easier for users to read and understand the data in a report. By <term class="no-emphasis" id="term-00009">grouping</term> related data together and sorting it in a logical order, you can help users quickly identify patterns and trends. It also allows you to summarize data by creating subtotals or totals for each group. Sorting can help you identify outliers or anomalies in your data. For example, if you’re sorting a list of customers by purchase amount, you might notice that one customer has made an unusually large purchase, which could indicate a potential sales opportunity or a data entry error.</para>
+    <para id="para-00016">Grouping and sorting can help you make more informed decisions by presenting the data in a clear way. By using these tools in different ways, you can analyze the data from multiple perspectives and identify opportunities for improvement. By using these features, you can create reports that are more informative and easier to understand, which can ultimately help you make better business decisions that affect our success at WorldCorp.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Filtering Records</title>
+    <para id="para-00017">Another useful tool in Access is the <term class="no-emphasis" id="term-00010">filtering</term> tool. This gives you the ability to filter a report prior to printing or presenting the information. There are just a couple quick steps you can take every time to ensure the information that is obtained in the report is correctly filtered to the desired data points.</para>
+    <para id="para-00018">To start, open the report in Design view. Click on the <term class="no-emphasis" id="term-00011">Sorting and Grouping</term> button in the Grouping &amp; Totals section of the Design tab on the ribbon. In the Sorting and Grouping dialog box, select the field that you want to filter by. Simply click on the “...” button next to the <term class="no-emphasis" id="term-00012">Filter</term> property. In the Filter dialog box, select the criteria that you want to use for the filter. You can select from a variety of options, including Equals, Not Equals, Contains, Does Not Contain, Between, and more.</para>
+    <para id="para-00019">Enter the value or values that you want to use for the filter. You can enter a single value, multiple values separated by commas, or a range of values. Next, click the OK button to close the Filter dialog box and save and close the report. Open the report in Print Preview or Report view to see the filtered results. Note that you can also apply filters to a report while viewing the report in Print Preview or Report view. To do this, click on the Filter button in the Sort &amp; Filter section of the Home tab on the ribbon, and then select the criteria that you want to use for the filter.</para>
+    <para id="para-00020">To use an actual example, let’s filter our customers living in Ohio. Simply right-click on states listed as OH, and click Text Filters - Equals OH. See <link target-id="fig-00003"/>.</para>
+    <figure id="fig-00003">
+    <media alt="A screenshot of rptCustomerReport form displays information in rows and columns (Name, Address, City, State). Information in the State column is selected. An open pane shows Text Filers selected from options listed.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtGroup.jpg"/>
+    </media>
+    <caption>A report of information gathered from data entered into the form can be sorted and filtered by text or by fields. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00021">In <link target-id="fig-00004"/>, Access applies the filter, and you can now print the report including only the data selected from the filter.</para>
+    <figure id="fig-00004" class="scaled-down">
+    <media alt="A table is displayed with columns labeled Name, Address, City, State, and Zip. Information fills the rows below.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtGrpPt.jpg"/>
+    </media>
+    <caption>The report will only display the information based on the filter; the remaining information will be hidden but is still contained in the table. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00008">
+    <title>Adding Totals and Subtotals</title>
+    <para id="para-00022">Adding <term class="no-emphasis" id="term-00013">total</term>s and <term class="no-emphasis" id="term-00014">subtotal</term>s to a report in Microsoft Access is useful for summarizing data and providing meaningful insights to numerous activities at WorldCorp. A few reasons why you might want to add totals and subtotals to your report could include summarizing data, grouping data, identifying outliers, and comparing datasets.</para>
+    <para id="para-00023">Totals and subtotals allow you to summarize data in a report by providing aggregate values such as sum, average, count, minimum, maximum, and more. This can help users quickly understand the overall trends in the data. Grouping data by a particular field or criteria, such as by department or product category is very useful for subtotals by allowing users to analyze the data from different perspectives. Totals can be used to identify outliers or anomalies in the data. For example, if the total sales for a particular product are much higher than the other products, it may indicate that there is a potential opportunity for growth. In addition, they can be used to compare data across different time periods, geographic locations, or other criteria. This can help users identify trends and patterns in the data that may not be immediately apparent. Layout view be used to add totals or averages to a report.</para>
+    <para id="para-00024">To add a total in a report, start by opening the report in Design view. Click on the field where you want to add the total. Then, in the Properties window, scroll down to the Total property and select the type of total you want to add. See <link target-id="fig-00005"/> for the available options. Finally, save the report and reopen it in Print Preview or Report view to see the total.</para>
+    <figure id="fig-00005" class="scaled-down">
+    <media alt="A table with numbers is visible in the background. An open pane displays Total Amount selected and opens to Sum (selected), Average, Count Records, Count Values, Max, Min, and Standard Deviation.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtTotl2.jpg"/>
+    </media>
+    <caption>Access provides some tools to help you analyze information, although not to the extent that you can do data analysis in Excel. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00009">
+    <title>Adding Fields to a Report</title>
+    <para id="para-00025">To add <term class="no-emphasis" id="term-00015">field</term>s to a report in Access, start by opening the report in Design view. Select the <term class="no-emphasis" id="term-00016">Add Existing Fields</term> button in the Controls section of the Design tab on the ribbon. In the Add Existing Fields dialog box, select the table or query that contains the fields that you want to add to the report. Select the fields that you want to add to the report by checking the boxes next to their names. Click the Add button to add the selected fields to the report.</para>
+    <para id="para-00026">In addition, you can drag the fields to the desired location on the report once they are added. You can also resize the fields by dragging the edges of the control box. Make sure to save the report. Once you are done adding the fields to the report, you can customize their appearance and formatting by adjusting the properties in the Properties window.</para>
+    <para id="para-00027">As an example, we will review how text boxes can be added to a report to improve its ability to communicate information at WorldCorp. Start by opening your report in Layout view or Design view. <emphasis effect="italics">Note:</emphasis> If your database does not contain any tables, the Field List pane will be empty. When you find the field(s) you want to add, double-click the field and then drag it from the Field List pane to the form or report, as <link target-id="fig-00006"/> shows.</para>
+    <figure id="fig-00006" class="scaled-down">
+    <media alt="Add Existing Fields is selected from the Tools command group. Field List pane displays: Fields available for this view: CustomerID, Address, CityStateZip, Document, DateOut, Notes, CustomerOrderDetailID, Item, Rate, Qty, Amount, and FirstLast.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtTotl4.jpg"/>
+    </media>
+    <caption>From the Report Layout Design tab you can add additional fields to the report from the Tools command group. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00010">
+    <title>Adding Time and Date</title>
+    <para id="para-00028">One area that is very important on an invoice is the <term class="no-emphasis" id="term-00017">invoice date</term> and <term class="no-emphasis" id="term-00018">due date</term>. In addition to the original purchase date, it can be helpful to calculate a due date or add a mailing date. In the following example, we will see the procedure for adding three dates: origin date, due date, and mailing date. This custom build will clearly explain to the customer the payment due date parameters.</para>
+    <para id="para-00029">Start in Layout view or Design view. The DateOut field, as shown in <link target-id="fig-00007"/> was included in the field list. This information can be presented on the report and used later in calculating the additional information.</para>
+    <figure id="fig-00007" class="scaled-down">
+    <media alt="DateOut is selected from the Field List pane. A DateOut text box is visible in the document along with other text boxes: Invoice #, [Document], and another DateOut box.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtDtOut.jpg"/>
+    </media>
+    <caption>Choose the field you want added to the report and place in the report in the desired location. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00030">Formatting a text box prior to copying it is highly recommended to save time and keep attributes alike. In the example shown in <link target-id="fig-00008"/>, copy and paste the label and text box twice, pasting the second instance directly below the first. Then, change the labels to represent the three dates the customer should see: Purchase date, Invoice date, and Due Date (<link target-id="fig-00009"/>). For appearance, the borders on each label were changed to transparent.</para>
+    <figure id="fig-00008" class="scaled-down">
+    <media alt="A screenshot of three DateOut text boxes being pasted into a document, one right under the other. Arrows point from the first one to the second and third ones.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtAddMD.jpg"/>
+    </media>
+    <caption>If you are using a similar layout for multiple fields in the report, you can insert once and copy and paste for the additional fields. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00009" class="scaled-down">
+    <media alt="Labels for three text boxes are Purchase Date, Invoice Date, and Due Date. Dates fill the text boxes to the right of the labels.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtChngL.jpg"/>
+    </media>
+    <caption>Descriptive titles are needed for each field in the report. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00031">Next, open the property sheet and select the Invoice Date text box. Change the control source to =Date()—a quick change that will provide the current date for the text box, as shown in <link target-id="fig-00010"/>.</para>
+    <figure id="fig-00010" class="scaled-down">
+    <media alt="Invoice Date in an Invoice is formatted to be entered as 6/5/2022. The Property Sheet displays Control Source in the Data tab as =Date().">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtInvDt.jpg"/>
+    </media>
+    <caption>By changing the properties for the inserted field, you can add formulas to automatically populate certain aspects of the form. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00032">Select the Due Date text box and open the property sheet. Change the <term id="term-00019">control source</term> to =[DateOut] + 30. The control source is the field to which your text box is linked; it will display the data in that field and any updates you make to the field. This sample expression makes a calculation: It takes the field DateOut and adds 30 days to the field. The text box will display the expected due date of the invoice, as you can see in <link target-id="fig-00011"/>. As this is probably the most important date in the report for the customer, change the font to red and make it boldface. This subtle change will help direct the customer’s eyes to the important due date field.</para>
+    <figure id="fig-00011" class="scaled-down">
+    <media alt="Due Date in an Invoice displays as 7/1/2022. The Property Sheet displays Control Source in the Data tab as = [DateOut] + 30.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReprtDueDt.jpg"/>
+    </media>
+    <caption>Mathematical operators can be utilized in field properties to modify dates as needed. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00011">
+    <title>Changing the Appearance of a Report</title>
+    <para id="para-00033">In <link document="m00082">Understanding and Using Databases</link>, we briefly covered how to add images and custom text to your report. Here, we will go into detail about further customizing the appearance of your report.</para>
+    <section id="sect-00012">
+    <title>Adding and Formatting Text</title>
+    <para id="para-00034">Many companies require particular directions when they invoice their customers. Terms and conditions are required and standardized through contracts. Placement, size, and accessibility are important, especially for current or future customers. In the example of the customer invoice, suppose you want to include a direction in the Page Footer section to instruct the customer on how to make a payment. In the following example, a label is used in the Report Footer section as direction for making payment. It provides information on how to direct the payment and where to send it. In designing this label, you will need to know how to set the size, font, and color to meet company guidelines or standards.</para>
+    <para id="para-00035">To do this, open the report in Layout view and select the Label option from the <term class="no-emphasis" id="term-00020">Report Layout Design Controls</term> (see <link target-id="fig-00012"/>). Draw the label in the Footer section and proceed to enter the payment directions.</para>
+    <figure id="fig-00012" class="scaled-down">
+    <media alt="Screenshot of Report Layout Design tab in Access with icons displayed: Select, Text Box, Label (highlighted), Button, Tab Control, Link, Combo Box, List Box, Check Box, Attachment, and Image.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_Label.jpg"/>
+    </media>
+    <caption>The tools available to customize a report look very similar to those used to customize a form. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00036">While still on the label, select the Label option Format and adjust the font, size, and color within the font section. Within the label, font styles, sizes, and colors can be changed from the ribbon, as in all Microsoft Office products (<link target-id="fig-00013"/>).</para>
+    <figure id="fig-00013" class="scaled-down">
+    <media alt="The Font command group is selected from the Format tab. The report displays Snap ITC font in size 14 in a blue color for the text visible.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_LabelFormt.jpg"/>
+    </media>
+    <caption>Text contained on a form can be adjusted by size, font type, and others similar to changing fonts in Word. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00037">Once complete, review the report in Print Preview view. Make sure the message is displayed in the correct position and with the correct formatting. You can repeat these steps for any other information that may be standardized on the report (e.g., contract guidelines or customer service contact information).</para>
+    </section>
+    <section id="sect-00013">
+    <title>Adding Page Numbers</title>
+    <para id="para-00038">Open the report in Design view or Layout view. On the Design tab, in the Header/Footer group, click <term class="no-emphasis" id="term-00021">Page Numbers</term>. When the Page Numbers dialog box appears, choose the format, position, and alignment that you want (<link target-id="fig-00014"/>). <emphasis effect="italics">Note:</emphasis> If you do not want a number to appear on the first page of the report, be sure to uncheck the option to clear the Show Number on the First page checkbox. When you are done, click OK, and the page numbers will be added to the report. (To see how the page numbers will look when the report is run, switch to Print Preview.)</para>
+    <figure id="fig-00014">
+    <media alt="(a) Page Numbers is selected, displays Format (Page N of M), Position (Bottom of Page [Footer]), and Show Number on First Page (checked). (b) Page 1 of 1 shows on bottom left.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_PageNumber.jpg"/>
+    </media>
+    <caption>(a) In the Header/Footer command group, page numbers can be added to multi-page reports. (b) Just as in Word, you can determine the formatting and location of the page number on the report. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00014">
+    <title>Adding <term class="no-emphasis" id="term-00022">Logo</term>s and Images</title>
+    <para id="para-00039">In the example of the customer invoice, a company logo helps clearly represent the company’s ownership and brand. Beyond simply using font styles and colors to distinguish your company, a company logo can make reports look professional. <emphasis effect="italics">Note:</emphasis> Before finalizing a report that may go out to a large audience, be sure to check with your company’s guidelines on placement, size, and color guidelines for logos. Larger companies often offer a marketing toolkit to help guide employees in the use of logos.</para>
+    <para id="para-00040">To better understand the use of logos, we will walk through steps for adding and modifying a static image on a form, using our clothing company example.</para>
+    <para id="para-00041">First, choose the image that you want to use as the logo for the clothing company. Ideally, this image has been given to you or made available. Company logos are usually saved as a JPEG or PNG file type. Open the report in Design view when you are ready to add the logo. Select the Image button in the Controls section of the Design tab on the ribbon. This will add an image control to the report.</para>
+    <para id="para-00042">Resize the image control to the desired size by dragging the edges of the control box. Right-click on the image control and select Properties from the context menu. In the Properties window, go to the Picture property and click on the ellipsis button (...) to select the image file that is the saved logo.</para>
+    <para id="para-00043">In the Picture Size Mode property, choose the Clip option to ensure that the image is displayed at its original size. Save the report once complete. You can also modify the appearance of the image by adjusting the properties in the Properties window. For example, you can change the border style, color, and thickness, as well as the background color of the control box. In this example, shown in <link target-id="fig-00015"/>, the logo was placed in the center of the invoice header section, replacing the company name.</para>
+    <figure id="fig-00015">
+    <media alt="Logo is selected in Header/Footer command group on Report Layout Design tab. A rainbow colored, swirly logo with Awesome Clothes Inc. in blue font is inserted in the middle of an invoice.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_04_ReportLogo.jpg"/>
+    </media>
+    <caption>Company logos are an important part of reports such as invoices sent customers and are easily added in the header. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00044">Now it is time to print your report. Before you do, make sure you are happy with the final version. Remember that although forms are designed for users, reports are for audiences and stakeholders. It’s important to consider whether your message and data are clearly presented and whether the report meets all company guidelines for publication.</para>
+    <note class="spotlight-ethics" id="note-00001">
+    <title>Privacy in Two Acts: FERPA and HIPPA</title>
+    <para id="para-00045">Personal information such as addresses, work history, and in some cases medical history, could be contained in a variety of different databases and with a variety of different organizations or companies. Our personal information is regularly exchanged and sold to entities to solicit sales, send mailers, or for political purposes just to name a few examples. More and more people are becoming concerned with the use and privacy of their information.</para>
+    <para id="para-00046">Two areas of particular concern are medical data and academic/educational data. You might be familiar with FERPA – The Family Educational Rights and Privacy Act of 1974. This piece of legislation was passed to protect your academic records. The Act also gives protections to individuals for how their educational records are used by government agencies such as the Department of Education. Your right to keep those records private is part of the legislation. In addition, you have the right to request your records at any time. The data essentially belongs to you. There are certain provisions that allow usage of the data for reporting and auditing purposes. But when the data is used, personally identifiable information is generally not disclosed.</para>
+    <para id="para-00047">In a similar manner, HIPPA, or the Health Insurance Portability and Accountability Act of 1995, protects your medical information. Your specific medical information is kept private under most circumstances. Information such as treatment plans or medication might be shared with insurance companies but that information is protected through the insurance companies from outside entities under the same HIPPA legislation.</para>
+    <para id="para-00048">In general, under both legislative acts, unless there is a justifiable compelling reason to disclose your personal information, it is kept private. Both acts give options for you to disclose to certain entities. For example, you can decide to allow your parents access to your educational records or your spouse/partner have access to your medical records. Signed approval for such disclosure is needed to release the information to someone other than yourself.</para>
+    </note>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00015">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>Use report tools to build a custom report in both Layout view and Design view.</item>
+    <item>Use report tools to group and sort in a report, filter records, and add totals and subtotals to a report.</item>
+    <item>Use report tools to change the appearance of a report by adding fields with time and date, formatting text, adding page numbers to a report, and adding logos and images to a report.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00016">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00049"><link class="os-embed" url="#exercise/14-04-BCA-RQ01"/></para>
+    </problem>
+    </exercise>   
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00050"><link class="os-embed" url="#exercise/14-04-BCA-RQ02"/></para>
+    </problem>
+    </exercise>   
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00051"><link class="os-embed" url="#exercise/14-04-BCA-RQ03"/></para>
+    </problem>
+    </exercise>   
+    </section>
+    <section class="written-questions" id="sect-00017">
+    <title>Written Questions</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00052"><link class="os-embed" url="#exercise/14-04-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00053"><link class="os-embed" url="#exercise/14-04-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00054"><link class="os-embed" url="#exercise/14-04-BCA-WQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00018">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00055"><link class="os-embed" url="#exercise/14-04-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00056"><link class="os-embed" url="#exercise/14-04-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00019">
+    <title>Case Exercise</title>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00057"><link class="os-embed" url="#exercise/14-04-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>control source</term>
+    <meaning>area in the property sheet that controls which data is displayed in a particular field, as well as any updates you make to the field</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>Group Footer</term>
+    <meaning>area where summary information appears at the end of each group of records</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>Group Header</term>
+    <meaning>area that displays names at the beginning of each new group of records</meaning>
+    </definition>
+    </glossary>
 </document>

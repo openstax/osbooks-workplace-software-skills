@@ -6,5 +6,228 @@
     <md:uuid>39532d35-b0f0-4ad5-9da0-90fa7725d5ec</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Create a form that uses data from two different tables</item>
+    <item>Create a form that contains subforms</item>
+    </list>
+    </section>
+    <para id="para-00002">Much like any global manufacturing corporation, we have an extensive list of assets that include company vehicles, equipment, and facilities to operate and manage. At WorldCorp, when you work with relational data, it is often convenient to be able to view multiple tables on the same form. For example, suppose you are reviewing a fleet of vehicles for one of our manufacturing facilities in Germany. Initially, you built a form that lists all the vehicles in use and enables you to add and subtract vehicles. You also built a form to create service records for each vehicle that WorldCorp owns.</para>
+    <para id="para-00003">When a new vehicle is added to the fleet, it receives an initial oil change and fresh fluids, and these service records are logged. You want to create a form that will make it easy to add a new vehicle and simultaneously add the initial maintenance and repair notes for that vehicle. To do this, you need to add a vehicle to a list of fleet vehicles on one table and, at the same time, add information about the maintenance/repair that has been done to the vehicle on another table. To accomplish this goal, you may want to combine data from two tables in one form or create subforms. This section presents several methods to help you create advanced forms.</para>
+    <section id="sect-00002">
+    <title>Adding Data from Two Tables in a Single Form</title>
+    <para id="para-00004">If you want to add data across multiple tables in one form, this could help with efficiency when managing a fleet of vehicles at WorldCorp. Primarily, it can speed data entry while maintaining the organization of tables, fields, and records.</para>
+    <para id="para-00005">To effectively create forms that feed into multiple tables, you should use a query as a critical building block. Recall from the chapter on <link document="m00082">Understanding and Using Databases</link> that a <term class="no-emphasis" id="term-00001">query</term> is an Access object used to view, analyze, or modify data. The query design determines which fields and records you see and their sort order. Using the example of our manufacturing facility fleet vehicle program, you can review how the query is designed, how to adjust it for user experience, and how to use the <term class="no-emphasis" id="term-00002">Form Wizard</term> to build a form that can add data to two tables.</para>
+    <section id="sect-00003">
+    <title>Using Queries for a Form</title>
+    <para id="para-00006">First, a query needs to be designed to build a <term class="no-emphasis" id="term-00003">relational database</term> for the fleet vehicle program. In this example, you have two tables of information, as seen in <link target-id="fig-00001"/>: tblVehicle and tblMaintenance.</para>
+    <figure id="fig-00001">
+    <media alt="tblVehicle forms with columns Field Name and Date Type (both containing information in cells) and tblMaintenance form with columns Field Name and Data Type (highlighted yellow) (both containing information in cells).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_Tables.jpg"/>
+    </media>
+    <caption>Forms are used in a variety of ways in organizations and using Access collects the data automatically into a table. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00007">The tblVehicle table represents each unique car/truck the company owns. The tblMaintenance table represents every maintenance record (oil changes, new tires, chipped glass repair, inspections, etc.) on all vehicles. In this section, you will see how to design a form that can add information to both tables simultaneously.</para>
+    <para id="para-00008">Remember that the ultimate goal of the new form is to add a new vehicle to the fleet <emphasis effect="italics">and</emphasis> to include that vehicle’s initial service information (oil change, safety inspection, cleaning, company decals, etc.) so that WorldCorp does not lose track or misuse valued assets. The new form will serve as a quick form for all new vehicles. For the query to be effective, a clear relationship needs to be established between the two tables.</para>
+    <para id="para-00009">In this example, VehicleID is the primary key of tblVehicle and is listed as a required field of tblMaintenance. Recall from the chapter <link document="m00082">Understanding and Using Databases</link> that a primary key is a field or set of fields with values that are unique throughout a table. Values of the primary key can be used to refer to entire records because each record has a different value for the key, as shown in <link target-id="fig-00002"/>.</para>
+    <figure id="fig-00002">
+    <media alt="tblVehicle and tblMaintenance forms visible. Data Type in VehicleID opens to option pane (includes Short Text, Long Text, Number, Large Number, Date/Time, Date/Time Extended, Currency, AutoNumber, Yes/No, Hyperlink, Lookup Wizard (highlighted), etc.).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_TbleLpWzrd.jpg"/>
+    </media>
+    <caption>Similar to defining the number type in Excel, when you create fields you can determine the type of information in that field. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00010">Access provides different data types for formatting field names. Rather than setting the VehicleID field in the tblMaintenance to short text, autonumber, or number, you can use the <term class="no-emphasis" id="term-00004">Lookup Wizard</term> to build a relationship between tables. The example, shown in a series of screenshots (<link target-id="fig-00003"/>, <link target-id="fig-00004"/>, <link target-id="fig-00005"/>, <link target-id="fig-00006"/>, <link target-id="fig-00007"/>, and <link target-id="fig-00008"/>) will walk through the use of the Lookup Wizard steps that are used to create a relationship.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="Lookup Wizard window lists options for I want the lookup field to get the values from another table or query (selected/indicated) and I will type in the values that I want.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_LpWzrd1a.jpg"/>
+    </media>
+    <caption>The Lookup Wizard can be used to create fields in a table in a step by step fashion either from an existing table or you can create a new table. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00004" class="scaled-down">
+    <media alt="Lookup Wizard Asks Which table or query should provide the values for your lookup field? Table: tblMaintenance and Table: tblVehicle (selected) display. Tables button selected from View options including Queries and Both.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_LpWzrd1b.jpg"/>
+    </media>
+    <caption>If you choose to pull fields from an existing table in the database, you will need to identify the specific table. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00005" class="scaled-down">
+    <media alt="Lookup Wizard asks: Which fields of tblVehicle contain the values you want included in your lookup field? The fields you select become columns in your lookup field. Selected Fields: Vyear (selected).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_LpWzrd1c.jpg"/>
+    </media>
+    <caption>Only fields contained in the table you select will be listed. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00006" class="scaled-down">
+    <media alt="Lookup Wizard asks What sort order do you want for the items in your list box? Drop-down field panes display Make, Model, and Vyear with buttons at the right labeled Ascending.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_LpWzrd1d.jpg"/>
+    </media>
+    <caption>Sort the information using a logical field such as the specific car details. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00007" class="scaled-down">
+    <media alt="Lookup Wizard asks: How wide would you like the columns in your lookup field? Button is checked for Hide key column (recommended). Columns visible below for VIN, Make, Model, and VYear.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_LpWzrd1e.jpg"/>
+    </media>
+    <caption>Recall the primary key is the field that ties the tables together. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00008" class="scaled-down">
+    <media alt="VehicleID is selected for What label would you like for your lookup field? Enable Data Integrity and Restrict Delete buttons are selected (Cascade Delete also available). Allow multiple Values button not checked.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_LpWzrd1f.jpg"/>
+    </media>
+    <caption>Enabling data integrity is a good idea if you are collaborating with others in the same database file. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00011">Now that you have created a relationship between the tables, build a query that joins the fields from the two tables together. To start, go to <term class="no-emphasis" id="term-00005">Query Design</term> and bring in all the fields from both tables. In this example, the query will be saved as qryNewVehicles, as it will be the driver for the New Vehicle form to use in the vehicle fleet program. See <link target-id="fig-00009"/>.</para>
+    <figure id="fig-00009" class="scaled-down">
+    <media alt="(a) tblVehicle and tblMaintenance queries displayed with table. (b) Join Properties pane displays selected option: Include ALL records from ‘tblVehicle’ and only those records from ‘tblMaintenance’ where the joined fields are equal.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_NewVcleQry.jpg"/>
+    </media>
+    <caption>(a) In the query view you can see the primary keys identified in each table. (b) Define the relationship between the two tables and which records are created in the new table created from the form. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00012">Select qryNewVehicle from the list of All Access Objects to create the form “fromNewVehicle.” See <link target-id="fig-00010"/>. Access will create the form automatically. This form allows the user to enter both the new vehicle that is part of the fleet and the initial check-in service performed on the vehicle.</para>
+    <figure id="fig-00010">
+    <media alt="qryNewVehicle file displays tblVehicle.VehicleID and MaintenanceID fields both populated with (New). Other blank fields include VIN, Make, Model, VYear, tblMaintenance.VehicleID, Description, RepairDate, and Amount.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_Form2Table.jpg"/>
+    </media>
+    <caption>Because relationships were created previously between the two tables using the Wizard, when data is entered into the form, both tables are populated with the information. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00004">
+    <title>Using Subforms</title>
+    <para id="para-00013">A <term id="term-00006">subform</term> is a form that is inserted in another form (known as the main form). A form/subform combination may be referred to as a hierarchical form, a master/detail form, or a parent/child form. Subforms are generally used whenever you want to display data from multiple tables where there is a <term id="term-00007">one-to-many relationship</term>.</para>
+    <para id="para-00014">In a <term id="term-00008">one-to-one relationship</term>, each record in one table has no more than one related record in another table. This type of relationship is not common, as most information related in this way would be in one table, so there would be no need for a second table.</para>
+    <para id="para-00015">By contrast, a one-to-many relationship is the most common type of relationship. In a one-to-many relationship, a record in one table can have many matching records in another table, and the opposite is true as well.</para>
+    <para id="para-00016">For example, suppose you have two tables in your database, one called Employees and another called Employee Details. The Employees table contains basic information about each employee, such as their name, ID number, and job title. The Employee Details table contains additional details about each employee, such as their address, phone number, and emergency contact information. Because each employee has only one set of details, there is a one-to-one relationship between the Employees and Employee Details tables. To view and edit this information on the same form, you can use a subform.</para>
+    <para id="para-00017">To do this, you could create a main form based on the Employees table, with fields for Employee ID, First Name, Last Name, and other relevant information. Then, you could add a subform based on the Employee Details table, with fields for Address, Phone Number, Emergency Contact, and other relevant information. By embedding the Employee Details subform within the Employees main form, you can easily view and edit data for both the employee and their details on the same screen. You can navigate between records in the Employees table and see the corresponding details in the subform, or you can add a new employee and their details at the same time.</para>
+    <para id="para-00018">A <term id="term-00009">many-to-many relationship</term> means that for each record in one table, there can be many records in another table; likewise, for each record in the second table, there can be many in the first. Many-to-many relationships cannot be directly represented in relational database programs; they have to be built by using two or more one-to-many relationships. For example, for any business, a many-to-many relationship exists between customers and products. Customers can purchase various products and various amounts of a product, and products can be purchased by many different customers. A third table is required to create the relationship between customers (many) and products (many).</para>
+    <section id="sect-00005">
+    <title>Understanding How Subforms and Relationships Work</title>
+    <para id="para-00019">Using subforms is an effective way to create one-to-many relationships and offers unlimited options for business use. In this type of association between two tables, the primary key value of each record in the primary table corresponds to the value in the matching field or fields of many records in the related table.</para>
+    <para id="para-00020">For example, if you want to display an order with all of its details, you will use a subform. The order information would display on the “main” form (one detail), and the order details would display on the subform (many details). The data in the CustomerOrder table in <link target-id="fig-00011"/> is the “one” side of the relationship in this example. It creates a Document number for the transaction, identifies the Customer, provides room for Notes (delivery instructions, special handling, etc.), and date-stamps the transaction. In contrast, the data in the OrderDetails table is the “many” side of the relationship, showing an unlimited list of items purchased in a transaction.</para>
+    <figure id="fig-00011">
+    <media alt="Customer Order form displays Document, Customer, DateOut and Notes fields at the top (labeled One transaction (main form)) and Item, Rate, Qty, and Amount columns at the bottom (labeled Many Items (subform)).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_ExSubform.jpg"/>
+    </media>
+    <caption>The main form provides the lookup values to determine what to populate in the subform, which lists the items ordered. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00021">The main form and subform are linked so that the subform displays only records that are related to the current record in the main form. For example, when the main form displays a Customer Order by Arnold on 1/20/22, as shown, the subform then displays items that were included on Arnold’s #2 order only. If the form and subform were unlinked, the subform would display all the items that Arnold ever ordered, not just those ordered on 1/20/22, on Document #2.</para>
+    </section>
+    <section id="sect-00006">
+    <title>Adding a Subform through the <term class="no-emphasis" id="term-00010">Subform Wizard</term></title>
+    <para id="para-00022">There are two common ways to add a subform to a main form. The quickest way is to simply open a form in Design view and then drag and drop a form (from your list of completed forms) that you want to be the “many” as your subform. However, using the <term class="no-emphasis" id="term-00011">Form Wizard</term> can ensure that the correct relationships are established when creating the advanced form. The following example will walk you through the use of the Form/Subform Wizard to track your time away from the WorldCorp office on the golf course.</para>
+    <para id="para-00023">Start by designing a query that helps ensure that relationships between the tables are created. To help you think through the query design, you might consider sketching it out on paper or in another app with boxes and arrows to show how fields are connected. Then you can take this plan and use it as your work through the queries when designing a form. Using the Form/Subform Wizard can also make designing the queries and the form easier. In this example, shown in <link target-id="fig-00012"/>, you will design a golfing relational database that keeps track of individual scores and rounds. It may sound like a complicated task to create for a weekend activity, but with the wizard, it can take just a few minutes to have a great application in place for your out-of-office recreation.</para>
+    <para id="para-00024">First, create four tables to help keep track of (1) the different courses (tblCourseID), (2) the different players (tblPlayer), (3) each round played (tblRound), and (4) the score shot on each hole played per round (TblScore). Then, create a query that will bring together all four tables with all the fields from each table using the skills covered earlier in the chapter. The goal is to make tblPlayer the main form; with tblRound and tblScore listed as subforms.</para>
+    <figure id="fig-00012">
+    <media alt="qryRound is selected from Queries. Connected queries for tblScore, tblRound, tblCourseID, and tblPlayer are displayed. Table at bottom shows columns with tblRound.*, tblScore.*, tblCourseID.* and tblPlayer.* in Field and Table: rows.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_GolfQuery.jpg"/>
+    </media>
+    <caption>Four tables are joined in this query to create the main form and two subforms. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00025">Now that you have created a query, save and close it. The next step, shown in <link target-id="fig-00013"/> is to select the Form Wizard from the Create tab in Access.</para>
+    <figure id="fig-00013">
+    <media alt="A screenshot of Form Wizard highlighted in the Forms command group of the Create tab in Access.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_FormWizard.jpg"/>
+    </media>
+    <caption>The query established the relationships between the tables and the Form Wizard found on Create tab is used to create the form from the query. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00026">The following sequence of figures walks through the different options in the wizard. Once you have used the wizard a few times, you will find it easier to plan future forms and subforms for data management (see <link target-id="fig-00014"/>, <link target-id="fig-00015"/>, <link target-id="fig-00016"/>, and <link target-id="fig-00017"/>). Remember that we also used the Form Wizard in <link document="m00082">Understanding and Using Databases</link>.</para>
+    <figure id="fig-00014" class="scaled-down">
+    <media alt="Form Wizard asks: Which fields do you want on your form? Query: qryRound selected in Table/Queries. tblRound.RoundID selected in Available Fields. >> arrows are highlighted between Available Fields and Selected Fields panes.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_FrmWiza.jpg"/>
+    </media>
+    <caption>The Form Wizard begins with determining the fields that will be used in the form and from which tables those fields come from. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00015" class="scaled-down">
+    <media alt="In Form Wizard, by tblPlayer is selected for How do you want to view your data? Two categories of information are shown with options in each. Form with subform(s) button is selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_FrmWizb.jpg"/>
+    </media>
+    <caption>Rather than creating a form with a subform, you can instead create two separate forms and link them together. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00016" class="scaled-down">
+    <media alt="Form Wizard asks: What layout would you like for each subform? Datasheet button is selected for both options (Tabular button also available for both options).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_FrmWizc.jpg"/>
+    </media>
+    <caption>Each subform can be displayed differently on the main form. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00017" class="scaled-down">
+    <media alt="What titles do you want for your forms? asked. Form (Player), Subform (Round), and Subform (Score) and Modify the form’s design selected (Open the form to view or enter information is also available).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_FrmWizd.jpg"/>
+    </media>
+    <caption>Choose Modify to preview the form before using it to collect data. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00027">After you select Finish in the wizard, the following form is created <link target-id="fig-00018"/>. This database, built with four tables, one query, and three forms, will provide a way to keep track of weekend golf performance for years to come.</para>
+    <figure id="fig-00018">
+    <media alt="Player is selected from Forms. Categories for PlayerID, PlayerName, Round, and Score are available. Round displays tabs for RoundID, DatePlayed, and tblRound_CourseID and Score displays tabs for ScoreID, Hole, Score, and Par.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_GolfExampl.jpg"/>
+    </media>
+    <caption>This form was designed as a training aid to demonstrate how the Form Wizard can be used to create subforms. The subform to collect the scores is displayed in a tabular form. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00028">To review, the Form Wizard created three forms, as shown in the All Access Objects section: Player, Round, and Score. When you open the Player form, it will display all three forms. In this example, Larry is the selected player on the main form—PlayerID #1. The subforms will display information related to only Larry. He is currently playing his first round at Twin Oaks on 5/24/22. We know this because the information displayed within the Round subform is clearly highlighted in blue. Round is set to be a subform of Player. Additionally, Larry has just entered his score on hole #3 of his first round. His score was a 3, and he also marked that the hole was listed as a par 3; Larry shot par!</para>
+    <para id="para-00029">Score is a subform of Round, so only scores for the selected round will be stored. As Larry continues his round, he can simply add additional rows of data from each hole he plays on the Score subform. These scores will both be saved under RoundID #1 and kept as Larry’s unique scores. If Larry is playing against another player, you would navigate to the correct player on the main form and enter their round/score as well.</para>
+    <para id="para-00030">Larry can use this simple yet powerful form to keep track of unlimited rounds of golf. In the office, he might apply these steps to developing a way to keep track of a variety of business tasks or projects. For example, each of his employees could have an assigned project with numerous unique details concerning each project. The employee would be the main form, while the project names and project details could be the subforms.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Adjusting a Subform in Design View</title>
+    <para id="para-00031">Subforms are difficult to change and update within <term class="no-emphasis" id="term-00012">Design view</term> of the main form that they are sitting on. A much easier way to alter a subform is to open that form separately (first making sure the main form has been closed). Using the previous golf example, if you want to add details to the Round subform (for example, add a place for notes on weather or course conditions), it is best to open up the Round form by itself and make the changes. Once the changes have been made, you can save and close the form, then reopen the main form (in this example, Player) to see whether you need to adjust the size. After making any changes, always make sure the subform displays the new information within the main form.</para>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00008">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Adding data from two tables to a single specialized form can be an efficient way to reduce steps and enhance user experience. Queries are the bedrock of building and designing relational forms.</item>
+    <item>Using the Form/Subform Wizard in Access can help ensure the creation of proper relationships. Understanding how subforms and relationships work opens the door to form design.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00009">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00032"><link class="os-embed" url="#exercise/14-02-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00033"><link class="os-embed" url="#exercise/14-02-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00010">
+    <title>Written Questions</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00034"><link class="os-embed" url="#exercise/14-02-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00035"><link class="os-embed" url="#exercise/14-02-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00011">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00036"><link class="os-embed" url="#exercise/14-02-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>many-to-many relationship</term>
+    <meaning>relationship in which each record in one table can have many related records in another table, and vice versa; this type of relationship, which really consists of two one-to-many relationships, is made possible only by defining a table</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>one-to-many relationship</term>
+    <meaning>relationship in which each record in one table has one or more related records in another table, but a record in the second table has only one matching record in the first table</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>one-to-one relationship</term>
+    <meaning>relationship in which each record in one table has at most one related record in another table</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>subform</term>
+    <meaning>form that is inserted into another form (the main form)</meaning>
+    </definition>
+    </glossary>
 </document>
