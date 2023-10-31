@@ -6,6 +6,157 @@
     <md:uuid>1f259fb4-587f-4403-a0ae-09df7f92293f</md:uuid>
   </metadata>
   <content class="preface">
-    <para id="para-00001">Placeholder</para>
+    <section id="sect-00001">
+      <title>About OpenStax</title>
+      <para id="para-00001">OpenStax is part of Rice University, which is a 501(c)(3) nonprofit charitable corporation. As an educational initiative, it's our mission to improve educational access and learning for everyone. Through our partnerships with philanthropic organizations and our alliance with other educational resource companies, we're breaking down the most common barriers to learning. Because we believe that everyone should and can have access to knowledge.</para>
+      </section>
+      <section id="sect-00002">
+      <title>About OpenStax Resources</title>
+      <section id="sect-00003">
+      <title>Customization</title>
+      <para id="para-00002"><emphasis effect="italics">Workplace Software &amp; Skills</emphasis> is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors.</para>
+      <para id="para-00003">Because our books are openly licensed, you are free to use the entire book or select only the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.</para>
+      <para id="para-00004">Instructors also have the option of creating a customized version of their OpenStax book. Visit the Instructor Resources section of your book page on OpenStax.org for more information.</para>
+      </section>
+      <section id="sect-00004">
+      <title>Art attribution</title>
+      <para id="para-00005">In <emphasis effect="italics">Workplace Software &amp; Skills</emphasis>, most art contains attribution to its title, creator or rights holder, host platform, and license within the caption. Because the art is openly licensed, anyone may reuse the art as long as they provide the same attribution to its original source. Screenshots from Microsoft and Google are credited with the figure. Please retain that attribution when reusing the images. To maximize readability and content flow, some art does not include attribution in the text. If you reuse art from this text that does not have attribution provided, use the following attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.</para>
+      </section>
+      <section id="sect-00005">
+      <title>Errata</title>
+      <para id="para-00006">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. In addition, the wide range of topics, data, and technology in business software change frequently, and portions of the textbook may become out of date. Since our books are web-based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past and pending errata changes on your book page on OpenStax.org.</para>
+      </section>
+      <section id="sect-00006">
+      <title>Format</title>
+      <para id="para-00007">You can access this textbook for free in web view or PDF through OpenStax.org, and for a low cost in print. The web view is the recommended format because it is the most accessible—including being WCAG 2.0 AA compliant—and most current. Print versions are available for individual purchase, or they may be ordered through your campus bookstore.</para>
+      </section>
+      </section>
+      <section id="sect-00007">
+      <title>About <emphasis effect="italics">Workplace Software &amp; Skills</emphasis></title>
+      <para id="para-00008"><emphasis effect="italics">Workplace Software &amp; Skills</emphasis> will cover applications from the Microsoft 365 (formerly Microsoft Office) suite and Google Workspace. Coverage of both suites aligns with contemporary business use and prepares students for workforce needs.</para>
+      <para id="para-00009">Applications covered in-depth from Microsoft 365 include Word, PowerPoint, Excel, and Access, as well as overviews of integrations with Outlook, Calendar, and Teams. Applications covered in-depth from Google Workspace include Docs, Sheets, and Slides, as well as overviews of integrations with Gmail, Calendar, and Meet. An overview of additional collaboration and conference applications is also provided, and content management software such as WordPress, will be covered in-depth.</para>
+      <para id="para-00010">This selection of applications provides a holistic exposure to common tools of business practice in generalist positions, while also preparing students for additional focused training that may be required for specialized fields. In addition to technical skill development, <emphasis effect="italics">Workplace Software &amp; Skills</emphasis> covers conceptual topics related to diversity, equity, inclusion; ethics and security; and technology advancements, such as the Internet of Things and generative artificial intelligence. These topics are discussed as they relate to business and everyday life, reflecting their importance to contextualizing business computer application use within the modern business world. They emphasize responsible use and considerations for collaboration across a virtual network. In addition, ethical business practices and aligning with diversity, equity, and inclusion principles are key alignments to today’s business world, and are important concepts to embrace and adopt. These are integral to all business positions—whether entry level or C-suite—and reinforcement across a curriculum ensures deep integration of these into everyday practice.</para>
+      <para id="para-00011">Across each chapter, conceptual and technical skill is anchored in real-world examples and applications. This ensures that students are prepared for entry into the workforce with a portfolio of completed examples relevant to positions requiring these skills.</para>
+      <para id="para-00012">This textbook is not intended for computer-science, programming, or information systems programs, which focus on specialized skills as they relate specifically to those disciplines versus business.</para>
+      </section>
+      <section id="sect-00008">
+      <title>Pedagogical Foundation</title>
+      <section id="sect-00009">
+      <title>Learning Objectives</title>
+      <para id="para-00013">Every module begins with a set of clear and concise learning objectives, which have been thoroughly revised to be both measurable and more closely aligned with current teaching practice. These objectives are designed to help the instructor decide what content to include or assign, and to guide student expectations of learning. After completing the module and end-of-module exercises, students should be able to demonstrate mastery of the learning objectives.</para>
+      </section>
+      <section id="sect-00010">
+      <title>Key Features</title>
+      <list id="list-00001">
+      <item><emphasis effect="bold">Cross-chapter Scenario:</emphasis> Presents students with a mock business simulation, carried from Chapter 1 through Chapter 15. The scenario includes a multi-division business that provides a variety of experiences and situations that someone in an entry-level to mid-level position would experience. Additional scenarios from businesses reflective of the changing business landscape, such as green technology, non-profit organizations, and entrepreneurship will augment the running scenario. Students will be exposed to everyday business needs as related to the chapter topic. Integrated projects and capstones will also pull from this simulated business scenario.</item>
+      <item><emphasis effect="bold">Real-World Application:</emphasis> Poses problems pulled from real-world scenarios that require application of chapter concepts. These features focus on reproducible skills such as those students might use to build a portfolio relevant to business requirements.</item>
+      <item><emphasis effect="bold">Mac Tips:</emphasis> Calls out brief notes where commands or tools for macOS and Windows differ.</item>
+      <item><emphasis effect="bold">Spotlight on Ethics:</emphasis> Highlights an ethics issue related to the concept, skill, or activity being taught in the text. These features may discuss a real-world case, dig deeper into an ethical concept being discussed, or present an ethical dilemma for the student to think through.</item>
+      <item><emphasis effect="bold">Link to Learning:</emphasis> Includes a few sentences of introduction to a website with an interactive activity, animation, or video that helps improve student understanding.</item>
+      <item><emphasis effect="bold">Final Project</emphasis>: The last chapter includes a complex final project assignment. Students are given a dataset and asked to create a detailed business report that uses product integrations, tools, and skills learned across all fifteen chapters.</item>
+      </list>
+      </section>
+      <section id="sect-00011">
+      <title>Section Summaries</title>
+      <para id="para-00014">Section summaries distill the information in each section for both students and instructors down to key, concise points addressed in the section.</para>
+      </section>
+      <section id="sect-00012">
+      <title>Key Terms</title>
+      <para id="para-00015">Key terms are bold and are followed by a definition in context. Definitions of key terms are also listed in the Glossary, which appears at the end of the chapter.</para>
+      </section>
+      <section id="sect-00013">
+      <title>Assessments</title>
+      <para id="para-00016">A variety of assessments allow instructors to confirm core conceptual understanding, elicit brief explanations that demonstrate student understanding, and offer more in-depth assignments that enable learners to dive more deeply into a concept, tool, or topic.</para>
+      <list id="list-00002">
+      <item><emphasis effect="bold">Review Questions</emphasis> test for conceptual apprehension of key concepts and tools.</item>
+      <item><emphasis effect="bold">Written Questions</emphasis> require students to explain concepts in words, as well as asking students to explain when a concept should be applied in the workplace, and respond to non-technical concepts, such as ethics.</item>
+      <item><emphasis effect="bold">Practice Exercises</emphasis> ask students to apply the program content they have learned so that they can both learn by repetition and extend the practice through critical thinking exercises.</item>
+      <item><emphasis effect="bold">Case Exercises</emphasis> ask students to come up with creative solutions to a new problem; these exercises may draw from real-world examples or fictional scenarios.</item>
+      </list>
+      </section>
+      </section>
+      <section id="sect-00014">
+      <title>Answers to Questions in the Book</title>
+      <para id="para-00017">The end-of-chapter Review Questions, Written Questions, Practice Exercises, and Case Exercises are intended for homework assignments or classroom discussion; thus, student-facing answers or solutions are not provided. Sample answers are provided in the Instructor Solution Manual, for instructors to share with students at their discretion, as is standard for such resources.</para>
+      </section>
+      <section id="sect-00015">
+      <title>About the Authors</title>
+      <section id="sect-00016">
+      <title>Senior Contributing Authors</title>
+      <para id="para-00018">Tammie Bolling, Athens State University</para>
+      <para id="para-00019">Angela Mitchell, Wilmington College</para>
+      <para id="para-00020">Tanya Scott, Southern New Hampshire University</para>
+      <para id="para-00021">Nyrobi Wheeler, Bellevue University</para>
+      </section>
+      <section id="sect-00017">
+      <title>Contributing Authors</title>
+      <para id="para-00022">Bridget Lepore, Lehman College</para>
+      <para id="para-00023">Janine Walton, Louisiana State University Shreveport</para>
+      <para id="para-00024">Timothy Burgoyne, Wilmington College</para>
+      <para id="para-00025">Rick Arguello, Independent researcher</para>
+      <para id="para-00026">Valeree Falduto, Broward College</para>
+      </section>
+      <section id="sect-00018">
+      <title>Reviewers</title>
+      <para id="para-00027">Adam Gorski, New York University</para>
+      <para id="para-00028">Alex Katrompas, Austin Community College</para>
+      <para id="para-00029">Angela Heath, Baptist Health System</para>
+      <para id="para-00030">Betty Fitte, Tidewater Community College</para>
+      <para id="para-00031">Bill Nantz, Houston Community College</para>
+      <para id="para-00032">Brian Pusateri, University of Scranton</para>
+      <para id="para-00033">Bryan Broussard, Central Louisiana Technical Community College</para>
+      <para id="para-00034">Caleb Williamson, Pellissippi State Community College</para>
+      <para id="para-00035">Carmen Montanez-Rodriguez, Allan Hancock Community College</para>
+      <para id="para-00036">David Collins, Bellamine University</para>
+      <para id="para-00037">Deanna Bartee, Grand Canyon University</para>
+      <para id="para-00038">Glenn McQueary, Houston Community College</para>
+      <para id="para-00039">Heather Beatty, Ashworth College</para>
+      <para id="para-00040">John Christie, Regis College</para>
+      <para id="para-00041">Julie Goff Lindsey, Linn Benton Community College</para>
+      <para id="para-00042">Laura Bantz, McHenry County College</para>
+      <para id="para-00043">Lawrence Chui, University of St. Thomas</para>
+      <para id="para-00044">Lisa Breaux, San Jacinto Junior College</para>
+      <para id="para-00045">Mariya Breyter, New York University</para>
+      <para id="para-00046">Michael MacLeod, Austin Community College</para>
+      <para id="para-00047">Rakshit Shah, Independent researcher</para>
+      <para id="para-00048">Reni Abraham, Houston Community College</para>
+      <para id="para-00049">Saverio Iaconis, New York University</para>
+      <para id="para-00050">Sue McCrory, Missouri State University</para>
+      <para id="para-00051">Terri Lukshaitis, Ferris State University</para>
+      <para id="para-00052">Tracey Pemberton-Ward, Independent researcher</para>
+      </section>
+      </section>
+      <section id="sect-00019">
+      <title>Additional Resources</title>
+      <section id="sect-00020">
+      <title>Student and Instructor Resources</title>
+      <para id="para-00053">We’ve compiled additional resources for both students and instructors, including an instructor’s manual, test bank, and lecture presentation slides. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on OpenStax.org. Take advantage of these resources to supplement your OpenStax book.</para>
+      <para id="para-00054"><emphasis effect="bold">Instructor's answer guide.</emphasis> Each component of the instructor’s manual is designed to provide maximum guidance for delivering the content in an interesting and dynamic manner.</para>
+      <para id="para-00055"><emphasis effect="bold">Test bank.</emphasis> With nearly 2,000 true/false, multiple-choice, fill-in-the-blank, and short answer questions in our test bank, instructors can customize tests to support a variety of course objectives. The test bank is available in Word format. Authored by Amit Shah, Frostburg State University.</para>
+      <para id="para-00056"><emphasis effect="bold">PowerPoint lecture slides.</emphasis> The PowerPoint slides provide learning objectives, images and descriptions, and feature focuses as a starting place for instructors to build their lectures.</para>
+      <para id="para-00057"><emphasis effect="bold">Data files.</emphasis> Some chapters are accompanied by downloadable data files (typically in .xlsx, .docx, or .csv format) that provide students with the data needed to perform certain assessments, exercises, or in-text examples. Providing the data files to students reduces the amount of unnecessary typing and allows the student to jump right into manipulating the data.</para>
+      </section>
+      <section id="sect-00021">
+      <title>Academic Integrity</title>
+      <para id="para-00058">Academic integrity builds trust, understanding, equity, and genuine learning. While students may encounter significant challenges in their courses and their lives, doing their own work and maintaining a high degree of authenticity will result in meaningful outcomes that will extend far beyond their college career. Faculty, administrators, resource providers, and students should work together to maintain a fair and positive experience.</para>
+      <para id="para-00059">We realize that students benefit when academic integrity ground rules are established early in the course. To that end, OpenStax has created an interactive to aid with academic integrity discussions in your course.</para>
+      <figure id="fig-00001">
+      <media alt="A graphic divides ten items into three categories. The items &quot;Your Original Work&quot; and &quot;Quoting &amp; Crediting Another's Work&quot; are in the &quot;Approved&quot; category. The items &quot;Checking Your Answers Online&quot;, &quot;Group Work&quot;, &quot;Reusing Past Original Work&quot;, &quot;Sharing Answers&quot;, and &quot;Artificial Intelligence, Chatbot Apps&quot; are in the &quot;Ask Instructor&quot; category. The items &quot;Posting Questions &amp; Answers&quot;, &quot;Plagiarizing Work&quot;, and &quot;Getting Others to Do Your Work&quot; are in the &quot;Not Approved&quot; Category.&quot;">
+      <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+      <!-- Preface_01_AcademicIntegritySliderv3-1-column-->
+      </media>
+      <caption>Visit our <link url="https://www.openstax.org/r/academic-integrity-slider">academic integrity slider</link>. Click and drag icons along the continuum to align these practices with your institution and course policies. You may then include the graphic on your syllabus, present it in your first course meeting, or create a handout for students. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+      </figure>
+      <para id="para-00060">At OpenStax we are also developing resources supporting authentic learning experiences and assessment. Please visit this book’s page for updates. For an in-depth review of academic integrity strategies, we highly recommend visiting the International Center of Academic Integrity (ICAI) website at <link url="https://academicintegrity.org/">https://academicintegrity.org/</link>.</para>
+      </section>
+      <section id="sect-00022">
+      <title>Community Hubs</title>
+      <para id="para-00061">OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons—a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty. To reach the Community Hubs, visit www.oercommons.org/hubs/openstax.</para>
+      </section>
+      <section id="sect-00023">
+      <title>Technology partners</title>
+      <para id="para-00062">As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on OpenStax.org.</para>
+      </section>
+      </section>
   </content>
 </document>
