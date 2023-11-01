@@ -109,7 +109,7 @@
     <caption>This is the Audio icon after audio is inserted on a slide. (Google Slides is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00017">To control the volume, hover your mouse over the speaker symbol. The Format Options pane (under the Format tab) has other controls you may need, as shown in <link target-id="fig-00011"/>.</para>
-    <figure id="fig-00011" class="scaled-down-30">
+    <figure id="fig-00011" class="scaled-down">
     <media alt="A close-up screenshot of the Format options for Audio playback is shown.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_04_FormAudio.jpg"/>
     </media>
@@ -124,7 +124,7 @@
     <caption>Remember your audience when selecting videos. Make sure they are a suitable length and fully vetted of any controversial content. (Google Slides is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00020">As in PowerPoint, the video will initially appear very large on your slide, but you can make it smaller by dragging the corners. A Play button will appear in the center of the video thumbnail. When you have the video thumbnail selected, the Format options pane will appear on the right (<link target-id="fig-00013"/>). There are a number of different options and settings you can apply and modify. Try a few different ones to see what their effects are like.</para>
-    <figure id="fig-00013" class="scaled-down-30">
+    <figure id="fig-00013" class="scaled-down">
     <media alt="A screenshot of the Format Options is shown.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_04_VIDEOPANE.jpg"/>
     </media>
@@ -144,7 +144,7 @@
     <caption>Slides makes it easy to comment and collaborate on a presentation.</caption>
     </figure>
     <para id="para-00023">Click on the comment icon and a little window will pop up with a place for you to write your comment. Next, click on Comment—it’s that simple. Communication is practically instantaneous. Now you can send your presentation off to your colleagues or save it to Google Drive. <link target-id="fig-00015"/> shows an example of a comment made on a slide as well as the response.</para>
-    <figure id="fig-00015" class="scaled-down-30">
+    <figure id="fig-00015" class="scaled-down">
     <media alt="A screenshot of the commenting interface with shared messages from two commenters is shown.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_04_Reply.jpg"/>
     </media>
