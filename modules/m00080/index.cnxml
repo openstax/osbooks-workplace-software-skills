@@ -6,5 +6,503 @@
     <md:uuid>7f63d0dc-69cd-47c5-b4db-f3dfa8ece470</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Add transitions to a presentation.</item>
+    <item>Add animations to objects and text boxes.</item>
+    <item>Use the tools in the Media command group.</item>
+    <item>Finalize your presentation for viewing.</item>
+    <item>Understand the hardware components of effective presentations.</item>
+    <item>Prepare for different types of presentations (in person, virtual, or hybrid).</item>
+    </list>
+    </section>
+    <para id="para-00002">You learned the basic workings of PowerPoint in <link document="m00069">Preparing Presentations</link>. Now it’s time to learn how to turn those basic slides into a presentation that not only informs but also engages the audience. You want to create a presentation that’s seamless and easy to present from. For example, if you are giving an in-person presentation, you don’t want to have to stand by the computer and manually advance the slides. Also, since the <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation is a presentation about yourself, you want to convey that you are competent with PowerPoint.</para>
+    <para id="para-00003">Your supervisor told you today that you will need to record the presentation so that it can be shared with others at WorldCorp’s international office locations. In this section, you will acquire the skills to virtually automate your presentation while also including the key information you will need to keep you on track as you present in front of an audience.</para>
+    <para id="para-00004">Finally, you hope to be able to provide printed handouts to the participants in case they need the information later on. Integral to that is learning about other tabs in PowerPoint—namely, the Transitions, Animations, Slide Show, Record, and Review functions.</para>
+    <section id="sect-00002">
+    <title>Transitions</title>
+    <para id="para-00005">The term <term id="term-00001">transitions</term> refers to the way one slide changes to the next slide. As you can see on the Transitions tab in <link target-id="fig-00001"/>, there are many ways to move between slides. The Transition to the Slide command group contains options such as Fade, Split, and Shape. You can use the Timing command group tools to determine the duration of the slide on the screen, or how quickly the slides move (transition) from one to the next. A sound can be used as the slide transitions, or you can simply move to the next slide using a mouse click.</para>
+    <figure id="fig-00001">
+    <media alt="An image of a PowerPoint ribbon with the Transitions feature selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_Transition.jpg"/>
+    </media>
+    <caption>Transition effects can apply to a single slide or all slides in the presentation. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00006">There are many transitions to choose from (<link target-id="fig-00002"/>). For example, you can have a slide fade into the next slide or push one slide out of the way for the next one. You can have a slide zoom in from one side when moving to the next slide. But keep in mind that not all the options available are necessary or even professional. Overuse of distracting transitions can take away from the professionalism of a presentation. Choose a transition that works for your content and one that is not going to be too distracting to those viewing the slideshow and that is not irritating to you as the presenter. Look at the available options for slide transitions and see what they do when you advance to the next slide.</para>
+    <para id="para-00007">Practice with the transitions before you present in front of an audience. If a transition seems to take too much time or seems to stand out more than what you are discussing, you should select a different one. You can always choose to have no transition between the slides. This simply means when you advance the slide it will move fully to the next slide, with no special effects. You must apply the transition to each slide individually. Whatever you choose will not affect the entire presentation. To apply a transition to the current slide, simply click on the desired transition. The Preview command on the far left allows you to see how the transition works on the slide.</para>
+    <para id="para-00008">Stay focused on the message you are conveying, not on the way one slide transitions to the next. Always remember that just because you can do something does not mean you should. With transitions, follow the principle that less is more if you want to maintain a professional business look.</para>
+    <figure id="fig-00002">
+    <media alt="A screenshot of the details below the Transitions tab is shown. It displays three headings with features: Subtle, Exciting, and Dynamic Content.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_Transition2.jpg"/>
+    </media>
+    <caption>The Transitions tab shows the choices you have for moving between slides. Notice the transitions are grouped by theme: Subtle, Exciting, and Dynamic Content. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00009">You will notice that the Transitions pane is organized by transition effect. For instance, the first command group, titled Subtle, contains Morph, Fade, Push, Wipe, Split, Reveal, and Cut. (It contains more options, but these are the most used.) A description of each is in <link target-id="table-00001"/>. There are two other transition command groups: Exciting and Dynamic Content. These transitions are more animated and may not be appropriate for all presentations. But for certain types of presentations, such as sports media or sharing family photos in a slideshow, these transitions might work.</para>
+    <table summary="" id="table-00001">
+    <title>Subtle Transitions</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Morph</entry>
+    <entry valign="top" align="left">Apply to a slide and the slide before it will dissolve out and the slide on which Morph is applied dissolves in.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Fade</entry>
+    <entry valign="top" align="left">One slide fades into the next, so both slides appear at the same time for a second.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Push</entry>
+    <entry valign="top" align="left">Pushes one slide up and out of the way, revealing the next slide.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Wipe</entry>
+    <entry valign="top" align="left">Wipes out a slide in a horizontal direction to reveal the next slide.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Split</entry>
+    <entry valign="top" align="left">Makes a cut up the center of the slide; each half is pushed out of the way to reveal the next slide.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Reveal</entry>
+    <entry valign="top" align="left">One slide blends out, and the next slide blends in.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Cut</entry>
+    <entry valign="top" align="left">Creates a sharp end to one slide and a sharp start to the next. Can be a jolting transition experience.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00010">For our title slide in <emphasis effect="italics">My Life in a Snapshot</emphasis>, let’s choose the Wipe transition. Notice in <link target-id="fig-00003"/> that when you choose a transition (other than “None”), the Preview tool will be available, as well as an Effect Options menu. Again, Preview allows you to see the transition in action. The Effect Options gives you additional modifications to the transition that you can apply to the slide. Keep in mind, any modifications are only on the current slide. You will need to apply the transition and the modification to all slides if you want it to be consistent throughout the presentation.</para>
+    <figure id="fig-00003">
+    <media alt="A PowerPoint screen is open to the Transitions tab with the Effect Options menu open and the Preview feature selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_WIPE.jpg"/>
+    </media>
+    <caption>You can change the direction of the Wipe transition using Effect Options. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00011">The last command group on the Transitions tab is <term id="term-00002">Timing</term>. Timing is where you can add sound to your slideshow, as well as choose how many seconds to move from one slide to the next. The arrow gives you many choices of prerecorded audio sounds, such as Applause, Explosion, and Wind, or you can choose a sound file from your computer. When selecting a sound, consider the audience, the presentation environment, as well as the intent: Is the sound relevant to the presentation? Does it enhance the presentation, or is it a distraction? You can apply the sound to the whole slide or to an object on the slide. For example, perhaps your slideshow was created to announce the winner of a competition. You can place a picture of the winner on a slide, and as it is revealed, it is accompanied by a round of applause. Again, use this option with caution, as your audience is not expecting to hear sudden sounds. This command group lets you set the duration of the sound as well. Additionally, you can set the way the slideshow advances, by clicking the mouse or automatically after a set amount of time.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Animations</title>
+    <para id="para-00012">Slides and presentations as a whole can also be enhanced with the addition of animations. An <term id="term-00003">animation</term> is a special effect added to objects and elements on a slide. They will apply only to that object, shape, or other element, not the entire slide. For example, you could choose to have a picture slowly fade away or come into view during the presentation when you are discussing a current slide. This could be impactful if you want to bring the audience’s attention to a particular element on a slide. As with other additions, keep in mind that these special effects should have a purpose and be used to enhance or draw attention to something in a presentation. They should not be overused to the extent of being distracting and taking away from the key message you are trying to convey on a slide.</para>
+    <para id="para-00013">Let’s look at the Animations tab in more detail to see the options you can use for elements on a slide. <link target-id="fig-00004"/> shows the choices available. The first command group is Preview. Click on this and you can see in advance the animations you have implemented. The second command group is Animations. Six choices are shown, including None. Click on the More arrow and thirteen additional movements appear, as well as some emphasis animations.</para>
+    <figure id="fig-00004">
+    <media alt="The Animations tab is shown. It identifies the scrolling feature for different animations and a close-up of the Shape Format options.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_Animate.jpg"/>
+    </media>
+    <caption>The Animations ribbon shows you all the options for animating elements on a slide. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00014">By scrolling down, you will also see other animation options, including Exit Effects and Motion Paths (<link target-id="fig-00005"/>).</para>
+    <figure id="fig-00005" class="scaled-down">
+    <media alt="A screenshot is presented showing the different Animation options.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_Animate1.jpg"/>
+    </media>
+    <caption>Additional animations are available, including some of the Emphasis animations. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00015">To add an animation to your presentation, click on a textbox or an object, and then choose an animation from the menu. Next, in the Timing command group, click the drop-down arrow for Start. You can leave it at Start on Click, or you can choose Start With Previous or Start After Previous. You need to choose when the animation will start.</para>
+    <para id="para-00016">Not all animations need to be dramatic or used for emphasis. For example, you can make a bullet list appear one bullet at a time, as opposed to having the whole list appear at once. You can have the first bullet appear, talk about it, and when you are ready, click the mouse again to have the second bullet appear, and so on. This can help you control the flow of the discussion by limiting what your audience sees on the screen. For consistency, you should use the same animation for each of the bullet points in the list.</para>
+    <para id="para-00017">We can use this approach to add animations to the bulleted list in our <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation. We used a bulleted list in the Strengths &amp; Skills slide; let’s apply an animation there.</para>
+    <para id="para-00018">To begin, click on the bulleted list to select it. Then go the Animations tab and choose an appropriate animation. For this example, let’s choose Appear, so that the bullet will simply appear based on the settings you choose in the Timings command group (see <link target-id="fig-00006"/>). Notice when an animation is added to an object or textbox, the Preview tool is available on the left of the screen, as is a numbered list to the left of each item in the bulleted list. These numbers allow you to adjust the settings for each of the bullet points in the list. When you add an animation, there are also adjustments that can be made through the Effect Options drop-down list. The list can appear as one object, all at once, or by paragraph.</para>
+    <figure id="fig-00006">
+    <media alt="A PowerPoint screen is open to the Animations tab. The Effect Options button is selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_APPEAR.jpg"/>
+    </media>
+    <caption>You can adjust the settings for each bullet to have a different animation. Here, the By Paragraph sequence is chosen so that each bullet point can be sequentially added one by one when you click. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019">You need to adjust the settings for each bullet so that one will follow the other. You can choose to have the bullet appear after a certain amount of time or when you click. For now, let’s set it up so that the bullet points will appear when you click, because you are not yet sure how long to talk about each one. For the first bullet point, “Situational awareness,” the animation will start On Click, which you choose from the drop-down menu in the Timing command group as shown in <link target-id="fig-00007"/>. This will be the setting for each bullet. Selecting the small number to the left of the bullet allows you to change the settings for each animation individually.</para>
+    <para id="para-00020">The other options in the Timing command group allow you to set the timing for the animation and the delay as you move from one animation to the next. For this example, we left those at their default values and will simply use either the mouse or the Enter key to click when we want to have the next bullet appear. Use the Preview tool to make sure the animation is working.</para>
+    <figure id="fig-00007">
+    <media alt="A PowerPoint screen is open to the Animations tab. The Appear option has been selected and has been set to start on click. There is an arrow pointing to the first bullet to appear.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_APPEAR1.jpg"/>
+    </media>
+    <caption>Each bullet can have a customized animation setting. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00021">The remaining command groups on the Animations tab are Advanced Animations and Timing (<link target-id="fig-00008"/>). In the Advanced Animations command group, you can control the Trigger for when slides transition. It could be a click of the mouse or after a certain amount of time. In a presentation where you might be in a large room and not close to the laptop or computer, having slides automatically advance might be helpful, although you will need to be aware of how much time you have for each slide and make sure that you do not expect interruptions until the end of the presentation. In this case, you will want to ask the audience to hold all questions until you are finished with the presentation. Finally, if you are one presenter of several during a session and you have very strict time requirements, the timing tools can help keep you on track.</para>
+    <figure id="fig-00008">
+    <media alt="A screenshot of the Animations ribbon tab is shown. The Appear option is selected and there is a close-up of the Animation Pane.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_ADV.jpg"/>
+    </media>
+    <caption>The tools in the Advanced options allow you to further customize the chosen animation and to open the Animation Pane to the right of the screen. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00022">Clicking on the first command, Add Animation, opens the same window that you see when you click on More in the Animations group. At the bottom of the animation illustrations is a list. You can click on More Entrance Effects, More Emphasis Effects, More Exit Effects, or More Motion Paths.</para>
+    <para id="para-00023">Another command in this Advanced group is Animation Pane. When you select this tool, a pane opens on the right side of the screen that lists all the animations on the slide. Here you can play the animations or make changes. The other commands include Trigger and Animation Painter. Trigger governs when an animation begins, while Animation Painter is similar to Format Painter in that it copies an animation to another object.</para>
+    <para id="para-00024">The timer on the Animations tab refers to the timing options available for animations applied to objects or elements on a slide. The timer allows you to control when and how the animations occur during a slideshow presentation. On the far right of the Animations tab, you will find the Timing group. Select an object or element on a slide and apply an animation to it. Once selected, you can access the timer options to specify the timing and duration of the animation. <link target-id="table-00002"/> summarizes the options.</para>
+    <table summary="" id="table-00002">
+    <title>Timing Group Options</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Start</entry>
+    <entry valign="top" align="left">Determines when the animation starts playing. By default, it is set to On Click, meaning the animation will start when you click the mouse during the slideshow. However, you can choose other options such as With Previous (starts the animation simultaneously with the previous animation on the slide) or After Previous (starts the animation right after the previous animation finishes).</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Duration</entry>
+    <entry valign="top" align="left">Sets the length of time the animation will take to complete. You can specify a specific duration in seconds or milliseconds. The default duration varies depending on the animation type but can be adjusted per your preference.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Delay</entry>
+    <entry valign="top" align="left">Introduces a delay before the animation starts. You can specify a delay in seconds or milliseconds. This can be useful to create time gaps between different animations on a slide.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Repeat</entry>
+    <entry valign="top" align="left">Determines if the animation should repeat after it completes. You can choose to repeat the animation a certain number of times or have it repeat indefinitely until the slide advances, or the animation is manually stopped.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Rewind when done playing</entry>
+    <entry valign="top" align="left">When selected, this option causes the animation to reset to its original state when it finishes playing. This is useful for animations that involve movement or transformations.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00025">By adjusting these timer options, you can precisely control the timing and behavior of animations on your slides, ensuring they align with your desired presentation flow and visual effects.</para>
+    <para id="para-00026">While it may be fun to animate all kinds of things in your presentation, remember that it is your message that matters. Audiences can easily get distracted or fascinated by animations and not pay attention to the substance of the presentation. Therefore, it is important to use animations judiciously and purposefully to enhance, rather than distract from, your content. Animations in PowerPoint can be effective tools for emphasizing key points, guiding the audience’s focus, or adding visual interest. However, it is essential to strike a balance between engaging animations and maintaining the clarity and effectiveness of your message. Here are a few best practices to consider:</para>
+    <list id="list-00002">
+    <item>Keep it relevant: Only use animations that directly support or enhance the content of your presentation. Avoid using excessive or flashy animations that serve no real purpose, as they can overshadow your message.</item>
+    <item>Enhance comprehension: Use animations to aid in the understanding of complex concepts or processes. For example, you can use animations to sequentially reveal steps or demonstrate cause-and-effect relationships.</item>
+    <item>Use sparingly: Don’t apply animations to every element on every slide. Selectively choose elements that truly benefit from animation to avoid overwhelming the audience or diluting the impact of your message.</item>
+    <item>Prioritize readability: Ensure that animated text or objects remain easily readable and don’t become distorted or hard to follow. Consider the size, font, and colors used in your animations to maintain legibility.</item>
+    <item>Practice timing: Fine-tune the timing of your animations to maintain a smooth flow throughout the presentation. Avoid animations that are too fast or too slow, as they can disrupt the natural pace of your delivery.</item>
+    <item>Rehearse and gather feedback: Before delivering your presentation, rehearse with the animations to ensure they enhance your overall delivery. Seek feedback from trusted colleagues or friends to gauge if the animations effectively support your message or if they become distractions.</item>
+    </list>
+    <para id="para-00027">Remember, the primary goal of your presentation is to convey a clear and impactful message. While animations can be engaging, they should never overshadow or detract from the substance of your content. Strive for a harmonious balance between captivating visuals and a compelling message to create a memorable and effective presentation.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Media Command Group</title>
+    <para id="para-00028">The Media command group is used to add audio or video media to the presentation. There might be instances where you would want to add a short clip of a video or audio to enhance the presentation of a topic. For example, in your role in the marketing department at WorldCorp, you might want to share a clip of a new radio ad campaign, or a short video showing some concepts for new ads to be placed on the website for a new line of products. You can do this by embedding various media types into a slideshow presentation. The Media command group is located all the way on the right side of the Insert ribbon tab. You have three options to choose from, as shown in <link target-id="fig-00009"/>: video, audio, and screen recording. The <term class="no-emphasis" id="term-00004">screen recording</term> option will allow you to record your computer screen and insert it into your presentation.</para>
+    <figure id="fig-00009">
+    <media alt="A screenshot of the tools in PowerPoint is shown with the Media option selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_MEDIA.jpg"/>
+    </media>
+    <caption>The Media menu makes it easy for you to choose which type of media you want to insert. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00029">Let’s add a video to our kayaking slide. We have the option of adding a video that we have created ourselves, a stock video that is already available in PowerPoint, or a video that is available online, such as from YouTube. You will want to consider the source of your media, as well as how you will be presenting this material. For instance, is the media file linked to the internet? If so, you will want to ensure you have internet connectivity in order to play the video. For this example, let’s search stock videos for a kayaking video to insert into the slide. As a word of caution: do not overuse these tools. Consider only the additions that will enhance the presentation content. Not every slide should include media, and not all presentations are appropriate for media.</para>
+    <para id="para-00030">To add media to a slide, select the slide for the addition. In this case, insert the video on the Background slide. Go to the Insert tab and click on the Media command group. Select Video, then select Stock Videos from the menu (<link target-id="fig-00010"/>). In the search bar, type “kayak” to locate a kayaking video to insert onto the slide. Once the video is on your slide, you have the option to resize it (<link target-id="fig-00011"/>).</para>
+    <figure id="fig-00010">
+    <media alt="Image A is a screenshot close-up of the Media button and features. Image B shows the Stock Images search feature with the Video option selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_MEDIA2ab.jpg"/>
+    </media>
+    <caption>(a) You can search online or through available videos in PowerPoint to find one to insert into the slide. (b) Choose Insert to place the video into the slide. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00011">
+    <media alt="Image A shows a PowerPoint screen with a video of a woman kayaking shown. Image B shows a PowerPoint screen with the same video of the woman kayaking in a smaller frame.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_MEDIA2cd.jpg"/>
+    </media>
+    <caption>(a) The video will insert at a large size. Click on it to resize it to fit on the slide. (b) You can play the video using the control keys under the video insertion. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00031">Once the video is inserted into the slide, it will automatically play when you get to that slide in the presentation. However, you can change this through the Playback tab that becomes available on the ribbon when the video is selected (<link target-id="fig-00012"/>). It is important to preview the video before presenting or sending the presentation to others. Previewing the video in your presentation ensures that it meets your expectations, enhances your message, and delivers a seamless viewing experience to your audience. It allows you to proactively address any issues, improve the overall quality, and ensure a successful presentation. Notice there are several options available on the Playback tab. Experiment with the settings to see which ones appeal to you most and give the slides a professional appearance.</para>
+    <figure id="fig-00012">
+    <media alt="A PowerPoint screen is open to the Playback tab. The video on the main screen is selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_PLAY.jpg"/>
+    </media>
+    <caption>Be sure to determine whether you want sound in the video. That can be adjusted with the Playback tab options. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Finalizing Your Slideshow</title>
+    <para id="para-00032">Before you complete your presentation, you should give it a final review so you can see exactly how it will appear to your audience. It is also important to practice your presentation and consider the other, nondigital elements involved in a presentation, such as monitoring the length of your presentation and interacting with the audience.</para>
+    <para id="para-00033">By accessing the Slide Show tab, as shown in <link target-id="fig-00013"/>, you can view the complete presentation from start to finish. The first command group in this tab is called Start Slide Show, and you can choose From the Beginning or From Current Slide, and the presentation will do just that. This is a wonderful way to preview all the transitions and animations you have added, as they will appear to the audience. Next, you can choose the option to Present in Teams, which we covered in <link document="m00049">Essentials of Software Applications for Business</link>. You need to be logged into your Microsoft account to use this option. The next command is Custom Slide Show, which allows you to choose the slides to use in the show. This is a helpful option should you need to shorten the presentation.</para>
+    <figure id="fig-00013">
+    <media alt="A screenshot of the tool ribbon with the Slide Show tab selected is shown.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_SlideShow.jpg"/>
+    </media>
+    <caption>This is the ribbon where you can set up, rehearse, and make final adjustments to your presentation. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00034">Next you can choose the <term class="no-emphasis" id="term-00005">Rehearse with Coach</term> tool, which allows you to practice the presentation and get feedback in real time. This tool will listen for things such as using “uh” or “um” in the presentation as well as how fast you are speaking. Not only will the tool give you a summary of items related to your speaking skills, but it will also provide you with some strategies for improvement. You will need to have the microphone enabled on your computer to use this feature. This is a helpful tool as you work to develop your skills presenting in front of a group.</para>
+    <para id="para-00035">The next set of commands is in the Set Up command group. Rehearsing the timing, playing narration, and other options are controlled through the tools in this command group. These tools allow you to fine-tune your presentation options. Clicking on the Set Up Slide Show button, for example, opens a menu with a number of different settings, as shown in <link target-id="fig-00014"/>.</para>
+    <figure id="fig-00014" class="scaled-down">
+    <media alt="A screenshot of the Set Up Show tools is shown.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_SetUpShow.jpg"/>
+    </media>
+    <caption>The Set Up Show tool allows you to control many different aspects of your presentation, particularly the hardware elements, such as using multiple monitors and how your presentation will be viewed by others (Show type). (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00036">As you can see, you can set the Show type as either presented by a speaker in full screen mode, browsed by an individual in window mode, or browsed at a kiosk in full screen mode. The default setting is presenting full screen, where you can click through the slides as you present them. The window mode setting allows you to present with the slides in a resizable window rather than in full screen. Finally, the kiosk setting is used when you want to run the presentation continuously, such as at a company event. For example, suppose you want to have a new marketing campaign available for employees to view at an internal conference. By choosing the kiosk setting, the slideshow could run automatically and continuously until you turn it off.</para>
+    <para id="para-00037">The Set Up Slide Show tool also gives you the option to Hide a slide, Rehearse the timing, or Record the slideshow. Other options in this window require just checking the appropriate boxes, such as Keep Slides Updated, Play Narration, and so on.</para>
+    <para id="para-00038">The last command group on the Slide Show tab is Captions &amp; Subtitles. The tools here allow you to turn on and modify the <term class="no-emphasis" id="term-00006">captions</term> and/or <term class="no-emphasis" id="term-00007">subtitles</term> in your slideshow. You can determine where you would like the subtitles to be placed—for example, at the top of the slide.</para>
+    <note class="mac-tip" id="note-00001">
+    <exercise class="unnumbered" id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00039">When adjusting the caption and subtitle preferences on a Mac, you will be directed to your operating system’s <term class="no-emphasis" id="term-00008">Accessibility</term> settings.</para>
+    </problem>
+    </exercise>
+    </note>
+    <section id="sect-00006">
+    <title>Record Tab</title>
+    <para id="para-00040">If you need to record the presentation to send to others or even for your own viewing, you will find the tools you need in the Record tab (<link target-id="fig-00015"/>). This feature in PowerPoint allows you to capture your presentation, either from the beginning or starting from a specific slide, and customize the recording options (<link target-id="fig-00016"/>).</para>
+    <para id="para-00041">In Recording Options, you can choose whether to record the entire presentation from the beginning or start recording from a specific slide. This flexibility is helpful if you want to focus on specific sections or if you have already recorded part of the presentation and want to continue from where you left off. PowerPoint allows you to record audio along with your presentation. You can use a microphone to narrate your slides and explain concepts, making the recording more engaging and informative. This feature is particularly useful for online training sessions, narrated presentations, or self-paced learning materials.</para>
+    <figure id="fig-00015">
+    <media alt="A screenshot of the tools ribbon with the Record tab selected is shown. There is an arrow pointing to the Record button.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_RECa.jpg"/>
+    </media>
+    <caption>Recording the presentation can help you as you rehearse to present in front of others. In the record mode, you will see several tools such as exporting and adding notes to help you when presenting. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00016">
+    <media alt="A screenshot of the record feature view open is shown. It displays the record button at the top, notes, and the selected PowerPoint screen.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_RECb.jpg"/>
+    </media>
+    <caption>This is what your screen will look like after you hit the red Record button in the Record ribbon. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00042">In addition to audio recording, PowerPoint offers screen recording functionality. This enables you to capture actions on your screen, such as demonstrating software usage, showcasing a website, or walking through a step-by-step process. Screen recording can enhance the clarity and understanding of your presentation, especially when visual demonstrations are involved. After you complete the recording, you can export it as a video file. This video can be shared with others, uploaded to video hosting platforms, or embedded in websites or learning management systems. Exporting the recording as a video makes it more accessible and shareable across different devices and platforms. During the recording process, you can add private notes to your slides to help guide you through the presentation. These notes are only visible to you and serve as personal reminders or prompts while delivering the presentation. They are not included in the recorded presentation itself.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Review Tab</title>
+    <para id="para-00043">The Review tab, as shown in <link target-id="fig-00017"/>, is used primarily when you are collaborating on a presentation with someone else or incorporating feedback on your draft slides. However, this tab still offers valuable resources if you are creating your presentation on your own. The first command group in this tab is Proofing. As with any document you produce, it is essential that you proofread everything, including text, figure captions, and any handouts you may have for the participants.</para>
+    <para id="para-00044">The presentation and handouts should reflect your professionalism and attention to detail. But, you should not rely solely on the spell check tool to find all the errors. Among other things, spell check often does not identify spelling errors in proper names or words that are spelled correctly but used incorrectly. Additionally, errors will be much more noticeable when they are displayed on a large-format screen. It’s easy to overlook errors in our own work, so be sure to have a friend or coworker review the slides to look for errors.</para>
+    <para id="para-00045">All of the proofing options can be set before you begin writing. This is done by choosing File, Options, and then Proofing. These options are similar to what we covered in <link document="m00049">Essentials of Software Applications for Business</link>.</para>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00046">Proofreading a presentation can be much different from proofreading a document. This <link url="https://openstax.org/r/78ProofrdPresnt">article on the importance of proofreading presentations</link> addresses how to effectively proofread PowerPoint presentations.</para>
+    </note>
+    <para id="para-00047">The <term class="no-emphasis" id="term-00009">Thesaurus</term> tool is helpful when you write the dialog that will accompany the slideshow, as it will offer alternatives to the words you have used in the presentation. For example, we used the word “hometown” in our background slide. When we click on that word and choose Thesaurus from the Review tab, a pane will open on the right offering alternative words that are similar to “hometown” (<link target-id="fig-00017"/>). This tool can come in handy if you find yourself using the same words multiple times in a presentation. You can vary the words used and still convey the same message.</para>
+    <figure id="fig-00017">
+    <media alt="A PowerPoint screen with the Review tab selected is shown. The Thesaurus feature has been selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_Review.jpg"/>
+    </media>
+    <caption>The Review tab covers Proofing options, adding comments, and comparing different versions of the show. The Thesaurus will help you enhance the slides by offering synonyms for words, which will appear below the search bar. (Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="mac-tip" id="note-00003">
+    <exercise class="unnumbered" id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00048">On Mac, this command is found in the PowerPoint menu, then Preferences, then Proofing.</para>
+    </problem>
+    </exercise>
+    </note>
+    <section id="sect-00008">
+    <title>Comments</title>
+    <para id="para-00049">As in other Microsoft products, the Review tab is also where you can find tools for collaboration and commenting. (PowerPoint does not allow users to track changes.) We discuss a workaround for this in the <link document="m00080" target-id="">Compare</link> section. When working with others to produce a presentation, your colleagues have the option of adding comments to it. To do this, open the Review tab, then click on a word in the place where you want the comment to appear, and then click on New Comment. As you can see in the example slide in <link target-id="fig-00018"/>, the Comments pane opens to the right. After you type the comment and click Enter, a reply textbox becomes available. You, or anyone else with permission to work on the presentation, can enter a reply to the comment here.</para>
+    <para id="para-00050">Notice that a callout symbol opens in the place where you want the comment to apply. You can move the callout symbol around on the slide without affecting the content of the comment.</para>
+    <figure id="fig-00018">
+    <media alt="A PowerPoint screen with the Review tab selected is shown. The Show Comments feature has been clicked and an open comment bubble has been created.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_Comment.jpg"/>
+    </media>
+    <caption>A Callout symbol helps you find where the comment is located. This is particularly useful when the commenter uses directional references such as, “Let’s move the title here.” (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00009">
+    <title>Compare</title>
+    <para id="para-00051">Unlike Word, PowerPoint does not offer a tracking function. However, you can use the <term class="no-emphasis" id="term-00010">Compare</term> command, also found under the Review tab, as a workaround to tracking changes. To use this tool, you will need to have different versions of the presentation saved. The Compare command then will look for differences between the two files, and you can either decide one by one to accept (or reject) each change or accept (or reject) all the changes/differences between the two files.</para>
+    <para id="para-00052">To see how the Compare command works, let’s use the presentation we created in the previous chapter, along with the updated version we have created thus far in this chapter. Here we have saved the previous chapter presentation as “version 1” and the current presentation as “version 2.” Note that the different versions of the presentations must have different names. To begin, choose the Compare command from the Review tab and find the “version 1” file you are going to use to compare to the current version (<link target-id="fig-00019"/>). Then click Open, and you will notice that you now have access to other tools available in the Compare command group on the Review tab. You can use the tools and the pane on the right of the screen to scroll through the differences between the two files and determine if you want to accept or reject the changes. You can choose to accept or reject the changes for each individual slide, or you can accept or reject them for the entire presentation as you move through the comparisons (<link target-id="fig-00020"/>).</para>
+    <figure id="fig-00019" class="scaled-down">
+    <media alt="A screenshot of the file-saving feature is shown.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_COMPAREa.jpg"/>
+    </media>
+    <caption>Make sure that the file you choose to compare to has a different file name. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00020" class="scaled-down">
+    <media alt="A screenshot of a partial view of a PowerPoint screen is shown with the Review tab selected. The Accept button has been clicked, showing different options.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_COMPAREb.jpg"/>
+    </media>
+    <caption>Using the Compare tool is not quite the same as tracking changes, but it can be close. It allows you to compare different versions of the same file. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Printing a Presentation</title>
+    <para id="para-00053">Sometimes, as a presenter, you may wish to print your presentation as a handout for the audience. You could provide the slides as a handout prior to the presentation so that the participants can take their own notes on the information, or offer them to participants as they exit the presentation. PowerPoint gives you many options for accomplishing this. On the File menu, click Print, and you will see a familiar pop-up menu, as shown in <link target-id="fig-00021"/> and <link target-id="fig-00022"/>).</para>
+    <figure id="fig-00021" class="scaled-down">
+    <media alt="Image A shows a screenshot of the print options. Image B shows the same print options with the Print All Slides feature selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_Printab.jpg"/>
+    </media>
+    <caption>(a) When printing a presentation, you have several options. Many of these options are similar to what you might find when printing a Microsoft Word document. (b) You can choose to print select slides or just a few slides. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00022">
+    <media alt="A screenshot of the print option with the Full Page Slides feature selected is shown.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_Printc.jpg"/>
+    </media>
+    <caption>When printing the slides, you can choose to have several on one page to save paper. This might be a nice option if you are printing for audience handouts. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00054">The Print All Slides option allows you to print the whole presentation, to print just the current slide on the screen, or to selectively print only the slides you want. The Print Full Page Slides option brings up a menu of layouts so you can print anywhere from two to nine slides to a page and can indicate whether you want them to appear in a horizontal or vertical format. You may also choose to print the Notes page and the outline. These can be helpful as you rehearse your presentation.</para>
+    </section>
+    <section id="sect-00011">
+    <title>Other Considerations Before Presenting</title>
+    <para id="para-00055">In addition to the practical aspects of your slideshow—such as how the slides appear to your audience, what media to include, and how to print your slides—there are other, less tangible things to consider before showing your slide collection to an audience. These include the length of your presentation, audience interaction, notetaking, and accessibility.</para>
+    <section id="sect-00012">
+    <title>Presentation Length</title>
+    <para id="para-00056">When constructing and preparing for a presentation, you need to know how much time is allotted for the talk. Is your presentation the main component of the meeting, or will several others also be presenting? Knowing how much time you have to present will dictate how much information and, in turn, how many slides you will have in the slideshow. Keep in mind that you should not overuse slides. <emphasis effect="italics">You</emphasis> are the main part of the presentation. The slides are there to enhance and support what you are saying by keeping the audience engaged and conveying the main points you want to get across. They should not contain all the content you are sharing. The optimal number of slides depends on the content you are sharing. For example, if you are sharing complicated data in an informational presentation, you will need more slides to break up the material. If you are giving an inspirational presentation, you may need fewer slides, most of which should be images rather than text.</para>
+    <para id="para-00057">A good strategy is to use allotted time to determine the number of slides. As a rule of thumb, each slide should be on the screen for about a minute, so a ten-minute presentation would have about ten slides. Of course, this can vary based on the type of information contained on the slides. The audience might need more than a minute to digest and understand data and graphs on a slide, whereas they may need only fifteen or twenty seconds to get the full effect of a slide consisting entirely of pictures. Practice your presentation; you may want to have someone track the time, or you can simply set a timer on your phone. You could use the timer to gauge how long you need to spend on each slide. You may even want to have this timer displayed on your laptop screen close to your speaker’s notes so it will be in your line of sight. If you run out of time before you have discussed all of the slides, you will know that you have too many slides. At that point, you can consider either removing some slides altogether or merging information on two or more slides onto a single slide.</para>
+    </section>
+    </section>
+    <section id="sect-00013">
+    <title>Audience Interaction and Questions</title>
+    <para id="para-00058">When you give a presentation, it is likely that there will be questions from the audience (<link target-id="fig-00023"/>). During your preparation phase, brainstorm a list of questions that might be asked or areas where you think more clarification will be needed.</para>
+    <figure id="fig-00023" class="scaled-down">
+    <media alt="A photograph of a classroom with rows of students sitting behind computers and raising their hands. The instructor stands at the front next to a projected screen.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_Hands.jpg"/>
+    </media>
+    <caption>It can be helpful to have answers and comments prepared in anticipation of a lot of people having questions. Promising to get back to attendees with questions that you can’t answer at the moment is acceptable as well. (credit: “person raising hand” by pxfuel, Public Domain)</caption>
+    </figure>
+    <para id="para-00059">Consider creating a Frequently Asked Questions (FAQ) page to distribute to the audience for questions that you feel are likely to be asked. You might even have a friend or family member listen to the presentation and ask you tough questions. This exercise will not only help prepare you to answer tough questions but can also help you maintain your composure if someone challenges you in front of the group. If that happens, you should remain professional and not respond defensively to questions or challenges from participants. You may even want to encourage interaction and questions from the audience. Take a bit of time to plan ahead for how you will interact with the audience and address questions from participants. You can certainly ask the audience to hold all questions until the end of the presentation, but be aware that this often reduces engagement, and you may find that you have no questions at all at the end of the presentation—only silence. If you want to hold questions until the presentation is over, you might ask a colleague or friend to be prepared to ask a question that will get the conversation started. Sometimes participants will be more engaged after the first question, so having a “plant” in the audience to ask the first question can get things moving.</para>
+    <para id="para-00060">Also consider a strategy where you have audience interaction from the beginning and encourage questions during the presentation. One effective way to set the stage for having a dialog with the audience during the presentation is to start by posing a question to participants. This can be very general—“How is everyone this morning?”—or it can be something specific related to the presentation you are about to give. Amir’s introduction presentation for WorldCorp conveys his leadership skills and his passion for kayaking, so he might start by asking who in the audience enjoys water sports or what characteristics make a good leader. All of these ideas will set the stage for a more interactive presentation. <link target-id="fig-00024"/> outlines some other tips and strategies for handling audience questions.</para>
+    <figure id="fig-00024">
+    <media alt="A collage of colored note cards with hand-written notes on them is shown.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_TIPS.jpg"/>
+    </media>
+    <caption>Have a strategy planned before the presentation to deal with audience questions.</caption>
+    </figure>
+    <section id="sect-00014">
+    <title>Speaker’s Notes</title>
+    <para id="para-00061">You can convey a more professional and well-prepared appearance in front of a group if you present without holding note cards or note pages during the presentation. However, it may be helpful for you to have a few notes visible to keep you on track during the presentation or to capture details such as sales figures that you want to be sure to quote exactly. This is where <term id="term-00011">speaker’s notes</term> can come into play. In Normal view, you can see the space for notes at the bottom of the slide (<link target-id="fig-00025"/>). If you do not see the Notes section at the bottom of the slide, you can click on the Notes button from the View tab. When you add your notes, they will appear as shown below the slide (<link target-id="fig-00026"/>). Click to add the details and click Save.</para>
+    <figure id="fig-00025">
+    <media alt="A PowerPoint screen with the View tab open and the Normal option selected is shown. The Click to add notes feature at the bottom of the screen is circled.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_SPEAK.jpg"/>
+    </media>
+    <caption>Slides do not come with any notes by default. If you want notes to appear with slides, you must add them. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00026">
+    <media alt="PowerPoint screen with View tab open and Normal option selected shown. “Remember to share the story of getting into kayaking and details about the trip summer 2022” shown in notes section.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_SPEAK2.jpg"/>
+    </media>
+    <caption>Speaker's notes appear directly below the slide. They are only visible to you, the presenter, and will not be shown to the audience during the presentation. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00062">When you present your slideshow, do so using <term class="no-emphasis" id="term-00012">Presenter’s View</term>. Make sure you check the box found on the Slide Show ribbon. Your notes will appear on your laptop but not on the projection screen. Your audience will not see your notes.</para>
+    </section>
+    <section id="sect-00015">
+    <title>Accessibility and Languages</title>
+    <para id="para-00063">An additional consideration when preparing a slide presentation is making sure the information and format of the presentation can be understood by all of your viewers. The Check Accessibility tool in PowerPoint functions in the same way that it does in Word. This feature can be set to continue running while you are creating the presentation. It will look for items that might cause accessibility issues, such as color contrast and font size, and offer suggestions for correcting the issues. For example, the tool might find that there is not enough contrast between the background color and the text color, making the text hard to read. Or it may flag text in a table as being unreadable due to it being too small. The <term class="no-emphasis" id="term-00013">Accessibility</term> tool will also indicate if images have appropriate alt tags associated with them.</para>
+    <para id="para-00064">You may also have speakers of other languages in your audience. The Translate tool, found in the Review tab, can be helpful if you need to make the material available in a language other than the one you wrote the slideshow in. The Translate tool can be used to translate the entire presentation or just the current slide. (If you speak a language other than English yourself, you can also set the default language to be different from English when typing in content to the slides.) A word of caution for relying solely on the Translate tool: like the spell check tool, it may not be completely accurate and should be reviewed by a person. It would be beneficial to have a proficient speaker of the language review the translation for accuracy before you share the presentation. As WorldCorp operates globally, this tool can be useful when sharing information with the company’s international divisions.</para>
+    </section>
+    </section>
+    </section>
+    <section id="sect-00016">
+    <title>Room Setup and Technology</title>
+    <para id="para-00065">You will likely be presenting with several types of technology, including the laptop on which you created the slideshow, monitors, audio equipment, and others. As part of your preparation process, make sure you understand the environment in which you will be presenting. If you can, visit the physical space in advance and see how the room will be set up. This may mean you will need to make time to come to the room on a day prior to your presentation or to show up early on the same day to familiarize yourself with the room and technology.</para>
+    <para id="para-00066">When you are there, you should be looking at how the audience will be arranged in relation to you as the speaker, as well as the setup of the technology. You will also want to know what the “speaker space” looks like. Will you have space at the front of the room to walk back and forth a bit, or will you be restricted to standing behind a podium or sitting at a computer terminal? You will also want to test the acoustics in the room. You will want to know if your voice level will be appropriate or if a microphone will be needed. Another item to consider is how you will manage printed handouts for the audience if you have incorporated these into the presentation. Will the room setup give you easy access so you can distribute the handouts, or will you need to have them available as participants enter the space? You may want to consider asking a colleague to be responsible for passing out the materials.</para>
+    <para id="para-00067">The point is to be prepared and know the space before giving your presentation. This will not only set your mind at ease if you are nervous, but it will convey a level of professionalism during the presentation. Coming unprepared for the layout of the room can add an unnecessary layer of stress and confusion when giving an important presentation.</para>
+    <para id="para-00068">It is even more advantageous if you can view your slideshow in the space you will be presenting in. Put your slides up on the display screen and go to the back of the room to see how they look. Often, how slides appear on the computer or laptop screen may not be how they show up on a large projector screen or a large monitor. By previewing the slides from the back of the room, you can determine if changes are needed to color schemes or font sizes to make the slides more readable from that distance.</para>
+    <para id="para-00069">Being prepared for the various technologies you will encounter is also important. Some technologies you can provide yourself, such as a slide clicker. A <term class="no-emphasis" id="term-00014">slide clicker</term>, or presentation remote, is a tool that can pair with your laptop and allow you to click through your slides from a distance. Some remotes also include <term class="no-emphasis" id="term-00015">laser pointers</term>, so you can point to things on your slides from a distance. If the slide clicker has a laser pointer included, make sure you know how to use the pointer and think about how you might incorporate it into your presentation. You may also have several audio options available to you. Using a <term class="no-emphasis" id="term-00016">lapel microphone</term>, or a mic that clips onto your shirt, will allow you to move freely about the room. However, some spaces may only have a microphone at a podium, so you will need to stand in one place to use it. Your approach to the presentation will likely change if you have to click the slides at the computer and be at a podium for the microphone. There is more flexibility to move about the room when giving a presentation if you have a slide clicker and lapel microphone.</para>
+    <para id="para-00070">It is also a good idea to test each piece of equipment to make sure it is functional and that you know how to use the technology. It can be embarrassing to be in a situation where the technology is not working or you do not know how to use the devices. Many venues and companies will have a person assigned to address technology issues during presentations. This could be someone from the information technology department or someone else who is familiar with the room and the technology. It is a good idea to find out if that person will be in the room during your presentation or available quickly if needed.</para>
+    <para id="para-00071">Some additional technology considerations include issues of compatibility between your file and the computer available in the room. We see this often when going from a Mac to a Windows environment. Make sure your file is saved in a format that will be universally accessible. Often, saving your file in PDF format ensures it can be accessed on a variety of platforms. (You can review how to do this in <link document="m00049">Essentials of Software Applications for Business</link>.) It is also a good idea to have your presentation file saved in multiple locations, for example, on the hard drive of your laptop, in One Drive, and on an external storage device such as a flash drive, in case the internet is inaccessible. You may also want to email yourself a copy of the file so that you can access it that way if necessary.</para>
+    <para id="para-00072">There is no expectation that you are a computer expert, but preparing and having a backup plan in place can help ease your mind and reduce some stress associated with giving a big presentation. Also, if you know you will have challenges with technology, be sure to let the meeting organizer know so they can be prepared to help or have someone who can assist if needed.</para>
+    </section>
+    <section id="sect-00017">
+    <title>Types of Presentations</title>
+    <para id="para-00073">With the technology available today, it is likely that you will be a part of a meeting that has virtual participants. Many meetings will still be conducted fully in person with all participants in the same room, but it is becoming more common for meetings to be either fully virtual or hybrid, with some in-person participants and some online participants. Your preparation for such a meeting can vary based on the type of presentation you will be giving. Most of our discussion so far has been centered on fully in-person presentations with the speaker and the audience in the same physical space. If you will be part of a meeting where some or all will be participating virtually, there are other items to consider.</para>
+    <section id="sect-00018">
+    <title>Fully Virtual Meetings</title>
+    <para id="para-00074">Let’s first consider a fully virtual meeting, where you as the speaker as well as the participants are online. Virtual presentations can be even more impactful and beneficial due to various web conferencing tools that can enhance the presentation, like polls and other tools. This could be using a program such as <term class="no-emphasis" id="term-00017">Zoom</term> or <term class="no-emphasis" id="term-00018">Microsoft Teams</term>. Each participant will join the meeting space via the internet and while being physically in their own space. If you have had online courses, you may have already experienced such a meeting and may have a good idea about some of the potential challenges and benefits. For example, a fully virtual meeting can be accessible for everyone who has the technology needed to attend. In some cases, you can also share more content in a virtual meeting than in an in-person meeting through the chat feature and other document sharing options. The chat feature also allows a bit more audience interaction, as all participants can post questions and comments in the chat. Finally, you may find an online presentation less stressful than an in-person event because you do not have to stand in front of a crowd but can be in a familiar, comfortable space such as your own office.</para>
+    <para id="para-00075">However, <term class="no-emphasis" id="term-00019">virtual presentation</term>s also pose numerous challenges. First, it is much harder to keep the audience engaged, especially if participants do not have their cameras on. You can politely request participants keep their cameras on during the presentation, but that does not automatically mean they are more engaged or that they will comply. And this can be hard to manage as the speaker if there is a large audience. Think about times that you have participated in an online class or meeting. You may be doing other things such as checking email or dealing with issues at home during the meeting/class. One way to combat this in an online meeting is to set up breakout sessions/groups where the participants interact with one another in a small group setting. You can also use the chat feature or conduct a live poll to encourage audience participation. As the speaker, you will need to make an active effort to engage participants. This can start even before the actual presentation begins.</para>
+    <para id="para-00076">For example, you might send participants a questionnaire beforehand and address those questions during the presentation. Or you can survey participants to identify key topics they would like you to address. Finally, if you ask participants to pre-register, you will have a list of their names if you want to address them individually during the presentation.</para>
+    <para id="para-00077">Preparing for a virtual presentation is the same in many ways as preparing for a fully in-person talk. For example, preparing your slides is the same, but you may be able to include a bit more text on each slide because participants will have the slides right in front of them. You will still need to prepare and practice with the technology. Be sure you know how to mute and unmute participants and how to share your screen with the audience so they can see the slides. These settings may be different depending on the software you are using to present, whether it is Zoom, Google Meet, Webex, or another program. You need to make sure your online connectivity is dependable and that you have good sound quality as you are speaking. You will need to test the camera on your computer in the space that you will be in. Look at the lighting in the room and see how it looks on the screen. Keep your camera at eye level and examine how you are spaced in the video screen. You do not want to be either too close to the camera or too far away; either will make it harder to hear what you are saying. To reduce distractions, turn off on-screen notifications for any apps installed on your computer. (For example, make sure that participants won’t hear a “ding” every time you get an email.) Make sure your presentation environment is a quiet, professional space, with minimal distractions. You probably do not want unwanted guests, such as your cat or dog, making their appearance during the presentation. Look at the background the audience will see behind you. Many virtual presentation platforms have tools that allow you to blur and change the background for a more professional appearance. Make sure you are focused on the camera and the presentation. You do not want to give the impression that you too are distracted and not engaged, especially when you are the speaker.</para>
+    <para id="para-00078">Additionally, consider setting expectations for the audience at the very beginning of the presentation. Do you want participants to put their questions in the chat, or would you like them to use features such as the “raise hand” icon to indicate they have a question? Will you have breakout sessions during the talk? Ask participants to turn on their cameras and mute themselves, and then let them know if the session is being recorded. Addressing these items at the beginning of the presentation will help avoid distractions later.</para>
+    <para id="para-00079">Finally, decide how you are going to monitor the chat during the presentation. Will you be answering questions and comments while you are speaking? It may be a better idea to ask a colleague to be responsible for monitoring the chat and the participants for relevant questions and comments. That way, you can focus on presenting without the added stress of keeping track of the chat.</para>
+    </section>
+    <section id="sect-00019">
+    <title>Hybrid Presentations</title>
+    <para id="para-00080">Hybrid presentations, where some participants are in-person and others are virtual, pose additional challenges. As much as possible, try to set the stage so that all participants have a similar experience and walk away with the same information. However, you cannot control all the nuances of a <term class="no-emphasis" id="term-00020">hybrid presentation</term>, starting with the risk that online participants will feel left out of the conversation. Extra care will be needed to make sure the virtual participants are fully engaged. At the beginning of the session, acknowledge and welcome those who are online. When you are speaking to a hybrid group of participants, it is important to make eye contact with both groups. Make sure to focus attention on the virtual participants on the screen as much as those who are in the room. Again, asking participants to keep their cameras on will help keep them engaged in the meeting. Remind yourself (or a helper) to check regularly for raised hands and chat comments during the presentation. When a comment is posed in the chat by a virtual participant, read the comment aloud for the in-person audience. If you are using breakout rooms during the session, include virtual participants in the activity and combine groups so there is interaction between both in-person and virtual participants. Consider displaying the virtual participants on a large screen so the in-person audience can see them.</para>
+    <para id="para-00081">It is impossible to anticipate all the hiccups that can happen during a presentation. With careful planning beforehand, however, you can be prepared for many of the likely issues and feel less anxiety when speaking in front of a group, whether in person or virtual.</para>
+    <note class="link-to-learning" id="note-00004">
+    <para id="para-00082">Creating a real-time poll during your presentation can help increase engagement during a virtual or hybrid presentation. Instructions on <link url="https://openstax.org/r/78ZoomPoll">how to create a poll in Zoom</link> are given on the Zoom platform.</para>
+    </note>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00020">
+    <title>Summary</title>
+    <list id="list-00003">
+    <item>Transitions and animations, if not overused, can add visual interest to your presentation. Choose animations and transitions that retain the professionalism of the presentation.</item>
+    <item>Adding media such as audio or video can enhance a presentation and, in some cases, better convey the information contained on a slide.</item>
+    <item>PowerPoint includes many features to help you get your slides “presentation ready.” These include grammar/spell check, checking for accessibility issues, speaker’s notes on slides, and even a rehearsal coach to help you prepare to speak in front of a group.</item>
+    <item>Making plans to visit the room and try out the technology is a critical step in preparing for a presentation.</item>
+    <item>With the technology available today, you are likely to be presenting to a fully virtual or hybrid group. Through proper preparation, you can help ensure that all participants are engaged and have a meaningful experience during the presentation.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00021">
+    <title>Review Questins</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00083"><link class="os-embed" url="#exercise/07-03-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00084"><link class="os-embed" url="#exercise/07-03-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00085"><link class="os-embed" url="#exercise/07-03-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00086"><link class="os-embed" url="#exercise/07-03-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00087"><link class="os-embed" url="#exercise/07-03-BCA-RQ05"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00022">
+    <title>Written Questions</title>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00088"><link class="os-embed" url="#exercise/07-03-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00089"><link class="os-embed" url="#exercise/07-03-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00090"><link class="os-embed" url="#exercise/07-03-BCA-WQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00091"><link class="os-embed" url="#exercise/07-03-BCA-WQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00023">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00092"><link class="os-embed" url="#exercise/07-03-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00093"><link class="os-embed" url="#exercise/07-03-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00094"><link class="os-embed" url="#exercise/07-03-BCA-PE03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="case-exercises" id="sect-00024">
+    <title>Case Exercises</title>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00095"><link class="os-embed" url="#exercise/07-03-BCA-CE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>    
+    <glossary>
+    <definition id="def-00001">
+    <term>animation</term>
+    <meaning>a special effect added to objects and elements on a slide</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>speaker’s notes</term>
+    <meaning>notes added by the presenter to the slides that are not intended for display to the audience; intended to help presenters recall important points during their presentation</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>Timing</term>
+    <meaning>the way and order in which transitions and animations can be programmed to appear or occur on the screen</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>transitions</term>
+    <meaning>a feature for determining how one slide moves to the next slide</meaning>
+    </definition>
+    </glossary>
 </document>
