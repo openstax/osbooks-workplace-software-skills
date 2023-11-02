@@ -63,7 +63,7 @@
     <item>Criteria (text that can be used to limit the results of a query)</item>
     <item>Or, which allows you to create more complex statements</item>
     </list>
-    <para id="para-00021">When you create a query in Access through the <term class="no-emphasis" id="term-00004">Query Wizard</term> (<link target-id="fig-00001"/>), these areas will be filled in by the wizard. If you need to modify a query or want to create one without using the wizard, you will use the query grid to set up the query. You learn more about this later in the section on <link document="m00085" target-id="">Editing Queries with the QBE Grid</link> and in the chapter on <link document="m00089">Advanced Database Use</link>.</para>
+    <para id="para-00021">When you create a query in Access through the <term class="no-emphasis" id="term-00004">Query Wizard</term> (<link target-id="fig-00001"/>), these areas will be filled in by the wizard. If you need to modify a query or want to create one without using the wizard, you will use the query grid to set up the query. You learn more about this later in the section on <link document="m00085" target-id="sect-00010">Editing Queries with the QBE Grid</link> and in the chapter on <link document="m00089">Advanced Database Use</link>.</para>
     <figure id="fig-00001" class="scaled-down">
     <media alt="Simple Query Wizard asks: Which fields do you want in your query? Selections include Tables/Queries (Table: Customers), Available Fields (E-mail Address), Selected Fields (First Name). Arrow buttons visible between Fields panes.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_03_AccQuer.jpg"/>
