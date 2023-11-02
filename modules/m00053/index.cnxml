@@ -228,7 +228,7 @@
     <para id="para-00027">An Options item that is critical to your work is a Save option called AutoRecover. Just ask yourself, “Has my computer ever frozen in the middle of a sentence?” This happens to everyone, but AutoRecover can prevent a catastrophe by allowing you to set the program to automatically save your work every two minutes, five minutes, or whatever interval you choose.</para>
     <para id="para-00028">Another helpful option is proofing, which allows Microsoft to check your spelling as you type.</para>
     <para id="para-00029">You will find some options that you may never need to change. In the future, however, you will be glad to know where to locate these hidden settings.</para>
-    <figure id="fig-00008">
+    <figure class="scaled-down" id="fig-00008">
     <media alt="General is selected. Word Options displays some selections: When using multiple displays: Optimize for best appearance, Show Mini Toolbar on selection, Enable Live Preview, Update document content while dragging, Enable modern comments.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Options.jpg"/>
     </media>
@@ -444,7 +444,7 @@
     <section id="sect-00019">
     <title>Help Tab</title>
     <para id="para-00054">The <term class="no-emphasis" id="term-00043">Help</term> tab looks the same in all the Office applications. The Help tab gives you options to seek help on an issue with the application you are working with. Through the tab, you can use the Help search by clicking on the question mark or you can contact support directly. The Show Training is a good place to start if you have not used the program at all before. It gives you a collection of help tutorials to walk you through many of the more common features used in the program. When you select any of the options on the Help tab, a window will open at the right to assist you further (see <link target-id="fig-00020"/>).</para>
-    <figure id="fig-00020">
+    <figure class="scaled-down" id="fig-00020">
     <media alt="Help is selected. Help dialog box displays Search Bar, Get Started, Collaborate, Insert Text, Pages &amp; layouts, Pictures, Save &amp; print, Mail Merge, Recommended Topics (Words for Windows training, Lay out pages).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Help.jpg"/>
     </media>

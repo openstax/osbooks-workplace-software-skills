@@ -38,7 +38,7 @@
     </figure>
     <para id="para-00010">You will see two sections of offerings. In the first, shown in <link target-id="fig-00002"/>a, you can access your Google account settings and can use common tools such as the Google search engine for internet searches, Maps for locating places and navigating trips, Play for accessing apps for your mobile device, Meet for online meetings, Drive for storing your files, Gmail for email, and Calendar for scheduling.</para>
     <para id="para-00011">The second section includes the offerings that are the focus of this course. You will see various applications, including Docs and Sheets. If you wanted to work on a presentation, you would select the Google Slides option, as shown in <link target-id="fig-00002"/>b.</para>
-    <figure id="fig-00002">
+    <figure class="scaled-down" id="fig-00002">
     <media alt="(a) Google Gmail apps displayed include Account, Search, Maps, YouTube, Play, News, Gmail, Meet, Chat, Contacts, Drive, and Calendar. (b) Google Gmail apps displays various apps, including Slides (enlarged).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Menu.jpg"/>
     </media>
@@ -139,7 +139,7 @@
     <section id="sect-00006">
     <title>File Menu</title>
     <para id="para-00015">The <term class="no-emphasis" id="term-00015">File menu</term> is used to open files in Drive, to create new files, and to print materials. In addition, the Make Available Offline option lets you work on files when you do not have internet access. (See <link target-id="fig-00004"/>.)</para>
-    <figure id="fig-00004">
+    <figure class="scaled-down" id="fig-00004">
     <media alt="File displays these options: New, Open, Make a copy, Share, Email, Download, Rename, Move, Add shortcut to Drive, Move to trash, Version history, Make available offline, Details, Language, Page setup, and Print.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_FILEM01.jpg"/>
     </media>

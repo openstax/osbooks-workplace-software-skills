@@ -24,25 +24,25 @@
     <title>Special Characters and Symbols</title>
     <para id="para-00004">From the Insert menu you can see <term class="no-emphasis" id="term-00001">Special characters</term>, as shown in <link target-id="fig-00001"/>. You can insert any of the characters you see on the first screen, just by selecting one in <link target-id="fig-00002"/>. But you may need a character that doesn’t appear here. One way to find a character is to look by category. Choose the Symbol combo box on the left and select another category. Options are Punctuation, Numbers, other languages, and many other groups, as you can see in <link target-id="fig-00003"/>. These are top-level collections of character types and include lots of special characters that are more than just symbols.</para>
     <para id="para-00005">When you change the top-level collection to be, for instance, Emojis, the special character selections will change, as shown in <link target-id="fig-00004"/>.</para>
-    <figure id="fig-00001">
+    <figure class="scaled-down" id="fig-00001">
     <media alt="Insert is selected and opens to these options for selection: Image, Table, Drawing, Chart, Horizontal line, Emoji, Smart chips, Date, Dropdown, Footnote, Building blocks, Special characters, Equation, Watermark, and Headers &amp; footers.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_CHAR01a.jpg"/>
     </media>
     <caption>Special characters are inserted from the Insert menu. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <figure id="fig-00002">
+    <figure class="scaled-down" id="fig-00002">
     <media alt="Insert special characters window displays buttons for Symbols and Arrows displaying various arrows. A blank search bar is available and a window with Draw a symbol here visible inside.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_CHAR01b.jpg"/>
     </media>
     <caption>The special characters dialog box offers a number of different choices, as well as the option to draw a symbol or search by keyword. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <figure id="fig-00003">
+    <figure class="scaled-down" id="fig-00003">
     <media alt="A pane lists options for Symbol, Emoji, Punctuation, Number, Format &amp; Whitespace, Modifier, Latin, and various other Scripts. A screen displays a search bar and a Draw a symbol here pane.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_CHAR01c.jpg"/>
     </media>
     <caption>When selected, the Symbol combo box opens up a long list of different categories. Each category has a different set of characters and symbols. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
-    <figure id="fig-00004">
+    <figure class="scaled-down" id="fig-00004">
     <media alt="Insert special characters window opens to tabs for Emoji and People and Emotions with a pane of images beneath. A search bar and window with Draw a symbol here are visible.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_05_CHAR01d.jpg"/>
     </media>

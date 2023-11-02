@@ -94,7 +94,7 @@
     <caption>There are two ways to insert a list into your Doc: through the Format menu, or via the action bar. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00014">Because adding lists to your document is generally done for organization and visual purposes, you want to make sure they are easy to read and showcase the most important information. For all list types, you can increase or decrease the space between the lines. This can help with readability. To do this, select the whole list and go to the <term class="no-emphasis" id="term-00007">Line and Paragraph spacing</term> command and choose a wider or narrower space, as shown in <link target-id="fig-00006"/>. You can also change the color of the text, which could be useful for helping your list stand out from the rest of your document. Select the text you want to format and use the action bar command for Text color.</para>
-    <figure id="fig-00006">
+    <figure class="scaled-down" id="fig-00006">
     <media alt="Text in a numbered list is selected. Spacing is selected and offers options for selection. 1.15 and Prevent single lines are selected.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_04_MULTILIST01c.jpg"/>
     </media>

@@ -128,7 +128,7 @@
     <section id="sect-00011">
     <title>Microsoft Teams</title>
     <para id="para-00035">Microsoft <term class="no-emphasis" id="term-00015">Teams</term> is a useful tool in business for instant messaging. It is included in the Microsoft suite of programs. Teams also offers video chat capability as well as file sharing. Many organizations today use Teams to conduct team meetings. Teams provides much more than just a chat function. You can take calls, schedule meetings through the calendar function, and much more in the Teams environment. <link target-id="fig-00007"/> shows what the Teams interface looks like with the chat function selected.</para>
-    <figure id="fig-00007">
+    <figure class="scaled-down" id="fig-00007">
     <media alt="A Teams window is visible. A Search Bar runs along the top. Options for selection are at left. A Chat pane is next and then a Conversation pane is at the right.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_Teams.jpg"/>
     </media>
@@ -138,7 +138,7 @@
     <section id="sect-00012">
     <title>Slack</title>
     <para id="para-00036">Another instant messaging platform, <term class="no-emphasis" id="term-00016">Slack</term>, is a free program with some extra features available for a fee. For example, with the free version, users are limited to view and access only the most recent 10,000 instant messages. This will work for many uses but may be limiting if you try to use the free version for workplace communications, where you may need to recall a conversation that goes back further. Slack is similar in many ways to Teams (see <link target-id="fig-00008"/>). It was designed specifically for use in the workplace. Slack allows users to add emojis to messages and to create workspaces for team collaboration. Files can be shared via Slack as they are in Teams. Private and public messages can be exchanged through Slack. Slack integrates well with other programs such as the Google suite of products, including Google Calendar.</para>
-    <figure id="fig-00008">
+    <figure class="scaled-down" id="fig-00008">
     <media alt="A Slack window displays options at the top for searching. The left column lists a Work heading with Channels and Direct messages. The right side of the screen shows a channel.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_03_Slack.jpg"/>
     </media>

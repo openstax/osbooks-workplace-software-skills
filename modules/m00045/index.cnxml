@@ -98,13 +98,13 @@
     </media>
     <caption>The superscript “1” indicates that there is a footnote at the bottom of the page. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure id="fig-00007">
+    <figure class="scaled-down" id="fig-00007">
     <media alt="The words “$20 billion” are followed with a superscript 1. At bottom of document a line separates the document text from the footnote. Superscript 1 is below line followed by website link.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01c.jpg"/>
     </media>
     <caption>Footnotes will be numbered in the body of the document and numbered at the bottom of the page where the footnote is inserted. Include the citation for the reference in the footnote. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure id="fig-00008">
+    <figure class="scaled-down" id="fig-00008">
     <media alt="Footnote text is highlighted in a document and Styles is selected. Options are visible for styles of font and Create Style, Clear Formatting, and Apply Styles.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01d.jpg"/>
     </media>
@@ -120,13 +120,13 @@
     <section id="sect-00011">
     <title>Captions</title>
     <para id="para-00029">For Word to automatically generate your table of figures, you need to insert captions for each of them. Let’s first insert a summary chart of data using the skills learned earlier in the chapter into the market trends report. To “<term class="no-emphasis" id="term-00026">caption</term>” a figure, select the entire figure, then choose <term class="no-emphasis" id="term-00027">Insert Caption</term> (see <link target-id="fig-00010"/>). In the dialog box that appears (see <link target-id="fig-00011"/>), the caption is automatically generated to be “Figure 1,” but you can rename it to whatever you like. There are also options where you can choose the placement of the caption. Do the same for all the figures in your document. Once all your figures are captioned, then you can insert your table of figures.</para>
-    <figure id="fig-00010">
+    <figure class="scaled-down" id="fig-00010">
     <media alt="References is selected on ribbon and in Captions command group, Insert Caption is selected. In the document, a cursor sits at the start of a blank line underneath a table of information.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF01a.jpg"/>
     </media>
     <caption>You must use the Insert Caption tool to make sure all of your captions will appear in the table of figures. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure id="fig-00011">
+    <figure class="scaled-down" id="fig-00011">
     <media alt="(a) Caption pane is open with options for Caption, Label/Position Options, and Exclude label from caption. (b) In the document, the caption is visible on the left side underneath a table.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_TOF01bc.jpg"/>
     </media>
@@ -155,13 +155,13 @@
     <section id="sect-00013">
     <title>Linked Bookmarks</title>
     <para id="para-00032">Another helpful tool for navigating long documents is the <term id="term-00030">bookmark</term>. You can add bookmark links throughout your document for better navigation. Place the cursor where you want the bookmark to link up to—a section header, for example, or the beginning of an important paragraph—and go to the Insert tab and click Bookmark. In the dialog box, type a name for your bookmark <link target-id="fig-00013"/>. In this case, we chose to bookmark the start of the body text. Now, select a word that will link up to the bookmark, right-click on it, and select <term class="no-emphasis" id="term-00031">Hyperlink</term> from the context menu. The same hyperlink dialog box will appear, but this time select Place in This Document. Click on the bookmark you just made, and then click OK; the link will be set <link target-id="fig-00018"/>. Conversely, if you want to remove a bookmark from Word, click the <term class="no-emphasis" id="term-00032">Bookmark</term> command in the Insert menu, locate it, and then select Delete.</para>
-    <figure id="fig-00013">
+    <figure class="scaled-down" id="fig-00013">
     <media alt="A Bookmark button is selected and opens to Bookmark pane with options for Bookmark name, Sort by Name and Location, box for Hidden Bookmarks selection, and Add, Delete, and Go to buttons.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKMARKa.jpg"/>
     </media>
     <caption>When creating Bookmarks, make sure to choose a descriptor word that has meaning to the content you are designating. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure id="fig-00018">
+    <figure class="scaled-down" id="fig-00018">
       <media alt="Insert Hyperlink pane opens to Link to Existing File/Web Page, Place in This Document, Create New Document, E-mail Address. Text to Display and Select a place in this document offer selections.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_BOOKMARKb.jpg"/>
               </media>

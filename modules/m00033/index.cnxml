@@ -55,7 +55,7 @@
     <para id="para-00015">If you are working with a team on your documents, you’ll likely use the <term class="no-emphasis" id="term-00005">Review</term> tab. This tab has a commenting function that allows users to add comments to a file, and to respond to each other’s comments, as also discussed in the <link document="m00049">Essentials of Software Applications for Business</link> chapter. As <link target-id="fig-00002"/> shows, the Review tab contains the <term class="no-emphasis" id="term-00006">Track Changes</term> feature, which is helpful when many people are taking turns reviewing and contributing to a document. When Track Changes is turned on, edits to the document appear underlined and in colored text. Each user’s edits will be colored differently to easily distinguish input from multiple people. This is particularly helpful when documents go through several revisions and are reviewed by many people. The market trends report for WorldCorp is a team effort, requiring several people to contribute to the final product. You can expect that as the document is created and revised, comments will be used to help reach the final version of the report.</para>
     <para id="para-00016">The Track Changes process might feel familiar to you, as it is designed to mimic the act of marking up a paper document with a pen. You might have had someone work on your résumé or mark up a homework assignment of yours, using a red pen to make suggestions and revisions on the document itself. In a Word document, comments and Track Changes serve the same purpose as using a red pen on a paper document. This process will be covered in more detail later in the chapter.</para>
     <para id="para-00017">The Review tab also has many commands that allow commenting and suggesting changes in documents that are used and edited by multiple people. <link target-id="fig-00002"/> shows two comments that users made by choosing the <term class="no-emphasis" id="term-00007">New Comment</term> function. As people work on the document, they can read and respond to those comments, or remove them by clicking on them and selecting Delete in the Comments menu. There are also options in the <term class="no-emphasis" id="term-00008">Show Markup</term> button found in the Tracking command group to display (or not display) formatting changes such as boldfacing or underlining.</para>
-    <figure id="fig-00002">
+    <figure class="scaled-down" id="fig-00002">
     <media alt="Show Comments and Track Changes tabs selected from Comments command group (Review tab). Altered words are green. Deleted words have strikethrough. “Review” is highlighted. Speech bubble displays a comment followed by response.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_01_Review.jpg"/></media>
     <caption>The Review tab in Word is helpful when multiple people are working on a document. It allows them to add comments and track revisions. The second comment is the lower one and is the reply to the one above it. (Used with permission from Microsoft)</caption>
@@ -66,7 +66,7 @@
     <section id="sect-00007">
     <title>View Tab</title>
     <para id="para-00020">The <term class="no-emphasis" id="term-00010">View</term> tab is useful for changing how you see your document. For instance, it gives you the option of looking at your document one or two pages at time. You can also activate the zoom option from here, as well as add rulers and gridlines, which are helpful when placing objects, such as a table or picture, in the report you may be writing. You can also access the Navigation pane in the View tab. You may also use the read, print, or web viewing modes when typing, which give you different ways of seeing your document, as <link target-id="fig-00003"/> shows.</para>
-    <figure id="fig-00003">
+    <figure class="scaled-down" id="fig-00003">
     <media alt="Zoom and Multiple Pages selected from Zoom command group (View tab). Two pages of a document are visible in a row across the screen, zoomed out to fit on the screen.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_01_View.jpg"/>
     </media>
@@ -82,7 +82,7 @@
     <para id="para-00022">To activate the Find function on a Mac, press <term class="no-emphasis" id="term-00014">Command+F</term>.</para>
    
     </note>
-    <figure id="fig-00004">
+    <figure class="scaled-down" id="fig-00004">
     <media alt="Navigation Pane selected (Show command group/View tab). Navigation pane offers tabs: Headings, Pages, Results. “group” typed in Search. Results displays sentences with word “group” highlighted. Document with “group” highlighted in yellow displays.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_01_Navigat.jpg"/>
     </media>

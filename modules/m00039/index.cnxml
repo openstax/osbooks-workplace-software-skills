@@ -126,7 +126,7 @@
     <section id="sect-00006">
     <title>Page Setup</title>
     <para id="para-00022">As in Word, the <term class="no-emphasis" id="term-00009">Page Setup</term> commands are for selecting the paper size and orientation (horizontally or vertically). In Docs, it is all done from the File menu; Page Setup is near the bottom of the File menu. In <link target-id="fig-00013"/>, you can see the options in the dialog box. The first combo box is for choosing whether to apply page setup to the whole document, or just a section. You can also adjust the paper size; there is a combo box with popular paper sizes like letter and legal. Additionally, you can change the margins to create custom margins. You can also adjust the margins manually on the top of the window, using the mouse to move the margin markers on the ruler (<link target-id="fig-00014"/>). Many of the page setup tools in Docs are straightforward and minimalistic. Google programs are intentionally designed to be user-friendly, and this is just one example of how easy it can be to make changes to your document.</para>
-    <figure id="fig-00013">
+    <figure class="scaled-down" id="fig-00013">
     <media alt="(a) Page Setup pane displays Paper size options: Letter, Tabloid, Legal, Statement, Executive, Folio, A3, A4, A5, B4, and B5. (b) Page setup pane has Letter selected in the Paper size option.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_07_PAGESET01.jpg"/>
     </media>

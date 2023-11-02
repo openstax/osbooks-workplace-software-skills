@@ -35,7 +35,7 @@
     <title>Headings for Tables of Contents</title>
     <para id="para-00007">What Word calls Styles is called <term id="term-00003">Paragraph Styles</term> in Docs. We previously touched on the importance of these styles in Docs in the <link document="m00032">Creating and Working in Documents</link> chapter when we discussed the use of the View menu to activate or hide the document outline. Moreover, we carefully went over headings and their significance for the document when we described the font formatting, and how it can be accelerated with the use of styles. Here, we will discuss how the use of styles helps you manage long documents by helping to structure your table of contents.</para>
     <para id="para-00008">Docs will automatically read your styles and headings and autogenerate the table of contents from that. For instance, you may have an H1 (Heading 1) for a chapter title, and H2 and H3 headings for subsections. You can see Google’s default heading styles in <link target-id="fig-00002"/>. We can add the table of contents to our WorldCorp market trends report because we have already formatted the various sections of the report with headings.</para>
-    <figure id="fig-00002">
+    <figure class="scaled-down" id="fig-00002">
     <media alt="Styles button opens to options for Normal text, Title, Subtitle, Heading 1, Heading 2, Heading 3, Heading 4, Heading 5, and Options. The document displays different text and header styles and fonts.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_06_STYLES01.jpg"/>
     </media>

@@ -54,13 +54,13 @@
     <caption>The Paragraph command group offers a variety of line spacing options in (a) a drop-down menu or (b) in more detail in a dialog box. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00012">Paragraph separation is typically indicated in one of two ways: by indenting the first line of the paragraph with a tab <term class="no-emphasis" id="term-00008">indentation</term> as <link target-id="fig-00004"/>a shows, or by adding a space between paragraphs, as you can see in <link target-id="fig-00004"/>b. In the latter case, the paragraph is usually not indented, as the space serves the same purpose as the indentation (i.e., to indicate a new paragraph). Most documents, including those used in business, have small 0.5” indentations at the start of each new paragraph as the default setting. If indentations are too small, they are difficult to distinguish, and large indentations can look awkward and confuse readers.</para>
-    <figure id="fig-00004">
+    <figure class="scaled-down" id="fig-00004">
     <media alt="(a) A document is shown where the start of a paragraph is indented. (b) A document is shown with a blank space between paragraphs and no indents visible.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_03_Spacing.jpg"/></media>
     <caption>Paragraphs can be indicated by (a) a first-line indentation or (b) by spaces between paragraphs. The latter works well in documents where page count is not an issue as it could make for a longer document. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00013">Paragraphs can also be formatted with different <term id="term-00009">alignment</term>, or <term class="no-emphasis" id="term-00010">justification</term>, styles (<link target-id="fig-00005"/>). In documents, the most common alignments for the body of the text are <term class="no-emphasis" id="term-00011">left-justified</term> or <term class="no-emphasis" id="term-00012">fully justified</term>. Left-justified means that the text all lines up in a straight line along the left margin, but where text ends on the right margin varies. Fully justified text lines up in a straight line along both the left and right margins. This produces a clean and professional look and is often used in publishing or print materials. However, full justification can also lead to awkward gaps within lines of text if the material contains a lot of long words or specialized content. Determining which alignment is appropriate for a document depends on the audience. For example, if you submit your WorldCorp market trends report for publication in an industry journal, it should be fully justified.</para>
-    <figure id="fig-00005">
+    <figure class="scaled-down" id="fig-00005">
     <media alt="(a) Document displays text lined up in a straight line along the left margin, with right margin varying. (b) Document displays text aligned in straight lines at left and right margins.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_03_Align.jpg"/>
     </media>
@@ -81,7 +81,7 @@
     <item>Summary</item>
     </list>
     <para id="para-00017">Open a blank Word document and type in the first three headings from the list above. For each header, select the text, go to the Styles command group, and select Heading 1 (H1). H1 represents the top-level heading, which you might want to use for a title or a high-level section title. As you can see, the font size and the color changes automatically because you are selecting from the preset heading styles in Word. Repeat this formatting for your next two headings. If you open the Navigation pane, you will now see that your three H1 headings appear in outline format (<link target-id="fig-00006"/>).</para>
-    <figure id="fig-00006">
+    <figure class="scaled-down" id="fig-00006">
     <media alt="(a) Styles command group displays heading option selected and reflected in document. (b) Print Layout and Vertical tabs selected. Navigation pane Heading tab lists headings in document. Selected headings in document visible.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_03_Heading.jpg"/>
     </media>

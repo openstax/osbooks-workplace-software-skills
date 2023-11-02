@@ -85,7 +85,7 @@
     <caption>The Trust Center shows privacy settings that you can customize in Word. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00017">As you select that tab, you’ll see a button that says Trust Center Settings; select that next. Then, you’ll see the many tabs of the Trust Center. Under Privacy Options, you will find <term class="no-emphasis" id="term-00011">Document Inspector</term>. If you select Document Inspector, you will be prompted with a list of items the inspector will scan for. Make sure the Document Properties and Personal Information option is selected. Click Inspect and the tool will scan the document for hidden information in the file such as your personal information or comments that are linked to your name. After scanning, a results window will appear often with a warning that all of your personal information will be removed if you continue with this process, as shown in <link target-id="fig-00005"/>. Sometimes, for example, you may need to send the document to a third party, and you don’t want to send all the versioning of the track changes or comments.</para>
-    <figure id="fig-00005">
+    <figure class="scaled-down" id="fig-00005">
     <media alt="A Document Inspector window offers options for selection. This reads across the top: To check the document for the selected content, click Inspect.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_01_DOCINSPCT2.jpg"/>
     </media>

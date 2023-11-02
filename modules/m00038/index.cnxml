@@ -77,7 +77,7 @@
     <caption>Track changes, or Suggesting, is accessed not from a menu, but from a drop-down menu on the right side of the document screen. (Google Docs is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00014">Through the Tools menu (<link target-id="fig-00006"/>), you can choose Review suggested edits, which allows you to view the suggested edits one by one and choose whether you’d like to accept or reject them. The Tools menu also contains the Preferences window, which offers some of the general settings for your documents, such as whether to use Smart Quotes and autocapitalization. (In Word, the Preferences are contained in the File menu, which is covered in the chapter on <link document="m00049">Essentials of Software Applications for Business</link>.</para>
-    <figure id="fig-00006">
+    <figure class="scaled-down" id="fig-00006">
     <media alt="Google Docs Tools tab is selected with options: Spelling &amp; grammar, Word Count, Review suggested edits, Compare documents, Citations, Linked objects, Dictionary, Voice typing, Notification settings, Preferences, and Accessibility.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_06_TOOLSM01.jpg"/>
     </media>
@@ -89,7 +89,7 @@
     <title>Creating a Doc</title>
     <para id="para-00015">We are going to begin by creating our market trends report, starting with industry analysis information. The most direct way to create a new Doc is to log in to your Google Drive. Once you are in the Drive, you can create a new Doc by selecting the New plus sign, as discussed in the chapter on <link document="m00049">Essentials of Software Applications for Business</link>. Then, choose Google Docs from the list. This will automatically open a new window with a blank document. You could also hover over the arrow to the right of the Google Docs icon and choose Blank document or From a template to create the new file. As an alternative, once in your Drive, you can create a new document by selecting the Google Apps icon, as <link target-id="fig-00007"/> shows. This will open a drop-down menu, and you will choose which app to access, in this case that would be Docs for the Google word processor application. A new tab will appear in your browser with the Docs. Here, you can choose to open from recent documents or create a new document either by a template or an entirely new file (by choosing blank).</para>
     <para id="para-00016">If you select the first icon, Blank, Docs will open a blank canvas, similar to how Word opens its blank documents. You can also create a new document using a template. There are many kinds of default templates in Docs’s Template Gallery, including résumés, letters, project proposals, work notes, brochures, newsletters, legal agreements, and several educational document templates (like essays, reports, class notes, and lesson plans).</para>
-    <figure id="fig-00007">
+    <figure class="scaled-down" id="fig-00007">
     <media alt="(a) + New selected in Google Drive and opens to pane with: options for (b) New folder, File upload, Folder upload, Google Docs (selected), Google Sheets, Google Slides, Google Forms, and More.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_06_CREATEN01.jpg"/>
     </media>
