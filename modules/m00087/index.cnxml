@@ -6,5 +6,228 @@
     <md:uuid>f0304d34-1e7b-4beb-bca8-7091c7fe4384</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Understand why reports are useful.</item>
+    <item>Create and edit a report using the Report Wizard.</item>
+    <item>Customize a report by adding images and text.</item>
+    </list>
+    </section>
+    <para id="para-00002">Databases are useful only if they enable us to transform data into information that will be ready for use when it is needed. Although queries are helpful in extracting the data that we need and even transforming it into actionable information, most decision-makers will need more refinement, formatting, and preparation before the data is ready for use.</para>
+    <para id="para-00003">Recall that a <term class="no-emphasis" id="term-00001">report</term> is a formatted display of information designed for a specific use case or project. Reports do more than summarize information; they also create the foundation for making sound decisions. When we combine queries with formatting, we create reports that we can use in our work.</para>
+    <section id="sect-00002">
+    <title>Using Reports in a Database</title>
+    <para id="para-00004">Reports are a cornerstone for business decisions. We can generate reports within a database for a specific request, and we can also set up reports to provide summaries and information that we will need on an ongoing basis. Access enables us to set up reports (e.g., a financial, sales, or summary report) that we can then access as necessary for decision-making. Companies routinely run reports on key performance indicators (KPIs) that show an organization’s effectiveness, efficiency, quality, economics, project performance, resource use, and personnel and workforce performance. Companies also routinely look at revenue, profit, and customer and employee satisfaction. Because tables filled with data do not adequately describe KPIs, businesses rely on reports as part of their evidence-based decision-making.</para>
+    <para id="para-00005">Tables are extremely efficient ways of storing data, and using a relational database with connections across tables is an effective way of building information storage. Unfortunately, however, tables do not display information in ways that people easily understand. We can manage this by creating reports—formatted, attractive displays of information. Reports use combinations of labels, values, and even graphics to present the results of a query in a way that supports action. Once designed, a report can easily be reused or copied and revised. Like other objects such as queries and forms, reports will show the most up-to-date information each time the database changes. Among the many reasons to generate reports are the need to create summary reports, to save snapshots of data, and to provide detail about specific customers or products.</para>
+    <para id="para-00006">Consider this example. Anna, an analyst in the sales and marketing group at WorldCorp, has been asked to get data ready for a meeting with sales representatives. The meeting will focus on products that are on hold, and the representatives will need to identify wholesale companies that may be interested in these products. Anna begins by determining what the sales representatives will need for the meeting and the level of detail they will want to have available for decision-making. She then looks at the available data and decides how to create the report. Anna’s final report includes two sets of information—the list of on-hold products and the list of wholesalers who have shown an interest in those products. Therefore, she creates two versions of the report:</para>
+    <list id="list-00002">
+    <item>List of on-hold products with a list of interested wholesalers for each product</item>
+    <item>List of wholesalers with a list of on-hold products that may be of interest to each wholesaler</item>
+    </list>
+    <para id="para-00007">Anna sends the final report to the person in charge of the meeting for review and comment.</para>
+    <section id="sect-00003">
+    <title>Tips for Effective Reports</title>
+    <para id="para-00008">The way you design a report will depend on the data it will include, the audience that will use the report for decision-making, and the way the data will be used. Reports can be as brief as a few lines of summary text, or they can be highly detailed spreadsheets or within datasheets with many rows of records. The key to building a useful report is communication—your communication with the audience that needs the report, so you understand them, and the communication of the information to the audience so they can use it.</para>
+    <para id="para-00009">Effective reports should utilize the headers and footers of a report and its pages to aid the reader when navigating the report. Headers and footers should contain useful information such as the report title, author, and page numbers. This makes it easier for a report reader to quickly find the information they are looking for across multiple reports.</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00010">Data is only good to the extent that it is both accurate and actionable. Raw data without any use is just clutter. With this in mind, watch this <link url="https://openstax.org/r/78DataAction">video on how to make data actionable</link> and consider how reports can summarize large amounts of data and make that data actionable.</para>
+    </note>
+    <para id="para-00011">The goal of a report is to eliminate as many individual lines of information as possible and to simplify information through summary wherever you can. In general, consider the following when preparing effective reports:</para>
+    <list id="list-00003">
+    <item>Minimize line-by-line data</item>
+    <item>Use labels to explain the data that is shown on the report</item>
+    <item>Use formatting to designate titles and other labels</item>
+    <item>Incorporate white space to ensure readability</item>
+    <item>Test with possible audience members to be sure the report makes sense to the final audience</item>
+    <item>Focus on answering specific business questions generated by the person or people who request the report</item>
+    </list>
+    </section>
+    <section id="sect-00004">
+    <title>Organizing a Report</title>
+    <para id="para-00012">A report can be flat, with one record per line, or you can use grouping to further organize the data. When designing a report, think about organizing your data as follows:</para>
+    <list id="list-00004">
+    <item>Sorting to order your data by an important field (e.g., Name), when you are discussing customers or sales region</item>
+    <item>Grouping records based on a field, such as active versus inactive products, regions that met specific targets versus those that are lagging in meeting goals, or geographical area</item>
+    <item>Totaling groups of data, such as sales figures, to show both the detailed figures (e.g., an individual salesperson’s sales figures) and the figures for the overall region</item>
+    </list>
+    <para id="para-00013">Access will allow you to quickly add and preview sorting, groups, and totals to ensure the report communicates what you need it to for the audience you are working with.</para>
+    </section>
+    </section>
+    <section id="sect-00005">
+    <title>Creating and Editing Reports with the Report Wizard</title>
+    <para id="para-00014">WorldCorp is interested in creating a summary of their recent sales data for their latest product line. The report should include useful information such as which products have the highest total sales, which products have the highest net profit, and which customers are purchasing the most products. WorldCorp could create this report from a blank canvas, but it would be much easier to generate a report using the <term class="no-emphasis" id="term-00002">Report Wizard</term>. This is a small program that will walk you through the steps of setting up a report, which you can then modify to meet your needs.</para>
+    <para id="para-00015">Using the Report Wizard is usually an efficient and easy way to start a report. Most reports will need some form of customization, but the Wizard will provide a good starting point and will save steps by adding fields that are bound to the database.</para>
+    <section id="sect-00006">
+    <title>Creating a Report</title>
+    <para id="para-00016">To start a report with the Report Wizard, click on the Create menu in the ribbon and then choose the Report Wizard command from the reports section. The Wizard will walk you through each question before creating your report.</para>
+    <para id="para-00017"><emphasis effect="italics">Step 1:</emphasis> In step 1 (<link target-id="fig-00001"/>), you can set the table(s) and/or queries you want to work on within the report. This gives you flexibility, as you can use data from more than one table or query in your work. (<emphasis effect="italics">Hint:</emphasis> Consider setting up a query for your report before starting the report. This will enable you to check the data before setting it up for display.) Once you have chosen and added tables, queries, and fields to the report (use the >> button to move fields to the selection box), click Next to move to the next screen in the Wizard.</para>
+    <figure id="fig-00001" class="scaled-down">
+    <media alt="Report Wizard pane reads: Which fields do you want on your report? Selections include Table/Queries (Query: ProductList with client information), Available Fields (ProductID), Selected Fields (blank). Arrows visible between Fields panes.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWiz.jpg"/>
+    </media>
+    <caption>The Report Wizard allows you to select fields to include in the report. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00018"><emphasis effect="italics">Step 2:</emphasis> In step 2 (<link target-id="fig-00002"/>), you can choose grouping for your report. (Skip this step if grouping does not make sense for your report.) A <term id="term-00003">group</term> is a heading that organizes data with something in common. For example, you might group data based on the region a customer is assigned to. When used as a group, all customers belonging to a specific region will appear together. Once you set up grouping, you can click Next to continue.</para>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="Report Wizard pane reads: Do you want to add any grouping levels? ClientID selected. Product ID pane lists: ClientID, ClinetName, ClientMailingAddressAll. Left, Right, Top/Bottom arrows with Priority in between visible between panes.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWizID.jpg"/>
+    </media>
+    <caption>In this example, grouping by product ID has been used, creating a report that first lists each product, with the client info of every client who has purchased that product listed under the ProductID. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019"><emphasis effect="italics">Step 3:</emphasis> Step 3 of the Report Wizard asks how you want to sort your records, as <link target-id="fig-00003"/> shows. Access allows you to sort by up to four fields in the designated order, from top to bottom. For example, to create a report that fits the needs of your audience, you may want to sort a set of records by sales region in alphabetical order and then sort further by product ID. Once you set up sorting, you can move to the next step in the Wizard.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="Report Wizard window reads: What sort order do you want for detail records? Panes available for populating (one displays ClientID) with Ascending buttons at right. Next button selected at bottom.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWizOrd.jpg"/>
+    </media>
+    <caption>Using the ClientID field with the Report Wizard allows you to sort records in ascending order, from top to bottom. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00020"><emphasis effect="italics">Step 4:</emphasis> After you have set the sort order, the Wizard will ask you to choose the layout for your report (<link target-id="fig-00004"/>.) You can also set the orientation and ask Access to adjust all fields to make sure they fit on a page.</para>
+    <figure id="fig-00004" class="scaled-down">
+    <media alt="Report Wizard reads: How would you like to lay out your report? Stepped selected in Layout, Portrait selected in Orientation. Adjust the field width so all fields fit on a page (selected).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWizLay.jpg"/>
+    </media>
+    <caption>Setting the report layout in the Report Wizard allows for limited customization of the final report. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00021"><emphasis effect="italics">Step 5:</emphasis> The final step in the Wizard allows you to set a unique title for your report and then choose whether you want to provide the results or go into design to modify the report (<link target-id="fig-00005"/>). Usually, viewing the report will be useful, as it will show you what you want to change. When you are done, click Finish to continue the work.</para>
+    <figure id="fig-00005" class="scaled-down">
+    <media alt="Report Wizard reads: What title do you want for your report? (product and then client with mailing info). Do you want to preview the report/modify the report’s design? (Preview the report (selected)).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWizTitl.jpg"/>
+    </media>
+    <caption>Setting a name for the report is the final step before Report Wizard generates a preliminary report. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00007">
+    <title>Reviewing a Report</title>
+    <para id="para-00022">When you double-click on a report in the navigation area, the report will open with current data displayed. Let’s look at a simple report in <link target-id="fig-00006"/>: a listing of all product categories.</para>
+    <para id="para-00023">This report, named ProductCategoryList, was created quickly by clicking on Create and then Report.</para>
+    <figure id="fig-00006">
+    <media alt="ProductCategoryList selected from Queries in All Access sidebar. Report displays with header and Columns for ProductCategoryID and Description (populated with information in cells). Date/time listed at top.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RevReport.jpg"/>
+    </media>
+    <caption>The report generated by the Report Wizard is well organized and easy to read. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00024">The title at the top of the report shows the date the report was run, followed by two columns that list the product category ID and the description. This report is set up by Access and has not been modified. In <term class="no-emphasis" id="term-00004">Design View</term> (<link target-id="fig-00007"/>), this report appears differently, with the design and grid available for modification. This report is usable as is but taking a few minutes to customize it will make it more useful for your audience.</para>
+    <figure id="fig-00007">
+    <media alt="Property Sheet button selected from Tools (Report Design tab). Property sidebar visible with search bar and tabs for Format, Data, Event, Other, All (selected). Two columns populated with selections for formatting follow.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepCustom.jpg"/>
+    </media>
+    <caption>Access allows you to fully customize the layout and content of a report depending on your specific needs. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00025">In Design View, the <term id="term-00005">report header</term> appears on the first page and includes the title and dates of the report. This is followed by the <term id="term-00006">page header</term> which appears on each page and includes information useful to the report user, such as page number or report author. The <term id="term-00007">report detail</term> is the area where data from the database is displayed for each record. Each record will show the product category ID and description. The report has a <term id="term-00008">page footer</term>, which displays useful information, such as the page number, and appears on each page. The <term id="term-00009">report footer</term> shares the number of pages in the entire report. As you build reports, you will likely switch back and forth between the <term class="no-emphasis" id="term-00010">Report View</term> and Design View to change elements such as spacing and formatting so that your report is useful for your audience.</para>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00026">Personal and company data needs to be safeguarded, and reports that summarize data related to projects and goals also need to be protected. Therefore, one of the responsibilities of anyone dealing with data and reports is data security. To this end, governments have put laws and procedures in place to guide how organizations manage data and reporting. This <link url="https://openstax.org/r/78DataPrivLaws">article on data privacy laws</link> provides an overview of some of the laws in this area.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00008">
+    <title>Customizing Reports</title>
+    <para id="para-00027">Although Access does a nice job of starting a report, you will likely want to modify reports before using them. Following are some of the changes you may want to make:</para>
+    <list id="list-00005">
+    <item>Changing the size of fields (e.g., shortening them)</item>
+    <item>Formatting the text of the report (e.g., by adding boldface)</item>
+    <item>Shifting text boxes to lay the screen out more effectively</item>
+    </list>
+    <section id="sect-00009">
+    <title>Page Layout View</title>
+    <para id="para-00028">Page layout view gives you a simple way to make changes to the overall appearance of a report. Changes made to a field in page layout view will be applied to all fields of the same type (e.g., if you boldface a field, all fields of the same type will also be bold). Page layout view displays live data while you make your changes, which makes decision-making easier.</para>
+    <para id="para-00029">To enter <term class="no-emphasis" id="term-00011">Layout View</term>, click on the View command on the Home tab while you have a report open on the screen. You can preview the report by changing to the report view. When you are finished working, save and close your report.</para>
+    </section>
+    <section id="sect-00010">
+    <title>Design View</title>
+    <para id="para-00030">The <term class="no-emphasis" id="term-00012">Design View</term> screen has more options for customizing your report. To switch to Design View, use the View command on the ribbon.</para>
+    <para id="para-00031">Design View gives you a layout grid for your form and the ability to move each label and field independently, change the formatting of the text, and even change the attributes for each element on the report.</para>
+    <para id="para-00032">A common change in Design View is modifying the size of the field on the screen. For example, you may find that Access cuts off some of the label or content in a field. You can modify the size of the field or label by clicking on the element and then using the selection handles on the left and right sides to stretch or shrink the element.</para>
+    <para id="para-00033">You can also move elements manually by clicking and dragging them or by clicking on multiple items and using the commands on the Arrange tab on the ribbon. These commands allow you to move items up or down, arrange them together, or control how the elements are arranged on the report itself.</para>
+    </section>
+    <section id="sect-00011">
+    <title>Adding an Image or Custom Text</title>
+    <para id="para-00034">You may want to include a logo or even a disclaimer as an image in a report. These images can add information or (as in the example of a logo) provide identification. Images typically appear at the top or bottom of a report. Remember that if you place an image in the detail section of the report, it will repeat for every line. (This is useful when you want to have each line start with a symbol or logo.)</para>
+    <para id="para-00035">To add an image in Design View, click on the Form Layout Design tab and choose the image that you want to add. You can also add any image to the page by clicking Insert Image and then locating the image file. Again, be aware that when images are placed in the detail section of the form, they will repeat for every line. If you would like the image to appear only at the top or bottom of a page, place the image in the page header or footer; if you want the image to appear only at the start or end of the entire report, place it in the report header or footer.</para>
+    <para id="para-00036">You may want to add elements that are not strictly images but display on the report (e.g., titles, dates, and times). Note that these items will be displayed on the report but will not be stored in the database; they will change each time you open the form.</para>
+    <figure id="fig-00008">
+    <media alt="Insert Image button in Controls toolbar (Report Design tab) selected. Categories in a form are displayed in design view.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepCompl.jpg"/>
+    </media>
+    <caption>You can export selected Access objects to an Excel worksheet. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00037">When you create and modify a report, Access will prompt you to name and save it. Each time you modify an existing report and close it, Access should prompt you to save it. You can save manually by right-clicking on the name of the tab in the work area and choosing the Save command.</para>
+    <para id="para-00038">To close a report that is open in the work area, click on the X next to the tab name.</para>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00012">
+    <title>Summary</title>
+    <list id="list-00006">
+    <item>Reports compile and summarize data in actionable, useful formats that can be used for business decision-making. Reports update with current information each time we open them and can be modified to show only the information most useful to a reader.</item>
+    <item>We can use the Report Wizard to create new reports that we can later customize.</item>
+    <item>Reports can be customized to include images and custom text, like logos.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00013">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00039"><link class="os-embed" url="#exercise/13-05-BCA-RQ01"/></para>
+    </problem>
+    </exercise>   
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00040"><link class="os-embed" url="#exercise/13-05-BCA-RQ02"/></para>
+    </problem>
+    </exercise>   
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00041"><link class="os-embed" url="#exercise/13-05-BCA-RQ03"/></para>
+    </problem>
+    </exercise>   
+    </section>
+    <section class="written-questions" id="sect-00014">
+    <title>Written Questions</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00042"><link class="os-embed" url="#exercise/13-05-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00015">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00043"><link class="os-embed" url="#exercise/13-05-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00044"><link class="os-embed" url="#exercise/13-05-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>group</term>
+    <meaning>heading that organizes data items that have something in common</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>page footer</term>
+    <meaning>the bottom section of a document page, which typically repeats across pages and contains information useful to the report reader</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>page header</term>
+    <meaning>the top section of a document page, which typically repeats across pages and contains information useful to the report reader</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>report detail</term>
+    <meaning>the area where data from the Access database is displayed for each record</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>report footer</term>
+    <meaning>the bottom section of a report that does not typically repeat across pages and contains the name and dates of the report</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>report header</term>
+    <meaning>the bottom section of a report that does not typically repeat across pages and contains the number of pages in the entire report</meaning>
+    </definition>
+    </glossary>
 </document>
