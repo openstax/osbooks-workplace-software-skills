@@ -36,11 +36,13 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <tbody>
+    <thead>
     <row valign="top">
     <entry valign="top" align="left">Use Excel to:</entry>
     <entry valign="top" align="left">Use Access when you:</entry>
     </row>
+    </thead>
+    <tbody>
     <row valign="top">
     <entry valign="top" align="left">Analyze a specific dataset</entry>
     <entry valign="top" align="left">Need to track and record data regularly</entry>
