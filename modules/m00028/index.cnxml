@@ -29,7 +29,7 @@
 <section id="sect-00002">
 <title>Computing in the Workplace</title>
 <para id="para-00005">The rise of computers for work came out of a need to manage a massive quantity of numbers. The early computers essentially were developed to be “data crunchers.” Their origins date back to the 1800s in France. Joseph Marie Jacquard, a textile merchant, developed a machine to automatically weave designs in fabric using a punch card system, as you can see in <link target-id="fig-00002"/>. This punch card system laid the foundation for more advances in number calculations, including those developed by Herman Hollerith for the 1880 U.S. census. Hollerith went on to improve the initial <term class="no-emphasis" id="term-00003">punch card system</term> and eventually founded <term class="no-emphasis" id="term-00004">IBM</term>, one of the first major computing companies.</para>
-<figure id="fig-00002">
+<figure class="scaled-down" id="fig-00002">
 <title/>
 <media alt="(a) A picture shows a loom machine. (b) A drawing shows the details of the working parts of a punch-card tabulating machine. (c) Punch cards are shown.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_Jacquard.jpg"/></media>
@@ -61,7 +61,7 @@
 </figure>
 <para id="para-00015">Early personal computers like the Programma and the Alto set the stage for the rapid expansion of computing in the workplace. By 1980, there were several microcomputers on the market that made computing more accessible to small businesses and even individuals. Computing capabilities had expanded to include color graphics, spreadsheets, and word processing programs. The market competition between Microsoft, HP, IBM, Apple, and others shaped the industry and our society. In fact, in 1983, <emphasis effect="italics">Time</emphasis> magazine’s cover recognized the computer as “Machine of the Year,” replacing its traditional “Man of the Year.” These early computers have evolved into today’s laptops, cell phones, tablets, and wearables.</para>
 <para id="para-00016">These innovations in computing technology have had a profound impact on the workplace. <link target-id="fig-00005"/> shows just how different today’s “workplace” has become. From the automation of manual processes, to the ways we store and analyze information, to how and where we communicate with colleagues and customers—all have changed dramatically. Resulting improvements include improved efficiency and productivity, reduction of errors, improved database management and analytics, advanced communication capabilities, telecommuting, enhanced graphics and marketing, the need for new organizational structures and departments (such as information technology, or IT, departments), and the development of technology privacy policies and legal regulations. Computing machines, along with the emergence and subsequent explosion of the internet, have forever transformed both our work and our personal lives.</para>
-<figure id="fig-00005">
+<figure class="scaled-down" id="fig-00005">
 <title/>
 <media alt="Photographs show a person sitting outdoors with a laptop, a person sitting on the floor with a laptop, and a person sitting on the couch with a small child and a laptop.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_ModernWork.jpg"/></media>
@@ -71,7 +71,7 @@
 <section id="sect-00003">
 <title>Computing for Personal Use</title>
 <para id="para-00017">By the 1970s, new workplace technology filtered into homes in the form of entertainment devices. With technological improvements and more accessible prices, the value of a computer in the home—to help manage everything from household finances to children’s homework assignments—was becoming evident. The advertisement for the <term class="no-emphasis" id="term-00020">Apple II</term> computer shown in <link target-id="fig-00006"/> shows what this early technology looked like.</para>
-<figure id="fig-00006">
+<figure class="scaled-down" id="fig-00006">
 <title/>
 <media alt="An ad for Apple Computers Inc. displays information about features, uses, and specifications. Images of a computer items are placed throughout the ad.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_AppleAd.jpg"/>
@@ -80,7 +80,7 @@
 </figure>
 <para id="para-00018">In the early 1980s, personal computers were made available to the average consumer through retailers such as Sears and Radio Shack. In 1981, IBM introduced a personal computer—first known by the code name “Acorn” and subsequently renamed the <term class="no-emphasis" id="term-00021">IBM PC</term>—that included the Microsoft operating system and Office software, as well as an Intel microchip. Soon to follow was Apple’s <term class="no-emphasis" id="term-00022">Macintosh</term> computer, launched in January 1984, running Apple’s own operating system and officially establishing <term class="no-emphasis" id="term-00023">Apple</term> as competitors to <term class="no-emphasis" id="term-00024">Microsoft</term> and the PC. Many of these new designs were streamlined and user-friendly for the whole family. Moreover, the price point made them more attainable for the consumer, though still expensive for that time.</para>
 <para id="para-00019">Initially, home computers were focused on gaming and entertainment. <link target-id="fig-00007"/> shows what that primitive technology looked like in the 1980s. Classic games such as chess and solitaire were translated into the computer environment, a trend that quickly caught on even with rudimentary graphics and text-based games. These games allowed the user to experience the computer’s capabilities in settings far beyond the workplace and established the personal computer as a technology to support not only work, but pleasure and entertainment, too.</para>
-<figure id="fig-00007">
+<figure class="scaled-down" id="fig-00007">
 <title/>
 <media alt="(a) An Apple II computer with a large keyboard and green, pixelated images is visible. (b) A photo shows two children standing and looking at a small computer on a table.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_OldGaming.jpg"/></media>
@@ -110,14 +110,14 @@
 </figure>
 <para id="para-00025">Computing technology has also brought substantial changes to the health-care industry. Most medical practices and hospitals utilize <term class="no-emphasis" id="term-00028">electronic medical records</term>. These records and the ability to share them across providers have increased the efficiency and accuracy of record management and have also increased the transparency of information provided to patients and their families and care providers. Performance of surgical procedures has been advanced through the use of visualization technology and <term class="no-emphasis" id="term-00029">robotics</term>. <link target-id="fig-00009"/>a shows a robotic arm used in surgery.</para>
 <para id="para-00026">More recently, <term class="no-emphasis" id="term-00030">telehealth</term> and virtual health-care options have grown. <link target-id="fig-00009"/>b shows a virtual telehealth appointment. These options have reduced many barriers (including some financial barriers and transportation issues) for those seeking care for a variety of needs, including mental health issues, child illness, or support for the elderly. This virtual option has not only added convenience, but has also improved communication between patient and provider, increased speed of care, and allowed patients to take a better informed and more active role in addressing their own health-care needs. And, of course, the use of virtual technology for health-care needs was a lifesaver during the COVID-19 pandemic, when in-person appointments were too risky.</para>
-<figure id="fig-00009">
+<figure class="scaled-down" id="fig-00009">
 <title/>
 <media alt="(a) A robot with several mechanized arms works on an item on a surgical table. (b) A person sits looking at a laptop with a health-care professional on the screen.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_HealthTech.jpg"/></media>
 <caption>(a) Robotic surgery and telehealth services are two health-care industry-changing technologies. (credit a: modification of “Laproscopic Surgery Robot” by GPA Photo Archive/Flickr, CC BY 2.0; credit b: modification of “People on a Video Call” by Anna Shvets/Pexels, CC BY 2.0)</caption>
 </figure>
 <para id="para-00027">With today’s available technologies, organizations and individuals alike are continuing to rethink the traditional business model. Many organizations have come to see the value of giving employees the freedom afforded by working from home, and even many industries that had resisted telecommuting learned to incorporate it as a necessary response to the COVID-19 pandemic. Some companies have found that organizational efficiencies can be realized in terms of cost savings, improved employee satisfaction, and enhanced productivity. Other businesses, such as smaller retailers, have shifted more resources to e-commerce. Banks have found innovative ways to connect with their customers using technology rather than through in-person transactions. Still others, such as restaurants, have used technology to deliver their products to consumers in new ways. In <link target-id="fig-00010"/>, customers can order directly through the internet à la <term class="no-emphasis" id="term-00031">Uber Eats</term> or even have their food delivered by robot.</para>
-<figure id="fig-00010">
+<figure class="scaled-down" id="fig-00010">
 <title/>
 <media alt="(a) A person on a bicycle wears a large backpack with “Uber Eats” on the back (b) A six wheeled, small, oval robotic vehicle with flag attached is on a sidewalk.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_UberRobot.jpg"/></media>
@@ -140,7 +140,7 @@
 <para id="para-00034">The first cellular technology using automated cellular networks, called 1G or first generation, was introduced in Tokyo in 1979. It was deployed to other countries soon after and, in 1981, reached North America, where it was known as the Advanced Mobile Phone System (AMPS). This led to the launch of the first truly mobile cell phone, Motorola’s DynaTAC, in 1983 (<link target-id="fig-00011"/>b). With a price point of just under $4,000, the unit was not designed for the everyday consumer. Motorola believed the phone’s customers would include realtors and large-company executives who could afford the purchase price as well as the $50-per-month plan to use the device. But they underestimated the appeal of the cell phone. Sales far exceeded projections, and the concept of the cell phone quickly replaced the unwieldy mobile car phones of the past.</para>
 <para id="para-00035">The overwhelming demand, along with advances in digital technology, prompted the migration of the old AMPS networks to a digital format, an effort that began in 1990 and was completed in the early 2000s. The popularity of the cell phone also prompted competition between European and American networks. 2G cellular networks emerged, providing basic short message service (SMS) text messaging capabilities. The first text message was sent in 1993 in Finland. The 2G network had better security than 1G and was also much faster. These changes in network capabilities influenced the development of phone technologies.</para>
 <para id="para-00036">Although smartphones are seen as a rather new technology, the first smartphone was actually introduced by IBM in 1993. The Simon Personal Communicator (<link target-id="fig-00011"/>c) looked very different from modern smartphones. Its features included a calendar, address book, and email service. The phone even had a touchscreen. The price point, around $1,000, was high at the time, equivalent to about $2,000 in today’s dollars. The device was well received in the United States, where consumers viewed it primarily as a digital personal assistant that just happened to have phone capabilities. Though popular with business executives, the Simon stayed on the market for less than a year and sold only around 50,000 units, but it did pave the way for the smartphones of today. Other notable phone introductions soon to follow were the first flip phone (the Motorola StarTAC in 1997) and the first BlackBerry device in 1999.</para>
-<figure id="fig-00011">
+<figure class="scaled-down" id="fig-00011">
 <title/>
 <media alt="(a) A green communication device with thick antenna. (b) A large, rectangular cell phone with long antenna and buttons. (c) A long, rectangular smartphone with rectangular screen, buttons, and thin antenna.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_DynaTAC.jpg"/></media>
@@ -200,14 +200,14 @@
 <section id="sect-00009">
 <title>Advances in Technology</title>
 <para id="para-00055">Technology is advancing faster than what was previously believed to be possible. In just a short period of time, we have gone from having no computers to today where nearly 90 percent of people in the United States have some access to a computing device. What’s also impressive is that 90 percent of data in the world today was generated in just the last two years. Today’s <term class="no-emphasis" id="term-00069">5G</term> technology is 100 times faster than 4G, and the rate of adoption of new technologies has diminished from years to mere months in some cases. As you can see in <link target-id="fig-00014"/>, older technologies such as refrigerators and landlines took decades to reach widespread adoption with a majority of Americans buying them, while today’s smartphones and tablets achieve broad adoption as soon as they enter the market.</para>
-<figure id="fig-00014">
+<figure class="scaled-down" id="fig-00014">
 <title/>
 <media alt="(a) Graph for years 1890 to 2014 shows speed of adoption of new technologies. (b) Graph for years 1951 to 2016 shows speed of adoption of modern day technologies.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_OldTech.jpg"/></media>
 <caption>(a) Historically, the rate of adoption for new technologies has taken decades. (b) Now, new products to the market reach more than a 50 percent adoption rate in just a few years. (credit a and b: modification of work by Our World in Data, CC BY 4.0)</caption>
 </figure>
 <para id="para-00056">Computers today typically double their capabilities in less than two years. With this in mind, we can expect computing capabilities to continue to increase at a similar rate. The rate of change is increasing exponentially because companies are building on existing technologies. Researchers can take what has worked well to rapidly refine and enhance technologies for innovations and improvements. Additionally, resources from across the world—both financial resources and human capital—are being pumped into supporting these technological advances. To put the popularity of computer technology into perspective, consider how long it takes to get fifty million users for a product. Radio took thirty-eight years after its invention to become that popular, while the hit game Angry Birds needed only about thirty-eight days to reach that milestone. <link target-id="fig-00015"/> shows some common products and how long each of them took to reach the same milestone.</para>
-<figure id="fig-00015">
+<figure class="scaled-down" id="fig-00015">
 <title/>
 <media alt="Chart titled “How long to reach 50 million users?” x axis shows years and y axis lists Telephone, Automobiles, Electricity, Radio, Television, Internet, Facebook, YouTube, Angry birds, and Pokémon Go.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_01_01_AdoptRate.jpg"/></media>
