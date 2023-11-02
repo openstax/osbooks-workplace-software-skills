@@ -229,7 +229,7 @@
     <item>Click on the down arrow in the Sort row and choose the sort order (ascending, descending, or not sorted). By default, the column is not sorted.</item>
     </list>
     <para id="para-00048">You can also set <term class="no-emphasis" id="term-00013">criteria</term> here to control which records are displayed. Criteria are commands that are written using symbols together with a text string that tells Access what you want the query to do. A criterion statement has two parts: the criterion/operator and descriptive text. For example, in the criterion statement</para>
-    <para class="centered-text" id="para-00049"><emphasis effect="bold" class="centered-text">= 100</emphasis></para>
+    <para id="para-00049"><emphasis effect="bold" class="centered-text">= 100</emphasis></para>
     <para id="para-00050">the equals sign serves as the operator, and 100 is the descriptor.</para>
     <para id="para-00051">There are several different criteria you can use within your queries. Some of the operations (criteria) are displayed in <link target-id="table-00001"/>.</para>
     <table summary="" id="table-00001">
