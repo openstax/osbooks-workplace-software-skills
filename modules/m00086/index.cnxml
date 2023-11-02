@@ -6,42 +6,42 @@
     <md:uuid>1cb9496f-ee7b-4668-ae6a-19a7ad31fd3f</md:uuid>
   </metadata>
   <content>
-    <section class="learning-objectives">
+    <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
-    <para>By the end of this section, you will be able to:</para>
-    <list>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
     <item>Examine existing records in a database.</item>
     <item>Construct new records to add to a database.</item>
     <item>Update existing records in a database.</item>
     <item>Demonstrate the process to delete records from a database.</item>
     </list>
     </section>
-    <para>Most of the time, when employees maintain and work with a database, they access data that has been provided to them from another data storage area, such as the company&#8217;s data warehouse. The tasks in the analysis are to import the data, review the data to ensure that it is brought into the database correctly, and then use the data. Sometimes, however, users need to complete other tasks to ensure that the database processes the data correctly.</para>
-    <note class="link-to-learning">
-    <para>Data integrity is a cornerstone of the digital organization. Without data that can be trusted, companies cannot transform themselves to be successful in the digital world. Transformation comes with two data-related problems&#8212;how companies store and access data and the quality of that data. For an overview of these issues, read this <link url="https://openstax.org/r/78DataIntegrity">article on data integrity in business</link> and think about the ethical requirements for the data professional and organizational leadership and how they need to balance the quality, security, and accessibility of data within the organization.</para>
+    <para id="para-00002">Most of the time, when employees maintain and work with a database, they access data that has been provided to them from another data storage area, such as the company’s data warehouse. The tasks in the analysis are to import the data, review the data to ensure that it is brought into the database correctly, and then use the data. Sometimes, however, users need to complete other tasks to ensure that the database processes the data correctly.</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00003">Data integrity is a cornerstone of the digital organization. Without data that can be trusted, companies cannot transform themselves to be successful in the digital world. Transformation comes with two data-related problems—how companies store and access data and the quality of that data. For an overview of these issues, read this <link url="https://openstax.org/r/78DataIntegrity">article on data integrity in business</link> and think about the ethical requirements for the data professional and organizational leadership and how they need to balance the quality, security, and accessibility of data within the organization.</para>
     </note>
-    <section>
+    <section id="sect-00002">
     <title>Reviewing Records in a Database</title>
-    <para>It is possible to view records in database tables but be sure to not change the records.</para>
-    <para>In a table, records are shown on a datasheet, with each column equaling a field name (a value that all records have) and each row representing an individual record. On the datasheet, there are commands that let you move between records. You can also use the scroll bars to look at different parts of the table. Although using the datasheet to view records can be useful in limited situations, databases typically hold a great deal of data, so in general, querying the table will be a much more efficient way of finding the records you need (<link target-id="fig-00001"/>).</para>
+    <para id="para-00004">It is possible to view records in database tables but be sure to not change the records.</para>
+    <para id="para-00005">In a table, records are shown on a datasheet, with each column equaling a field name (a value that all records have) and each row representing an individual record. On the datasheet, there are commands that let you move between records. You can also use the scroll bars to look at different parts of the table. Although using the datasheet to view records can be useful in limited situations, databases typically hold a great deal of data, so in general, querying the table will be a much more efficient way of finding the records you need (<link target-id="fig-00001"/>).</para>
     <figure id="fig-00001">
     <media alt="Table displays columns for ProductID (number/letter combinations), ProductCategoryID (N05B listed in the entire column), Status (with active, on hold, and retired listed as options), and Click to Add (all blank cells).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_04_RevRecord.jpg"/>
     </media>
     <caption>Reviewing records in a datasheet provides a broad overview of the data, while querying allows you to filter and retrieve specific information that answers particular questions or meets specific criteria. Queries are used to extract precise and targeted data from a database, whereas a datasheet presents a more comprehensive view of the data. (Used with permission from Microsoft)</caption>
     </figure>
-    <note class="real-application">
+    <note class="real-application" id="note-00002">
     <title>Data Flow Processes</title>
     <figure id="fig-00002">
     <media alt="Date Flow chart shows Data collected by production systems; Production databases: OLTP; Production systems copy data to data warehouse; Data storage: OLAP; Data copied/sent to work groups/in Microsoft Access/Excel; Microsoft Access.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_04_DataFlow.png"/>
     </media>
-    <caption>Data flows through an organization&#8217;s information systems from collection to analysis.</caption>
+    <caption>Data flows through an organization’s information systems from collection to analysis.</caption>
     </figure>
-    <para>Data moves across the data landscape from transactional production databases, including sales, customer service, human resources, and other systems, to storage databases such as the data warehouse, which can hold historical information (<term class="no-emphasis">online transaction processing (OLTP)</term>). Once housed in a data store, datasets can be made available to databases like Access and spreadsheets like Excel for local use and analysis (<term class="no-emphasis">online analytical processing (OLAP)</term>). Why would it be important to keep in mind how and when data was collected from a production system when performing analysis on that data in Access?</para>
+    <para id="para-00006">Data moves across the data landscape from transactional production databases, including sales, customer service, human resources, and other systems, to storage databases such as the data warehouse, which can hold historical information (<term class="no-emphasis" id="term-00001">online transaction processing (OLTP)</term>). Once housed in a data store, datasets can be made available to databases like Access and spreadsheets like Excel for local use and analysis (<term class="no-emphasis" id="term-00002">online analytical processing (OLAP)</term>). Why would it be important to keep in mind how and when data was collected from a production system when performing analysis on that data in Access?</para>
     </note>
-    <para>If you need to look at records in <term class="no-emphasis">Datasheet View</term>, there are commands at the bottom of the screen that will help you move between them. When a datasheet view is open, these commands appear automatically in Access, on the bottom left side of the screen.</para>
-    <para>The <term>record navigation buttons</term> open any time that records are shown. As you work in the database, you will see these buttons in Datasheet View and in certain form views. The command buttons include jumping to the first or last record in the series, navigating one record ahead or back, and adding a new record, as you can see in <link target-id="fig-00003"/>. You can also add a filter or use the search feature to find a specific field value.</para>
+    <para id="para-00007">If you need to look at records in <term class="no-emphasis" id="term-00003">Datasheet View</term>, there are commands at the bottom of the screen that will help you move between them. When a datasheet view is open, these commands appear automatically in Access, on the bottom left side of the screen.</para>
+    <para id="para-00008">The <term id="term-00004">record navigation buttons</term> open any time that records are shown. As you work in the database, you will see these buttons in Datasheet View and in certain form views. The command buttons include jumping to the first or last record in the series, navigating one record ahead or back, and adding a new record, as you can see in <link target-id="fig-00003"/>. You can also add a filter or use the search feature to find a specific field value.</para>
     <figure id="fig-00003" class="scaled-down">
     <media alt="Lines with arrows pointing to buttons left/ right labeled Move to first/last record. Arrows pointing left/right labeled Move one record forward/back. Arrow pointing right with sun icon labeled Add a new record.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_04_Command.jpg"/>
@@ -49,48 +49,48 @@
     <caption>Using the record navigation buttons to progress through a datasheet can save you a lot of time. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
-    <section>
+    <section id="sect-00003">
     <title>Constructing New Records</title>
-    <para>Databases are historical in that they record past details about an organization, but they also need to be updated as time goes on. There are a variety of ways to update a database, including both manual and automated updates. Most of the time, when you use Access, you will import a dataset or file from another system, such as the organization&#8217;s data warehouse.</para>
-    <section>
+    <para id="para-00009">Databases are historical in that they record past details about an organization, but they also need to be updated as time goes on. There are a variety of ways to update a database, including both manual and automated updates. Most of the time, when you use Access, you will import a dataset or file from another system, such as the organization’s data warehouse.</para>
+    <section id="sect-00004">
     <title>Adding a Record Manually</title>
-    <para>If you need to add a <term class="no-emphasis">record</term> into a database, you can either add the record to the table manually or import it from another database. To add a record manually:</para>
-    <list list-type="enumerated" number-style="arabic">
+    <para id="para-00010">If you need to add a <term class="no-emphasis" id="term-00005">record</term> into a database, you can either add the record to the table manually or import it from another database. To add a record manually:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00002">
     <item>Open the table in Datasheet View.</item>
     <item>On the Home tab, click the command New in the Records group.</item>
     <item>Fill in the information, using Tab or the left and right arrow keys to move through the record.</item>
-    <item>Once you are done, use Tab or the up and down arrows to move to the next record, or press <term class="no-emphasis">Shift+Enter</term> (or any version of Save that saves a record).</item>
+    <item>Once you are done, use Tab or the up and down arrows to move to the next record, or press <term class="no-emphasis" id="term-00006">Shift+Enter</term> (or any version of Save that saves a record).</item>
     </list>
     </section>
-    <section>
+    <section id="sect-00005">
     <title>Importing a Record</title>
-    <para>Creating files that can be imported to other systems is a hallmark of a digital organization. When working with Access, we are likely to import files from other, larger systems. Data is collected in business units across an organization, and using that data is key to an effective business. Business units routinely transfer files between systems, which in turn lets units analyze and create actionable information.</para>
-    <para>Most systems can create <term class="no-emphasis">comma-delimited (CSV) file</term>s, which use commas as delimiters or breakpoints to tell Access (or any other program) where data should be separated. CSV files can be read into most Microsoft products and other popular software packages. There are also other formats designed for importing and exporting files, which use another type of formatting to delimit, or separate, data.</para>
-    <para>Access can import a variety of file types, including Excel, CSV, and XML, as well as files specific to databases and other systems or software products. Even so, CSV is one of the most common formats for data importing (<link target-id="fig-00004"/>).</para>
-    <para>Before importing a file, be familiar with the file and its contents. To make the import process easier, you may want to rename fields so that they match in the file and the database.</para>
-    <para>Once your file is ready, you will likely want to import it to a new table so you can catch and correct any errors without corrupting the data in your other data tables. Depending on the specific type of work you are doing, you can either set up a table ahead of time or import the data into a new table.</para>
+    <para id="para-00011">Creating files that can be imported to other systems is a hallmark of a digital organization. When working with Access, we are likely to import files from other, larger systems. Data is collected in business units across an organization, and using that data is key to an effective business. Business units routinely transfer files between systems, which in turn lets units analyze and create actionable information.</para>
+    <para id="para-00012">Most systems can create <term class="no-emphasis" id="term-00007">comma-delimited (CSV) file</term>s, which use commas as delimiters or breakpoints to tell Access (or any other program) where data should be separated. CSV files can be read into most Microsoft products and other popular software packages. There are also other formats designed for importing and exporting files, which use another type of formatting to delimit, or separate, data.</para>
+    <para id="para-00013">Access can import a variety of file types, including Excel, CSV, and XML, as well as files specific to databases and other systems or software products. Even so, CSV is one of the most common formats for data importing (<link target-id="fig-00004"/>).</para>
+    <para id="para-00014">Before importing a file, be familiar with the file and its contents. To make the import process easier, you may want to rename fields so that they match in the file and the database.</para>
+    <para id="para-00015">Once your file is ready, you will likely want to import it to a new table so you can catch and correct any errors without corrupting the data in your other data tables. Depending on the specific type of work you are doing, you can either set up a table ahead of time or import the data into a new table.</para>
     <figure id="fig-00004" class="scaled-down">
     <media alt="Notepad displays tabs: File, Edit, Format, View, Help. First line reads: ProductID, WidgetColorSales, UnitsSold, OrderDate, ShipDate, Phone. Lines of information follow for the rest of the page (example of one line: 1,Red,10,04/04/2022,07/04/2022).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_04_Import.jpg"/>
     </media>
     <caption>A CSV (comma-separated values) file is a plaintext file format commonly used for storing tabular data, such as spreadsheets or databases. (Used with permission from Microsoft)</caption>
     </figure>
-    <para><emphasis effect="italics">Note:</emphasis> Access has the ability to import data directly into existing tables manually through the Import command and by connecting automatically with a database or system.</para>
-    <para>Follow these steps in importing a file:</para>
-    <list list-type="enumerated" number-style="arabic">
+    <para id="para-00016"><emphasis effect="italics">Note:</emphasis> Access has the ability to import data directly into existing tables manually through the Import command and by connecting automatically with a database or system.</para>
+    <para id="para-00017">Follow these steps in importing a file:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00003">
     <item>With your database open, select the External Data tab in Access.</item>
     <item>Choose the New Data Source button.</item>
-    <item>Choose the file type you want to work with&#8212;for example, text. A dialog box will open.</item>
+    <item>Choose the file type you want to work with—for example, text. A dialog box will open.</item>
     <item>Select the file you want to import.</item>
     <item>Choose the import type that fits best with your project. If you are concerned about an import, try importing the data into a new table to be sure you have all of the fields and parameters set correctly.</item>
     <item>Click on OK; the import screen will open. See <link target-id="fig-00005"/>.
     <figure id="fig-00005">
-    <media alt="Import Text Wizard pane displays Delimited &#8211; Characters such as comma or tab separate each field selected. Sample data from file: displays in pane (first row: datum,M01AB,M01AE,N02BA,N02BE,N05B,N05C,R03,R06; other rows include: 1/5/2014,14,11.67,21.3,185.95,41,0,32,7).">
+    <media alt="Import Text Wizard pane displays Delimited – Characters such as comma or tab separate each field selected. Sample data from file: displays in pane (first row: datum,M01AB,M01AE,N02BA,N02BE,N05B,N05C,R03,R06; other rows include: 1/5/2014,14,11.67,21.3,185.95,41,0,32,7).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_04_ImportWiz.jpg"/>
     </media>
     <caption>Importing a file using the Import Text Wizard allows the user to select the correct format for their file. (Used with permission from Microsoft)</caption>
     </figure></item>
-    <item>The <term class="no-emphasis">Import Wizard</term>, which is a part of the import process, will open and ask you to choose how your text file is structured. (<emphasis effect="italics">Hint:</emphasis> Most text files are delimited, and CSV files use commas as the delimiting or separating character.) Once you choose whether the file is delimited or fixed width (broken up based on a certain number of characters), click Next to continue.</item>
+    <item>The <term class="no-emphasis" id="term-00008">Import Wizard</term>, which is a part of the import process, will open and ask you to choose how your text file is structured. (<emphasis effect="italics">Hint:</emphasis> Most text files are delimited, and CSV files use commas as the delimiting or separating character.) Once you choose whether the file is delimited or fixed width (broken up based on a certain number of characters), click Next to continue.</item>
     <item>On the next screen, set your delimiter (comma for a CSV file) and click the first row that contains field names (assuming your first row is titles or labels). Then preview the data and, when you are sure it is correct, click Next to move to the next screen. See <link target-id="fig-00006"/>.</item>
     </list>
     <figure id="fig-00006">
@@ -99,121 +99,121 @@
     </media>
     <caption>For files that use a delimiter, the Import Text Wizard requires that the user define which delimiting character is used. (Used with permission from Microsoft)</caption>
     </figure>
-    <para>In the screen that appears, you can change field names and data types, if necessary (<link target-id="fig-00007"/>). Once you are ready, click Next to continue.</para>
+    <para id="para-00018">In the screen that appears, you can change field names and data types, if necessary (<link target-id="fig-00007"/>). Once you are ready, click Next to continue.</para>
     <figure id="fig-00007">
     <media alt="Import Text Wizard displays Field Options: Field Name (datum), Data Type (Date With Time), Indexed (No). Do not import field (Skip) (not selected). Columns listed in pane (datum, M01AB, M01AE, etc.).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_04_ImpWizNext.jpg"/>
     </media>
     <caption>The Import Text Wizard allows you to specify various field properties, such as name and data type, before importing the file to Access. (Used with permission from Microsoft)</caption>
     </figure>
-    <para>The Import Wizard will ask if you would like to set a primary key or have Access set it for you. Make your choice, as seen in <link target-id="fig-00008"/>, and click Next to continue.</para>
+    <para id="para-00019">The Import Wizard will ask if you would like to set a primary key or have Access set it for you. Make your choice, as seen in <link target-id="fig-00008"/>, and click Next to continue.</para>
     <figure id="fig-00008">
     <media alt="Import Text Wizard selects: Let Access add primary key. ID column visible before other columns: datum, M01AB, M01AE, N02BA, N02BE, N05B, N05C, R03, and R06.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_04_ImpWizKey.jpg"/>
     </media>
     <caption>You should select a primary key for any imported tables. This primary key can serve as a unique identifier for each record in your database. (Used with permission from Microsoft)</caption>
     </figure>
-    <para>The final Import Wizard screen will allow you to name your new table. Be sure to use a descriptive name that distinguishes it from the tables you already have in the database.</para>
-    <para>When you are done, click Finish to view your new table. If your table has errors (e.g., if data cannot be imported because of mismatches in the field type), a new table containing the errors will appear in your list, as <link target-id="fig-00009"/> shows. If you find any errors, you may want to delete your imported tables and walk through these steps again.</para>
+    <para id="para-00020">The final Import Wizard screen will allow you to name your new table. Be sure to use a descriptive name that distinguishes it from the tables you already have in the database.</para>
+    <para id="para-00021">When you are done, click Finish to view your new table. If your table has errors (e.g., if data cannot be imported because of mismatches in the field type), a new table containing the errors will appear in your list, as <link target-id="fig-00009"/> shows. If you find any errors, you may want to delete your imported tables and walk through these steps again.</para>
     <figure id="fig-00009">
     <media alt="All Access sidebar visible with Staff_2014_ImportErrors selected in Tables. File open at right lists columns of information detailing errors.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_04_TableError.jpg"/>
     </media>
-    <caption>A table with errors will still be imported, but the errors will be identified in a new table with the phrase &#8220;ImportErrors&#8221; in the title. (Used with permission from Microsoft)</caption>
+    <caption>A table with errors will still be imported, but the errors will be identified in a new table with the phrase “ImportErrors” in the title. (Used with permission from Microsoft)</caption>
     </figure>
-    <note class="link-to-learning">
-    <para>Data management is a bigger concern than just tables and fields&#8212;data professionals at all levels need to understand the data landscape and how organizations can manage it. This <link url="https://openstax.org/r/78DataLineage">article on data lineage</link> provides an overview of some of the challenges and considerations in data management.</para>
+    <note class="link-to-learning" id="note-00003">
+    <para id="para-00022">Data management is a bigger concern than just tables and fields—data professionals at all levels need to understand the data landscape and how organizations can manage it. This <link url="https://openstax.org/r/78DataLineage">article on data lineage</link> provides an overview of some of the challenges and considerations in data management.</para>
     </note>
     </section>
     </section>
-    <section>
+    <section id="sect-00006">
     <title>Editing or Deleting an Existing Record</title>
-    <para>Once you locate the record you want to update, you can edit it. To edit a record:</para>
-    <list list-type="enumerated" number-style="arabic">
+    <para id="para-00023">Once you locate the record you want to update, you can edit it. To edit a record:</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00004">
     <item>Open the table in Datasheet View (or Form View).</item>
     <item>Click on the field you would like to edit.</item>
     <item>Place your cursor where you want the information to appear.</item>
     <item>Enter your text.</item>
     <item>Use Tab to move across your record.</item>
     </list>
-    <para>As you work, Access will save your changes whenever you move your cursor from one field to another. If you want to save the record manually to be sure your data is saved, you can either click the Home tab then click Save in the Records group, or press <term class="no-emphasis">Shift+Enter</term> on the keyboard.</para>
-    <para>When you are updating a record, you may see symbols appear that share the status of that record, as <link target-id="fig-00010"/> shows. As you manually edit records, pay attention to these data entry symbols.</para>
+    <para id="para-00024">As you work, Access will save your changes whenever you move your cursor from one field to another. If you want to save the record manually to be sure your data is saved, you can either click the Home tab then click Save in the Records group, or press <term class="no-emphasis" id="term-00009">Shift+Enter</term> on the keyboard.</para>
+    <para id="para-00025">When you are updating a record, you may see symbols appear that share the status of that record, as <link target-id="fig-00010"/> shows. As you manually edit records, pay attention to these data entry symbols.</para>
     <figure id="fig-00010">
     <media alt="Gold square: Record being edited/saved. Pencil: Record being edited/not saved. Asterisk: New record ready for information. Key/triangle: Primary key field. Crossed out circle: Locked record/cannot be edited.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_04_Symbols.jpg"/>
     </media>
     <caption>These are some of the common icons you will use in data entry. (Used with permission from Microsoft)</caption>
     </figure>
-    <section>
+    <section id="sect-00007">
     <title>Deleting a Record</title>
-    <para>If you need to delete a record or set of records for any reason, you can do so through either the datasheet or the form.</para>
-    <list list-type="enumerated" number-style="arabic">
+    <para id="para-00026">If you need to delete a record or set of records for any reason, you can do so through either the datasheet or the form.</para>
+    <list list-type="enumerated" number-style="arabic" id="list-00005">
     <item>Open the table in Datasheet View or Form View.</item>
-    <item>Select the record by clicking on the record selector. To select multiple records, either click and drag across record selectors or use <term class="no-emphasis">Control+Click</term>.</item>
+    <item>Select the record by clicking on the record selector. To select multiple records, either click and drag across record selectors or use <term class="no-emphasis" id="term-00010">Control+Click</term>.</item>
     <item>Press Delete or select Home>Records>Delete.</item>
     </list>
     </section>
     </section>
-    <section class="section-summary">
+    <section class="section-summary" id="sect-00008">
     <title>Summary</title>
-    <list>
+    <list id="list-00006">
     <item>Microsoft Access can be used to locate and review records.</item>
     <item>You will likely add records to a database by importing from other data sources.</item>
     <item>It is possible to edit or delete records in a database, but these functions are less common.</item>
     </list>
     </section>
-    <section class="review-questions">
+    <section class="review-questions" id="sect-00009">
     <title>Review Questins</title>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/13-04-BCA-RQ01"/></para>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00027"><link class="os-embed" url="#exercise/13-04-BCA-RQ01"/></para>
     </problem>
     </exercise>   
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/13-04-BCA-RQ02"/></para>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00028"><link class="os-embed" url="#exercise/13-04-BCA-RQ02"/></para>
     </problem>
     </exercise>   
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/13-04-BCA-RQ03"/></para>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00029"><link class="os-embed" url="#exercise/13-04-BCA-RQ03"/></para>
     </problem>
     </exercise>   
     </section>
-    <section class="written-questions">
+    <section class="written-questions" id="sect-00010">
     <title>Written Questions</title>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/13-04-BCA-WQ01"/></para>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00030"><link class="os-embed" url="#exercise/13-04-BCA-WQ01"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/13-04-BCA-WQ02"/></para>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00031"><link class="os-embed" url="#exercise/13-04-BCA-WQ02"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/13-04-BCA-WQ03"/></para>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00032"><link class="os-embed" url="#exercise/13-04-BCA-WQ03"/></para>
     </problem>
     </exercise>
     </section>
-    <section class="practice-exercises">
+    <section class="practice-exercises" id="sect-00011">
     <title>Practice Exercises</title>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/13-04-BCA-PE01"/></para>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00033"><link class="os-embed" url="#exercise/13-04-BCA-PE01"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/13-04-BCA-PE02"/></para>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00034"><link class="os-embed" url="#exercise/13-04-BCA-PE02"/></para>
     </problem>
     </exercise>
     </section>
     </content>
     <glossary>
-    <definition>
+    <definition id="def-00001">
     <term>record navigation buttons</term>
     <meaning>options that open whenever records are shown, enabling users to execute commands in a database</meaning>
     </definition>
