@@ -6,5 +6,196 @@
     <md:uuid>9493eccb-e286-440a-968f-10fe944618f8</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Explain how Microsoft Office supports collaboration.</item>
+    <item>Explain integration across Microsoft Office apps.</item>
+    <item>Link and embed objects in Microsoft Office apps.</item>
+    <item>Import a PDF using Microsoft Office apps.</item>
+    </list>
+    </section>
+    <para id="para-00002">WorldCorp is preparing for its annual meeting. Businesses often have a large, yearly meeting to summarize the organization’s performance over the last year. Publicly traded companies (those that sell stock) are actually required to hold this kind of meeting each year. Key stakeholders are invited to this meeting, and important documents and performance metrics are shared in both formal presentations and documents. These key stakeholders can include a wide variety of constituents, such as the owners of the company, important customers, vendors, and upper management. This is WorldCorp’s chance to showcase its successes and highlight goals for the next year. There is a good deal of preparation that goes into the meeting, including determining the agenda, creating the presentations, and formatting the documents to be distributed. You not only want the information conveyed to be accurate, but you also want to share the information in a way that is engaging and easy to follow.</para>
+    <section id="sect-00002">
+    <title>Collaboration in Microsoft 365</title>
+    <para id="para-00003">Microsoft 365 (more commonly known by its former longtime name, Microsoft Office) gives users the ability to collaborate on almost any platform. You can access and often edit files on a wide variety of devices through the downloaded apps. Organizations rely on collaborating to achieve their goals. This, of course, will vary by industry and type of organization, but most would agree that working with others both within and outside of the business occurs on a regular, if not daily, basis.</para>
+    <para id="para-00004">Today we often hear the phrase <term id="term-00001">collaborative workspace</term>. Collaborative workspaces are secure virtual environments that allow users access to company files, programs, and apps from any location. These workspaces allow employees to work remotely, and many companies today incorporate such workspaces into their overall company strategy. By offering employees options to work remotely, companies can meet the diverse needs of their employees and in some cases have seen an increase in productivity. For example, one study found that 40 percent of employees indicate they work more hours when working remotely than when in the office. Employees also indicated they felt less stress. The workspace does not have to be exclusively virtual but does need to be organized in such a way to foster teamwork and productivity with access to the needed information and tools to accomplish the company goals.</para>
+    <para id="para-00005">Programs such as the Microsoft suite facilitate incorporating collaborative workspaces into the company structure. Through applications such as Microsoft Teams and Microsoft SharePoint, users can share files, manage schedules, create team folders, meet virtually, and edit documents in real time. Using these features of Microsoft allows employees located in different parts of the world to work together on a project, even if they are never in the same physical location. Technological advances have changed how organizations function, saving them money while aiding employee job satisfaction and work-life balance.</para>
+    <note class="real-application" id="note-00001">
+    <title>Remote and Hybrid Workplaces</title>
+    <para id="para-00006"><link url="https://openstax.org/r/78Drift">Drift</link>, a technology firm in Boston, Massachusetts, was founded in 2015 as a traditional, in-person workplace. As the company grew to include additional offices and employees, collaborating virtually became a high priority. Like many companies, Drift was forced to move to a fully remote workplace during the COVID-19 pandemic in 2020. After the initial transition to establish expectations and common practices for collaboration and acquire the needed technology, the company decided to remain a fully <term class="no-emphasis" id="term-00002">remote workplace</term>, which has allowed employees to relocate to be closer to family and make life choices, such as marriage or having children, a bit easier. This has also enhanced the diversity within the company.</para>
+    <para id="para-00007">Drift’s Chief People Officer Dena Upton said the company took what is called a Digital First approach:</para>
+    <para id="para-00008">“It means that our primary work spaces are our homes. The bulk of individual work will happen there. When the team does come together, we’ll do so in ‘Conversation Spaces,’ or our repurposed offices. Everywhere we currently have a physical space—Boston, San Francisco, and Tampa—we’re creating collaboration outposts for group work.”</para>
+    <para id="para-00009">This is just one example of a company that is realizing the benefits of a remote workplace, at both company and employee levels. There are, of course, many others, and when employees are given the chance, they choose remote work. According to a McKinsey &amp; Company American Opportunity Survey, which tracks the public’s views on economic issues, 87 percent of workers who are offered the chance to work remotely take the offer.</para>
+    <para id="para-00010">Not every company, however, is on board with a fully remote workforce. In fact, some high-profile companies such as Goldman Sachs and Netflix have called employees back into the physical office full time. To track these trends, visit <link url="https://openstax.org/r/78Hubble">Hubble</link>, which specializes in helping companies set up hybrid and remote solutions. It maintains and updates a list it calls The Official List of Every Company’s Back-to-Office Strategy.</para>
+    </note>
+    </section>
+    <section id="sect-00003">
+    <title>Integration in Microsoft 365</title>
+    <para id="para-00011">When applications that serve different purposes work together in a seamless, functional way, this is called <term id="term-00003">integration</term>. One key feature of Office that fosters integration across applications is the common user interface. Each application has a similar format and structure. When you open Microsoft Word, for example, you will notice many of the same functions and tabs that you will see in Microsoft Excel or Microsoft Outlook. Additionally, the keyboard shortcuts are common among the Microsoft applications. As an example, Ctrl+C (Command+C for Mac) is the keyboard shortcut for “copy,” and this shortcut works in all Office (and Google) applications. This commonality between functions, tools, and tabs allows users to easily switch between applications.</para>
+    <para id="para-00012"><term class="no-emphasis" id="term-00004">Microsoft SharePoint</term> and <term class="no-emphasis" id="term-00005">Microsoft OneDrive</term> are two other features of Office that help with integration of the applications. Company files can be stored and shared where all employees can access the information. You can also manage who can access and edit files in the shared folders. You can think of SharePoint and/or OneDrive as the main repository of company files. Generally, SharePoint is accessed across the enterprise, while OneDrive is usually accessed by individual users. These files can be accessed within individual applications, such as Excel or Teams, or easily emailed as attachments. Files can also be accessed and often edited on a wide variety of devices.</para>
+    <para id="para-00013">Microsoft has designed their applications to work together to serve the various informational needs of individuals and business organizations. Users can see real-time edits to documents, collaborate on creating a presentation, or efficiently schedule a meeting using the calendar features. Files can be attached to meeting invitations, files can be shared via Microsoft Teams, and Excel spreadsheets can be embedded in Word documents. These are just a few examples of how the Microsoft applications are integrated with each other.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Linking and Embedding Objects</title>
+    <para id="para-00014">Information from any of the Microsoft programs can be integrated into another program in a few ways. With integration, you are putting information from one file type into another file type. In previous Excel chapters, you learned how to copy a table and paste that into Word or Microsoft PowerPoint. Copying and pasting information allows you to include the information in your Word or PowerPoint file, but as a static version of the object. This means that if you changed the information in Excel, it would not be changed in the Word or PowerPoint file. To update the table in your other file, you would need to copy and paste the table again. This simple process may be acceptable in some cases, but it can be time consuming and repetitive. Other options for integrating content from another source include linking and embedding objects.</para>
+    <para id="para-00015">Linking and embedding items in applications files are useful tools when adding information or objects from one program to another. The information that you are <term class="no-emphasis" id="term-00006">linking</term> or <term class="no-emphasis" id="term-00007">embedding</term> into another program comes from the <term id="term-00008">source file</term>. You bring information from the source file to move to another program. For example, you can bring a table from an existing Excel file (the source file) into a PowerPoint slide (the destination).</para>
+    <para id="para-00016">Linking items means creating a direct, dynamic connection between the source file and the <term class="no-emphasis" id="term-00009">destination file</term>. When an object is linked, the information is stored in the original application (the source file) but just displayed in the other application (the destination file). A link allows the user to work with the information in the source file and have it update automatically in the destination file. For example, when data from an Excel spreadsheet is linked to a Word document, the Excel data is stored in the Excel spreadsheet but displayed in the Word document. This can be a useful function when information from one department is stored separately from another department, such as in a separate SharePoint folder. You might not want someone outside of the department to have access to all the files in the departmental folder, but they might need access to selected information. Note that when linking files together, you need to be sure that all users have access to both files at least to view the files. For example, if you link a Word document and an Excel file and would like a coworker to be able to make changes to the linked data, they will need to have access to both the source file and the destination file.</para>
+    <para id="para-00017">Embedding an object in another program is much like using the copy-and-paste functions, except that you do not have to open the other file. Embedding will place a copy of the information from the source file into the destination file, where it becomes part of the destination file. This creates a static copy, just like copying and pasting does. It also means that if the information is changed in the source file, it will not be updated in the destination file where it is embedded. Furthermore, once information is embedded into the destination file, that information becomes part of the file size of the destination file. For example, embedding a video into a Word document will increase the file size of the Word document, because it now contains a copy of the video.</para>
+    <para id="para-00018">To link or embed information from another file, go to the Insert tab and to the Text command group (see <link target-id="fig-00001"/>). Choose the Object function to open the drop-down menu. Because the ribbons are similar across programs, you should be able to do this in Word, PowerPoint, and Excel.</para>
+    <figure id="fig-00001">
+    <media alt="Insert tab selected. Object button (Text command group) selected; opens to options for: Object and Text from File. Other options in Text command group include Signature Line and Date &amp; Time buttons.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_01_Insert.jpg"/>
+    </media>
+    <caption>Other options in the Text command group include inserting a signature and the date/time. This is the Insert tab from Word. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019">Notice that there are two options in the Object menu: Object and Text from File. Using the Object function, you can either link or embed another file into your current file.</para>
+    <para id="para-00020">When you first select the Object function, you will see two options (see <link target-id="fig-00002"/>): you can create a different file type from scratch (Create New), or you can get information from an existing file (Create from File).</para>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="Create New tab in Object pane selected. Object Type options selects: Adobe Acrobat Document (other documents visible for selection). Result window reads: Inserts a new Adobe Acrobat Document object into your document.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_01_InsObj.jpg"/>
+    </media>
+    <caption>You can use the Insert Object function to insert a wide variety of file types, including PDF files and images. Here, an Adobe file is highlighted to select, but if you scroll through the list, you will see many other choices. (Used with permission from Microsoft)</caption>
+    </figure>
+    <section id="sect-00005">
+    <title>Linking to Objects</title>
+    <para id="para-00021">When you want to link to a file, you probably already have a file in mind. Select the Create from File in the Object dialog window, then use the Browse button to search for the file where the information is saved. Tick the box called Link to file (<link target-id="fig-00003"/>).</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="Create from File tab selected in Object window. Browse button highlighted next to File name bar (*.*). Options for selecting Link to file and Display as icon buttons available.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_01_File.jpg"/>
+    </media>
+    <caption>Click on the Browse button to search for the saved file you would like to integrate into the current file. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00022">The Link to file option places a link to the file location in the current file. When you link a source file to the current file, you establish a connection between the two files. You can then access the source file by double-clicking on the link. Linking to a source file also ensures that any information that is changed in the source file will also be changed in the current file. For example, let’s say you want to insert a dynamic link to an Excel worksheet into a Word document. If any information is changed in that Excel file, that change will be reflected when you click on the link in the Word document.</para>
+    <para id="para-00023">However, keep in mind that there is one drawback to linking a source file to another file: If you change the location where that source file is saved, the link will no longer be valid. Continuing with our previous example, let’s say that the Excel file that you linked to was saved on your desktop. Later, you move that Excel file to your OneDrive. If you click on the link in the Word document, the link will no longer work. You would have to insert the link again using the new location of the source file.</para>
+    <para id="para-00024">You can also insert links to other files directly from the Insert tab, from the Links command group (see <link target-id="fig-00004"/>). When you choose this option, the file name, underlined and in blue font, will be used to show the linkage. Choosing the Link option directly from the Insert tab will give you a listing of your most recently used files. If the file that you wish to link is not in the list, you can browse for the file by choosing Insert Link from the bottom of the drop-down menu.</para>
+    <figure id="fig-00004">
+    <media alt="The Links button in the Links command group (in Insert tab) is selected and opens to options for: Link, Bookmark, and Cross-reference. Link option highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_01_Links.jpg"/>
+    </media>
+    <caption>Inserting a link to another file uses the same command group as inserting a link to a bookmark or a cross-reference. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Embedding Objects</title>
+    <para id="para-00025">You can also use the same Object function, located in the Insert tab, to embed a file. Let’s return to the Insert Object dialog window, as shown in <link target-id="fig-00002"/>. Let’s choose “Microsoft Excel Chart” from the Object type list. This will insert two Excel worksheets into our destination file: one worksheet containing the chart and the other containing the data used to build that chart. (We learn more about inserting Excel charts into Word documents in <link document="m00098" target-id="">Inserting Microsoft Excel Charts into Microsoft Word Documents</link>.) You would then add the data for the chart as you would if you were working in Excel (<link target-id="fig-00005"/>).</para>
+    <figure id="fig-00005">
+    <media alt="Bar chart visible in document. Tab along bottom is labeled Chart1. Sheet1 tab is also visible.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_01_InsChart.jpg"/>
+    </media>
+    <caption>To navigate to the data you will use to build the chart, click on Sheet1 just as you would in Excel. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00026">In the Insert Object dialog box, you can also choose the checkbox Display as icon (<link target-id="fig-00006"/>). This will insert an icon for the appropriate program that will allow the user to click on it to insert the object (as in <link target-id="fig-00007"/>).</para>
+    <figure id="fig-00006" class="scaled-down">
+    <media alt="Create New tab selected in Object window. Object type selected displays Microsoft Excel Chart. Display as icon button selected and highlighted. Change icon button highlighted and visible at bottom right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_01_IconA.jpg"/>
+    </media>
+    <caption>Choosing Change Icon gives you the option to change the icon to something other than the default setting. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00007">
+    <media alt="Document is visible. At the lower left (under document text), an icon labeled Microsoft Excel Chart is highlighted and visible.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_01_IconB.jpg"/>
+    </media>
+    <caption>To access the object, simply click on the icon that has been inserted into the file. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00027">Remember, <term class="no-emphasis" id="term-00010">embedding</term> is similar to copy and paste except that you do not have to actually open the source file. When embedding information from another file, the application will insert a snapshot of the file where it was last saved.</para>
+    <para id="para-00028">For example, if you last saved your Excel worksheet with your cursor on a cell in Sheet4, then essentially Sheet4 is the selected worksheet. The data on Sheet4 will be embedded into the other file showing the image of Sheet4. If you are on slide 5 in your PowerPoint presentation when you save the presentation, then slide 5 will be displayed in the new file. You can double-click on the embedded object, and it will open the source file type so that you can view the other slides and worksheets if they are present. If you embed an Excel chart, it will open as Excel where you can make changes. However, these changes will not change the source file. It will only change the information in the file you are working with currently. The source files will not change when they are embedded.</para>
+    </section>
+    <section id="sect-00007">
+    <title>Inserting Text from a File</title>
+    <para id="para-00029">You may recall from <link target-id="fig-00001"/> that there were two options available when inserting an Object from the Text command group: Object, and Text from File. This option, which allows you to insert text from another file into the current file, is often used as a shortcut to combine information contained in multiple Word documents. The Text from File function is available only in Word. It is not an option when inserting objects in Excel or PowerPoint. And although the source file can be of any type, it is generally easiest to use Word, PowerPoint, or PDF files because these file types are more textual. If you try to insert text from an Excel file, you may find that the information is not formatted properly.</para>
+    </section>
+    </section>
+    <section id="sect-00008">
+    <title>Importing a PDF File</title>
+    <para id="para-00030">There are a few different ways to handle <term class="no-emphasis" id="term-00011">importing</term> content from a PDF file into a Word document. You can copy and paste the text from within the PDF, try to convert the PDF by opening it with Word, or insert the PDF into your document as an object.</para>
+    <para id="para-00031">The copy-and-paste solution is the most straightforward, but this method copies only the text from the PDF. To use this method, first open the PDF file in Adobe Acrobat (or another PDF viewer), press Ctrl+A to select all, press Ctrl+C to copy, and then go to your Word document and press Ctrl+V to paste the selected text into Word. You can also use the other copy-and-paste methods you learned earlier in this book. Double-check to make sure all the text has copied correctly. If it didn’t, try to select smaller areas instead of the whole document. Using the copy-and-paste option with PDFs often leaves you with inaccurate line breaks, odd characters, and other errors to fix, which can be time consuming.</para>
+    <para id="para-00032">You can also try to open the PDF file using Word’s conversion tools. To do this, locate the PDF file and right-click to activate your system’s contextual menu, then go to Open with . . . and select Word as the app. This will effectively convert the PDF to a .docx file, while keeping the images and the text intact. Unfortunately, this conversion process is not always successful.</para>
+    <para id="para-00033">As an example, let’s open a graphics-heavy file, such as a report with images on the first page. As shown in <link target-id="fig-00008"/>, Word warns that the file may not look the same after it has been converted to a .docx file. You can see in <link target-id="fig-00009"/> that the conversion resulted in a number of changes to the text and images on the page. Therefore, the Word conversion tool may be a better choice for simpler files that do not contain many images or special formatting, such as section breaks or tables.</para>
+    <figure id="fig-00008">
+    <media alt="Window reads: Word will now convert your PDF to editable Word document…resulting Word document will be optimized…might not look exactly like the original PDF, especially if original file contained lots of graphics.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_01_PDFIM01.jpg"/>
+    </media>
+    <caption>Opening a PDF file in Word is an option, but it has some limitations. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00009">
+    <media alt="(a) PDF file displays images and text in various fonts/colors. (b) Word file is visible with images shifted slightly and fonts in different styles and sizes than in (a).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_01_Texas.jpg"/>
+    </media>
+    <caption>(a) The original PDF file had a lot of images. (b) When converted to a Word file, the images remained intact but shifted on the page. There are also changes to the font style, size, line spacing, and colors.</caption>
+    </figure>
+    <para id="para-00034">Finally, you can also insert your source document into Word as a <term class="no-emphasis" id="term-00012">linked object</term>, following the same steps you used for Excel object insertion. Go to the Insert tab and select the Object drop-down command, then click Object to open the Object dialog box. On the second tab, Create from File, browse to the PDF file’s folder location and select the file. Then select the Link to File checkbox and choose OK. Now the item’s first page has been inserted as an object in the Word document. This is a link to the PDF file, so if you double-click it, the PDF file will open. To make this first page smaller, hover over one of the corners and, as the mouse pointer changes from a symbol to arrows, use the mouse to reduce the size of the page.</para>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00035">Microsoft continues to improve the features of their programs to facilitate real-time collaboration. This is an increasingly important capability as more people are working remotely at least part of the time. Additionally, collaborative features can foster team building and enhanced productivity in an organization, whether the members are physically in the same location or not. In the future, more businesses may use Microsoft’s technology to move to a fully or primarily remote business model. Watch this <link url="https://openstax.org/r/78MicroAdvFeat">Microsoft video about some of the advanced features of the Microsoft suite</link> to learn more.</para>
+    </note>
+    </section>
+    <section class="section-summary" id="sect-00009">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Collaborative workspaces allow users from various physical locations to work together efficiently.</item>
+    <item>Office is designed to allow easy integration between applications.</item>
+    <item>We discuss two types of integration—embedding and linking. Embedded information becomes a part of the other file and is not updated if the source file is updated. Linked information is kept separate; a connection between the two files is made, but it does not become part of the other file.</item>
+    <item>Certain PDF files can be opened by Word by using the default conversion tool. Because the programs generally have the same layout, there are common paths to take information from one program into another program.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00010">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00036"><link class="os-embed" url="#exercise/15-01-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00037"><link class="os-embed" url="#exercise/15-01-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00038"><link class="os-embed" url="#exercise/15-01-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00039"><link class="os-embed" url="#exercise/15-01-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00011">
+    <title>Written Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00040"><link class="os-embed" url="#exercise/15-01-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00041"><link class="os-embed" url="#exercise/15-01-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00012">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00042"><link class="os-embed" url="#exercise/15-01-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>collaborative workspace</term>
+    <meaning>a virtual environment designed to enable programs and users of those programs to work together</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>integration</term>
+    <meaning>occurs when software programs that serve different purposes are able to work together to support the transfer of information from one program to another program</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>source file</term>
+    <meaning>the file that contains the information that you want to put into another program</meaning>
+    </definition>
+    </glossary>
 </document>
