@@ -79,7 +79,7 @@
     </section>
     <section id="sect-00006">
     <title>Embedding Objects</title>
-    <para id="para-00025">You can also use the same Object function, located in the Insert tab, to embed a file. Let’s return to the Insert Object dialog window, as shown in <link target-id="fig-00002"/>. Let’s choose “Microsoft Excel Chart” from the Object type list. This will insert two Excel worksheets into our destination file: one worksheet containing the chart and the other containing the data used to build that chart. (We learn more about inserting Excel charts into Word documents in <link document="m00098" target-id="">Inserting Microsoft Excel Charts into Microsoft Word Documents</link>.) You would then add the data for the chart as you would if you were working in Excel (<link target-id="fig-00005"/>).</para>
+    <para id="para-00025">You can also use the same Object function, located in the Insert tab, to embed a file. Let’s return to the Insert Object dialog window, as shown in <link target-id="fig-00002"/>. Let’s choose “Microsoft Excel Chart” from the Object type list. This will insert two Excel worksheets into our destination file: one worksheet containing the chart and the other containing the data used to build that chart. (We learn more about inserting Excel charts into Word documents in <link document="m00098" target-id="sect-00004">Inserting Microsoft Excel Charts into Microsoft Word Documents</link>.) You would then add the data for the chart as you would if you were working in Excel (<link target-id="fig-00005"/>).</para>
     <figure id="fig-00005">
     <media alt="Bar chart visible in document. Tab along bottom is labeled Chart1. Sheet1 tab is also visible.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_01_InsChart.jpg"/>
