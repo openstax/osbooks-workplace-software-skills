@@ -6,5 +6,260 @@
     <md:uuid>dbbb6f8b-820a-4726-9cdb-9364f5162dea</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Integrate Word documents into Excel worksheets.</item>
+    <item>Link Excel worksheets to Word documents.</item>
+    <item>Insert Excel charts into Word documents.</item>
+    <item>Embed Access data into Word documents.</item>
+    </list>
+    </section>
+    <para id="para-00002">One key advantage of a suite like Microsoft 365 (Office) is that it enables you to insert information from other file types into its applications. For example, suppose you want to connect a file with a more narrative structure to explain your analysis in an Excel worksheet. You can use file integration to include notes that detail the specific calculations or data sources in Excel. Conversely, in a company-wide report, it may be helpful to include chart visuals to illustrate how sales have changed over the last quarter. These are just a few examples of the value of integrating Word and Excel when conveying information to a broad audience.</para>
+    <section id="sect-00002">
+    <title>Integrating Microsoft Word Documents into Microsoft Excel Worksheets</title>
+    <para id="para-00003">The previous section provided a general overview of <term class="no-emphasis" id="term-00001">linking</term> and <term class="no-emphasis" id="term-00002">embedding</term> in Microsoft. Now we look specifically at the process for linking and embedding Word files into Excel worksheets. Keep in mind that Excel is a spreadsheet program. It is not designed to handle large amounts of text. It is a good idea to spend a little time thinking through the best approach before you try to integrate a lengthy Word document into an Excel workbook.</para>
+    <para id="para-00004">Here is an example scenario: You have just finished summarizing information from three of WorldCorp’s top sales agents for the past month. You have created a Monthly Report memo in Word and an Excel worksheet that includes a <term class="no-emphasis" id="term-00003">PivotTable</term>. Because the memo is rather short, you decide to incorporate it into your Excel worksheet rather than sharing two separate files with your team. This makes the most sense because you want others to be able to manipulate the PivotTable and analyze the information to best meet their needs. <link target-id="fig-00001"/> shows the Excel file with the PivotTable and chart of the summarized data and <link target-id="fig-00002"/> shows the memo created in Word.</para>
+    <figure id="fig-00001">
+    <media alt="Bar chart displayed in file reflects the information visible in the table at the left. Agents are on x-axis and Sum of FOB$ is on y-axis.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_WrdtoExlA.jpg"/>
+    </media>
+    <caption>The summarized data is contained in an Excel file. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00002">
+    <media alt="A Word file is visible with colored header, large bold subheading, and bulleted points in regular font.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_WrdtoExlB.jpg"/>
+    </media>
+    <caption>The summary memo is in a Word file that can be incorporated into the Excel file by using the Insert Object function. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00005">Using the Insert Object function in Excel, you can integrate the Word document into the file. First, place your cursor where you would like to have the memo information placed in the Excel document. In this example, let’s choose cell A10. The object will be inserted into the selected cell. Note that you will be able to move and resize the object once you have placed it on the worksheet, but it is easier to manipulate the object if you insert it in the general location where you would like it to be. Also note that resizing an object can compromise its readability—another reason to be cautious about placing large amounts of text in Excel.</para>
+    <para id="para-00006">As covered in <link document="m00097">Microsoft Office: Collaboration and Integration</link>, go to the Insert tab and the Text command group, and choose Object (<link target-id="fig-00003"/>). From there, you have two options: Create New or Create from File. Select Create from File (see <link target-id="fig-00004"/>).</para>
+    <figure id="fig-00003">
+    <media alt="Text button selected from Insert tab in Excel. Opens to options for: Text Box, Header &amp; Footer, WordArt, Signature Line, and Object. Object is indicated.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_InsObjA.jpg"/>
+    </media>
+    <caption>Excel considers inserting a file into an existing workbook as inserting an Object. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00004">
+    <media alt="Create from File tab selected in Object window. Browse button selected for blank File name bar. Link to File and Display as icon buttons available for selection.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_InsObjB.jpg"/>
+    </media>
+    <caption>Remember to choose Create from File when you have the information already saved in another file. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00007">The Word file was previously created and saved as Monthly Report. Choose this file and click OK. If the file you are trying to insert is open, you will get an error message indicating that the file is in use. (Only one person can be working in a shared file at the same time. Once the person is finished and has closed the file, it will become available for others to edit.) In that case, simply close the file and insert the object again. Notice that the Link to File and Display as icon options are available here as well. The information from the Word document is now in the Excel file (<link target-id="fig-00005"/>). Because we did not choose Link to File, the Word memo is embedded in the Excel worksheet and has become part of the Excel file. This means that if you make any changes in the Word document (the source file), they will not be reflected in the Excel file. Notice in the formula bar you see “=EMBED(“Document”,”). Excel automatically adds this to indicate that an object has been embedded (or more specifically is now a part of) into the Excel file. In this case, we embedded a Word document, so you see the word “Document” in the formula. This will be inserted when you choose to embed an object or file. You should not edit or change this formula.</para>
+    <figure id="fig-00005">
+    <media alt="In Excel document, a text memo inserted into cell A10 displays larger than the cell. A table of information and bar chart are visible above the memo. =EMBED(“Document”,””) visible in Formula Bar.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_WrdtoExl2a.jpg"/>
+    </media>
+    <caption>The memo was inserted into cell A10. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00008">Note that although we selected cell A10 as the cell to insert the memo into, the memo takes up much more space than this. The cell we select is simply where the top left corner of the object will be, but the object itself may cover many other cells. This is why resizing is important (<link target-id="fig-00006"/>).</para>
+    <figure id="fig-00006">
+    <media alt="In an Excel document, a text memo is inserted into cell A10. The memo is resized so that the table of information and bar chart are visible above/next to the memo.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_WrdtoExl2b.jpg"/>
+    </media>
+    <caption>Resizing the object enables you to fit it into the space next to the chart, but this also makes the text a bit harder to read. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00009">As an alternative to placing the actual text into the worksheet, you can choose to insert the information as an icon. Adding the icon to the spreadsheet creates a link rather than embedding the text into the Excel file. The user simply double-clicks on the icon to access the Word file. By choosing Display as icon, you can avoid some of the drawbacks of inserting blocks of text into a worksheet and have a direct link to the source file. To do this, select the Display as icon option. Remember that you can change the look of the icon that will be inserted by choosing Change Icon (<link target-id="fig-00007"/>).</para>
+    <para id="para-00010">When the icon is placed in the worksheet, it will contain the file name, “monthly report.docx” in this case. However, because the file name has a space in it, the program will insert the Unicode for a space, which is “%20”. (Note: <term class="no-emphasis" id="term-00004">Unicode</term> was discussed in <link document="m00042">Document Preparation</link>.) Notice that the icon displays the file name with the “%20” where the space was located. This is a quirk of the program that cannot be avoided.</para>
+    <figure id="fig-00007">
+    <media alt="(a) Display as icon button selected in Object window. (b) A small icon of a Word document is inserted into a cell in a spreadsheet.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_Icon.jpg"/>
+    </media>
+    <caption>(a) Make sure there is a check in the Display as icon box if you want to insert an icon rather than the actual text in the Word file. (b) The icon appears much smaller than the embedded memo content. The Word icon makes it clear that the file is a Word document. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00011">Finally, you can choose to link the Word document and the Excel spreadsheet using the Link to File option. This provides a dynamic link to the file so that any changes made in the Word file will also be reflected in the Excel file. To insert a link to the file, tick the checkbox, Link to File, and click OK. The result will look similar to <link target-id="fig-00005"/>. Generally speaking, providing a link is the preferred option unless you are certain that the source file is not going to change. However, remember that if the file path (where the source file is saved on your computer or in your cloud drive) changes, you will need to insert the link again into your Excel worksheet.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Integrating Microsoft Excel Worksheets into Microsoft Word Documents</title>
+    <para id="para-00012">Now we look at integrating an Excel file into Word. This is quite common in organizations when preparing summary reports that include data. Excel is used to summarize, analyze, and prepare visuals such as charts of the data. Word is then used to provide some textual context and additional information. We follow steps similar to those that have previously been discussed for integrating Excel worksheets into Word documents.</para>
+    <para id="para-00013">Let’s go back to the WorldCorp Monthly Report example. The management team would like to include information from the sales department in their monthly report. The monthly report is created in Word and ideally would include some text, the data tables, and any charts or graphs that help summarize the data. The report is distributed to all members of the management team to keep them updated on the company’s progress toward year-end goals. You want to include the data from the Excel worksheet in the document.</para>
+    <para id="para-00014">We start by <term class="no-emphasis" id="term-00005">embedding</term> the summary table from the March sales data in the Excel file into the monthly report file created in Word. First, open the Word document and determine where you would like to display the Excel information. The information will be embedded at the cursor location in the Word file. Go to the Insert tab, then the Text command group, then Object. Follow the same procedure we used previously. The Excel data will insert as a clean table into your Word document (<link target-id="fig-00008"/>). If your Excel file has multiple worksheets, you will have to double-click on the table to see those other worksheets. You can also use this double-click functionality to access the Excel data and edit it directly in Word (<link target-id="fig-00009"/>). Remember, the Excel file must not be open when using the Insert Object tool. Also remember that you are embedding this into the Word document. If any information in the source file (the Excel file) changes, it will not be updated in the Word file.</para>
+    <figure id="fig-00008">
+    <media alt="An Excel table is displayed at the bottom of a Word document.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_ExltoWrda.jpg"/>
+    </media>
+    <caption>The table from the current worksheet in the Excel file will be embedded into the Word document. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00009">
+    <media alt="An Excel table embedded in a Word document is selected, opening up the table so that it can be altered. Tabs from the file are visible along the bottom.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_ExltoWrdb.jpg"/>
+    </media>
+    <caption>Double-clicking on the table will give you Excel functionality to make changes to the table. You can also see the other tabs when you do this. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00015">At this point, the report is still a draft, so you anticipate changes to the data. You want to be sure that the report reflects accurate information when it is distributed, so you would like to replace the embedded information with a link. Linking to the Excel file means that information that is changed in the source Excel file will also be updated in the Word file. Choose the Link to File option to create the connection between the two files of different types. Visually, the result will look the same in the Word document, but any changes that are made to the source will be automatically reflected in the table in the Word document. Double-clicking on the table will open a new Excel window of the source file. Finally, you again have the option to include an icon instead of the actual table.</para>
+    <para id="para-00016">Another available method for inserting Excel content into a Word document is to use the Insert tab to place an Excel workbook into a Word file, allowing you to work in that interface as you normally would in Excel. To do this, go to the Insert tab, then select the Table drop-down menu and choose Excel Spreadsheet, as shown in <link target-id="fig-00010"/>a. A blank Excel object will appear in Word, as shown in <link target-id="fig-00010"/>b. (Note that this option is not available to Mac users.) You can then paste the copied table onto this blank document or add new data and create the table. This table will not be linked. This method gives you the same functionality for sizing columns, sorting, and inserting formulas as you would have in Excel. The Excel worksheet is simply placed inside the Word file. Keep in mind that when you choose this option, the Excel file you create inside the Word document does not stand alone but becomes part of the Word file. Therefore, to make changes to the Excel spreadsheet, you need to access the Word file. As a result, this option is not very practical if you need to create a large dataset. You might need to make changes to the Excel file, and working in Excel as an object in a Word file can be cumbersome. However, it can be useful as a quick and easy way of providing others with access to Excel data without sending multiple files.</para>
+    <figure id="fig-00010">
+    <media alt="(a) Table button from Insert tab is selected. Excel Spreadsheet selected. Other options: Insert Table, Draw Table, Quick Tables. (b) A blank Excel table is inserted into a Word file.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_EXCELIM05.jpg"/>
+    </media>
+    <caption>(a) You can insert an Excel spreadsheet as an object in a Word file. This option is under the Insert Table drop-down, rather than the Insert Object drop-down menu. (b) You will now have an Excel window within the Word document that you can use to add data, make charts, and calculate formulas. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00017">Finally, you can always copy and paste Excel information into the Word file. To do this, go to the Paste drop-down menu, accessible from the Home tab. This drop-down menu gives you six options, as seen in <link target-id="fig-00011"/>.</para>
+    <figure id="fig-00011" class="scaled-down">
+    <media alt="Options available in Word Paste: Keep Source Formatting, Use Destination Styles, Link &amp; Keep Source Formatting, Link &amp; Use Destination Styles, Picture, Text Only, Paste Special, and Set Default Paste.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_PASTE.jpg"/>
+    </media>
+    <caption>When copying an Excel table to be inserted into a Word document, you have several options for pasting the table into the document. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00018">You begin by selecting a table in the worksheet in Excel and copying it with Ctrl+C or by using the Copy tool from the Home tab. Then head to Word to paste the table into the document file. The table shown lists the different options for pasting the Excel information into the Word file <link target-id="fig-00012"/>.</para>
+    <figure id="fig-00012">
+    <media alt="Chart displays Paste icons, the callout text, and explanations for: Keep Source Formatting, Use Destination Styles, Link &amp; Keep Source Formatting, Link &amp; Use Destination Styles, Picture, Text Only.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_EXCELIM01.jpg"/>
+    </media>
+    <caption>There are six copy-and-paste methods you can use when importing from Excel. Each one will result in a different appearance on the page. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00019">Let’s look at an example of each copy-and-paste option. <link target-id="fig-00013"/> shows an example Excel table, as it appears in Excel. Notice the differences between the copy-and-paste options; you may have to adjust the Excel table to get it to look the way it is supposed to.</para>
+    <figure id="fig-00013">
+    <media alt="An Excel table is visible with row 1 in blue back fill and bold, centered text. Five rows of data follow.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_EXCELIM02a.jpg"/>
+    </media>
+    <caption>Notice the formatting of the original Excel table. The cells are a certain width, and the text is aligned in a certain way in each cell. You will see some differences once you copy and paste this data into Word. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00020">For example, using the Keep Source Formatting option (<link target-id="fig-00014"/>) keeps the font and cell background colors, but you will need to adjust some of the column widths to display the dollar values correctly. Note that the option Link &amp; Keep Source Formatting will appear the same, except that the data will be a link, not an embedded object.</para>
+    <figure id="fig-00014" class="scaled-down">
+    <media alt="An Excel table copied into Word displays with columns smaller, text bunched together, and information outside of table parameters.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_EXCELIM02b.jpg"/>
+    </media>
+    <caption>Notice that the “Price” and “Marginal Profit” columns are not wide enough to fit the whole amount on one line, which makes it hard to read. You will need to manually adjust the column widths. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00021">In <link target-id="fig-00015"/>, you can see the result of the Use Destination Styles option. In this case, our “<term class="no-emphasis" id="term-00006">destination style</term>” is the style of the Word document we are pasting into, which of course does not contain any cell background colors or special formatting. As a result, you will lose some of the formatting, such as the blue fill color. Note that the option Link &amp; Use Destination Styles will appear the same except that the data will be a link, not an embedded object.</para>
+    <figure id="fig-00015" class="scaled-down">
+    <media alt="A table copied into Word with Use Destination Styles is visible. No colors or formatting is visible.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_EXCELIM02c.jpg"/>
+    </media>
+    <caption>The Use Destination Styles option can be useful if you want the Excel data to match the rest of the Word document, instead of maintaining its original formatting. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00022">The option to copy and paste the Excel data as a Picture will result in the cleanest appearance (see <link target-id="fig-00016"/>). The inserted picture will appear exactly how the original Excel table appears; note that there are no issues with the column widths or the cell background color. However, the picture is static and cannot be edited.</para>
+    <figure id="fig-00016" class="scaled-down">
+    <media alt="A snapshot of an Excel table copied into Word displays all information and colors as intended.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_EXCELIM02f.jpg"/>
+    </media>
+    <caption>The option to copy and paste the Excel data as a picture results in a snapshot of the Excel table that can be resized and modified like an image. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00023">Last, there is the Text Only copy-and-paste option. This option is exactly as it sounds: it pastes only the text of the Excel table and does not include any formatting, cell borders, or background colors. The issue with this is that much information in Excel is represented in cell format, so once the cell borders are gone, it becomes difficult to parse the information. You can see in <link target-id="fig-00017"/> how difficult this is to read. This option is useful only when you need to strip out all formatting and manipulate the text on its own.</para>
+    <figure id="fig-00017" class="scaled-down">
+    <media alt="A table is copied into Word with Text Only function. Table lines are not visible and columns are not aligned properly.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_EXCELIM02g.jpg"/>
+    </media>
+    <caption>The Text Only option typically results in unreadable text, as the columns are no longer aligned, and it is not clear how the information should be parsed. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00024">You also have the option to use the <term class="no-emphasis" id="term-00007">Paste Special</term> tool and choose the <term class="no-emphasis" id="term-00008">Object Linking and Embedding (OLE)</term> option. Paste Special gives you some options in addition to the shortcuts shown as icons on the drop-down menu. (Several of the options we already discussed are included in the list as well.) Go to the same Paste drop-down command (in <link target-id="fig-00011"/>), but this time choose Paste Special. This will open a new dialog box that will give you additional choices, as seen in <link target-id="fig-00018"/>. Select the first option, Microsoft Excel Worksheet Object. If you have Paste selected (on the left side of the dialog box), the OLE Excel object will not be linked to the original, meaning that it will be static; it will not update if the original file changes. If you have Paste link selected, the object will look the same, but it will be updated if the original file changes. Both options will result in a similar image; however, the Paste link option will simply result in a linked file. You can see the result in <link target-id="fig-00019"/>.</para>
+    <figure id="fig-00018" class="scaled-down">
+    <media alt="Paste Special window displays selected options for Paste link As: Microsoft Excel Worksheet Object. Options available: Paste, Display as icon. Result pane reads: Inserts the contents of the Clipboard as a picture.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_EXCELIM03a.jpg"/>
+    </media>
+    <caption>The Paste Special tool has additional options beyond the shortcuts in the Paste menu. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00019">
+    <media alt="An Excel table is embedded into a Word file.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_EXCELIM03b.jpg"/>
+    </media>
+    <caption>You can embed or link an Excel table to your Word document using the Paste Special tool, just like you can with the Insert Object tool. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Inserting Microsoft Excel Charts into Microsoft Word Documents</title>
+    <para id="para-00025">To integrate charts into Word documents, you simply follow the same procedure as outlined previously for inserting objects. Here, we are looking at ways to directly integrate the two file types rather than simply copying and pasting the information from one to the other. The concepts in this chapter are particularly useful when collaborating with others on workbooks or documents. Multiple users can make changes to either file, or those with access to files will see those changes in real time.</para>
+    <para id="para-00026">There are a few options when integrating Excel charts into Word documents, all of which use the same methods for inserting that you already learned in this section. You can include the chart as a picture, or you can choose to embed or link the chart into the Word document. Finally, if you also want to include the Excel data along with the chart, you can use the Insert Object tool. However, if you just want to include the chart and not the spreadsheet data, <term class="no-emphasis" id="term-00009">linking</term> or embedding will be the best option.</para>
+    <para id="para-00027">Think about the differences between linking and embedding when you determine which option is appropriate. Let’s look at the same example of the sales data broken down by agent (refer to <link target-id="fig-00001"/>). What do we do if we only want to include the chart in a Word document, and not the PivotTable?</para>
+    <para id="para-00028">First, we copy the chart. Then we open our Word document—the Monthly Report—and determine where we would like to include the chart in the file. In this example, let’s include the chart below the table of data we integrated in the previous section. Be sure to have the cursor at the location where you want the chart to be placed. Use the Paste Special function on the Home tab to either link or embed the chart into the Word file, selecting “<term class="no-emphasis" id="term-00010">Microsoft Excel Chart Object</term>,” similar to what we did in <link target-id="fig-00018"/>. See <link target-id="fig-00020"/> to see the different options that appear in this dialog box when you have a chart as your source file.</para>
+    <figure id="fig-00020">
+    <media alt="Paste Special displays Paste As with Microsoft Excel Chart Object selected. Result reads: Inserts the contents of Clipboard into your document so that you can edit it using Microsoft Excel 12.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_PstSpc.jpg"/>
+    </media>
+    <caption>You have the option to Display as icon rather than including the actual chart. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00029">To embed the chart, choose Microsoft Excel Chart Object and click OK. If you would prefer to link the chart, choose Microsoft Excel Chart Object and check the option Paste link. This will establish the link rather than embedding the chart. The final chart should appear as it does in Excel and may need to be resized to fit on your Word page (<link target-id="fig-00021"/>).</para>
+    <figure id="fig-00021">
+    <media alt="Side to Side option in Page Movement (View tab) selected. Chart inserted into document. Outline of chart visible for editing.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_PstSpc2.jpg"/>
+    </media>
+    <caption>You will likely need to resize the chart when embedding it into the Word document. You can do this by simply grabbing one of the corners of the chart and dragging it to where you would like it to be, as you would with an image. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00030">If you linked the chart to your Word document, the chart should automatically update when you alter the source data in the original Excel file. Let’s walk through an example of changing information in the Excel file to see how this affects the chart. We will change Izabelle’s Sum of FOB$ from the current value of $46,847 to a new value of $26,847 (<link target-id="fig-00022"/>).</para>
+    <figure id="fig-00022">
+    <media alt="PivotTable displays cell B5 ($26,847.00) selected. Active Field in command group displays Sum of FOB$. Bar chart at right reflects information from the table (Izabelle’s total is lower than other two Agents).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_Update.jpg"/>
+    </media>
+    <caption>This is the PivotTable and chart as they appear in the Excel source file. Notice the chart reflects the decrease in Izabelle’s FOB$. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00031">When you open the Monthly Report Word file again, these values will be automatically updated in the chart. You will be presented with a window asking if you would like to update the linked information. Choose Yes to update the linked Excel chart. As an alternative, if you are already working in the Word file, you can right-click on the chart and choose Update Link to automatically update the chart with the new Excel chart, as <link target-id="fig-00023"/> shows.</para>
+    <figure id="fig-00023">
+    <media alt="Open pane displays options for: Cut, Copy, Paste Options, Update Link (selected), Linked Worksheet Object, Insert Caption, Borders and Shading, Picture, Link, and New Comment.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_Linked.jpg"/>
+    </media>
+    <caption>If you already have the Word file open, you can update the link by right-clicking on the chart and choosing Update Link. Notice that the chart is now updated to reflect the decrease in Izabelle’s FOB$. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Embed Microsoft Access Data into Microsoft Word Documents</title>
+    <para id="para-00032">The process for importing data from Access is similar to what we just did with Excel. You can use the classic copy and paste, or you can choose Paste Special options. You can also add exported data from Access to Word. Because Access files can be very lengthy databases, it may not always make sense to integrate them with Word files. In some cases, however, you may want to integrate these files. For example, you may want to integrate an Access database into a Word document to make it easier to print customer lists or product sales in a full document. You also may want to use portions of a database to create mailing labels or product summary cards for sales personnel.</para>
+    </section>
+    <section class="section-summary" id="sect-00006">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Integrating Word into Excel has some drawbacks as Excel is meant more for data rather than text.</item>
+    <item>However, methods for importing Excel content into Word files include many copy-and-paste options, as well as the ability to insert a linked object.</item>
+    <item>The process for linking or embedding Excel charts into a Word file is similar to linking or embedding tables of data. You can choose to display the information as an icon in the Word document rather than showing an image of the linked or embedded information.</item>
+    <item>You can import Access tables into Word, but this is typically not advised, as Access databases can be quite lengthy.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00007">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00033"><link class="os-embed" url="#exercise/15-02-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00034"><link class="os-embed" url="#exercise/15-02-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00035"><link class="os-embed" url="#exercise/15-02-BCA-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00036"><link class="os-embed" url="#exercise/15-02-BCA-RQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00008">
+    <title>Written Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00037"><link class="os-embed" url="#exercise/15-02-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00038"><link class="os-embed" url="#exercise/15-02-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00039"><link class="os-embed" url="#exercise/15-02-BCA-WQ03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00009">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00040"><link class="os-embed" url="#exercise/15-02-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00041"><link class="os-embed" url="#exercise/15-02-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    
 </document>

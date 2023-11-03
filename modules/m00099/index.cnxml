@@ -6,5 +6,108 @@
     <md:uuid>430b133f-3a03-4d69-ac74-aeaf7b9818c6</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Add Word documents to PowerPoint slides.</item>
+    <item>Integrate PowerPoint slides into Word documents.</item>
+    </list>
+    </section>
+    <para id="para-00002">At this point, you probably have noticed the similarities in integrating Microsoft 365 applications together. This is a key feature of the Microsoft suite that makes it especially well-suited for both collaborative workspaces and a traditional workplace in an office building. The ease of integrating Word and Excel, Excel and PowerPoint, and PowerPoint and Word facilitate communication and teamwork at all levels in an organization. Large corporations to small entrepreneurial ventures can find value in utilizing an integrative suite such as Microsoft.</para>
+    <para id="para-00003">In this section, we focus on Word and PowerPoint. This integration can be particularly useful when preparing materials for a presentation or meeting, for which there may be a need to have information at the ready. This information may take the form of a handout or memo, created in Word, while also having a slideshow presentation as a supplement to the meeting discussions. There are times when it can be useful to show the slideshow material on the handout or add a link to a Word document to a PowerPoint. Let’s explore some different options for integrating these two programs.</para>
+    <section id="sect-00002">
+    <title>Add Microsoft Word Documents to Microsoft PowerPoint Slides</title>
+    <para id="para-00004">Many of the techniques you have learned in this and previous chapters on Word and PowerPoint can be applied when integrating Word and PowerPoint. When integrating the two applications, just as with other integrations, consider first whether linking or embedding is the best option. Use embedding if you can be assured the source document will not change and that you will not need access to the source files. Choose linking if you expect updates and want to be able to access the source document if needed.</para>
+    <para id="para-00005">Let’s revisit the example of sales data and the Monthly Report for March. Not only do you have the data in an Excel workbook, but you have also created a memo to be distributed to key managers within WorldCorp. You have now been asked to prepare a presentation of the material to be presented in the monthly sales meeting. You need the information in the monthly report to include in the presentation. Rather than retyping the information into PowerPoint, it is easier to either embed or link the Word document you already created.</para>
+    <para id="para-00006">To begin, create a new presentation for the monthly sales meeting. You could work from a template or open a previous presentation rather than starting from scratch. (These topics were covered in the PowerPoint chapters.) Determine where in the presentation (i.e., on which slide) you want the information from the Word document to be placed. As with other applications, the information from the source file will be placed at the cursor location. Navigate to the Insert tab, then to the Text command group, then to Object. The function window is similar to that of other Microsoft programs, except that instead of having different tabs for Create New and Create from File, there are option buttons to choose between, on the left side (<link target-id="fig-00001"/>). Since we already created the monthly report memo in Word, choose Create from File. You still have the options to link and display as an icon.</para>
+    <figure id="fig-00001">
+    <media alt="Create from file selected in Insert Object window. Result pane reads: Inserts contents of file as an object into presentation so that you can activate it using the application that created it.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_03_InsObj.jpg"/>
+    </media>
+    <caption>The handy Result section at the bottom of the window explains what will happen when you select each option. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00007">Using the Browse button, find the Word file for the monthly report. If you wish to create a linkage between the Word and PowerPoint files, be sure to check the Link box. When the Word document is linked, a picture of the information will be inserted into the slide. Double-clicking on the picture will open Word, where you can edit the document if needed. If you don’t choose the Link box, the information from the Word document will be embedded into the slide rather than linked. (Be sure that the monthly report document is not open; if the file is open, an error message will appear.) When you are done, click OK. The information from the report will now be on the slide, as <link target-id="fig-00002"/> shows. If you need to make changes to the text, double-click on the object. This will essentially open a Word environment on the slide itself where you can make the needed changes.</para>
+    <figure id="fig-00002">
+    <media alt="Insert tab selected. Slides visible in left sidebar. Selected slide displays text information.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_03_WrdtoPpt.jpg"/>
+    </media>
+    <caption>The information is embedded or linked into the slide where the cursor was located. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Integrate Microsoft PowerPoint Slides into Microsoft Word Documents</title>
+    <para id="para-00008">Suppose you decide that you would like to provide access to the PowerPoint slides for those who cannot attend the in-person monthly sales meeting. However, you do not want to send multiple files. Instead, you want to integrate the presentation into the Monthly Report you already prepared.</para>
+    <para id="para-00009">First, you need to decide whether you want to integrate the entire presentation or just a few slides into the Word file. If you want the user to see all the slides in the Word file without having to double-click on the inserted object, it is better to use the cut-and-paste skills you learned about in an earlier chapter. You would need to cut and paste each slide individually to see them all in the Word document. Through linking or embedding, you can give the user access to some or all of the slides in the presentation, although they will not appear on the screen as individual slides, as with copying and pasting. With linking and embedding, the user will see an image of only one slide and will then need to double-click on that image to access the other slides you have integrated. Determine if linking or embedding is appropriate for your needs based on whether you expect updates to the source file. Then determine if you want the entire presentation or only selected slides to be integrated. If you want to integrate the entire presentation, go to the Insert tab, then go to the Text command group, then select the Object function to embed or link the PowerPoint file to your Word document.</para>
+    <para id="para-00010">If you want to include only a few of the slides, you will need to use Paste Special after copying the slides you wish to use. To begin, select a slide in the presentation from the preview thumbnail in the PowerPoint file (<link target-id="fig-00003"/>). To select multiple slides, you will need to use Ctrl or Shift when you click on the additional slides. (As usual, if you are on a Mac, you would use the Command key instead of the Ctrl key to select a slide.) If the slides are not contiguous—that is, if you’d like to select slides 1, 3, and 5—use Ctrl to individually select each one. To select a group of slides that are contiguous (e.g., slides 2 through 4), simply click on the first slide, hold Shift, and click on the last slide in the grouping you wish to select. For this example, let’s include slide 2 and slide 4 only. We select slide 2 by clicking on the thumbnail, then hold Ctrl and click on slide 4 to select this slide as well.</para>
+    <figure id="fig-00003">
+    <media alt="(a) A border is reflected in sidebar for slides 2 and 4. (b) Home tab selected. Shortcut window displays Copy option selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_03_PpttoWrd.jpg"/>
+    </media>
+    <caption>(a) Notice the border around slides 2 and 4 indicating that those are the selected slides. (b) Choose Copy from the Home tab or by right-clicking anywhere on the thumbnails to bring up the shortcut window. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00011">To integrate the selected slides into Word, go to the Word document and place the cursor where you would like the object inserted. Then choose <term class="no-emphasis" id="term-00001">Paste Special</term> from the Paste drop-down menu (in the Clipboard command group) on the Home tab (<link target-id="fig-00004"/>). When prompted, choose Microsoft PowerPoint Presentation Object and click OK.</para>
+    <figure id="fig-00004">
+    <media alt="(a) Paste button on Home tab selected. Paste Special selected. (b) Paste Special window displays Paste As with Microsoft PowerPoint Presentation Object selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_03_PpttoWrd2.jpg"/>
+    </media>
+    <caption>(a) After you copy the selected slides, go to the Word file and choose Paste Special. This will open up the Paste Special dialog window that gives you a number of options on how you would like to insert the object. (b) You have the option to display the slides as an icon rather than an image of the slide. You can also choose from a number of different file formats. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00012">The slides will be embedded into the Word document (<link target-id="fig-00005"/>). You do not have the option to link the PowerPoint file in this case because you are not including the entire file, only a few selected slides. By double-clicking on the slide image, the user will see the other embedded slides in the Word document. The slides will open in a PowerPoint view screen so that you can scroll through to see the rest of the slides. (Note that sometimes embedded PowerPoint slides look blurry when placed in a Word document. This is normal; they do not always translate clearly.)</para>
+    <figure id="fig-00005">
+    <media alt="A slide is displayed at the bottom of a Word document.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_03_PpttoWrd3.jpg"/>
+    </media>
+    <caption>Only the first slide in the selection will be displayed in the Word document. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00013">You can also access the other embedded slides by right-clicking on the image of the slide. You will then choose Presentation Object and Show to see the other slides. This option shows the first embedded slide as full screen, then to move to the next slide, use the Page down key on the keyboard. Or, you can right-click and choose Next or See All Slides to look at all embedded slides. To get back to the Word document, hit ESC on your keyboard. You can also right-click and choose End Show to get back to the Word document. Other options available are Edit, Open, and Convert. With the Edit function, you can edit the slides in a PowerPoint environment within the Word file. Choosing Open will open the object in PowerPoint. Finally, Convert enables you to convert the object into another file type. You can also invite your readers to add comments to the PowerPoint by using the Add Comment tool in this menu (<link target-id="fig-00006"/>). This can be a great way to encourage collaboration and feedback on your PowerPoint file without having to send multiple files.</para>
+    <figure id="fig-00006">
+    <media alt="PowerPoint slide in Word is selected. Shortcut window open displays New Comment option indicated. Presentation Object selection opens to options for: Show, Edit, Open, and Convert.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_03_Show.jpg"/>
+    </media>
+    <caption>When you right-click on the integrated PowerPoint object, you can include a comment to the slideshow. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section class="section-summary" id="sect-00004">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>The quickest way to link to a Word file in PowerPoint is to use the Link tool on the Insert tab.</item>
+    <item>Linking a PowerPoint presentation to a summary report created in Word can enhance the overall message.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00005">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00014"><link class="os-embed" url="#exercise/15-03-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00015"><link class="os-embed" url="#exercise/15-03-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00006">
+    <title>Written Questions</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00016"><link class="os-embed" url="#exercise/15-03-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00017"><link class="os-embed" url="#exercise/15-03-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00007">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00018"><link class="os-embed" url="#exercise/15-03-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>

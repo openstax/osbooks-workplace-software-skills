@@ -6,5 +6,60 @@
     <md:uuid>04b99853-0078-485a-ab5f-7f482c1c651d</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Understand the role of AI in applications.</item>
+    <item>Describe generative AI.</item>
+    </list>
+    </section>
+    <para id="para-00002">Throughout the text, we looked at the basic and advanced capabilities of the Microsoft and Google applications. We also discussed other key programs that you may encounter in your career. But these programs are just the tip of the iceberg. These companies are constantly developing and improving their products. In addition, with new advances in technology emerging nearly on a daily basis, these applications will evolve. Specifically, advances in the use of <term class="no-emphasis" id="term-00001">artificial intelligence (AI)</term> have found their way into many aspects of our day-to-day lives. These technologies are evolving quickly, so it is worth keeping updated on them as you move through your career. You can go to Microsoft or Google’s website to investigate the current state of AI integration in their applications. Here we discuss just a few of the recent developments.</para>
+    <section id="sect-00002">
+    <title>Artificial Intelligence in Applications</title>
+    <para id="para-00003">A number of programs have AI embedded in their applications, a feature that is expected to increase as AI technology advances. AI has also been integrated into search engines such as Bing and Microsoft Edge. Both Microsoft and Google have introduced AI into their applications. Microsoft is incorporating AI into all of its Office applications, including Outlook. This product, called <term class="no-emphasis" id="term-00002">Copilot</term>, will provide enhanced abilities to summarize documents, add animations to slides in PowerPoint, and create stories in Word. As of this writing, Copilot is still in the developmental stage with a small group of test users. It is being marketed as a tool to improve employee efficiency by automating time-consuming tasks such as composing or reading long emails or summarizing datasets in Excel.</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00004">Some analysts and others who use Excel also need the capabilities provided by the <term class="no-emphasis" id="term-00003">Python</term> computer programming language. Microsoft recently announced the addition of Python to Excel, giving users the power of Python combined with Excel’s flexibility. With teams in mind, Microsoft designed <link url="https://openstax.org/r/78PythonExcel">Python in Excel</link> to work with no setup required; as of this writing, Microsoft has made it available to a select group of Microsoft users, with plans to expand to a larger group in the future.</para>
+    </note>
+    <para id="para-00005">In a comparable way, Google is testing incorporating AI into its Workspace applications. Google’s tool, called <term class="no-emphasis" id="term-00004">Bard</term>, is designed to do many of the same things as Microsoft’s Copilot. The program uses machine learning to generate emails, draft documents, and summarize data trends, among many other functions. Keep in mind that as AI continues to evolve, governments will seek to regulate its use and application.</para>
+    <para id="para-00006">For both Microsoft and Google, the goal is to use AI technology to enhance worker productivity. Adding automation to routine, time-consuming tasks can free up employees to focus on more pressing and impactful tasks that will contribute to their companies in a greater way. Although both Microsoft’s Copilot and Google’s Bard are not widely available to all users at present, we can expect to see more AI in these programs with time.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Generative AI</title>
+    <para id="para-00007"><term id="term-00005">Generative AI</term> is a type of computer programming and <term class="no-emphasis" id="term-00006">machine learning</term> technology that builds and generates content itself. The computer is “trained” using complex programming that searches the internet for relevant information. Then, based on the information found, the program can generate new content such as text or audio.</para>
+    <para id="para-00008">For example, using a <term class="no-emphasis" id="term-00007">generative AI</term> application, you can have a research essay constructed that will use existing information to write the essay for you based on specific parameters, such as its length and topic. As another example, parts of separate audio files can be combined into a new musical piece based on a certain genre of music.</para>
+    <para id="para-00009">Recently, an innovative technology has emerged that is one of the most sophisticated generative AI programs to date. This program, called <term class="no-emphasis" id="term-00008">ChatGPT</term>, is designed to mimic conversational language. It is programmed to respond to inquiries, ask clarifying questions, and even highlight its own mistakes. ChatGPT uses many sources, including textbooks and websites, to train the program to use a natural tone when responding, in contrast to the more rigid, less engaging, and often robotic responses typical of previous AI programs.</para>
+    <para id="para-00010">This program can be used to create original poems or music in a certain style. It can also be used to draft research papers or articles on specific topics. You will start seeing the application of ChatGPT in customer service applications. Even now, if you have a problem with an order you placed online, you can often access a chat feature on the website to get help on the issue. It is likely that ChatGPT will be used in this context, as it is more conversational, giving the impression that the user is conversing with a human, not a computer.</para>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00011">No doubt you have heard of ChatGPT outside of this text. Some of the coverage about this program can be overwhelming to digest. Visit the <link url="https://openstax.org/r/78OpenAI">OpenAI website</link> to learn more. Here you can create an account and enjoy a free trial of ChatGPT.</para>
+    </note>
+    </section>
+    <section class="section-summary" id="sect-00004">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Microsoft and Google have both incorporated AI into their applications. These application enhancements are intended to increase employee productivity on more value-added tasks.</item>
+    <item>ChatGPT is one type of generative AI that offers enhanced text generation that is more conversational in style than previous versions of computer-generated text.</item>
+    </list>
+    </section>
+    <section class="written-questions" id="sect-00005">
+    <title>Written Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00012"><link class="os-embed" url="#exercise/15-07-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00013"><link class="os-embed" url="#exercise/15-07-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>Generative AI</term>
+    <meaning>technology that uses computer programming and machine learning to create content</meaning>
+    </definition>
+    </glossary>
+    
 </document>

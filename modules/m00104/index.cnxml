@@ -6,5 +6,86 @@
     <md:uuid>4cbc411a-c013-46c0-9243-a9f70efa7dc2</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Create an annual report and presentation using either Microsoft or Google programs.</item>
+    <item>Present the annual report summary.</item>
+    </list>
+    </section>
+    <para id="para-00002">Throughout this text, you have seen the capabilities of various programs in Microsoft 365 (Office) and Google Workspace. Along the way, you have learned new skills and refined existing knowledge. You are well on your way to mastering the programs discussed in this book. Now, let’s put those skills to the test. In this final section, you are tasked with developing an annual report for a subsidiary of WorldCorp, Lewis Enterprises, as well as creating an accompanying presentation. While creating these files, you will need to make tables and charts in a spreadsheet program. This comprehensive project will give you more practice of the major concepts covered in the text. You can create the files in either Microsoft or Google. You could even challenge yourself and create the files using both sets of programs. It is a good idea for you to be familiar with both Microsoft and Google programs, as you are likely to encounter both of them during your career. Follow the general outline that follows to create the annual report and presentation. Refer to the text for help along the way, as needed.</para>
+    <section id="sect-00002">
+    <title>The Company</title>
+    <para id="para-00003">The company you are working with is called Lewis Enterprises (LE). LE is a U.S. regional company that was established fifteen years ago and has recently been bought by WorldCorp. LE specializes in computer software and hardware for small independent pharmacies. The company serves the Midwest region and has a strong customer base of independent pharmacies. They have had steady growth over the past several years. Each year, management in the company provides a summary of the company’s performance over the last three years and distributes it to all employees. This summary includes a document with accompanying discussion of the results as well as a presentation. The presentation is generally given during the company’s annual meeting that most employees attend. However, not all employees are able to attend the in-person meeting. The report and presentation must be done in a way that is accessible for employees who receive the information in other ways, including by video, electronically, and even as paper copies of the information.</para>
+    </section>
+    <section id="sect-00003">
+    <title>The Assignment</title>
+    <para id="para-00004">What you are being asked to prepare is an internal annual report prepared for employees of the company, rather than for distribution to the public. Generally, internal annual reports tend to be less formal than annual reports prepared for stockholders and the public. The general purpose of an internal annual report is to help managers and employees understand how well the organization performed over the previous year or set of years, including successes, failures, and areas that need improvement. Internal annual reports are also critical tools for providing information needed for decision-making and forecasting. Keep this purpose in mind, and ensure that the report is prepared in a way that meets this purpose.</para>
+    <para id="para-00005">To prepare the annual report, you are given a file of sales data for 2020–2023 with forecasts for 2024 as well. Following the tasks outlined in the following sections, prepare the files for the annual meeting. As you work through the tasks, review the capabilities of the programs and practice ways to enhance the files with some of the tools available. For example, how might you incorporate WordArt or embed a video into the files? There are many ways to create the materials for the annual report while conveying the key points and delivering a professional, high-quality product.</para>
+    <section id="sect-00004">
+    <title>Task 1: Preparing the Report</title>
+    <list list-type="enumerated" number-style="arabic" id="list-00002">
+    <item>Create a shared folder that includes the data file and share with at least one other person.</item>
+    <item>Either use a template or create from scratch a shell of the annual report document with the following elements/headings:
+    <list id="list-00003">
+    <item>Cover Page</item>
+    <item>Table of Contents</item>
+    <item>Introduction</item>
+    <item>Historical Performance</item>
+    <item>Year Overview</item>
+    <item>Data Analysis</item>
+    <item>Discussion of Results</item>
+    <item>Conclusions</item>
+    </list></item>
+    <item>Be sure to include page numbers in your file and format headings appropriately so that you can add a table of contents later.</item>
+    <item>Put the shell for the annual report in the shared folder.</item>
+    </list>
+    </section>
+    <section id="sect-00005">
+    <title>Task 2: Formatting Data Files and Tables for the Report</title>
+    <list list-type="enumerated" number-style="arabic" id="list-00004">
+    <item>Using the provided data file ([link]annual_report_data.csv[link]), summarize the sales data by year, by quarter, and by product.</item>
+    <item>Create charts, graphs, and tables that you feel are appropriate to visually convey the trends you notice.</item>
+    <item>Format the charts, graphs, and tables using a professional theme.</item>
+    </list>
+    </section>
+    <section id="sect-00006">
+    <title>Task 3: Integrating Files for the Report</title>
+    <list list-type="enumerated" number-style="arabic" id="list-00005">
+    <item>Integrate the charts, graphs, and tables you created into the appropriate section in the document file.</item>
+    <item>If necessary, format content for readability.</item>
+    <item>Include other data as appropriate to create the picture of trends in the data.</item>
+    <item>Be sure to add labels to your charts, graphs, and tables.</item>
+    </list>
+    </section>
+    <section id="sect-00007">
+    <title>Task 4: Preparing the Presentation</title>
+    <list list-type="enumerated" number-style="arabic" id="list-00006">
+    <item>Create the shell of the presentation using a template or from scratch using appropriate slide layouts and titles. Be sure to include a title slide.</item>
+    <item>Choose a professional theme for the presentation.</item>
+    <item>Select images or objects to enhance the slides.</item>
+    </list>
+    </section>
+    <section id="sect-00008">
+    <title>Task 5: Integrating Files for the Presentation</title>
+    <list list-type="enumerated" number-style="arabic" id="list-00007">
+    <item>Integrate the information from the document (report) and spreadsheet file into the presentation file.</item>
+    <item>If necessary, format content for readability.</item>
+    </list>
+    </section>
+    <section id="sect-00009">
+    <title>Task 6: Finalizing Files</title>
+    <list list-type="enumerated" number-style="arabic" id="list-00008">
+    <item>Thoroughly proofread all files and make edits.</item>
+    <item>Add and format the table of contents.</item>
+    <item>Include speaker’s notes to the presentation file.</item>
+    <item>Prepare a handout of the key points to be distributed at the annual meeting.</item>
+    <item>Link the data file to the document file and presentation file.</item>
+    <item>Add finalized files to the shared folder and grant editing privileges to at least one collaborator.</item>
+    <item>Share the files with your instructor with the appropriate editing privileges.</item>
+    </list>
+    </section>
+    </section>
+    </content>
 </document>
