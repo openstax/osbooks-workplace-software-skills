@@ -58,12 +58,18 @@
     </media>
     <caption>(a) When you select “Name Your Site,” you will be prompted on the next screen to enter a title and tagline. (b) On the next screen, you will update the design of the site, including color schemes.</caption>
     </figure>
-    <para id="para-00012">Before we design the layout, let’s choose a theme for the site. Choose Appearance and then Theme from the menu on the left of the screen in the dashboard, as seen in <link target-id="fig-00005"/>. A theme provides the framework for the site that you can then customize. It is a good place to start rather than creating the layout and elements from scratch. A new screen will appear listing the current theme and then options to search and choose a new theme.</para>
+    <para id="para-00012">Before we design the layout, let’s choose a theme for the site. Choose Appearance and then Theme from the menu on the left of the screen in the dashboard, as seen in <link target-id="fig-00005"/>. A theme provides the framework for the site that you can then customize. It is a good place to start rather than creating the layout and elements from scratch. A new screen will appear listing the current theme and then options to search and choose a new theme (<link target-id="fig-00014"/>).</para>
     <figure id="fig-00005">
-    <media alt="(a) Appearance is selected and opens to options: Themes (selected), Editor, Customize. (b) Themes page displays a Install theme and Edit buttons and search bar for selecting themes for site.">
-    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP5.jpg"/>
+    <media alt="Appearance is selected and opens to options: Themes (selected), Editor, Customize.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP5a.jpg"/>
     </media>
-    <caption>(a) You can change the appearance of the site by using a built-in theme or customizing your own theme. (b) WordPress has many theme templates available to use on your site.</caption>
+    <caption>(a) You can change the appearance of the site by using a built-in theme or customizing your own theme.</caption>
+    </figure>
+    <figure id="fig-00014">
+    <media alt="Themes page displays a Install theme and Edit buttons and search bar for selecting themes for site.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP5b.jpg"/>
+    </media>
+    <caption>WordPress has many theme templates available to use on your site.</caption>
     </figure>
     <para id="para-00013">For Happy Tails WC, we want to use an engaging theme. Let’s choose a theme that contains a good deal of color and one that puts pictures on the home page so that we can pique the interest of individuals who are interested in adopting the available pets. Themes are categorized by style, type of business, or use. For example, one set of themes may be ideal for users who want to build a website for a personal blog, and another set for a family website. Once you select a theme, you will notice that it comes with complete branding, including fonts, color schemes, page layouts, and other features. After choosing a theme that matches the feel or mood of your business, you can change the images, color scheme, and fonts, all while keeping the same layout.</para>
     <para id="para-00014">Choose the theme Snaps. This theme prominently displays pictures in a nice layout, while also being able to accommodate text that would describe each pet available for adoption (see <link target-id="fig-00006"/>).</para>
@@ -86,7 +92,7 @@
     <media alt="A blog page displays an Update button opening to tabs for Post (selected). Some options listed include: Summary, Visibility, Publish, URL, Post Format, Author, Move to trash, Categories, Tags, Featured Image, Excerpt.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP7a.jpg"/>
     </media>
-    <caption>You can construct your first post using the blog feature of the site. By choosing “+” in the upper left, you can add elements such as text or images to your website.</caption>
+    <caption>You can construct your first post using the blog feature of the site. By choosing “+” button below the text in the middle of the page, you can add elements such as text or images to your website.</caption>
     </figure>
     <figure id="fig-00009">
     <media alt="MyHome page displays pane for Blog with options for: Name your blog, Preview your blog, Browse themes, Publish your first post, Enable post sharing, Launch your blog (highlighted), Try the Jetpack app.">
@@ -127,7 +133,7 @@
     <para id="para-00025">If you are considering establishing your own WordPress site, it’s essential to have a reliable resource to guide you through the process, especially if you’re new to the platform. For beginners, we recommend checking out this <link url="https://openstax.org/r/78WPBeginner">comprehensive guide by WPBeginner</link> to learn more.</para>
     <para id="para-00026">This guide offers valuable insights, step-by-step instructions, and practical tips to help you navigate the world of WordPress effectively.</para>
     </note>
-    <para id="para-00027">Another factor to consider is how you will drive users to your website. This can be facilitated through SEO. Recall that SEO is the process of increasing the visibility of a website to users who are searching for products or services. The most common search engine is Google, with Bing as a very distant second. SEO works by including keywords on each web page that identify titles, descriptions, and images. Adding these keywords will help move your site closer to the top of the list when a user searches for a business similar to yours. Although many search engines use different methods of ranking, including charging for the top spots in the results lists, SEO is essential to get users to your website. We will learn more about SEO in <link document="m00067">Document Preparation</link>.</para>
+    <para id="para-00027">Another factor to consider is how you will drive users to your website. This can be facilitated through SEO. Recall that SEO is the process of increasing the visibility of a website to users who are searching for products or services. The most common search engine is Google, with Bing as a very distant second. SEO works by including keywords on each web page that identify titles, descriptions, and images. Adding these keywords will help move your site closer to the top of the list when a user searches for a business similar to yours. Although many search engines use different methods of ranking, including charging for the top spots in the results lists, SEO is essential to get users to your website. We will learn more about SEO in <link document="m00067">Search Engine Optimization</link>.</para>
     <note class="real-application" id="note-00002">
     <title>Content Accessibility</title>
     <para id="para-00028">Improving the accessibility of your website is crucial to providing a positive user experience for all visitors, regardless of their abilities or disabilities. By incorporating accessibility features, you can make your website more user-friendly and inclusive, ensuring that all visitors can engage with your content and have a positive user experience. Here are some features and considerations to enhance the accessibility of your website:</para>
@@ -143,7 +149,7 @@
     <para id="para-00029">To explore further examples and important considerations for building accessible online content, visit the <link url="https://openstax.org/r/78WAI">Web Accessibility Initiative (WAI) website</link> provided by W3.org. The website includes wealth of valuable information and practical examples.</para>
     </note>
     <para id="para-00030">The security of your site is also important, so customers will feel safe entering their personal information. A site that doesn’t look professional or that doesn’t have trusted security icons or safe payment method options can deter customers and reduce sales. Some of the safest payment methods include credit cards with chip technology and payment applications such as Google Pay, Apple Pay, Cash App, and Zelle.</para>
-    <para id="para-00031">Finally, you will need to use analytics that measure your website’s performance—how many visitors are coming to your site, how much time they are spending on each page, how many users are contributing to your site, and so on. These metrics are found in menu on the left side of the WordPress dashboard, which we will learn more about in <link document="m00067">Document Preparation</link>.</para>
+    <para id="para-00031">Finally, you will need to use analytics that measure your website’s performance—how many visitors are coming to your site, how much time they are spending on each page, how many users are contributing to your site, and so on. These metrics are found in menu on the left side of the WordPress dashboard, which we will learn more about in <link document="m00067">Search Engine Optimization</link>.</para>
     </section>
     <section class="section-summary" id="sect-00005">
     <title>Summary</title>
