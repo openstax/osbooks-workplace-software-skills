@@ -31,13 +31,19 @@
     <caption>You will need to create an account on WordPress to start building a website.</caption>
     </figure>
     <para id="para-00008">Now that you have created an account, let’s revisit the Happy Tails WC organization. First, we need to consider an appropriate name for the domain name (website address). The next step will prompt you to enter a domain name for the site. You will most likely pay to secure your domain name for the website. This usually ranges from $10 to $20 per year depending on which type of domain you choose. WordPress does provide some completely free options for domain names, but the name will have the wordpress.com extension at the end of your website name rather than just having your organization’s name.</para>
-    <para id="para-00009">Start by typing in happytailwc. Notice there are several suggestions when you type in the organization name. You can also create your own website name. Some options might be free for the first year, but you will pay after (i.e., choosing to go with the .com suffix). If you choose a name that uses the wordpress.com extension, it will be free (see <link target-id="fig-00002"/>a). This example shows the free version. On the next screen, choose “start with a free site” at the top of the page (see <link target-id="fig-00002"/>b).</para>
+    <para id="para-00009">Start by typing in happytailwc. Notice there are several suggestions when you type in the organization name. You can also create your own website name. Some options might be free for the first year, but you will pay after (i.e., choosing to go with the .com suffix). If you choose a name that uses the wordpress.com extension, it will be free (see <link target-id="fig-00002"/>). This example shows the free version. On the next screen, choose “start with a free site” at the top of the page (see <link target-id="fig-00013"/>).</para>
     <figure id="fig-00002">
-    <media alt="(a) A WordPress Choose a domain page displays happytailswc in the search bar. Options for site names with alternatives list beneath. (b) A WordPress page displays various monthly and annual purchase plans.">
-    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP2.jpg"/>
+    <media alt="A WordPress Choose a domain page displays happytailswc in the search bar. Options for site names with alternatives list beneath.    ">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP2a.jpg"/>
     </media>
-    <caption>(a) Choose a website name that is a good description of your business or organization. (b) You can create the website entirely for free, or choose from a myriad of options depending on your needs.</caption>
+    <caption>(a) Choose a website name that is a good description of your business or organization.</caption>
     </figure>
+    <figure id="fig-00013">
+      <media alt="A WordPress page displays various monthly and annual purchase plans.">
+      <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP2b.jpg"/>
+      </media>
+      <caption>You can create the website entirely for free, or choose from a myriad of options depending on your needs.</caption>
+      </figure>
     <para id="para-00010">The next two screens will prompt you to answer questions about the purpose and goals for the website. Then, you will be taken to the database of website designs. Notice that some designs are only available for premium members (i.e., you must pay a fee to use them) while others are free, as shown in <link target-id="fig-00003"/>. You also have the option to skip the design selection and create your website from scratch. Let’s select “Skip for now” (in the upper-right corner) to see more about what WordPress has to offer for building a site from scratch.</para>
     <figure id="fig-00003">
     <media alt="Pick a design page on WordPress displays thumbnails of options for website pages. All tabs is selected.">
@@ -45,7 +51,7 @@
     </media>
     <caption>If you are unsure of where to begin building your website, choosing a design can help you get started.</caption>
     </figure>
-    <para id="para-00011">Once your site is created, let’s explore the interface. The first screen you will see will display the overview of your website. This is called the <term id="term-00003">dashboard</term>. Here, you will be prompted to start building the pieces of the website. First, you should give the website a title and tagline, which could vary somewhat from the website address, but for this example, we will simply call it “Happy Tails WC.” Notice there is a menu of options on the left to help you change the appearance and add elements to the site (see <link target-id="fig-00004"/>). From this menu, you can also establish users for the website and their privileges to edit the site. Once you set the title, you will be prompted to update/edit the site’s design. WordPress will walk you through the steps along the way to build your website. Be sure to save your settings as you make changes. WordPress will remind you to save your settings as you move through the elements to build the site. Notice also that there are many links on the dashboard to assist you in developing the layout and content. These links can be very helpful as you are working on the design of the website.</para>
+    <para id="para-00011">Once your site is created, let’s explore the interface. The first screen you will see will display the overview of your website. This is called the <term id="term-00003">Wordpress dashboard</term>. Here, you will be prompted to start building the pieces of the website. First, you should give the website a title and tagline, which could vary somewhat from the website address, but for this example, we will simply call it “Happy Tails WC.” Notice there is a menu of options on the left to help you change the appearance and add elements to the site (see <link target-id="fig-00004"/>). From this menu, you can also establish users for the website and their privileges to edit the site. Once you set the title, you will be prompted to update/edit the site’s design. WordPress will walk you through the steps along the way to build your website. Be sure to save your settings as you make changes. WordPress will remind you to save your settings as you move through the elements to build the site. Notice also that there are many links on the dashboard to assist you in developing the layout and content. These links can be very helpful as you are working on the design of the website.</para>
     <figure id="fig-00004">
     <media alt="(a) WordPress options: My Home, Stats, Upgrades, Inbox, Posts, Media, Pages, Comments, Feedback, Jetpack, WooCommerce, Appearance, Plugins, Users, Tools, Settings (selected). (b) MyHome offers: Update your site’s design with Edit site button.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_03_WP4.jpg"/>
@@ -200,7 +206,7 @@
     <meaning>method of organizing posts on a website so that visitors can sort them easily</meaning>
     </definition>
     <definition id="def-00002">
-    <term>dashboard</term>
+    <term>Wordpress dashboard</term>
     <meaning>main screen that allows you to see the administration of a website</meaning>
     </definition>
     <definition id="def-00003">
