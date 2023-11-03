@@ -6,5 +6,266 @@
     <md:uuid>2b52dabf-2f09-48c5-9692-01ba2bba064f</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Integrate data from Google Sheets into a Google Doc.</item>
+    <item>Integrate information from Microsoft programs into a Google program.</item>
+    </list>
+    </section>
+    <para id="para-00002">You may wish to integrate data from a spreadsheet or other program into a Google Doc for the reasons we addressed earlier in this chapter. Linked data will update automatically, turning your Google Doc into a live document with the latest information. Or you might want to copy and paste data from other programs into Google Docs and match its style. You may also use Excel to make tables and graphs, and then import those into Google Sheets. Using these tools can improve the quality of the infographics in your document as well as help to convert your file into a more shareable, collaborative format.</para>
+    <section id="sect-00002">
+    <title>Integrating Data from Google Sheets into a Google Doc</title>
+    <para id="para-00003">There are two ways to import Google Sheets tables into Google Docs. The first option is copy and paste, similar to the process we used in Excel and Word. To do this, go to the table you want to copy in Sheets and select the cells that are contained in it, as seen in <link target-id="fig-00001"/>. Press Ctrl+C (Command+C on Mac) on the keyboard to copy it or use another copy method. Then go to the Docs file, place the cursor where you want the table to be pasted, and paste using Ctrl+V or another paste method. Immediately after pressing these keys, a Paste Table dialog box will appear, as seen in <link target-id="fig-00002"/>, asking you if you want to link the table or paste a static table.</para>
+    <figure id="fig-00001" class="scaled-down">
+    <media alt="Google Sheets table is visible.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_COPYPAS01a.jpg"/>
+    </media>
+    <caption>Select the cells from the Google Sheets file to be integrated into the Google Doc. (Google Sheets is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="Paste table window has Link to spreadsheet option selected. It reads: Only editors can update the table. Collaborators can see a link to the source spreadsheet. Paste unlinked is also available.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_COPYPAS01b.jpg"/>
+    </media>
+    <caption>Linking will update the table in the Google Doc when changes are made in the Sheets file. (Google Sheets is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00004">Linked tables or graphs, as discussed earlier, will update automatically in your Doc when the data in the source sheet is updated. Remember, a static table will simply paste the content and will not update automatically. In our example, we chose to have our table linked, so we left the Link to Spreadsheet on, and chose Paste. In <link target-id="fig-00003"/>, we can see the pasted table.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="Column widths on a table have been adjusted to fit the information provided.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_COPYPAS01c.jpg"/>
+    </media>
+    <caption>You may need to adjust column widths to give the table a professional appearance. (Google Sheets is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00005">Linking data from Sheets is not always straightforward. When you edit the original source document—the Google Sheet—you need to make sure that the settings are correct in your Doc so that it will update properly. Let’s assume that we will add rows to the client order list (our Google Sheet) as shown in <link target-id="fig-00004"/>. This means that the original Sheets table will grow three new rows; this will not immediately be updated in our Google Doc.</para>
+    <figure id="fig-00004">
+    <media alt="In a table, the last three rows are highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_COPYPAS2.jpg"/>
+    </media>
+    <caption>When you make changes to a linked table in a Google Doc, you need to take an extra step to make sure those changes are reflected in the Doc file. (Google Sheets is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00006">The table has increased in size; therefore, we need to make sure that our Google Doc knows how large the table is supposed to be. To do this, go to the linked table in the Doc and hover over the Linked Table Options icon in the upper right of the table, as shown in <link target-id="fig-00005"/>. Choose Change Range.</para>
+    <figure id="fig-00005">
+    <media alt="In a window, a link icon is indicated. Options include: Open source, Unlink, Change range, Match spreadsheet data and formatting, and Linked objects.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_COPYPAS3.jpg"/>
+    </media>
+    <caption>Use the Linked Table options to access the tools for the linked table. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00007">A dialog box will appear, and we see that the current range is A1 to G14, but we want it to be A1 to G23, as in <link target-id="fig-00006"/>. Type the new range, select OK, and the table will be updated.</para>
+    <figure id="fig-00006" class="scaled-down">
+    <media alt="Linked cell range window displays an Excel icon and Sheet1!A1:G23 in bar.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_COPYPAS4.jpg"/>
+    </media>
+    <caption>If you add or remove cells from the Sheets table, you will need to update the cell references in Docs. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00008">If you are just updating information in existing cells, and not adding or deleting columns or rows, you will need to tell Google to update the table. For example, let’s say we made a mistake in row 2, and the quantity is supposed to be nine instead of fourteen (<link target-id="fig-00004"/>). Change the quantity in the Sheets file, then go to the Doc file. Notice you now have a button at the top of the table that says Update, as <link target-id="fig-00007"/> shows. Select Update, and the table will now be updated with the revised information (<link target-id="fig-00008"/>).</para>
+    <figure id="fig-00007" class="scaled-down">
+    <media alt="Table visible with Update button at the top indicated.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_COPYPAS05a.jpg"/>
+    </media>
+    <caption>When you make changes that do not involve increasing or decreasing the size of the linked table, you will need to update the Google Doc. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00008" class="scaled-down">
+    <media alt="All of the information in a table is selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_COPYPAS05b.jpg"/>
+    </media>
+    <caption>Notice that the quantity of the first item changed from 14 to 9. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00009">To unlink the tables and graphs, simply select Unlink from the <term class="no-emphasis" id="term-00001">Linked Table</term> options, and the table will become static, as <link target-id="fig-00009"/> shows.</para>
+    <figure id="fig-00009" class="scaled-down">
+    <media alt="All of the information in a spreadsheet is selected. Unlink is selected in an option window.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_COPYPAS06.jpg"/>
+    </media>
+    <caption>If you unlink a table in a Google Doc, it becomes static and will not be updated if changes are made in the Sheets file. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00010">Google Docs also enables you to insert a chart or graph that exists in a Google Sheet directly into your Google Doc. A chart or graph that is linked in this way will automatically update when the contents of the Google Sheet update. Using the skills learned in previous chapters, let’s create a summary chart of Quantity Sold per product in your linked table. To incorporate this chart into the Google Doc, put your cursor at the point where you want the chart to be placed in the document. Next, go to the Insert menu and hover over the Chart command. This will open a drop-down menu; select From Sheets, as shown in <link target-id="fig-00010"/>. This, in turn, will open a dialog box that shows your recent Sheets files.</para>
+    <figure id="fig-00010">
+    <media alt="Chart is selected from Insert tab. Opens to options for Bar, Column, Line, Pie, and From Sheets (selected).">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_INSERT01.jpg"/>
+    </media>
+    <caption>Although you can insert a chart directly into your Doc, as shown in the menu, sometimes it is more convenient to use an existing chart from a Sheet. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00011">You can also use the Search tool to find a specific file. Select the one that has the information you want in your chart—in our example, this file is called Sales Data (<link target-id="fig-00011"/>). Click Select.</para>
+    <figure id="fig-00011" class="scaled-down">
+    <media alt="Insert chart window displays a Spreadsheets tab at the top. A Search option is available. Thumbnails of files display for selection. Select button at bottom.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_INSERT02.jpg"/>
+    </media>
+    <caption>From the window, choose the Sheets file where the charts or graphs are located. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00012">The next screen gives you a preview of the graph (<link target-id="fig-00012"/>). If you have more than one chart or graph created in the Sheets file, as in this example, you will see all of them in the preview and can select the ones you want to include.</para>
+    <para id="para-00013">When you have selected the charts or graphs to include, choose Import. To ensure that the chart stays updated, tick the checkbox labeled Link to spreadsheet.</para>
+    <figure id="fig-00012" class="scaled-down">
+    <media alt="Import chart window displays Sales Data charts available for selection. Link to Spreadsheet is selected. Import button selected at bottom.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_INSERT03.jpg"/>
+    </media>
+    <caption>Click on any or all of the charts that you wish to insert into the Doc. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00014">Again, if you want to update the chart to reflect changed values in the existing table, just click on the Update button. But if the number of rows or columns has changed, so that the table is no longer the same size, you will need to select the range for the linked table as we did previously. If there are no changes to the size of the table, but only changes in values in existing cells, you can use the Update button. <link target-id="fig-00013"/> shows the result of the integrated charts.</para>
+    <figure id="fig-00013" class="scaled-down">
+    <media alt="An inserted chart displays small squares at all corners and side middles for resizing.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_INSERT04.jpg"/>
+    </media>
+    <caption>You may need to resize and move the charts and graphs to fit the needs of the document you are creating. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Integrating Data from Microsoft Programs into a Google Program</title>
+    <para id="para-00015">To add data from Microsoft 365 (Office) apps to your Google Workspace programs, simply upload the files to Google Drive. Then you have the choice of keeping them as .docx (Word) or .xlsx (Excel) files or converting them to .gdocx (Google Doc) or .gxlsx (Google Sheets), respectively. To convert Microsoft files to Google files, you must open the document and manually choose to save it as a Google Doc or Sheet. When choosing this option, you may have to adjust some of the formatting of your Doc or Sheets, but generally, this is a straightforward approach to bringing files from Microsoft programs into Google.</para>
+    <section id="sect-00004">
+    <title>Data from Microsoft Excel</title>
+    <para id="para-00016">You can integrate data from Excel into any of the Google applications. First, let’s discuss how to bring Excel information into a Google Doc. If your tables and graphs were created in Excel rather than in Sheets, you can use one of the copy-and-paste methods used when placing Excel tables into a Word file. Select the table, copy it using your preferred method, and then paste it into the Doc using either Paste or Paste Without Formatting (<link target-id="fig-00014"/>). Notice that much of your Excel formatting is lost when you use the copy-and-paste method.</para>
+    <figure id="fig-00014">
+    <media alt="(a) All information in Excel table is selected. (b) Google Docs Edit tab selected. Options include: Undo, Redo, Cut, Copy, Paste, Paste without formatting (selected), Select all, Delete, and Find and replace.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_EXCELDOC1.jpg"/>
+    </media>
+    <caption>(a) The table in Excel is formatted with shading and borders. (b) When copying into Google Docs, you have only two options. (Part a: Used with permission from Microsoft; Part b: Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00015">
+    <media alt="Information pasted into Google Docs from Excel is in columns, but not sized appropriately.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_EXCELDOC1c.jpg"/>
+    </media>
+    <caption>The Paste option gives you the data in a table, but it is not formatted in the same way it was in Excel. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00016">
+    <media alt="Information pasted into Google Docs from Excel is not in columns or sized appropriately.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_EXCELDOC1d.jpg"/>
+    </media>
+    <caption>The Paste Without Formatting option simply pastes the information as text, not in a tabular form. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00017">To ensure that the Excel data gets inserted into your Google Doc in a manner that is closer to what you have in Excel, you need to first upload the Excel file into your Google Drive and open it in Google Sheets.</para>
+    <para id="para-00018">First, upload the file into your Google Drive. Then, find the file in the Drive and right-click on it. Choose Open with Google Sheets, as in <link target-id="fig-00017"/>. This will open the file using the Google Sheets app, but remember, it will not be saved as a Google Sheet until you manually choose to do so. After opening the file in Sheets, go to the File window menu and then choose Save as Google Sheets, as shown in <link target-id="fig-00018"/>.</para>
+    <figure id="fig-00017">
+    <media alt="A file is selected in My Drive. A pane displays Open with (selected), which lists options for: Preview, AppSheet, CloudConvert, DocHub, Google Sheets (selected), Connect more apps, and Apps on your computer.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_UPLOADa.jpg"/>
+    </media>
+    <caption>Opening your Excel file in Google Sheets preserves most of its formatting. (Google Drive is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00018" class="scaled-down">
+    <media alt="File tab selected displays an option to Save as Google Sheets selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_UPLOADb.jpg"/>
+    </media>
+    <caption>The file will be saved in your Drive as an Excel file unless you specifically save it as a Google Sheets file. (Google Sheets is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00019">Another option is to import the Excel information into a new Google Sheets file. This too will preserve much of your formatting. However, if you have charts or graphs created in the Excel file that are not available in Google, the charts or graphs will not import. Only the data will be imported. Then you can create a chart from within Google Sheets. This is one limitation of Google: it does not have as many options for creating graphs and charts as you will find in Microsoft. Most of the graph and chart formats available in Google are very basic, such as simple line graphs and bar charts. You will not see some of the more advanced formats, such as the 3D options, as you do in Microsoft.</para>
+    <para id="para-00020">Additionally, when you import an Excel file into a Google Sheets file, you might notice that any links you established between that Excel file and another Excel file may not be preserved. If your Excel sheet contains formulas, make sure these are accurate once imported. Importing works well, but the result may need some editing to resolve compatibility issues. It is important to be aware of this limitation when importing Excel information into Sheets.</para>
+    <para id="para-00021">Finally, once you have imported the data into a Sheets file, you can integrate that information into a Doc if desired. This approach is likely to do a better job of retaining your formatting than the copy-and-paste method.</para>
+    <para id="para-00022">To begin importing Excel into Sheets, create a new blank worksheet in Sheets. Then, while in Sheets, go to the File window menu and choose Import (<link target-id="fig-00019"/>). If the Excel sheet has already been uploaded to Google Drive as an .xlsx document, you can get the Excel file from the My Drive tab, as seen in <link target-id="fig-00020"/>. If the file is not in your Google Drive, choose the Upload tab to locate it. A new dialog box will appear, as shown in <link target-id="fig-00021"/>, asking what you want to do next: create a new spreadsheet, insert a new sheet, or replace the spreadsheet. Select Replace Spreadsheet and then choose Import Data. This will move the entire contents of the Excel spreadsheet into the new Google Sheet you just created (<link target-id="fig-00022"/>).</para>
+    <figure id="fig-00019" class="scaled-down">
+    <media alt="Sheets File tab selects Import from options listed.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_EXCELIM01.jpg"/>
+    </media>
+    <caption>Add the Excel file to your Google Drive to make importing easier. (Google Sheets is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00020">
+    <media alt="Import file window displays tabs for: My Drive (selected), Shared with me, Recent and Upload (indicated). Thumbnails of files are visible for selection.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_EXCELIM02.jpg"/>
+    </media>
+    <caption>You will see your file in My Drive if the Excel file has already been uploaded into your Google Drive. (Google Drive is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00021" class="scaled-down">
+    <media alt="Import file window displays File selections: Create new spreadsheet, Insert new sheet(s), Replace spreadsheet (selected), Replace current sheet, Append to current sheet, Replace data at selected cell. Import data button selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_EXCELIM03.jpg"/>
+    </media>
+    <caption>You can create a new spreadsheet in Sheets using imported Excel data. (Google Sheets is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00022">
+    <media alt="Imported Excel data displayed in Sheets in columns and rows. Row 1 is blue backfilled with bold, centered text. Other cells are populated with data in regular, black font.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_EXCELIM04.jpg"/>
+    </media>
+    <caption>The data will be imported in Sheets with the same formatting as you had in the Excel file. (Google Sheets is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00023">Another option for bringing Microsoft files into Google is to change your settings in Google Drive. As a word of caution, when you change your Google Workspace settings, you will change the settings for the entire Google Drive and all files that are stored in the Drive.</para>
+    <para id="para-00024">First, go to the Settings icon at the top right of your Drive (<link target-id="fig-00023"/>).</para>
+    <figure id="fig-00023">
+    <media alt="Open pane displays: Settings (selected), Get Drive for desktop, and Keyboard shortcuts.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_EXCELIM05.jpg"/>
+    </media>
+    <caption>Access the settings in your Google Drive to edit how non-Google files are managed. (Google Drive is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00025">In the General tab, go to the option that says Convert Uploads and check the box Convert uploads to Google Docs editor format. Tick on the checkbox as shown in <link target-id="fig-00024"/>. Then click on Done. Again, be careful with changing these settings, however, since this will change the process for your whole Google Drive, and not just one file or folder.</para>
+    <figure id="fig-00024">
+    <media alt="General is selected in Settings. Convert uploads category displays selectable button for Convert uploads to Google Docs editor format.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_EXCELIM06.jpg"/>
+    </media>
+    <caption>Choosing to convert all uploads to Google Docs editor format will change the setting for all files that are uploaded into your Drive. (Google Drive is a trademark of Google LLC.)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Information from Microsoft Word</title>
+    <para id="para-00026">To import an entire Word document into Google Docs, follow the same steps that you used to import an Excel document into Google Sheets: you can either upload the file into Google Drive, then Open it in Google Docs (<link target-id="fig-00025"/>); or, if the file is already in your Google Drive, right-click on the file and hover to Open with Google Docs. Again, the file will not be a Google Doc file right away; it will remain a Word file unless you deliberately choose to save it as a Google Doc. This is the same as the procedure for saving an Excel file as a Google Sheet.</para>
+    <figure id="fig-00025">
+    <media alt="Open with selected in options pane. Opens to selections for: Google Docs (selected), CloudConvert, and DocHub – PDF Sign and Edit.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_WORDIM01.jpg"/>
+    </media>
+    <caption>For files that are in your Drive, you can choose to open them with Google Docs. But they will not be Docs files unless you then save them as a Google Docs file. (Google Drive is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00027">If you want to bring in certain portions of a Word document into Google Docs, you can use the copy-and-paste method. For example, to bring just the title and this bulleted list from the report into a new Google Docs, you would first select and copy the information from Word (<link target-id="fig-00026"/>). In the new Google Doc, you can either use Paste or Paste without formatting to insert the text. <link target-id="fig-00027"/> and <link target-id="fig-00028"/> show the difference between using these paste options.</para>
+    <figure id="fig-00026">
+    <media alt="All of the information in a Word document is selected for copying.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_WORDIM02.jpg"/>
+    </media>
+    <caption>First, copy the information from the Word document that you want to paste into a Google Doc. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00027">
+    <media alt="Information copied into a Google Docs document from a Word document. Information has moved around a bit from original but looks mostly similar.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_WORDIM04.jpg"/>
+    </media>
+    <caption>Even with the normal Paste tool, some of your formatting will be lost when you bring information from Word into Docs. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <figure id="fig-00028">
+    <media alt="Information copied into Google Docs is displayed in plain text with only bulleting retained.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_06_WORDIM05.jpg"/>
+    </media>
+    <caption>When you use the Paste without formatting tool, the information will be pasted as plain text and will not preserve any formatting, like font style or color. (Google Docs is a trademark of Google LLC.)</caption>
+    </figure>
+    <para id="para-00028">As with Sheets and Excel, there are some known <term class="no-emphasis" id="term-00002">compatibility</term> issues between Docs and Word: The footer and header may not be shown the same, some blank pages may be added in Docs that were not in the Word version of the file, some fonts may not be recognized, the text may have alignment or indent issues, word-wrapped pictures in Word may be out of place, and line spacing may be a little off. You will need to experiment and use the programs consistently to get a better understanding of these compatibility issues and how they might affect your document.</para>
+    </section>
+    </section>
+    <section class="section-summary" id="sect-00006">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Data from Google Sheets can be imported into a Google Doc using a few different methods.</item>
+    <item>Microsoft files, such as Excel tables and charts, Excel worksheets, and Word documents, can be imported into Google Sheets, which can then be imported into Google Docs by using the copy-and-paste method or the Chart command in the Insert window menu. Converted files in both Sheets and Docs will not be identical to the original Excel and Word documents.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00007">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00029"><link class="os-embed" url="#exercise/15-06-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00030"><link class="os-embed" url="#exercise/15-06-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00008">
+    <title>Written Questions</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00031"><link class="os-embed" url="#exercise/15-06-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00032"><link class="os-embed" url="#exercise/15-06-BCA-WQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00009">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00033"><link class="os-embed" url="#exercise/15-06-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00034"><link class="os-embed" url="#exercise/15-06-BCA-PE02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>

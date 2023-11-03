@@ -6,5 +6,125 @@
     <md:uuid>95c5af15-b648-4419-b895-590c25fb6665</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Create Access tables from Excel worksheets.</item>
+    <item>Create Excel worksheets from Access tables.</item>
+    </list>
+    </section>
+    <para id="para-00002">Different Microsoft applications, such as Access and Word, have different requirements when it comes to integrating information into other applications. Access is a program designed to manage and store data. Unlike Excel, it is not designed to analyze data and perform complex calculations. However, you can integrate Excel data into Access and vice versa. Some of these concepts were covered in the chapters on databases. Revisit those chapters to refresh your memory on the functionality and purpose of Access as an application for managing information.</para>
+    <para id="para-00003">Note that the terminology used for integrating Excel and Access is <emphasis effect="italics">importing</emphasis> and <emphasis effect="italics">exporting</emphasis> rather than linking or embedding. You can import Excel data into Access and export Access information into Excel. Note also that Access does not work on computers with macOS.</para>
+    <section id="sect-00002">
+    <title>Creating Microsoft Access Tables from Microsoft Excel Worksheets</title>
+    <para id="para-00004">You may find that Access tables are created from existing information. The existing information can be from other software programs, a customer database, or information from an accounting software program. When you want to create an Access table from an Excel file, you need to import that Excel information into Access.</para>
+    <para id="para-00005">Let’s consider a possible scenario in which you might want to import an Excel file into Access. WorldCorp would like to create a <term class="no-emphasis" id="term-00001">database</term> of sales information that is currently in an Excel file. Each month, new information from sales will be added to the database. Moving the sales data to Access will allow the sales team greater functionality for sorting, filtering, grouping, and other customizations, which will enable them to gauge progress toward the company’s annual goals. (Remember, Excel is best used as a data analysis program, not as a database solution.) The Access database will be shared with the sales team through OneDrive at WorldCorp. Currently, the Excel file contains two months of sales data. The information is organized by date, product, product category, and item (<link target-id="fig-00001"/>). Note that before you consider importing anything from Excel into Access, you need to first clean up and organize your Excel file. Make sure the headers in your Excel file are in the first row of the table. Before completing the import, you will get a preview of the data from Excel so you can double-check that it is being imported correctly.</para>
+    <figure id="fig-00001">
+    <media alt="Table displays row 1 in blue backfill and bold black text, centered in the columns. Data populating rest of cells is regular, black font.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_05_ExltoAcc1.jpg"/>
+    </media>
+    <caption>Note that the table is formatted with headers to make importing into Access easier. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00006">Now that your Excel data is cleaned, open Access and create a blank database. Save it with an appropriate file name, such as “Sales Data.” At this point, the database contains no data. We will import the data from the Excel file into this blank database. Go to the External Data tab, then select New Data Source, then From File. From there, choose Excel (<link target-id="fig-00002"/>). Find the name for the Excel file that you are importing into Access (<link target-id="fig-00003"/>).</para>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="External Data tab selected. New Data Source button options: From File (selected), From Database, From Online Services, From Other Sources. From File options: Excel (selected), HTML Document, XML File, and Text File.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_05_ExltoAcc2a.jpg"/>
+    </media>
+    <caption>You can import data from several different sources, including online sources. (Used with permission from Microsoft)</caption>
+    </figure>
+    <figure id="fig-00003">
+    <media alt="Get External Data – Excel Spreadsheet window reads: Specify the source of the definition of the objects. File name displays and Browse button visible at right.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_05_ExltoAcc2b.jpg"/>
+    </media>
+    <caption>Use Browse to find the file location for the Excel file. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00007">When <term class="no-emphasis" id="term-00002">importing</term> information into Access, you have a couple of options. You can import the information into the current database you have open as a new table, you can add the information to an existing table in a database you have open, or finally, you can link the Excel information to the database, so that any changes made in the linked Excel file will automatically be updated in the Access file. However, unlike integration with other programs such as PowerPoint or Word when you could double-click on the image to access the actual Excel file, you cannot edit the Excel file from Access.</para>
+    <para id="para-00008">For this example, we choose to import into a new table in the current database. When you click OK, you get a preview of the data separated into columns, as seen in <link target-id="fig-00004"/>. If it appears as it should, click Next. If your table has headers, make sure the box is checked; Access will use these headers for the database columns.</para>
+    <figure id="fig-00004">
+    <media alt="Import Spreadsheet Wizard window selects Show Worksheets button and Sheet1 is selected in the pane. Sample data is visible in pane below.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_05_ExltoAcc3.jpg"/>
+    </media>
+    <caption>You can import data from other worksheets. Select the sheet you want to import from the selection window. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00009">You can modify aspects of the fields (columns) you are importing by selecting Next, which enables you to change the data type or the field name and also allows you to choose not to import a specific column. Once you are satisfied with the field settings, click Next. Remember, you can always modify the field settings once the database is created. You will be prompted to either name the table or use the default assigned by Access (<link target-id="fig-00005"/>).</para>
+    <figure id="fig-00005">
+    <media alt="Import Spreadsheet Wizard window displays Sheet1 in Import to Table bar.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_05_ExltoAcc4.jpg"/>
+    </media>
+    <caption>Choose an appropriate name for the database table. You can have multiple tables in one Access file. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00010">The information is now imported into the database and ready to use, as <link target-id="fig-00006"/> shows.</para>
+    <figure id="fig-00006">
+    <media alt="An imported Excel table is visible in Access. Row 1 is selected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_05_ExltoAcc5.jpg"/>
+    </media>
+    <caption>The Excel data imported into Access looks fairly similar to the original table in Excel. (Used with permission from Microsoft)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00011">Sometimes when importing information from Excel into Access, you can encounter problems. These could be a result of formatting within the Excel worksheet, because of complex calculations included in the data, or other related issues. Other issues can arise when importing multiple sheets from a single Excel file. Read this <link url="https://openstax.org/r/78ImprtExltoAcc">article on how to successfully import Excel data into Access</link> to learn more about how to make sure your Excel file is ready to be imported into Access.</para>
+    </note>
+    </section>
+    <section id="sect-00003">
+    <title>Create Microsoft Excel Worksheets from Microsoft Access Tables</title>
+    <para id="para-00012">You can also export information from an Access table into an Excel worksheet. This can be useful when you would like to do further data analysis with the information stored in your database, or if you would like to share some database information with an external stakeholder.</para>
+    <para id="para-00013">Let’s consider a scenario in which WorldCorp would like to send information from their central sales database to some of the members of the sales team. The database has been filtered to include only two specific locations—Virginia and West Virginia. This information will be shared with the regional sales team for their quarterly meeting. The team members are more familiar with Excel than with Access, and WorldCorp management would prefer to restrict access to the Access database to key personnel. So, they wish to send the information from the table to the sales force in an Excel format. The data in the Access table has been filtered by the criteria as shown in <link target-id="fig-00007"/>. Refer to the chapters on databases for additional information on sorting, filtering, and information in Access tables.</para>
+    <figure id="fig-00007">
+    <media alt="An Access table is visible. A filter icon is located at the right of the Destination column.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_05_AcctoExl.jpg"/>
+    </media>
+    <caption>The data is filtered to show only certain rows. You can see the small funnel icon at the top of the Destination column that indicates that this column is being filtered. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00014">Once the information from the database has been filtered, you can easily export it to Excel. Go to the External Data tab and the Export command group. Choose the Excel icon from the group (<link target-id="fig-00008"/>).</para>
+    <figure id="fig-00008">
+    <media alt="Excel button is selected on toolbar. Export-Excel Spreadsheet window highlights a Browse button to the right of the blank File Name bar.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_05_AcctoExl2.jpg"/>
+    </media>
+    <caption>Use the Browse button to determine the file location and name for the exported file. (Used with permission from Microsoft)</caption>
+    </figure>
+    <para id="para-00015">You will need to tell Access where to export the file to and give it a file name. You can choose a new file or use an existing Excel file. You can also change the file format if needed. Finally, you can choose to export the entire table or just selected columns, whether to keep the formatting in the table, and whether to automatically open the file in Excel when the export is finished. The formatting will be similar to what you see in Access but may not be identical. You may need to adjust the column width and colors in Excel (<link target-id="fig-00009"/>).</para>
+    <figure id="fig-00009">
+    <media alt="An imported Access table is displayed in Excel. Not all information has been pasted.">
+    <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_05_ExltoAcc6.jpg"/>
+    </media>
+    <caption>Notice that because the data was filtered in Access, only the filtered rows (records) were exported to Excel. (Used with permission from Microsoft)</caption>
+    </figure>
+    </section>
+    <section class="section-summary" id="sect-00004">
+    <title>Summary</title>
+    <list id="list-00002">
+    <item>Access and Excel are commonly integrated. Many databases start with information from Excel.</item>
+    <item>Information manipulated in an Access table is easily exported into Excel for additional analysis.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00005">
+    <title>Review Questins</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00016"><link class="os-embed" url="#exercise/15-05-BCA-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00017"><link class="os-embed" url="#exercise/15-05-BCA-RQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="written-questions" id="sect-00006">
+    <title>Written Questions</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00018"><link class="os-embed" url="#exercise/15-05-BCA-WQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="practice-exercises" id="sect-00007">
+    <title>Practice Exercises</title>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00019"><link class="os-embed" url="#exercise/15-05-BCA-PE01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
