@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
-    <para id="para-00001">By the end of this section, you will be able to …</para>
+    <para id="para-00001">By the end of this section, you will be able to &#8230;:</para>
     <list id="list-00001">
     <item>Modify font</item>
     <item>Change spacing options</item>
@@ -20,7 +20,7 @@
     <section id="sect-00002">
     <title>How to Modify and Edit Text</title>
     <para id="para-00003">As with any document, different fonts can convey different emotions and styles. Using a bold or italic font can help to emphasize certain words or phrases, while a different font can be used to create a specific style or theme for the <term class="no-emphasis" id="term-00001">presentation</term>. If your presentation is for a business or organization, it may be important to use a specific font that aligns with the company’s branding guidelines. WorldCorp prefers the Oswald font for external documents. If text boxes are being used, be sure to modify each text box to the company standard. Although this choice may feel limiting, this approach drives the <term class="no-emphasis" id="term-00002">consistency</term> of brand messaging for WorldCorp team members.</para>
-    <para id="para-00004">You may recall that converting a PowerPoint file to a Slides file may result in some changes. Take a look at slide number 4, “Goals,” in <link target-id="fig-00001"/> and <link target-id="fig-00002"/>. You will notice in <link target-id="fig-00002"/> that the WordArt formatting used for “short term” and “long term” has been removed, because WordArt is not a feature of Slides.</para>
+    <para id="para-00004">You may recall that converting a PowerPoint file to a Slides file may result in some changes. Take a look at slide number 4, “Goals,” in <link target-id="fig-00001"/> and <link target-id="fig-00002"/>. You will notice in <link target-id="fig-00002"/> that the WordArt formatting used for “Short Term” and “Long Term” has been removed, because WordArt is not a feature of Slides.</para>
     <figure id="fig-00001" class="scaled-down">
     <media alt="In the slide, two headers are displayed in two different styles (one is pink filled, outlined in dark pink and the other is white filled, outlined in dark pink).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_06_FontsA.jpg"/>
@@ -38,13 +38,13 @@
     <item>Highlight the text within the text box.</item>
     <item>Select the drop-down menu. Find Oswald in the list of fonts.</item>
     <item>Select the Oswald font (this should alter the highlighted text).</item>
-    <item>Repeat for the text listed under “Short Term.”</item>
+    <item>Repeat for the text listed under Short Term.</item>
     </list>
     <figure id="fig-00003" class="scaled-down">
     <media alt="In the slide, text is highlighted and in the Font selection on the toolbar, Oswald is selected in the Recent as well as in the font list.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_06_Fontchange.jpg"/>
     </media>
-    <caption>You will notice that far fewer fonts are offered in Slides than the complete list of font options contained in Office. (Google Slides is a trademark of Google LLC.)</caption>
+    <caption>When you select a font from Google's drop-down list, that font will also appear at the top of your Recent fonts list. (Google Slides is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00006">Modifying the font can help to ensure <term class="no-emphasis" id="term-00004">consistency</term> throughout the presentation and make it look more professional. Some fonts may not be compatible with all devices or may not be accessible for people with visual impairments. Modifying the font can help to ensure that the presentation is accessible to all viewers and can be viewed correctly on different devices. However, note that the list of font options is drastically limited as compared with <term class="no-emphasis" id="term-00005">PowerPoint</term>.</para>
     </section>

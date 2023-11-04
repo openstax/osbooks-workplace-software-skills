@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
-    <para id="para-00001">By the end of this section, you will be able to …</para>
+    <para id="para-00001">By the end of this section, you will be able to &#8230;:</para>
     <list id="list-00001">
     <item>Format the layout of each slide</item>
     <item>Understand best practices in design principles</item>
@@ -61,12 +61,12 @@
     <media alt="A (a) budget sheet in small font at the right with a large image at the left and (b) the same budget sheet in larger font with small graphics along the bottom.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_03_Example.jpg"/>
     </media>
-    <caption>Two examples of proximity as it relates to how information is displayed to the audience. (a) displays a chart with a distant proximity to the subject matter. (b) displays the same information, but with the audience in closer proximity. (Used with permission from Microsoft)</caption>
+    <caption>These slides show two examples of proximity as it relates to how information is displayed to the audience: (a) displays a chart with a distant proximity to the subject matter and (b) displays the same information, but with the audience in closer proximity. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00006">
     <title>Alignment</title>
-    <para id="para-00014">Aligning objects or text on a page adds organization and creates a sense of cohesion, making your content in general more usable. When alignment exists on a slide, the human eye knows where to focus, and the slide is more comfortable to view. In PowerPoint, <term id="term-00012">alignment</term> is the way that text, images, and other elements are positioned on a slide. Proper alignment is important because it helps to create a cohesive, professional-looking presentation. When elements on a slide are aligned, they are more visually balanced, which can make the slide look more organized and appealing to the audience. Properly aligned elements can help guide the viewer’s eye and create a natural flow from one element to the next, making the presentation easier to follow and understand. In addition to the Guides checkbox that we reviewed in the section on <link document="m00073">Formatting Layout</link>, there are also checkboxes for Rulers and Gridlines. Ticking these boxes will show additional lines on the slide that will help you align your slide elements.</para>
+    <para id="para-00014">Aligning objects or text on a page adds organization and creates a sense of cohesion, making your content in general more usable. When alignment exists on a slide, the human eye knows where to focus, and the slide is more comfortable to view. In PowerPoint, alignment is the way that text, images, and other elements are positioned on a slide. Proper alignment is important because it helps to create a cohesive, professional-looking presentation. When elements on a slide are aligned, they are more visually balanced, which can make the slide look more organized and appealing to the audience. Properly aligned elements can help guide the viewer’s eye and create a natural flow from one element to the next, making the presentation easier to follow and understand. In addition to the Guides checkbox that we reviewed in the section on <link document="m00073">Formatting Layout</link>, there are also checkboxes for Rulers and Gridlines. Ticking these boxes will show additional lines on the slide that will help you align your slide elements.</para>
     </section>
     <section id="sect-00007">
     <title>Repetition</title>
@@ -144,11 +144,7 @@
     </section>
     </content>
     <glossary>
-    <definition id="def-00001">
-    <term>alignment</term>
-    <meaning>way that text, images, and other elements are positioned on a slide</meaning>
-    </definition>
-    <definition id="def-00002">
+        <definition id="def-00002">
     <term>contrast</term>
     <meaning>use of different elements, such as colors, fonts, or design elements, to draw attention and create visual interest</meaning>
     </definition>

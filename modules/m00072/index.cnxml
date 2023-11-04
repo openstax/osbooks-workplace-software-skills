@@ -8,9 +8,9 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
-    <para id="para-00001">By the end of this section, you will be able to …</para>
+    <para id="para-00001">By the end of this section, you will be able to &#8230;:</para>
     <list id="list-00001">
-    <item>Create a new slide show from a blank presentation</item>
+    <item>Create a new slideshow from a blank presentation</item>
     <item>Create a presentation from a theme or template</item>
     <item>Understand the functions of the Home tab</item>
     <item>Understand the functions of the Design tab</item>
@@ -23,8 +23,8 @@
     <para id="para-00005">Let’s begin by using the blank canvas approach to crafting a presentation.</para>
     <section id="sect-00002">
     <title>Getting Started</title>
-    <para id="para-00006">Open PowerPoint and choose a blank presentation (the first option). You should see a screen that looks like <link target-id="fig-00001"/>, with a red arrow highlighting the desired choice. If you want to open an existing presentation, select Open from the left sidebar and search for the file. Another option is to start with a <term id="term-00008">PowerPoint template</term>—a predesigned set of slides that you can use as a starting point for creating a new PowerPoint presentation. Templates include a defined layout and color scheme, and they often include sample text and images that you can replace with your own content. Using <term class="no-emphasis" id="term-00009">template</term>s is a way to save time and ensure <term class="no-emphasis" id="term-00010">consistency</term> in the design of your presentation. Like many organizations, WorldCorp has a preset template that is often used for external communications, such as presentations for clients. However, for the <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation, you are not restricted to using the template, as this is an internal presentation and is more informal.</para>
-    <para id="para-00007">In this example, you will start with a blank presentation. After opening this blank document (by double-clicking on <term class="no-emphasis" id="term-00011">Blank Presentation</term>), you should save it to your computer or to the cloud using a filename that is identifiable to the content of the presentation. As seen in <link target-id="fig-00001"/>, select the Blank Presentation option on the Home screen indicated by the arrow.</para>
+    <para id="para-00006">Open PowerPoint and choose a blank presentation (the first option). You should see a screen that looks like <link target-id="fig-00001"/>, with an arrow highlighting the desired choice. If you want to open an existing presentation, select Open from the left sidebar and search for the file. Another option is to start with a <term id="term-00008">PowerPoint template</term>—a predesigned set of slides that you can use as a starting point for creating a new PowerPoint presentation. Templates include a defined layout and color scheme, and they often include sample text and images that you can replace with your own content. Using <term class="no-emphasis" id="term-00009">template</term>s is a way to save time and ensure <term class="no-emphasis" id="term-00010">consistency</term> in the design of your presentation. Like many organizations, WorldCorp has a preset template that is often used for external communications, such as presentations for clients. However, for the <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation, you are not restricted to using the template, as this is an internal presentation and is more informal.</para>
+    <para id="para-00007">In this example, you will start with a blank presentation. After opening this blank document (by double-clicking on <term class="no-emphasis" id="term-00011">Blank Presentation</term>), you should save it to your computer or to the cloud using a file name that is identifiable to the content of the presentation. As seen in <link target-id="fig-00001"/>, select the Blank Presentation option on the Home screen indicated by the arrow.</para>
     <figure id="fig-00001">
     <media alt="A screenshot of the PowerPoint Home page highlighting the Blank Presentation selection from a variety of options.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_02_Intial.jpg"/>
@@ -41,7 +41,7 @@
     </section>
     <section id="sect-00003">
     <title>Creating a Presentation with Themes and Templates</title>
-    <para id="para-00009">Many companies tend to already have a theme developed for use with company presentations. A presentation’s <term id="term-00014">theme</term> refers to the overall design and layout of the slides, including elements such as color scheme, font choices, and graphic elements. Themes are useful because they give you an easy way to create a consistent presentation by using preset fonts and color schemes. If you had chosen a theme instead of a blank presentation, the initial slide would show the same elements, but with the design features of the theme applied. A theme can also include predesigned slide layouts, which can be used to create a cohesive and consistent look throughout the presentation.</para>
+    <para id="para-00009">Many companies tend to already have a theme developed for use with company presentations. A presentation’s theme refers to the overall design and layout of the slides, including elements such as color scheme, font choices, and graphic elements. Themes are useful because they give you an easy way to create a consistent presentation by using preset fonts and color schemes. If you had chosen a theme instead of a blank presentation, the initial slide would show the same elements, but with the design features of the theme applied. A theme can also include predesigned slide layouts, which can be used to create a cohesive and consistent look throughout the presentation.</para>
     <para id="para-00010">Within the New tab, as seen in <link target-id="fig-00003"/>, selecting a theme allows the designer to set the tone and style of the presentation, which can help to engage the audience and convey the message more effectively. Themes can be either built-in or custom-made, depending on the software you are using. PowerPoint offers numerous themes that you can apply and search for in the search window.</para>
     <figure id="fig-00003" class="scaled-down">
     <media alt="A screenshot of a PowerPoint menu with an arrow pointing to New. On the right, Blank Presentation and a display of six thumbnails of different themes are available for selection as well as a search bar and Suggested searches.">
@@ -147,7 +147,7 @@
     <title>Design Tab</title>
     <para id="para-00035">Instead of using the <term class="no-emphasis" id="term-00039">Design Ideas</term> feature, you may want to design your PowerPoint yourself. The wide range of design options in PowerPoint allows you to change the overall look and feel of your presentation, quickly and easily. By using the built-in <term class="no-emphasis" id="term-00040">template</term>s, color schemes, and slide layouts, you can transform the roughed-out text that you added earlier to polished, professional-looking presentation slides without spending much time and effort on design. (You will learn more about this process in the chapter on <link document="m00070">Giving Presentations</link>). Rather than using the Design Ideas feature, which only formats a single slide at a time, the <term class="no-emphasis" id="term-00041">Design tab</term> provides a collection of tools for altering color schemes and layout designs for all of the slides at once. For example, you could change your entire color palette with just a few clicks of the mouse, applying the design to all the slides according to their predefined layout. Additionally, the option to change the slide layout makes it easy to organize the information in a way that is easy for the audience to follow and understand.</para>
     <para id="para-00036">In summary, the Design tab in PowerPoint will help to make the process of creating a presentation faster, easier, and more professional-looking, by allowing you to communicate your message in the best possible way for your audience. Building new content for presentations is like building anything else: To do a professional job, you need professional tools, and you need to know how to use them.</para>
-    <para id="para-00037">Now it’s time to select the design and variation recommended in <link target-id="fig-00012"/>. The first command group on the Design tab focuses on themes. Each theme is unique and modifiable. We have a particular theme we want you to use for the remainder of your slides. Hold down the Control key on your keyboard (Ctrl). With your mouse, select slides 2, 3, 4, and 5 from the thumbnails. Go to the top of the screen and choose the theme circled in red in <link target-id="fig-00012"/>. The theme will be applied to only the slides you selected. Your uniquely designed title slide will remain. Remember to save your work. You will quickly notice how themes and variations can elevate your design.</para>
+    <para id="para-00037">Now it’s time to select the design and variation recommended in <link target-id="fig-00012"/>. The first command group on the Design tab focuses on themes. Each theme is unique and modifiable. We have a particular theme we want you to use for the remainder of your slides. Hold down the Control key on your keyboard (Ctrl). With your mouse, select slides 2, 3, 4, and 5 from the thumbnails. Go to the top of the screen and choose the theme circled in <link target-id="fig-00012"/>. The theme will be applied to only the slides you selected. Your uniquely designed title slide will remain. Remember to save your work. You will quickly notice how themes and variations can elevate your design.</para>
     <figure id="fig-00012" class="scaled-down">
     <media alt="Designer in the Designer command group is selected. Slides 2-5 are a similar style (red, brown, and beige), while slide 1 is a different style (purple and green).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_02_Design.jpg"/>
@@ -183,7 +183,7 @@
     </section>
     <section id="sect-00011">
     <title>View Tab</title>
-    <para id="para-00046">The next tab to review is the View tab. To have a basic understanding of <term class="no-emphasis" id="term-00048">PowerPoint</term>, you will need to know the general purpose of several view options. Within the View ribbon, there are seven command groups. The first three are circled in red in <link target-id="fig-00016"/>, starting with <term class="no-emphasis" id="term-00049">Presentation Views</term>.</para>
+    <para id="para-00046">The next tab to review is the View tab. To have a basic understanding of <term class="no-emphasis" id="term-00048">PowerPoint</term>, you will need to know the general purpose of several view options. Within the View ribbon, there are seven command groups. The first three are circled in <link target-id="fig-00016"/>, starting with <term class="no-emphasis" id="term-00049">Presentation Views</term>.</para>
     <figure id="fig-00016">
     <media alt="Screenshot of View tab with Presentation Views (Normal, Outline View, Slide Sorter, Notes Page, Reading View), Master Views (Slide Master, Handout Master, Notes Master), and Show (Ruler, Gridlines, Guides, Notes) command groups highlighted.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_02_Views.jpg"/>
@@ -306,11 +306,7 @@
     <term>Slide Master</term>
     <meaning>template of the slide that shows each part of the slide</meaning>
     </definition>
-    <definition id="def-00006">
-    <term>theme</term>
-    <meaning>predefined set of colors, fonts, and visual effects that you can apply to give your slides a unified, professional look</meaning>
-    </definition>
-    <definition id="def-00007">
+        <definition id="def-00007">
     <term>title slide</term>
     <meaning>usually the first slide in presentation that includes the title of the slide as well as a subtitle such as your name or the date of the presentation</meaning>
     </definition>

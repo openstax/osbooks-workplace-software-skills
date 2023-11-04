@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
-    <para id="para-00001">By the end of this section, you will be able to …</para>
+    <para id="para-00001">By the end of this section, you will be able to &#8230;:</para>
     <list id="list-00001">
     <item>Add tables to slides to organize and present data in a grid format</item>
     <item>Insert images into slides</item>
@@ -69,7 +69,7 @@
     </media>
     <caption>The Picture Format ribbon opens automatically when you select any kind of image. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00012">Having the ability to crop a picture to a preferred size can be a time-saver. You no longer need to find a perfect image, but only a piece of the image that is perfect for your needs. Notice in <link target-id="fig-00006"/> how much ice is in the picture in part a. The ice skates appear small in relation to the entire slide. By cropping some of the ice out of the picture, then enlarging the image to fit the space, you can emphasize what you want your audience to see.</para>
+    <para id="para-00012">Having the ability to crop a picture to a preferred size can be a time-saver. You no longer need to find a perfect image, but only a piece of the image that is perfect for your needs. Notice in <link target-id="fig-00006"/>a how much ice is in the picture. The ice skates appear small in relation to the entire slide. By cropping some of the ice out of the picture, then enlarging the image to fit the space (<link target-id="fig-00006"/>b), you can emphasize what you want your audience to see.</para>
     <figure id="fig-00006" class="scaled-down">
     <media alt="Image (a) shows text on an orange background and a black/white image of ice skates on the ice. (b) The same slide is shown with the image of the ice skates enlarged.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_04_Crop.jpg"/>

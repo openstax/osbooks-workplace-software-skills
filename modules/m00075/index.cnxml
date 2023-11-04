@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
-    <para id="para-00001">By the end of this section, you will be able to …</para>
+    <para id="para-00001">By the end of this section, you will be able to &#8230;:</para>
     <list id="list-00001">
     <item>Discuss similarities between Google Slides and Microsoft PowerPoint</item>
     <item>Review differences between Google Slides and Microsoft PowerPoint</item>
@@ -19,7 +19,7 @@
     <para id="para-00003">Slides is the <term class="no-emphasis" id="term-00002">presentation</term> application offered in the Google suite of products, which is a cloud-based system. To better understand the tool and its importance, let’s get started with the similarities it holds with <term class="no-emphasis" id="term-00003">PowerPoint</term>.</para>
     <section id="sect-00002">
     <title>Similarities between Google Slides and Microsoft PowerPoint</title>
-    <para id="para-00004">PowerPoint and Slides are both software programs that allow you to create and edit slideshows for presentations. When you begin to create a presentation with <term class="no-emphasis" id="term-00004">Slides</term>, you will be presented with several themes and <term class="no-emphasis" id="term-00005">template</term>s suitable for various applications in business, school projects, and general use. These designed templates can be customized with color, text, and style. <link target-id="fig-00001"/> shows Slides when first opening the program and selecting a new presentation; the default, a blank presentation, is circled in red. Next to the blank presentation option are the different themes and templates.</para>
+    <para id="para-00004">PowerPoint and Slides are both software programs that allow you to create and edit slideshows for presentations. When you begin to create a presentation with <term class="no-emphasis" id="term-00004">Slides</term>, you will be presented with several themes and <term class="no-emphasis" id="term-00005">template</term>s suitable for various applications in business, school projects, and general use. These designed templates can be customized with color, text, and style. <link target-id="fig-00001"/> shows Slides when first opening the program and selecting a new presentation; the default, a blank presentation, is circled. Next to the blank presentation option are the different themes and templates.</para>
     <figure id="fig-00001">
     <media alt="Screenshot of a Start a new presentation window Template gallery with options for Blank as well as other types of presentations, such as Prototyping, Consulting, Pitch, and Status report.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_06_05_OpeningScr.jpg"/>
