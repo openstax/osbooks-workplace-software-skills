@@ -98,13 +98,13 @@
     </media>
     <caption>The superscript “1” indicates that there is a footnote at the bottom of the page. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure class="scaled-down" id="fig-00007">
+    <figure id="fig-00007">
     <media alt="The words “$20 billion” are followed with a superscript 1. At bottom of document a line separates the document text from the footnote. Superscript 1 is below line followed by website link.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01c.jpg"/>
     </media>
     <caption>Footnotes will be numbered in the body of the document and numbered at the bottom of the page where the footnote is inserted. Include the citation for the reference in the footnote. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure class="scaled-down" id="fig-00008">
+    <figure id="fig-00008">
     <media alt="Footnote text is highlighted in a document and Styles is selected. Options are visible for styles of font and Create Style, Clear Formatting, and Apply Styles.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_03_FOOTN01d.jpg"/>
     </media>

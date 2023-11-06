@@ -100,7 +100,7 @@
     <caption>Section breaks (a) allow you to have different page formats for different areas of the document. Panel (b) shows that the number will be at the bottom of the page. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00023">Another advantage to having different sections in a document is that you can accommodate different graphics well. This can be helpful when working with graphics that are best suited for landscape orientation, for example. As with the page numbering, you can change the orientation for a specific section. <link target-id="fig-00008"/> shows successive pages of a document with different orientations.</para>
-    <figure class="scaled-down" id="fig-00008">
+    <figure id="fig-00008">
     <media alt="Orientation in Page Setup of Layout tab is selected. Two document pages are visible on the screen, one in a portrait style (thinner) and one in an orientation style (wider).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_03_02_Orient2.jpg"/></media>
     <caption>Inserting sections in your document allows you to change the page orientation between sections. (Used with permission from Microsoft)</caption>

@@ -118,7 +118,7 @@
     <caption>When you choose Version History from Info, you will see a pane open on the right side of the document with the versions that are saved. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00027">You can access your version histories in Word by going to the File tab and selecting History. If you have a Microsoft 365 Word subscription, you can access the version history by going to the File tab, then Info, followed by Version History. There you can see the versions available and browse through them. You can also choose to restore a previous version, as <link target-id="fig-00011"/> shows. Moreover, if you have SharePoint Server or SharePoint365, the possibilities of versioning are much more powerful, allowing as many as 500 versions to be retained, as you can track a version’s history, view multiple earlier iterations, determine who can edit or write on the files, control the number of versions stored, and more.</para>
-    <figure class="scaled-down" id="fig-00011">
+    <figure id="fig-00011">
     <media alt="(a) Info window selects: Open in Desktop App. (b) A blank screen displays: Select a version from the Version History pane. Version History pane highlights a Just now/Current version.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_03_09_REVH36501.jpg"/>
     </media>

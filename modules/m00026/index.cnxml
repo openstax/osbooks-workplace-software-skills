@@ -33,17 +33,17 @@
 </note>
 <para id="para-00010">Fortunately, Intuit and Microsoft have made their applications compatible. Excel also integrates well with QuickBooks and other accounting software. Both accounting applications readily accept importation of Excel files, and they both can export data to Excel. Excel opens their exported file with ease, and you can gather insights with these datasets by utilizing data analytics processes, forming data visualizations, and designing business intelligence queries. Most accounting programs have a tool or command button for importing Excel data into the program or for exporting the data to Excel for additional analysis. When the data is imported into the program, it is converted to that program’s data file type. Importing data from Excel into these specialized programs can be helpful to check for errors and to uncover inconsistencies in financial data.</para>
 <para id="para-00011">When starting to implement QuickBooks in your business, you may need to import a lot of data from Excel files. Maybe you have your listing of products in an Excel file. In QuickBooks, there is a quick, automated way to import this data. In the online version, you use the Import Data feature. This process lets you import many different types of data, as you can see in <link target-id="fig-00001"/>. For importing customer data, you will need to make sure that the Excel spreadsheet matches the instructions provided in QuickBooks so that it can map the data (<link target-id="fig-00002"/>). It may involve some formatting and cleaning up of your Excel spreadsheet. If you want to export from QuickBooks to Excel, you can easily filter out what kind of data you want to export (such as certain transaction types or a date range) and export it to Excel format (<link target-id="fig-00003"/>).</para>
-<figure id="fig-00001" class="scaled-down">
+<figure id="fig-00001">
 <media alt="Intuit QuickBooks displays Import Data page (Bring your existing data into QuickBooks) with selection options: Bank Data, Customers, Vendors, Chart of Accounts, Products and Services, and Invoices.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_12_03_QUI01.jpg"/></media>
 <caption>QuickBooks walks you through the process of selecting the type of data you want to import. (Reprinted with permission © Intuit Inc. All rights reserved.)</caption>
 </figure>
-<figure id="fig-00002" class="scaled-down">
+<figure id="fig-00002">
 <media alt="The Upload (1) portion of an Import customers window displays options available: Select a CSV or Excel file to upload (Search window below) and Select Google Sheet (Search window below).">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_12_03_QUI01b.jpg"/></media>
 <caption>QuickBooks also walks you through choosing the file and ensuring the data is in the correct format. (Reprinted with permission © Intuit Inc. All rights reserved.)</caption>
 </figure>
-<figure id="fig-00003" class="scaled-down">
+<figure id="fig-00003">
 <media alt="Export data window Reports tab displays All dates for Pre-selected date ranges for Which reports and lists do you want to export? Slider buttons available for General ledger and Profit and loss.">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_12_03_QUI01c.jpg"/></media>
 <caption>QuickBooks will ask what kind of data you want to export (such as certain transaction types or a date range) and export it to Excel format. (Reprinted with permission © Intuit Inc. All rights reserved.)</caption>

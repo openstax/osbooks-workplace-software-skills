@@ -171,7 +171,7 @@
     </media>
     <caption>The CONCATENATE function can be useful when importing data from a database. The CONCAT function takes data from two columns. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure id="fig-00032">
+    <figure class="scaled-down" id="fig-00032">
       <media alt="Cell D2 is selected and =CONCAT(A2,” “,B2 is in the formula bar. Cell D2 is populated with Rachel Kesterson.">
         <image mime-type="image/jpg" src="../../media/OSX_BCA_11_02_Concaten2.jpg"/>
       </media>
