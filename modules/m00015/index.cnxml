@@ -218,11 +218,9 @@
     </figure>
     <para id="para-00022">The data in <link target-id="fig-00009"/> looks good, but suppose you get a <term class="no-emphasis" id="term-00033">#NUM!</term> error in cell F4 (<link target-id="fig-00010"/>). Recall that this type of error means that the formula contains contradictory or unsound numbers that stop the formula from calculating the correct result. First, try the <term class="no-emphasis" id="term-00034">Error Checking</term> tool. Change the location of the N variable to a blank cell, C1. This gives the error shown in the figure. The formula cannot be calculated based on a blank cell. Choose the Error Checking tool from the <term class="no-emphasis" id="term-00035">Formulas</term> tab in the <term class="no-emphasis" id="term-00036">Formula Auditing</term> command group.</para>
     <note class="mac-tip" id="note-00002">
-    <exercise class="unnumbered" id="exer-00009">
-    <problem id="prob-00009">
+    
     <para id="para-00023">In the Mac version, the Error Checking tool is located in the Formulas menu.</para>
-    </problem>
-    </exercise>
+
     </note>
     <para id="para-00024">When the window appears, choose Show Calculation Steps (<link target-id="fig-00010"/>). This opens the <term class="no-emphasis" id="term-00037">Evaluate Formula</term> command, which shows the formula already solved (<link target-id="fig-00011"/>a). When examining the formula, you can see the values of 0.065 for the rate and 750,000 for the principal. Because the <term class="no-emphasis" id="term-00038">PMT function</term> requires you to input N, or the number of payment periods, you would also expect to see 10 in the formula, but there is a 0 instead of a 10 in the N variable location in the formula. Thus, you can see where the problem in the formula is, so you can fix it. If you then close the Evaluate Formula window, you are taken back to the Error Checking tool from where you can choose Edit in <term class="no-emphasis" id="term-00039">Formula Bar</term>. When selected, the cells used in the formula are highlighted. At this point, you should see that the formula uses cell C1, not C2 as was intended. Revise the formula to replace C1 with C2 (<link target-id="fig-00011"/>b), and run the Error Checking tool again. Now the worksheet doesn’t have any errors (<link target-id="fig-00012"/>c).</para>
     <figure id="fig-00010">

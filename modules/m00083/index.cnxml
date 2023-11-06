@@ -22,11 +22,9 @@
     <para id="para-00005">A <term id="term-00001">database</term> stores a large amount of data in an effective way that will allow for efficient retrieval in a computerized environment. Databases may be physical objects, such as address books or file folders, each of which provides a place to keep data in an organized fashion so we can quickly locate what we need. Physical storage has limits, however, because its structure is easily overwhelmed when datasets get too large, and retrieval of meaningful information becomes impossible.</para>
     <para id="para-00006">A <term id="term-00002">digital database</term> is a computerized file that not only stores data in a structured or organized way but also allows users to make changes to transform data. Digital databases are often contained within a program such as Access on a desktop computer or Microsoft Azure or an <term class="no-emphasis" id="term-00003">structured query language (SQL)</term> server at the companywide level. Digital databases add new features and capabilities to business decision-making by combining the power of analytics with the structure of tables and rows.</para>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+   
     <para id="para-00007">Access is only available on desktops and laptops with a Windows operating system. It is not available on Mac, Chrome, or Linux devices. Mac has a comparable desktop/laptop database called FileMaker.</para>
-    </problem>
-    </exercise>
+
     </note>
     <para id="para-00008">Digital databases provide structure, organization, and access. But unlike physical objects, they provide a flexible structure that enables us to capture, store, and organize large, complicated sets of data, and that also gives us options for retrieving and using information. Using digital databases enables users to transform data, creating new ways of informing decisions. Because businesses must make decisions based on data every day, the key to good decision-making is creating a database that contains accessible, organized, actionable data.</para>
     <section id="sect-00002">

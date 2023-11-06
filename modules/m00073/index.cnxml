@@ -32,11 +32,9 @@
     <para id="para-00006">As stated previously, getting things to look exactly how you want them to appear next to each other is crucial to maximizing the design power of PowerPoint. But it can be difficult to align objects with other objects on a single slide, or objects with text, using only your mouse. Under the View tab, you will find a helpful alignment tool that you can access by checking the Guides box. When this box is checked, there will be two dashed lines on the presentation slide, one centered vertically and the other centered horizontally.</para>
     <para id="para-00007">When you hover your mouse over one of these lines while holding down the Ctrl key, the cursor turns into a double line with arrows. Drag the line to where you want one guideline to be and let go of the mouse. When you do this, another line is created.</para>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+    
     <para id="para-00008">Hold down the Option key, not the Ctrl key, to turn your cursor into a double line with arrows.</para>
-    </problem>
-    </exercise>
+
     </note>
     <para id="para-00009">You can continue to add guidelines anywhere on your slide to insert and align objects, text boxes, photos, and so forth. (In the section on <link document="m00074">Adding Visuals and Features to Microsoft PowerPoint Slides</link>, we will cover inserting objects and images.) See <link target-id="fig-00001"/> for a visual example of what the guides look like after adding them to a slide. (If you see that the Guides box is checked but no lines are apparent, just uncheck it and check it again. That will usually bring the guides back into view.)</para>
     <figure id="fig-00001" class="scaled-down">
