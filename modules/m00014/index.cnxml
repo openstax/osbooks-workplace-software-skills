@@ -36,7 +36,7 @@
     <item>All erroneous, duplicate, and/or blank values are deleted from the data.</item>
     <item>All values in each column are of the same value (e.g., currency, date, text).</item>
     </list>
-    <para id="para-00007">Next, convert your data into a <term class="no-emphasis" id="term-00003">top-down table</term>, meaning that all of the data range headers should run along the top row of the sheet. This is the typical format for tables and will make using PivotTables much easier. In general, horizontal tables can be hard to follow. Cross-tabular source data (with headers on top/bottom and left/right) are even more difficult to read for the PivotTable generator. Designate a unique name for each top header; do not repeat any column header names. <link target-id="fig-00001"/> shows a correctly formatted worksheet.</para>
+    <para id="para-00007">Next, convert your data into a <term class="no-emphasis" id="term-00003">top-down table</term>, meaning that all of the data range headers should run along the top row of the sheet. This is the typical format for tables and will make using PivotTables much easier. In general, horizontal tables can be hard to follow. Cross-tabular source data (with headers on top/bottom and left/right) are even more difficult to read for the PivotTable generator. Designate a unique name for each top header; do not repeat any column header names. <link target-id="fig-00001"/> shows a correctly formatted worksheet. You can copy this worksheet into Excel, or you can use the data in the "pivot_table_data" tab of the downloadable <link url="https://openstax.org/r/78Ch10DataFile">Chapter 10 data file</link> workbook.</para>
     <figure id="fig-00001">
     <title/>
     <media alt="A large spreadsheet with columns and rows of data, both text and numerical. All of the unique data range headers run along the top row of the sheet.">
@@ -89,7 +89,7 @@
     </figure>
     </section>
     <section id="sect-00005">
-    <title>Using the “Recommended PivotTable” Tool</title>
+    <title>Using the Recommended PivotTable Tool</title>
     <para id="para-00013">If you are unsure how to organize a <term class="no-emphasis" id="term-00006">PivotTable</term> for your data, Excel can recommend one depending on how the data is organized. Let’s see what using a recommended PivotTable might look like.</para>
     <para id="para-00014">Go to the Insert tab and select the Recommended PivotTables icon. A dialog box appears with a handful of recommended charts. Scroll and select the one you like best. These recommended tables may be helpful to get you started, but they only compare one variable at a time. However, if you choose one, the new PivotTable will appear in another worksheet, and you can customize it there, adding or reorganizing variables until you have a PivotTable that presents your data in a way that makes sense.</para>
     </section>
