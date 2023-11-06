@@ -81,7 +81,7 @@
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_03_MULT01a.jpg"/></media>
     <caption>For multiplication, use cell references to construct formulas. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure id="fig-00010">
+    <figure class="scaled-down" id="fig-00010">
     <title/>
     <media alt="Cell F3 says $280.00. The formula bar says “=D3*28.” Cell D3 says 10.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_03_MULT01b.jpg"/></media>

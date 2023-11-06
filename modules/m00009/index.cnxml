@@ -101,7 +101,7 @@
     <section id="sect-00010">
     <title>Conditional Formatting</title>
     <para id="para-00012">Conditional formatting allows us to apply preset formatting to data that meets certain criteria. You can find the conditional formatting feature in Sheets on the Format menu (<link target-id="fig-00009"/>). First, select the cells to format, and then choose the <term class="no-emphasis" id="term-00012">conditional formatting</term> feature. A sidebar opens where you can set up the conditional formatting. In this example, the conditions are set so that Sheets will highlight in the default color any cells in the range G2:G11 that have values greater than 999. The table updates instantly (<link target-id="fig-00011"/>).</para>
-    <figure id="fig-00009">
+    <figure class="scaled-down" id="fig-00009">
     <title/>
     <media alt="Cell G6 selected. Format tab selected and drop-down lists Theme, Number, Text, Alignment, Wrapping, Rotation, Font Size, Merge cells, Conditional formatting, Alternating colors, and Clear formatting. Arrow points to Conditional formatting.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_08_CONFOR01.jpg"/></media>

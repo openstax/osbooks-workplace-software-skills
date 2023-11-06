@@ -167,14 +167,14 @@
     </media>
     <caption>The colors can be adjusted to reflect your company’s brand. (Google Forms is a trademark of Google LLC.)</caption>
     </figure>
-    <figure id="fig-00012">
+    <figure class="scaled-down" id="fig-00012">
     <media alt="Theme options are visible for a form with tabs for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_FBLAN09b.jpg"/>
     </media>
     <caption>You can add your company’s logo on the theme options. (Google Forms is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00018">Now, go back to your Office Supply Order Form. Build out the rest of the questions from the form that we created in Word. We can use some of the tools now to customize the theme to make it more visually appealing and professional in appearance. <link target-id="fig-00013"/> shows an example of some customizations that you might choose to include in the form.</para>
-    <figure id="fig-00013">
+    <figure class="scaled-down" id="fig-00013">
     <media alt="Required questions in a form are followed with an *. At the top of the form *Required is visible in red font.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_05_GFORM02.jpg"/>
     </media>

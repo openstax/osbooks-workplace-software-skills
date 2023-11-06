@@ -25,14 +25,14 @@
     <para id="para-00005">To make formatting easy to use and high quality, Excel offers Themes. Applying a Theme can quickly change the color scheme, fonts, and size of a table or graph. For example, you could easily change the formatting of a table without manually readjusting everything. If your objective is to save time when changing the overall formatting, choose a default theme and all the formatting will be handled automatically.</para>
     <para id="para-00006">To access Themes, go to the <term class="no-emphasis" id="term-00003">Page Layout</term> tab and select the Themes icon (<link target-id="fig-00001"/>a). Then, choose any of the available themes. (“Wisp” is shown in <link target-id="fig-00012"/>.) All of the formatted tables and graphs in that particular workbook will be changed. If you have a simple worksheet with no specific formatting such as colors, font style, and the like, when you choose a theme, nothing will change. However, if you have a worksheet with formatted headings and charts, you will notice changes when you select a theme. The Color combo box lets users further modify the theme by selecting a different color palette (<link target-id="fig-00001"/>b).</para>
     <para id="para-00007">For additional changes, the Home tab has a combo box called <term id="term-00004">Cell Styles</term> that lets users select other font sizes or background colors, as shown in <link target-id="fig-00002"/>. Depending on your selection in the <term class="no-emphasis" id="term-00005">Colors</term> menu in the Themes command group (Page Layout tab), the options in the Styles menu will change. For instance, use Blue from the palette, and in the Styles combo box, select Heading 3 and Accent 5, 40%. If an orange color palette from the Color menu was chosen, the Styles options would be orange tones.</para>
-    <figure id="fig-00001">
+    <figure class="scaled-down" id="fig-00001">
     <title/>
     <media alt="(a) Themes button is selected and opens to options for Office (various color combinations displayed), Browse for Themes, Save Current Theme. (b) Office pane displays color options for selection and Customize Colors.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_Themes01ab.jpg"/>
     </media>
     <caption>(a) Themes are useful if your company has a custom theme to apply for all charts. (b) Color schemes can be customized to meet your needs. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure id="fig-00002">
+    <figure class="scaled-down" id="fig-00002">
     <title/>
     <media alt="Cell Styles button opens to options: Good, Bad, and Neutral, Data and Model, Titles and Headings, Themed Cell Styles, and Number Format. Selections available for New Cell Style and Merge Styles.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_Themes02.jpg"/>
@@ -58,7 +58,7 @@
     <section id="sect-00005">
     <title>Other Formatting Tools</title>
     <para id="para-00011">Another time-saving strategy is using the <term class="no-emphasis" id="term-00007">Format as Table</term> tool. On the Home tab, select the Format as Table combo box to see many options for formatting tables (<link target-id="fig-00003"/>). The background color, heading font, and borders can be changed; additionally, column widths will change automatically to fit the text. This feature also automatically adds filters to the columns, which can help with organizing the data in a table <link target-id="fig-00013"/>. However, using the Format as Table feature does not format cells according to their content, such as currency.</para>
-    <figure id="fig-00003">
+    <figure class="scaled-down" id="fig-00003">
     <title/>
     <media alt="Format as Table button opens to options for Light, Medium, and Dark. At the end of the list there are options for New Table Style and New PivotTable Style.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_06_FormatT01.jpg"/>

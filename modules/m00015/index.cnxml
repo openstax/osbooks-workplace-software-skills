@@ -186,14 +186,14 @@
     </media>
     <caption>Access Excel Options from the File tab to find Add-Ins. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure id="fig-00017">
+    <figure class="scaled-down" id="fig-00017">
     <title/>
     <media alt="(a) COM Add-Ins window displays selection pane for Add-ins available. Acrobat PDFMaker Office COM Addin and Inquire are selected. (b) Workbook Analysis is selected from the Report command group.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_05_ENQ02.jpg"/>
     </media>
     <caption>(a) Inquire is a formula-auditing tool that does what the Watch Window does but also gives the found errors and organizes the formulas by categories. (b) Inquire will be added as a tab giving you several options to choose from. (Used with permission from Microsoft)</caption>
     </figure>
-    <figure id="fig-00008">
+    <figure class="scaled-down" id="fig-00008">
     <title/>
     <media alt="A pane displays options for Items (lists Summary, Workbook, Formulas along with other options), Results (lists Item, Sheet Name, Cell Address, Formula), and Export (includes Item detail limit and Excel Export button).">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_10_05_ENQ03.jpg"/>

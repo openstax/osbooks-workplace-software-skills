@@ -50,7 +50,7 @@
     <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_SUBTRCT01.jpg"/></media>
     <caption>You can perform subtraction calculations in Sheets using formulas, just as in Excel. After finding the average, subtract the average from the quantity to get the distance from average. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
-    <figure id="fig-00012">
+    <figure class="scaled-down" id="fig-00012">
 <title/>
 <media alt="Cell G24 is selected and the formula bar shows: =E24-F24. The information in the cell is: $ (14.72).">
 <image mime-type="image/jpg" src="../../media/OSX_BCA_09_07_SUBTRCT02.jpg"/></media>

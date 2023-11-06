@@ -95,7 +95,7 @@
     <caption>Changes to the line spacing in the table now make the form more visually appealing. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00019">Now that you have the form constructed and the control fields inserted, you can customize each control field if necessary. To do that, you need to select the control field, and then choose the Properties command. A dialog box will appear for that control, as shown in <link target-id="fig-00009"/> for the first field, “Today’s Date.” Here, you can change the format of the date to be entered. There are only a few options for the text boxes. You can change the font and the fill color. You can also choose to have the control locked so that it cannot be deleted. For this example, use the default settings.</para>
-    <figure id="fig-00009">
+    <figure class="scaled-down" id="fig-00009">
     <media alt="A Content Control Properties pane is visible. The Locking displays options for Content control cannot be deleted (selected) and Contents cannot be edited.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_05_03_FORM05.jpg"/>
     </media>
