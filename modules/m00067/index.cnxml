@@ -27,8 +27,7 @@
     <caption>Most hosting services provide data to help you see how many people have visited your website.</caption>
     </figure>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+    
     <para id="para-00005">Mac users can take advantage of the built-in tools and features available on macOS, such as the Safari Web Inspector. <term class="no-emphasis" id="term-00007">Safari</term>, the default web browser on Mac, comes with a powerful development tool called the <term class="no-emphasis" id="term-00008">Web Inspector</term>. It allows you to analyze and debug web pages, which can be valuable for SEO purposes. To access it, follow these steps:</para>
     <list id="list-00002">
     <item>Open Safari and navigate to the web page you want to inspect.</item>
@@ -38,8 +37,7 @@
     <item>Close the Preferences window.</item>
     </list>
     <para id="para-00006">You should now see a Develop menu in the menu bar. Click on it and choose Show Web Inspector. Once the Web Inspector is open, you can use its various panels to analyze the structure of the web page, inspect HTML elements, view and modify CSS styles, monitor network requests, and more. This can be helpful for identifying SEO-related issues, such as missing meta tags, slow-loading resources, or improperly structured content.</para>
-    </problem>
-    </exercise>
+
     </note>
     <section id="sect-00003">
     <title>How Does Google Work?</title>

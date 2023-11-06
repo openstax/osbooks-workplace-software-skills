@@ -84,11 +84,9 @@
 <caption>(a) Notice the final answer is negative (as indicated by “()” and red font. (b) The “-” in front of D3 changes the installment payment to a positive number. (Used with permission from Microsoft)</caption>
 </figure>
 <note class="mac-tip" id="note-00002">
-<exercise class="unnumbered" id="exer-00001">
-<problem id="prob-00001">
+
 <para id="para-00011">In the Mac version of Excel, using the functions for all of the time value of money variables does not open a dialog box, as it does in the Windows version. Instead, you must enter the values between the parentheses in the Formula Bar.</para>
-</problem>
-</exercise>
+
 </note>
 </section>
 <section id="sect-00005">
@@ -120,11 +118,9 @@
 </figure>
 <para id="para-00014">The difference between the two options might not seem that significant: 4.11 years compared with 4.24 years. However, when you take that number and multiply it by the yearly installment, you can see the overall difference between the two loans. For Bank X, you will pay a total of $74,027.02 (= 4.11 × $1,800) and using the same process for Bank Y, the total cost is $76,239.91. It would save you more than $2,000 by going with Bank X. You will need to decide if that is enough savings to take the business away from your current bank. This example shows you that sometimes decisions are not always based on the numbers. Sometimes nonfinancial aspects must be considered when making decisions such as this.</para>
 <note class="mac-tip" id="note-00003">
-<exercise class="unnumbered" id="exer-00002">
-<problem id="prob-00002">
+
 <para id="para-00015">The Mac version requires the periods to be in months.</para>
-</problem>
-</exercise>
+
 </note>
 </section>
 <section id="sect-00007">

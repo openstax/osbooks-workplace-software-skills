@@ -75,11 +75,9 @@
     </tgroup>
         </table>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+    
     <para id="para-00008">Percentages are shown with two decimal points by default.</para>
-    </problem>
-    </exercise>
+ 
     </note>
     <para id="para-00009">You can choose the type of numerical value appropriate for your data on the Home tab. <link target-id="fig-00001"/> shows the drop-down menu in the <term class="no-emphasis" id="term-00013">Number command group</term> where you can choose the type of numerical data you have. You can also access more details about the number type by selecting the arrow in the lower-right corner of the Number command group. This will open up the Format Cells dialog box that allows you to specify many more types of number formatting, including the number of decimal places. If you’re starting from a blank worksheet, you can plan in your mind what kind of values your tables will contain, so that you can design them to be informative and display logical information. You can even do this prewrite of the table on a piece of paper, or as you go through the process of designing the document in Excel.</para>
     <figure id="fig-00001">

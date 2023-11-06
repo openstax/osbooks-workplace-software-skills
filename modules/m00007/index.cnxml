@@ -21,11 +21,9 @@
     <title>Using the Copy-and-Paste and Insert Functions</title>
     <para id="para-00003">Before learning to design and build a table from a blank worksheet, you need to understand how to use formatting from an existing table, as with Excel. Say a table to be copied to a new blank worksheet. Follow the same basic procedure as with Excel. First, select the table (<link target-id="fig-00001"/>), then choose <term class="no-emphasis" id="term-00002">Copy</term> from the Edit menu or press Ctrl+C on the keyboard. Next, go to the new worksheet and choose Paste from the Edit menu or press Ctrl+V. There will be are a few minor differences between your new table and the original. For example, the column widths of the original were adjusted to their contents, whereas in the pasted table, all columns have the same width. To adjust the widths, you can double-click on the edges of the header row between two columns you want to adjust.</para>
     <note class="mac-tip" id="note-00001">
-    <exercise class="unnumbered" id="exer-00001">
-    <problem id="prob-00001">
+   
     <para id="para-00004">As in Excel, Mac uses the <term class="no-emphasis" id="term-00003">Command key</term> instead of the Control key, so the shortcut for copy is Command+C and the shortcut for paste is Command+V.</para>
-    </problem>
-    </exercise>
+
     </note>
     <para id="para-00005">You have now created a new table using the formatting of an existing table, but the table isn’t exactly what we need. Your manager asks you to add a new column between existing columns for the destination. To do this, first click on the top of column C to highlight the whole column, because you will insert the new column to its left. Then, click on the <term class="no-emphasis" id="term-00004">Insert menu</term> to select Column Left (<link target-id="fig-00002"/>a), which will insert a blank column (<link target-id="fig-00002"/>b) where you can input your new data.</para>
     <figure id="fig-00001" class="scaled-down">

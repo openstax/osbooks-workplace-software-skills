@@ -171,11 +171,9 @@
     <caption>Both tables are formatted using the same font, fill color, and number format. (Used with permission from Microsoft)</caption>
     </figure>
     <note class="mac-tip" id="note-00003">
-    <exercise class="unnumbered" id="exer-00007">
-    <problem id="prob-00007">
+    
     <para id="para-00022">The Mac version uses <term class="no-emphasis" id="term-00016">Cell Styles</term> to format cells.</para>
-    </problem>
-    </exercise>
+
     </note>
     <para id="para-00023">There are also other ways to copy formatting. Another way is to use the <term class="no-emphasis" id="term-00017">Paste Special</term> tool. You first select the whole formatted table and press <term class="no-emphasis" id="term-00018">Ctrl+C</term> (to copy it), then select your entire unformatted table (<link target-id="fig-00011"/>a). Then, on the Home tab, choose Paste Special from the <term class="no-emphasis" id="term-00019">Paste</term> menu and click on Formatting (R) from the last row, as shown in <link target-id="fig-00011"/>b. This tool will paste just the formatting from your original selection; it will not paste any of the values or formulas (<link target-id="fig-00011"/>c).</para>
     <figure id="fig-00011">
