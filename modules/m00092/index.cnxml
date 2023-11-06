@@ -62,7 +62,7 @@
     </section>
     <section id="sect-00008">
     <title>Using the Form Tool</title>
-    <para id="para-00016">A list of form tools is available within the <term class="no-emphasis" id="term-00009">Form design</term> tab on the right side of the ribbon. To add existing fields to a form, click the <term class="no-emphasis" id="term-00010">Add Existing Fields</term> command (see <link target-id="fig-00003"/>). The <term class="no-emphasis" id="term-00011">Field List</term> pane will appear, and you can select a field or fields to add to your form.</para>
+    <para id="para-00016">A list of form tools is available within the <term class="no-emphasis" id="term-00009">Form Design</term> tab on the right side of the ribbon. To add existing fields to a form, click the <term class="no-emphasis" id="term-00010">Add Existing Fields</term> command (see <link target-id="fig-00003"/>). The <term class="no-emphasis" id="term-00011">Field List</term> pane will appear, and you can select a field or fields to add to your form.</para>
     <figure id="fig-00003" class="scaled-down">
     <media alt="Screenshot of Tools command group displays these options for selection: Add Existing Fields, Property Sheet, Tab Order, Chart Settings, Subform in New Window, View Code, and Convert Form’s Macros to Visual Basic.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_03_FormTools.jpg"/>
@@ -126,7 +126,7 @@
     <media alt="(a) A Customers window lists options for selection (State abbreviation and State name) in the State drop-down. (b) A Customers window lists options for selection in the City drop-down.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_03_ComboBox.jpg"/>
     </media>
-    <caption>Drop-down menus can be helpful to reduce the amount of information the user needs to type manually into the form. (Used with permission from Microsoft)</caption>
+    <caption>Drop-down menus can be helpful to reduce the amount of information the user needs to type manually into the form. These menus can be formatted and built in different ways, as evidenced by the State combo box in (a) and the City combo box in (b). (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00031">An additional option that can be added to any combo box is the ability to update the list provided in the combo box. In the example, only a couple of states and cities are listed, so you may want to include a shortcut for adding a new state or city to the table. Combo boxes maintain spelling integrity.</para>
     <para id="para-00032">In this example (see <link target-id="fig-00009"/>, frmState (circled) is a form designed to update the tblState table. This form was then added to the List Items Edit Form criteria on the associated property. Users can select List Items Edit Form option, located in the property sheet, which launches the frmState form to update the table.</para>
@@ -134,7 +134,7 @@
     <media alt="(a) New Customer form displays StateID highlighted in State option. Property Sheet highlights frmState in List items Edit Form. (b) Customers pane lists options for selecting State name in State drop-down.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_03_ComboBoxUp.jpg"/>
     </media>
-    <caption>A table in the database can be used to populate the options in the combo box so that if edited, the form is automatically updated as well. (Used with permission from Microsoft)</caption>
+    <caption>A table in the database (a) can be used to populate the options in the combo box so that if edited, (b) the form is automatically updated as well. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     </section>
@@ -144,7 +144,7 @@
     <para id="para-00034">Before you start to manipulate the appearance of a form, consider creating a template for both primary default views: <term class="no-emphasis" id="term-00022">Single Form view</term> and <term class="no-emphasis" id="term-00023">Continuous Form view</term>. It is important to have a starting point to build from if you anticipate creating numerous forms for the project, all of which will require formatting changes. In this section, you will learn how to add headers and footers, add a title, modify text, control colors, and, finally, add logos and custom imagery. This will be the starting point for you to explore your creativity.</para>
     <section id="sect-00015">
     <title>Adding and Modifying Headers and Footers</title>
-    <para id="para-00035">Adding <term class="no-emphasis" id="term-00024">Header</term> and <term class="no-emphasis" id="term-00025">Footer</term> sections to a form in Access takes just a few simple steps. Start by displaying the form in Design view. See <link target-id="fig-00010"/>. Right-click on the grid area on the design surface and select Form Header/Footer from the shortcut menu.</para>
+    <para id="para-00035">Adding <term class="no-emphasis" id="term-00024">Header</term> and <term class="no-emphasis" id="term-00025">Footer</term> sections to a form in Access takes just a few simple steps. Start by displaying the form in Design view (see <link target-id="fig-00010"/>). Right-click on the grid area on the design surface and select Form Header/Footer from the shortcut menu.</para>
     <figure id="fig-00010" class="scaled-down">
     <media alt="Pane open in Form1 lists options for selection: Build Event, Tab Order, Paste, Fill/Back Color, Alternate Fill/Back Color, Ruler, Grid, Page Header/Footer, Form Header/Footer (selected), Form Properties, and Properties.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_03_FormHeader.jpg"/>

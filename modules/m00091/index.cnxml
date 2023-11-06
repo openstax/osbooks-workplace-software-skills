@@ -75,14 +75,14 @@
     </media>
     <caption>Enabling data integrity is a good idea if you are collaborating with others in the same database file. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00011">Now that you have created a relationship between the tables, build a query that joins the fields from the two tables together. To start, go to <term class="no-emphasis" id="term-00005">Query Design</term> and bring in all the fields from both tables. In this example, the query will be saved as qryNewVehicles, as it will be the driver for the New Vehicle form to use in the vehicle fleet program. See <link target-id="fig-00009"/>.</para>
+    <para id="para-00011">Now that you have created a relationship between the tables, build a query that joins the fields from the two tables together. To start, go to <term class="no-emphasis" id="term-00005">Query Design</term> and bring in all the fields from both tables. In this example, the query will be saved as qryNewVehicles, as it will be the driver for the New Vehicle form to use in the vehicle fleet program (see <link target-id="fig-00009"/>).</para>
     <figure id="fig-00009" class="scaled-down">
     <media alt="(a) tblVehicle and tblMaintenance queries displayed with table. (b) Join Properties pane displays selected option: Include ALL records from ‘tblVehicle’ and only those records from ‘tblMaintenance’ where the joined fields are equal.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_NewVcleQry.jpg"/>
     </media>
     <caption>(a) In the query view you can see the primary keys identified in each table. (b) Define the relationship between the two tables and which records are created in the new table created from the form. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00012">Select qryNewVehicle from the list of All Access Objects to create the form “fromNewVehicle.” See <link target-id="fig-00010"/>. Access will create the form automatically. This form allows the user to enter both the new vehicle that is part of the fleet and the initial check-in service performed on the vehicle.</para>
+    <para id="para-00012">Select qryNewVehicle from the list of All Access Objects to create the form “fromNewVehicle” (see <link target-id="fig-00010"/>). Access will create the form automatically. This form allows the user to enter both the new vehicle that is part of the fleet and the initial check-in service performed on the vehicle.</para>
     <figure id="fig-00010">
     <media alt="qryNewVehicle file displays tblVehicle.VehicleID and MaintenanceID fields both populated with (New). Other blank fields include VIN, Make, Model, VYear, tblMaintenance.VehicleID, Description, RepairDate, and Amount.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_Form2Table.jpg"/>
@@ -122,12 +122,12 @@
     </media>
     <caption>Four tables are joined in this query to create the main form and two subforms. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00025">Now that you have created a query, save and close it. The next step, shown in <link target-id="fig-00013"/> is to select the Form Wizard from the Create tab in Access.</para>
+    <para id="para-00025">Now that you have created a query, save and close it. The next step, shown in <link target-id="fig-00013"/>, is to select the Form Wizard from the Create tab in Access.</para>
     <figure id="fig-00013">
     <media alt="A screenshot of Form Wizard highlighted in the Forms command group of the Create tab in Access.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_14_02_FormWizard.jpg"/>
     </media>
-    <caption>The query established the relationships between the tables and the Form Wizard found on Create tab is used to create the form from the query. (Used with permission from Microsoft)</caption>
+    <caption>The query established the relationships between the tables and the Form Wizard found on the Create tab is used to create the form from the query. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00026">The following sequence of figures walks through the different options in the wizard. Once you have used the wizard a few times, you will find it easier to plan future forms and subforms for data management (see <link target-id="fig-00014"/>, <link target-id="fig-00015"/>, <link target-id="fig-00016"/>, and <link target-id="fig-00017"/>). Remember that we also used the Form Wizard in <link document="m00082">Understanding and Using Databases</link>.</para>
     <figure id="fig-00014" class="scaled-down">
