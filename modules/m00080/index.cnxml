@@ -10,12 +10,12 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Add transitions to a presentation.</item>
-    <item>Add animations to objects and text boxes.</item>
-    <item>Use the tools in the Media command group.</item>
-    <item>Finalize your presentation for viewing.</item>
-    <item>Understand the hardware components of effective presentations.</item>
-    <item>Prepare for different types of presentations (in person, virtual, or hybrid).</item>
+    <item>Add transitions to a presentation</item>
+    <item>Add animations to objects and text boxes</item>
+    <item>Use the tools in the Media command group</item>
+    <item>Finalize your presentation for viewing</item>
+    <item>Understand the hardware components of effective presentations</item>
+    <item>Prepare for different types of presentations (in person, virtual, or hybrid)</item>
     </list>
     </section>
     <para id="para-00002">You learned the basic workings of PowerPoint in <link document="m00069">Preparing Presentations</link>. Now it’s time to learn how to turn those basic slides into a presentation that not only informs but also engages the audience. You want to create a presentation that’s seamless and easy to present from. For example, if you are giving an in-person presentation, you don’t want to have to stand by the computer and manually advance the slides. Also, since the <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation is a presentation about yourself, you want to convey that you are competent with PowerPoint.</para>
@@ -103,10 +103,10 @@
     </media>
     <caption>Additional animations are available, including some of the Emphasis animations. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00015">To add an animation to your presentation, click on a textbox or an object, and then choose an animation from the menu. Next, in the Timing command group, click the drop-down arrow for Start. You can leave it at Start on Click, or you can choose Start With Previous or Start After Previous. You need to choose when the animation will start.</para>
+    <para id="para-00015">To add an animation to your presentation, click on a text box or an object, and then choose an animation from the menu. Next, in the Timing command group, click the drop-down arrow for Start. You can leave it at Start on Click, or you can choose Start With Previous or Start After Previous. You need to choose when the animation will start.</para>
     <para id="para-00016">Not all animations need to be dramatic or used for emphasis. For example, you can make a bullet list appear one bullet at a time, as opposed to having the whole list appear at once. You can have the first bullet appear, talk about it, and when you are ready, click the mouse again to have the second bullet appear, and so on. This can help you control the flow of the discussion by limiting what your audience sees on the screen. For consistency, you should use the same animation for each of the bullet points in the list.</para>
     <para id="para-00017">We can use this approach to add animations to the bulleted list in our <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation. We used a bulleted list in the Strengths &amp; Skills slide; let’s apply an animation there.</para>
-    <para id="para-00018">To begin, click on the bulleted list to select it. Then go the Animations tab and choose an appropriate animation. For this example, let’s choose Appear, so that the bullet will simply appear based on the settings you choose in the Timings command group (see <link target-id="fig-00006"/>). Notice when an animation is added to an object or textbox, the Preview tool is available on the left of the screen, as is a numbered list to the left of each item in the bulleted list. These numbers allow you to adjust the settings for each of the bullet points in the list. When you add an animation, there are also adjustments that can be made through the Effect Options drop-down list. The list can appear as one object, all at once, or by paragraph.</para>
+    <para id="para-00018">To begin, click on the bulleted list to select it. Then go the Animations tab and choose an appropriate animation. For this example, let’s choose Appear, so that the bullet will simply appear based on the settings you choose in the Timings command group (see <link target-id="fig-00006"/>). Notice when an animation is added to an object or text box, the Preview tool is available on the left of the screen, as is a numbered list to the left of each item in the bulleted list. These numbers allow you to adjust the settings for each of the bullet points in the list. When you add an animation, there are also adjustments that can be made through the Effect Options drop-down list. The list can appear as one object, all at once, or by paragraph.</para>
     <figure id="fig-00006">
     <media alt="A PowerPoint screen is open to the Animations tab. The Effect Options button is selected.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_APPEAR.jpg"/>
@@ -269,7 +269,7 @@
     </note>
     <section id="sect-00008">
     <title>Comments</title>
-    <para id="para-00049">As in other Microsoft products, the Review tab is also where you can find tools for collaboration and commenting. (PowerPoint does not allow users to track changes.) We discuss a workaround for this in the <link document="m00080" target-id="sect-00009">Compare</link> section. When working with others to produce a presentation, your colleagues have the option of adding comments to it. To do this, open the Review tab, then click on a word in the place where you want the comment to appear, and then click on New Comment. As you can see in the example slide in <link target-id="fig-00018"/>, the Comments pane opens to the right. After you type the comment and click Enter, a reply textbox becomes available. You, or anyone else with permission to work on the presentation, can enter a reply to the comment here.</para>
+    <para id="para-00049">As in other Microsoft products, the Review tab is also where you can find tools for collaboration and commenting. (PowerPoint does not allow users to track changes.) We discuss a workaround for this in the <link document="m00080" target-id="sect-00009">Compare</link> section. When working with others to produce a presentation, your colleagues have the option of adding comments to it. To do this, open the Review tab, then click on a word in the place where you want the comment to appear, and then click on New Comment. As you can see in the example slide in <link target-id="fig-00018"/>, the Comments pane opens to the right. After you type the comment and click Enter, a reply text box becomes available. You, or anyone else with permission to work on the presentation, can enter a reply to the comment here.</para>
     <para id="para-00050">Notice that a callout symbol opens in the place where you want the comment to apply. You can move the callout symbol around on the slide without affecting the content of the comment.</para>
     <figure id="fig-00018">
     <media alt="A PowerPoint screen with the Review tab selected is shown. The Show Comments feature has been clicked and an open comment bubble has been created.">
@@ -298,7 +298,7 @@
     </section>
     <section id="sect-00010">
     <title>Printing a Presentation</title>
-    <para id="para-00053">Sometimes, as a presenter, you may wish to print your presentation as a handout for the audience. You could provide the slides as a handout prior to the presentation so that the participants can take their own notes on the information, or offer them to participants as they exit the presentation. PowerPoint gives you many options for accomplishing this. On the File menu, click Print, and you will see a familiar pop-up menu, as shown in <link target-id="fig-00021"/> and <link target-id="fig-00022"/>).</para>
+    <para id="para-00053">Sometimes, as a presenter, you may wish to print your presentation as a handout for the audience. You could provide the slides as a handout prior to the presentation so that the participants can take their own notes on the information, or offer them to participants as they exit the presentation. PowerPoint gives you many options for accomplishing this. On the File menu, click Print, and you will see a familiar pop-up menu, as shown in <link target-id="fig-00021"/> and <link target-id="fig-00022"/>.</para>
     <figure id="fig-00021" class="scaled-down">
     <media alt="Image A shows a screenshot of the print options. Image B shows the same print options with the Print All Slides feature selected.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_03_Printab.jpg"/>
