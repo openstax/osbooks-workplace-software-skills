@@ -101,7 +101,7 @@
     <item>Create SEO-friendly URLs that describe your content and include keywords.</item>
     <item>Use hyphens to separate words and lowercase letters.</item>
     </list>
-    <para id="para-00020">Let’s look at some examples of good and not-so-great URLs. <link target-id="fig-00003">Figure 08_04_URL</link> outlines some good URLs and URLS that could use some work.</para>
+    <para id="para-00020">Let’s look at some examples of good and not-so-great URLs. <link target-id="fig-00003"/> outlines some good URLs and URLS that could use some work.</para>
     <figure id="fig-00003">
     <media alt="A table displays columns for: Not Good, Better, and Reason along with three rows of various site names for each.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_08_04_URL.jpg"/>
