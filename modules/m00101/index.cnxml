@@ -10,8 +10,8 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Create Access tables from Excel worksheets.</item>
-    <item>Create Excel worksheets from Access tables.</item>
+    <item>Create Access tables from Excel worksheets</item>
+    <item>Create Excel worksheets from Access tables</item>
     </list>
     </section>
     <para id="para-00002">Different Microsoft applications, such as Access and Word, have different requirements when it comes to integrating information into other applications. Access is a program designed to manage and store data. Unlike Excel, it is not designed to analyze data and perform complex calculations. However, you can integrate Excel data into Access and vice versa. Some of these concepts were covered in the chapters on databases. Revisit those chapters to refresh your memory on the functionality and purpose of Access as an application for managing information.</para>

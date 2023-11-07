@@ -10,10 +10,10 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Integrate Word documents into Excel worksheets.</item>
-    <item>Link Excel worksheets to Word documents.</item>
-    <item>Insert Excel charts into Word documents.</item>
-    <item>Embed Access data into Word documents.</item>
+    <item>Integrate Word documents into Excel worksheets</item>
+    <item>Link Excel worksheets to Word documents</item>
+    <item>Insert Excel charts into Word documents</item>
+    <item>Embed Access data into Word documents</item>
     </list>
     </section>
     <para id="para-00002">One key advantage of a suite like Microsoft 365 (Office) is that it enables you to insert information from other file types into its applications. For example, suppose you want to connect a file with a more narrative structure to explain your analysis in an Excel worksheet. You can use file integration to include notes that detail the specific calculations or data sources in Excel. Conversely, in a company-wide report, it may be helpful to include chart visuals to illustrate how sales have changed over the last quarter. These are just a few examples of the value of integrating Word and Excel when conveying information to a broad audience.</para>
@@ -34,7 +34,7 @@
     <caption>The summary memo is in a Word file that can be incorporated into the Excel file by using the Insert Object function. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00005">Using the Insert Object function in Excel, you can integrate the Word document into the file. First, place your cursor where you would like to have the memo information placed in the Excel document. In this example, let’s choose cell A10. The object will be inserted into the selected cell. Note that you will be able to move and resize the object once you have placed it on the worksheet, but it is easier to manipulate the object if you insert it in the general location where you would like it to be. Also note that resizing an object can compromise its readability—another reason to be cautious about placing large amounts of text in Excel.</para>
-    <para id="para-00006">As covered in <link document="m00097">Microsoft Office: Collaboration and Integration</link>, go to the Insert tab and the Text command group, and choose Object (<link target-id="fig-00003"/>). From there, you have two options: Create New or Create from File. Select Create from File (see <link target-id="fig-00004"/>).</para>
+    <para id="para-00006">As covered in <link document="m00097">Microsoft 365: Collaboration and Integration</link>, go to the Insert tab and the Text command group, and choose Object (<link target-id="fig-00003"/>). From there, you have two options: Create New or Create from File. Select Create from File (see <link target-id="fig-00004"/>).</para>
     <figure id="fig-00003">
     <media alt="Text button selected from Insert tab in Excel. Opens to options for: Text Box, Header &amp; Footer, WordArt, Signature Line, and Object. Object is indicated.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_15_02_InsObjA.jpg"/>
@@ -69,7 +69,7 @@
     </media>
     <caption>(a) Make sure there is a check in the Display as icon box if you want to insert an icon rather than the actual text in the Word file. (b) The icon appears much smaller than the embedded memo content. The Word icon makes it clear that the file is a Word document. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00011">Finally, you can choose to link the Word document and the Excel spreadsheet using the Link to File option. This provides a dynamic link to the file so that any changes made in the Word file will also be reflected in the Excel file. To insert a link to the file, tick the checkbox, Link to File, and click OK. The result will look similar to <link target-id="fig-00005"/>. Generally speaking, providing a link is the preferred option unless you are certain that the source file is not going to change. However, remember that if the file path (where the source file is saved on your computer or in your cloud drive) changes, you will need to insert the link again into your Excel worksheet.</para>
+    <para id="para-00011">Finally, you can choose to link the Word document and the Excel spreadsheet using the Link to File option. This provides a dynamic link to the file so that any changes made in the Word file will also be reflected in the Excel file. To insert a link to the file, tick the checkbox, Link to File, and click OK. Generally speaking, providing a link is the preferred option unless you are certain that the source file is not going to change. However, remember that if the file path (where the source file is saved on your computer or in your cloud drive) changes, you will need to insert the link again into your Excel worksheet.</para>
     </section>
     <section id="sect-00003">
     <title>Integrating Microsoft Excel Worksheets into Microsoft Word Documents</title>

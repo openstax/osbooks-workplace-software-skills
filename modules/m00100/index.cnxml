@@ -10,9 +10,9 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Add PowerPoint slides to Excel worksheets.</item>
-    <item>Incorporate Excel worksheets into PowerPoint slides.</item>
-    <item>Integrate Excel charts into PowerPoint slides.</item>
+    <item>Add PowerPoint slides to Excel worksheets</item>
+    <item>Incorporate Excel worksheets into PowerPoint slides</item>
+    <item>Integrate Excel charts into PowerPoint slides</item>
     </list>
     </section>
     <para id="para-00002">WorldCorp shares information in a variety of ways and with multiple audiences. Integrating Excel and PowerPoint data is simply another way of presenting information to others in a streamlined format, often eliminating the need for sending multiple files. For example, you may need to share some key financial data with an external stakeholder, but you only wish to share some of that data as well as provide some context for it. A PowerPoint presentation that includes Excel charts and data tables can be a useful and visually interesting way of sharing this type of information. Using many of the same approaches covered in earlier sections, integrating Excel and PowerPoint is quite simple.</para>
