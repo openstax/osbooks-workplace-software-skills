@@ -10,10 +10,10 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Discuss how databases are used in organizations.</item>
-    <item>Compare and contrast the features of a relational database system with other types of databases and data storage.</item>
-    <item>Describe the objects in a relational database.</item>
-    <item>Evaluate applications of relational database management systems in organizations.</item>
+    <item>Discuss how databases are used in organizations</item>
+    <item>Compare and contrast the features of a relational database system with other types of databases and data storage</item>
+    <item>Describe the objects in a relational database</item>
+    <item>Evaluate applications of relational database management systems in organizations</item>
     </list>
     </section>
     <para id="para-00002">Data—bits of information about people, places, and things—is a key part of the world of business and technology. It can take the form of words or numbers and is frequently collected without active individual involvement. For example, the internet is constantly collecting information on what consumers look at, click on, and read. This information is then often passed on to a database or even parsed out to several databases. Other technology, including sensors and the so-called Internet of Things, is also constantly recording and storing data for businesses to use in a myriad of ways.</para>
@@ -51,7 +51,7 @@
     <para id="para-00023">In this example, the user (John) requests data from the department in charge of the data warehouse (DMD), downloads the dataset, and uses it to generate actionable information through analysis.</para>
     <para id="para-00024">Data can come in a variety of formats and configurations. The way in which data is stored can affect how the data can be used, so it is important that a business carefully consider how its data will be stored. There are advantages and disadvantages to each storage medium, but based on the type and volume of data being stored, some storage formats are more suitable than others.</para>
     <section id="sect-00004">
-    <title>Data Warehouse</title>
+    <title>Data Warehouses</title>
     <para id="para-00025">When we discuss data storage, we are typically talking about the <term id="term-00008">data warehouse</term>—a data management system that stores and manages data, especially data related to business intelligence operations and activities. Data warehouses are built for storage, accessibility, and retrieval, as <link target-id="fig-00001"/> illustrates, and often integrate data from a variety of sources within the organization. You may also hear the term <term id="term-00009">data mart</term>, which is a subset of the data warehouse that is optimized for specific workgroups or functions. Typically, data flows into the warehouse on a predetermined schedule, adding to the existing data available for analytical work.</para>
     <figure id="fig-00001">
     <media alt="Flow diagram displays how Sources (Database, App, Flat files CSV XML) Extract, then Transform, and Load to Targets (Data Warehouse, Data Mart, Database).">
@@ -85,7 +85,7 @@
     <para id="para-00035">Access, as a desktop RDBMS, uses the same idea of connecting tables through joins to make data retrieval quick and efficient and has the added benefit of using a graphical user interface. To work with data in Access, you do not need to know a language such as Java, Python, R, or SQL. Since we often need to analyze information from a larger data store, like the data warehouse, being able to work with relationships makes it possible to efficiently access information from multiple parts of the database.</para>
     <section id="sect-00007">
     <title>Storing Data in an RDBMS</title>
-    <para id="para-00036">An RDBMS stores data in a database, which is a series of connected tables. The RDBMS provides the software and system structure for the data; the database is the holding area of the data. In practice, the term <emphasis effect="italics">database</emphasis> is usually used for both of these, but it is important to understand that the data is separate from the program housing it. As a result, you can move data from one software to another program, such as from Access to Microsoft Outlook or Microsoft Word for communication distribution.</para>
+    <para id="para-00036">An RDBMS stores data in a database, which is a series of connected tables. The RDBMS provides the software and system structure for the data; the database is the holding area of the data. In practice, the term <emphasis effect="italics">database</emphasis> is usually used for both of these, but it is important to understand that the data is separate from the program housing it. As a result, you can move data from one software to another program, such as from Access to Outlook or Word for communication distribution.</para>
     <para id="para-00037">A database can hold a variety of data types in its data tables. A relational database that uses structured data can recognize and process data based on its type; for example, it can understand the difference between text and numbers and process them accordingly. Data types in Access are shown in <link target-id="table-00001"/>.</para>
     <table summary="" id="table-00001">
     <title>Data Types in Access</title>
@@ -189,7 +189,7 @@
     </section>
     <section id="sect-00012">
     <title>Forms</title>
-    <para id="para-00047">A <term id="term-00028">form</term> is a database object that simplifies the use of information within the database. A form creates a user interface—a way for individuals to interact with the database—without directly using the table, which can be slow, overwhelming, and risky (because data in the table can be inadvertently changed). A form can be used to input information into a database (e.g., new customer information that customers enter themselves). A form can also be used to retrieve information (e.g., when a customer service representative needs to look up a specific customer record to resolve an issue). Examples of sales forms include customer information, sales invoices, and sales records.</para>
+    <para id="para-00047">A form is a database object that simplifies the use of information within the database. A form creates a user interface—a way for individuals to interact with the database—without directly using the table, which can be slow, overwhelming, and risky (because data in the table can be inadvertently changed). A form can be used to input information into a database (e.g., new customer information that customers enter themselves). A form can also be used to retrieve information (e.g., when a customer service representative needs to look up a specific customer record to resolve an issue). Examples of sales forms include customer information, sales invoices, and sales records.</para>
     </section>
     <section id="sect-00013">
     <title>Reports</title>

@@ -10,9 +10,9 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Understand why forms are useful.</item>
-    <item>Create and edit a form using the Form Wizard.</item>
-    <item>Customize a form by adding images and text.</item>
+    <item>Understand why forms are useful</item>
+    <item>Create and edit a form using the Form Wizard</item>
+    <item>Customize a form by adding images and text</item>
     </list>
     </section>
     <para id="para-00002">Relational databases are built on a structure of tables; each table is made up of columns, which hold fields, and rows, which hold the information for each field for a specific record. This is an effective structure for the organization, but as the database becomes more complex and we use joins in queries to create relationships between data across tables, we need an easier and more manageable way to work with the database. Using forms to interact with our database tables has two benefits:</para>
@@ -32,26 +32,26 @@
     <note class="spotlight-ethics" id="note-00001">
     <title>Addressing Data Security Risks</title>
     <para id="para-00010">Employees who work with data need to be aware of <term class="no-emphasis" id="term-00002">data security</term> and able to manage security issues. Nevertheless, many employees may not be aware of the risks that their behavior poses to personal and business data. Even as we work to increase technical security, employees’ irresponsible or unethical behaviors may put their own, their coworkers, and even the organization’s data at risk. According to <emphasis effect="italics">Forbes</emphasis>, risks to consider include the following:</para>
-    <list list-type="enumerated" number-style="arabic" id="list-00003">
-    <item>Social Engineering Vulnerabilities: The risk of employees being tricked into revealing credentials or installing malware through tactics like phishing attacks.</item>
-    <item>Unmanaged IoT Devices: The challenges posed by the increasing number of unmanaged Internet of Things (IoT) devices, which lack proper policies and controls.</item>
-    <item>Lack of Awareness: The risk associated with employees’ inability to detect frauds, scams, and phishing emails, emphasizing the need for strong security awareness training.</item>
-    <item>Data Loss: The importance of adopting a data-centric approach and implementing data loss prevention measures to safeguard data and ensure compliance.</item>
-    <item>Personal Data Accessibility: The need to ensure that customer data is only accessed by authorized individuals through proper security protocols.</item>
-    <item>Managing the Increasingly Complex Digital Business Environment: The difficulty in consistently following security rules in a growing and complex digital landscape.</item>
-    <item>Insider Threats: The significance of paying attention to insider threats and ensuring that employees and other individuals with access to corporate data do not misuse their privileges.</item>
-    <item>Insecure Applications: The risk associated with applications storing and transmitting sensitive data, especially through insecure application programming interfaces and third-party channels.</item>
-    <item>Untrained End Users: The vulnerabilities arising from employees who fall prey to phishing emails, download malware, or mishandle confidential data, emphasizing the importance of ongoing training.</item>
-    <item>Consumer Trust in Data Repositories: The impact of data breaches on consumer trust and the need for comprehensive asset audits and robust segmentation to mitigate such threats.</item>
-    <item>Third-Party Risk: The importance of evaluating and securing third-party relationships to prevent data from being exposed to a wider network.</item>
-    <item>Overestimating the Ability of Network Defenses to Ensure Data Security: The need to protect data within applications through encryption, authentication, and secure key management, rather than relying solely on network defenses.</item>
-    <item>Misconfigured Cloud Servers: The risks associated with misconfigured servers in cloud environments and the need for automated security solutions to identify and remediate misconfigurations.</item>
-    <item>Lack of Data Access Oversight: The risk posed by granting employees and contractors excessive data access privileges, necessitating continuous data classification and auditing efforts.</item>
+    <list id="list-00003">
+    <item>Social engineering vulnerabilities: The risk of employees being tricked into revealing credentials or installing malware through tactics like phishing attacks.</item>
+    <item>Unmanaged IoT devices: The challenges posed by the increasing number of unmanaged Internet of Things (IoT) devices, which lack proper policies and controls.</item>
+    <item>Lack of awareness: The risk associated with employees’ inability to detect frauds, scams, and phishing emails, emphasizing the need for strong security awareness training.</item>
+    <item>Data loss: The importance of adopting a data-centric approach and implementing data loss prevention measures to safeguard data and ensure compliance.</item>
+    <item>Personal data accessibility: The need to ensure that customer data is only accessed by authorized individuals through proper security protocols.</item>
+    <item>Managing the increasingly complex digital business environment: The difficulty in consistently following security rules in a growing and complex digital landscape.</item>
+    <item>Insider threats: The significance of paying attention to insider threats and ensuring that employees and other individuals with access to corporate data do not misuse their privileges.</item>
+    <item>Insecure applications: The risk associated with applications storing and transmitting sensitive data, especially through insecure application programming interfaces and third-party channels.</item>
+    <item>Untrained end users: The vulnerabilities arising from employees who fall prey to phishing emails, download malware, or mishandle confidential data, emphasizing the importance of ongoing training.</item>
+    <item>Consumer trust in data repositories: The impact of data breaches on consumer trust and the need for comprehensive asset audits and robust segmentation to mitigate such threats.</item>
+    <item>Third-party risk: The importance of evaluating and securing third-party relationships to prevent data from being exposed to a wider network.</item>
+    <item>Overestimating the ability of network defenses to ensure data security: The need to protect data within applications through encryption, authentication, and secure key management, rather than relying solely on network defenses.</item>
+    <item>Misconfigured cloud servers: The risks associated with misconfigured servers in cloud environments and the need for automated security solutions to identify and remediate misconfigurations.</item>
+    <item>Lack of data access oversight: The risk posed by granting employees and contractors excessive data access privileges, necessitating continuous data classification and auditing efforts.</item>
     </list>
     <para id="para-00011">Addressing these risks is crucial for businesses to protect their data, minimize potential financial losses, and maintain customer trust and confidence.</para>
     </note>
     <section id="sect-00003">
-    <title>Types of Forms in Access</title>
+    <title>Types of Forms</title>
     <para id="para-00012">As mentioned, you might decide to create a form as a user interface or a form that accesses and displays information. A form that acts as an interface is likely to be unbound (meaning it is not connected to any specific table or database query) and to include a combination of text, images, and command buttons that access certain objects in the database. These forms can also include search fields if that function is valuable to your audience.</para>
     <para id="para-00013">In a bound form, the fields are linked directly to objects in the database. We use bound forms when we want to access data in tables or through queries. Remember, any modification to a field value in a form also updates the underlying data in the table.</para>
     <para id="para-00014">Here are some common forms that you can create in Access:</para>

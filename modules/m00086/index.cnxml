@@ -10,10 +10,10 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Examine existing records in a database.</item>
-    <item>Construct new records to add to a database.</item>
-    <item>Update existing records in a database.</item>
-    <item>Demonstrate the process to delete records from a database.</item>
+    <item>Examine existing records in a database</item>
+    <item>Construct new records to add to a database</item>
+    <item>Update existing records in a database</item>
+    <item>Demonstrate the process to delete records from a database</item>
     </list>
     </section>
     <para id="para-00002">Most of the time, when employees maintain and work with a database, they access data that has been provided to them from another data storage area, such as the company’s data warehouse. The tasks in the analysis are to import the data, review the data to ensure that it is brought into the database correctly, and then use the data. Sometimes, however, users need to complete other tasks to ensure that the database processes the data correctly.</para>
@@ -75,7 +75,7 @@
     </media>
     <caption>A CSV (comma-separated values) file is a plaintext file format commonly used for storing tabular data, such as spreadsheets or databases. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00016"><emphasis effect="italics">Note:</emphasis> Access has the ability to import data directly into existing tables manually through the Import command and by connecting automatically with a database or system.</para>
+    <para id="para-00016">Note: Access has the ability to import data directly into existing tables manually through the Import command and by connecting automatically with a database or system.</para>
     <para id="para-00017">Follow these steps in importing a file:</para>
     <list list-type="enumerated" number-style="arabic" id="list-00003">
     <item>With your database open, select the External Data tab in Access.</item>
@@ -83,14 +83,14 @@
     <item>Choose the file type you want to work with—for example, text. A dialog box will open.</item>
     <item>Select the file you want to import.</item>
     <item>Choose the import type that fits best with your project. If you are concerned about an import, try importing the data into a new table to be sure you have all of the fields and parameters set correctly.</item>
-    <item>Click on OK; the import screen will open. See <link target-id="fig-00005"/>.
+    <item>Click on OK; the import screen will open (see <link target-id="fig-00005"/>).
     <figure id="fig-00005">
     <media alt="Import Text Wizard pane displays Delimited – Characters such as comma or tab separate each field selected. Sample data from file: displays in pane (first row: datum,M01AB,M01AE,N02BA,N02BE,N05B,N05C,R03,R06; other rows include: 1/5/2014,14,11.67,21.3,185.95,41,0,32,7).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_04_ImportWiz.jpg"/>
     </media>
     <caption>Importing a file using the Import Text Wizard allows the user to select the correct format for their file. (Used with permission from Microsoft)</caption>
     </figure></item>
-    <item>The <term class="no-emphasis" id="term-00008">Import Wizard</term>, which is a part of the import process, will open and ask you to choose how your text file is structured. (<emphasis effect="italics">Hint:</emphasis> Most text files are delimited, and CSV files use commas as the delimiting or separating character.) Once you choose whether the file is delimited or fixed width (broken up based on a certain number of characters), click Next to continue.</item>
+    <item>The <term class="no-emphasis" id="term-00008">Import Wizard</term>, which is a part of the import process, will open and ask you to choose how your text file is structured. (Hint: Most text files are delimited, and CSV files use commas as the delimiting or separating character.) Once you choose whether the file is delimited or fixed width (broken up based on a certain number of characters), click Next to continue.</item>
     <item>On the next screen, set your delimiter (comma for a CSV file) and click the first row that contains field names (assuming your first row is titles or labels). Then preview the data and, when you are sure it is correct, click Next to move to the next screen. See <link target-id="fig-00006"/>.</item>
     </list>
     <figure id="fig-00006">
@@ -149,7 +149,7 @@
     <para id="para-00026">If you need to delete a record or set of records for any reason, you can do so through either the datasheet or the form.</para>
     <list list-type="enumerated" number-style="arabic" id="list-00005">
     <item>Open the table in Datasheet View or Form View.</item>
-    <item>Select the record by clicking on the record selector. To select multiple records, either click and drag across record selectors or use <term class="no-emphasis" id="term-00010">Control+Click</term>.</item>
+    <item>Select the record by clicking on the record selector. To select multiple records, either click and drag across record selectors or use <term class="no-emphasis" id="term-00010">Ctrl+Click</term>.</item>
     <item>Press Delete or select Home>Records>Delete.</item>
     </list>
     </section>

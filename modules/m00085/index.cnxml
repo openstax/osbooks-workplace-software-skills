@@ -10,9 +10,9 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Explain the uses of queries to explore data in a database.</item>
-    <item>Build and edit a query in Access through the query grid.</item>
-    <item>Establish a relationship between tables with a simple query.</item>
+    <item>Explain the uses of queries to explore data in a database</item>
+    <item>Build and edit a query in Access through the query grid</item>
+    <item>Establish a relationship between tables with a simple query</item>
     </list>
     </section>
     <para id="para-00002">WorldCorp collects data constantly in all its departments. The Human Resources Department maintains employee records; the Maintenance Department monitors equipment, repair, and inspection records; and the Accounting Department keeps records on all purchases, to name just a few departments. The data collected in all of these areas can inform decisions, as long as it is accessible and analyzable.</para>
@@ -87,7 +87,7 @@
     </section>
     <section id="sect-00006">
     <title>Switching Views</title>
-    <para id="para-00027">Access can switch between the Design View of the query and the results of the query. For queries, you will frequently change views to move back and forth between the underlying query structure and the results of running the query. When you look at the structure in Layout View, you can modify how the query works. When you go to SQL View, you are also able to modify the query structure. See (<link target-id="fig-00003"/>).</para>
+    <para id="para-00027">Access can switch between the Design View of the query and the results of the query. For queries, you will frequently change views to move back and forth between the underlying query structure and the results of running the query. When you look at the structure in Layout View, you can modify how the query works. When you go to SQL View, you are also able to modify the query structure (see <link target-id="fig-00003"/>).</para>
     <figure id="fig-00003">
     <media alt="Query Design tab selected. View button selected and options include Datasheet View, SQL View (selected), Design View. ProductsALL in Queries selected and opens in windows. Table along bottom reflects query information.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_03_SQLView.jpg"/>
@@ -119,7 +119,7 @@
     <caption>The result of the query will return everything in the database that fits the criteria you included in your query fields. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00032">Now, let’s look at a query that uses more than one table. In this example, the query returns a list of products with information about wholesalers who have showed interest in those products. Three tables are used:</para>
-    <list list-type="enumerated" number-style="arabic" id="list-00006">
+    <list id="list-00006">
     <item>ProductList: list of products that WorldCorp offers</item>
     <item>WholesalerList: list of wholesalers that WorldCorp works with</item>
     <item>WholesalerInterestList: table that includes ProductID (from ProductList) and WholesalerID (from WholesalerList)</item>
@@ -137,24 +137,25 @@
     </media>
     <caption>The results will display only the columns that you chose to show in your query. (Used with permission from Microsoft)</caption>
     </figure>
+    <para id="para-00037">Notice that this query combines several different techniques, including the use of multiple tables, sorting, criteria, and even an expression that combines fields in the query (in this case, the wholesaler ID and name). This is just a small demonstration of the power of queries.</para>
     <note class="real-application" id="note-00002">
     <title>Using Data to Make Informed Decisions</title>
     <para id="para-00034">Netflix collects and analyzes vast amounts of user data, including viewing history, ratings, and preferences, to drive their content strategy and personalized recommendations. By analyzing this data, Netflix can determine which TV shows and movies are popular among different segments of their user base, make data-driven decisions on content acquisition and production, and provide personalized recommendations that enhance the user experience. This data-driven approach has contributed to Netflix’s success in delivering highly relevant and engaging content to their subscribers.</para>
     <para id="para-00035">Netflix also uses data to make informed decisions in other aspects of its business, including the following:</para>
     <list id="list-00007">
-    <item>Content Acquisition and Production: Netflix analyzes viewership data, user preferences, and market trends to help it make informed decisions about acquiring rights to existing content or investing in original content production.</item>
-    <item>Audience Segmentation and Targeting: Netflix leverages user data to segment its audience based on viewing habits, preferences, and demographics.</item>
-    <item>Pricing and Packaging Strategies: Netflix analyzes data on user subscriptions, engagement levels, and pricing experiments to assess the impact of different pricing and packaging strategies.</item>
-    <item>User Experience and Interface Design: Netflix utilizes data on user interactions, browsing behavior, and feedback to continuously improve its user interface design and user experience. Netflix runs experiments, conducts A/B tests, and gathers user feedback to refine features, layout, and content presentation, ensuring an intuitive and engaging viewing experience.</item>
-    <item>Customer Service and Support: Data analysis helps Netflix identify patterns and trends in customer support interactions, enabling it to improve response times, identify common issues, and enhance customer satisfaction. Netflix can also proactively address potential issues by analyzing data on streaming quality, buffering, and device compatibility.</item>
+    <item>Content acquisition and production: Netflix analyzes viewership data, user preferences, and market trends to help it make informed decisions about acquiring rights to existing content or investing in original content production.</item>
+    <item>Audience segmentation and targeting: Netflix leverages user data to segment its audience based on viewing habits, preferences, and demographics.</item>
+    <item>Pricing and packaging strategies: Netflix analyzes data on user subscriptions, engagement levels, and pricing experiments to assess the impact of different pricing and packaging strategies.</item>
+    <item>User experience and interface design: Netflix utilizes data on user interactions, browsing behavior, and feedback to continuously improve its user interface design and user experience. Netflix runs experiments, conducts A/B tests, and gathers user feedback to refine features, layout, and content presentation, ensuring an intuitive and engaging viewing experience.</item>
+    <item>Customer service and support: Data analysis helps Netflix identify patterns and trends in customer support interactions, enabling it to improve response times, identify common issues, and enhance customer satisfaction. Netflix can also proactively address potential issues by analyzing data on streaming quality, buffering, and device compatibility.</item>
     </list>
     <para id="para-00036">Using this data-driven approach, Netflix can make informed decisions that drive customer acquisition, retention, and overall business growth, allowing it to stay ahead of the competition, continuously improve service, and deliver a highly personalized and satisfying entertainment experience to millions of subscribers worldwide.</para>
     </note>
-    <para id="para-00037">Notice that this query combines several different techniques, including the use of multiple tables, sorting, criteria, and even an expression that combines fields in the query (in this case, the wholesaler ID and name). This is just a small demonstration of the power of queries.</para>
+    
     </section>
     <section id="sect-00008">
     <title>Saving and Closing the Query</title>
-    <para id="para-00038">The first time you create a query, you need to give it a name. After that, if you modify the query, you will need to save it, and doing so will update the copy you have. To save the query, you can click on the Save icon on the quick access toolbar or use <term class="no-emphasis" id="term-00009">Control+S</term> on the keyboard. Access will also prompt you to save when you close a query that you modified.</para>
+    <para id="para-00038">The first time you create a query, you need to give it a name. After that, if you modify the query, you will need to save it, and doing so will update the copy you have. To save the query, you can click on the Save icon on the quick access toolbar or use <term class="no-emphasis" id="term-00009">Ctrl+S</term> on the keyboard. Access will also prompt you to save when you close a query that you modified.</para>
     <para id="para-00039">If you do not plan on using a query again or if it is extremely straightforward, you may not want to save it, but if you are likely to reuse the query, you will want to give it a descriptive name. It makes sense to create a naming schema that you can continue. For example, if you are querying for a specific project team, you may start with the team name, like ProductTeam, to help you identify the query later on.</para>
     </section>
     </section>
@@ -171,7 +172,7 @@
     </media>
     <caption>The Query Wizard can be used to create simple queries, crosstab queries, or queries to find duplicate or unmatched records. (Used with permission from Microsoft)</caption>
     </figure></item>
-    <item>Use the ≫ button to choose the table or queries and the fields you want to use in the query. You can add from different tables or queries by changing the Table/Queries drop-down menu to choose a different object to work with. When you are finished, click Next to move to the next screen. See <link target-id="fig-00009"/>.
+    <item>Use the ≫ button to choose the table or queries and the fields you want to use in the query. You can add from different tables or queries by changing the Table/Queries drop-down menu to choose a different object to work with. When you are finished, click Next to move to the next screen (see <link target-id="fig-00009"/>).
     <figure id="fig-00009" class="scaled-down">
     <media alt="Simple Query Wizard pane asks: Which fields do you want in your query? Selections include Table/Queries (Table: ProductList), Available Fields (blank), Selected Fields (Status selected). Arrows visible between Field panes.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_03_WizAdd.jpg"/>
@@ -317,7 +318,7 @@
     <para id="para-00063">There are two main types of joins: inner and outer. The type of <term class="no-emphasis" id="term-00016">join</term> controls what data will display when the query runs. In an <term class="no-emphasis" id="term-00017">inner join</term>, Access looks at the common fields and data between the two tables and only displays the matches, omitting any records from either table that do not match. The inner join is the most common type of join and is the default type for Access.</para>
     <para id="para-00064">In an <term class="no-emphasis" id="term-00018">outer join</term>, Access looks at the common fields and displays the related (matched) data plus the rest of the records from a single specified table. You can use the Join Properties box to choose which table will have all its records displayed.</para>
     <para id="para-00065">As an example of an inner join, the sales and marketing database has a table with client information and a table with sales invoices. Both tables include the field ClientID. These tables are related using the default join type, the inner join.</para>
-    <para id="para-00066">Suppose the team at WorldCorp needs to see a list of all products with the clients that have purchased them so they can share new sales information appropriately. The tables in <link target-id="fig-00016"/> include the following fields:</para>
+    <para id="para-00066">Suppose the team at WorldCorp needs to see a list of all products with the clients that have purchased them so they can share new sales information appropriately. The tables in <link target-id="fig-00016"/> include the fields ClientInfo and SalesInvoices.</para>
     <figure id="fig-00016" class="scaled-down">
     <media alt="ClientInfo table (ID, ClientID, ClientName, etc.) and SalesInvoices table (SalesInvoiceID, SalesInvoiceDate, ClientID, ProductID, etc.) with a line connecting ClientID between both tables.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_03_Tables.jpg"/>

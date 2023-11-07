@@ -10,26 +10,26 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Demonstrate navigation of the Microsoft Access screen interface.</item>
-    <item>Identify the main features of Access.</item>
-    <item>Understand how to close Access.</item>
+    <item>Demonstrate navigation of the Microsoft Access screen interface</item>
+    <item>Identify the main features of Access</item>
+    <item>Understand how to close Access</item>
     </list>
     </section>
     <para id="para-00002">The benefit of <term class="no-emphasis" id="term-00001">Microsoft Access</term> is that its design and structure enable it to communicate with other systems that hold data. Unlike larger database systems that run on dedicated servers, Access runs on a regular desktop computer. Because it is a desktop database system, the user can work within the database without connecting to those larger systems.</para>
     <para id="para-00003">As a Microsoft software package, Access follows many of the conventions of Microsoft Office. This provides a consistent, familiar interface for work and ensures that file transfer is seamless between Microsoft Office software, for example, between Access and Excel.</para>
     <section id="sect-00002">
-    <title>What Is Microsoft Access?</title>
+    <title>What Is Access?</title>
     <para id="para-00004">Access is a RDBMS that can import and manipulate data from other systems on your desktop computer. While data science professionals work directly with the data warehouse and can create queries using programming languages such as R and Python, individuals who need to analyze data as part of their jobs within a department often find Access to be a user-friendly software package that has the power to access, retrieve, and report data using a Microsoft interface. Access also integrates well with <term class="no-emphasis" id="term-00002">Microsoft Excel</term>, providing even more analytical and reporting power that can inform decision-making.</para>
     <para id="para-00005">In small businesses and organizations, Access can act as the main data store; however, it is much more likely that you will use data that is collected and stored in other systems and then imported into Access for analysis.</para>
     <section id="sect-00003">
-    <title>The Role of Microsoft Access in an Organization</title>
+    <title>The Role of Access in an Organization</title>
     <para id="para-00006">Access is one of the many tools that make up an organization’s <term id="term-00003">data landscape</term>—the entirety of data storage and sharing in an organization. An organization may have both <term class="no-emphasis" id="term-00004">production database</term>s and <term class="no-emphasis" id="term-00005">analytical database</term>s.</para>
     <para id="para-00007">Production databases are systems that handle daily transactions related to an organization’s core business functions, such as sales, inventory, human resources, payroll, and purchasing. Because production databases provide value to the organization, companies devote significant resources to ensure they remain online and active. Companies do not work directly with a production system when analyzing a business because this may interfere with regular operations for customer transactions; instead, companies use a data warehouse or analytical database for building new applications or testing new features. This type of database is entirely separate from the production database, so changes to the analytical database will not modify the production database until the developer is ready to push the changes to the production database after thorough testing.</para>
     <para id="para-00008">Analytical databases (<term class="no-emphasis" id="term-00006">data warehouse</term>s) serve as an organization’s <term id="term-00007">single point of truth (SPOT)</term> in which a primary copy of a data element is stored. Changes made to a data element outside of the data warehouse are not considered final until the primary data element in the data warehouse is also updated. These large databases contain a vast number of records, each of which stores historical information about the organization itself. A data warehouse is not a production system; rather, it is filled with data from the production system, collected over time and organized in a way that makes retrieval and use easier for business use. We can request information from the data warehouse, which is then exported to a file we can use in our analytical software, such as Access or Excel. The ultimate goal of using data is to make good decisions based on the data and not on emotions.</para>
     <para id="para-00009">An organization’s data landscape can also contain numerous flat files held within teams and workgroups, other systems that run on databases that should be connected to the data warehouse, and even information from vendors and public sources that can inform data. The data landscape may include information scraped from the web, downloaded and processed from public sources, and environmental data. The extent of an organization’s data landscape is based on the size and role of the company; larger companies will often have more complex data landscapes, as will organizations that are undergoing digital transformation and either have or are building a core platform for all business functions.</para>
     </section>
     <section id="sect-00004">
-    <title>Microsoft Access and Excel</title>
+    <title>Access and Excel</title>
     <para id="para-00010">Access and Excel are both software packages in Microsoft Office. They are complementary: Although they have some functions in common, each package is designed for specific uses. Sometimes, the overlap or commonalities between them can make it difficult to know which is most useful. Both Access and Excel can store large amounts of data, run powerful queries, use analysis tools to manipulate data, and perform complex calculations. However, each software has its own strengths, and choosing the right software will make your work easier, as <link target-id="table-00001"/> outlines.</para>
     <table summary="" id="table-00001">
     <title>Choosing Excel or Access</title>
@@ -75,8 +75,8 @@
     </section>
     </section>
     <section id="sect-00005">
-    <title>Features of Microsoft Access</title>
-    <para id="para-00012">Access is a cost-effective database solution. It runs on a desktop computer and provides an easy-to-use interface that is familiar to users of other Microsoft software. Access interacts well with Excel for deeper analysis, with Microsoft Word for reporting, and with Microsoft PowerPoint for presentations. It can work with data from external sources, such as a data warehouse, or with exported files from the web and other systems.</para>
+    <title>Features of Access</title>
+    <para id="para-00012">Access is a cost-effective database solution. It runs on a desktop computer and provides an easy-to-use interface that is familiar to users of other Microsoft software. Access interacts well with Excel for deeper analysis, with Word for reporting, and with PowerPoint for presentations. It can work with data from external sources, such as a data warehouse, or with exported files from the web and other systems.</para>
     <para id="para-00013">Microsoft Access:</para>
     <list id="list-00002">
     <item>Creates the framework or structure to store small bits of information (data) in a database</item>
@@ -85,7 +85,7 @@
     <item>Has a process for creating queries to select, combine, and calculate data from multiple tables</item>
     <item>Provides user-friendly screens and support for creating queries, forms, and reports that allow access and use of the data held in the database</item>
     </list>
-    <para id="para-00014">One difference between Access and other Microsoft Office software is in its introduction or opening screens. Access loads one database at a time, and all screens focus on the open database. When you first open Access, the screen will be blank, <link target-id="fig-00001"/> until you load a database. Once loaded, the screen shows all available commands.</para>
+    <para id="para-00014">One difference between Access and other Microsoft 365 software is in its introduction or opening screens. Access loads one database at a time, and all screens focus on the open database. When you first open Access, the screen will be blank, <link target-id="fig-00001"/> until you load a database. Once loaded, the screen shows all available commands.</para>
     <figure id="fig-00001">
     <media alt="Home selected from Access menu. Opens to options for Blank database, Asset tracking, and Contacts. More templates (with an arrow) and Search visible. Recent (selected) and Pinned tabs at bottom.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_02_AccBlank.jpg"/>
@@ -219,7 +219,7 @@
     <section id="sect-00012">
     <title>Closing Databases</title>
     <para id="para-00033">In Access, only one database can be open at a time. As you work, all on-screen commands will focus on this open database, and you will need to close the database itself to end your working session. When you are ready to close the database, Access will either save objects automatically or prompt you to save objects before closing. In general, Access will automatically save records when you are done with them (i.e., when you leave the row) but will prompt you to save changes to objects, such as tables and queries, so you can decide whether you want to save them.</para>
-    <para id="para-00034">If you want to make sure an object is saved in Access before you close the database, you can use any typical <term class="no-emphasis" id="term-00015">Save</term> command shortcut (e.g., File>Save, <term class="no-emphasis" id="term-00016">Control+S</term>) to request that Access save your changes. Access will prompt you if you need to take any additional steps.</para>
+    <para id="para-00034">If you want to make sure an object is saved in Access before you close the database, you can use any typical <term class="no-emphasis" id="term-00015">Save</term> command shortcut (e.g., File>Save, <term class="no-emphasis" id="term-00016">Ctrl+S</term>) to request that Access save your changes. Access will prompt you if you need to take any additional steps.</para>
     <para id="para-00035">When you are done working with your database, click on File>Close to close all objects and exit the Access software. Be sure to close your database every time you are done using it; this will ensure that all objects are closed and that data is correctly written to the records within the database.</para>
     </section>
     <section class="section-summary" id="sect-00013">

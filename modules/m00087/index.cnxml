@@ -10,9 +10,9 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Understand why reports are useful.</item>
-    <item>Create and edit a report using the Report Wizard.</item>
-    <item>Customize a report by adding images and text.</item>
+    <item>Understand why reports are useful</item>
+    <item>Create and edit a report using the Report Wizard</item>
+    <item>Customize a report by adding images and text</item>
     </list>
     </section>
     <para id="para-00002">Databases are useful only if they enable us to transform data into information that will be ready for use when it is needed. Although queries are helpful in extracting the data that we need and even transforming it into actionable information, most decision-makers will need more refinement, formatting, and preparation before the data is ready for use.</para>
@@ -76,14 +76,14 @@
     </media>
     <caption>In this example, grouping by product ID has been used, creating a report that first lists each product, with the client info of every client who has purchased that product listed under the ProductID. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00019"><emphasis effect="italics">Step 3:</emphasis> Step 3 of the Report Wizard asks how you want to sort your records, as <link target-id="fig-00003"/> shows. Access allows you to sort by up to four fields in the designated order, from top to bottom. For example, to create a report that fits the needs of your audience, you may want to sort a set of records by sales region in alphabetical order and then sort further by product ID. Once you set up sorting, you can move to the next step in the Wizard.</para>
+    <para id="para-00019"><emphasis effect="italics">Step 3:</emphasis> Step 3 of the Report Wizard asks how you want to sort your records, as <link target-id="fig-00003"/> shows. Access allows you to sort by up to four fields in the designated order. For example, to create a report that fits the needs of your audience, you may want to sort a set of records by sales region in alphabetical order and then sort further by product ID. Once you set up sorting, you can move to the next step in the Wizard.</para>
     <figure id="fig-00003" class="scaled-down">
     <media alt="Report Wizard window reads: What sort order do you want for detail records? Panes available for populating (one displays ClientID) with Ascending buttons at right. Next button selected at bottom.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWizOrd.jpg"/>
     </media>
-    <caption>Using the ClientID field with the Report Wizard allows you to sort records in ascending order, from top to bottom. (Used with permission from Microsoft)</caption>
+    <caption>Using the ClientID field with the Report Wizard allows you to sort records in ascending order, from smallest to largest or from A to Z. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00020"><emphasis effect="italics">Step 4:</emphasis> After you have set the sort order, the Wizard will ask you to choose the layout for your report (<link target-id="fig-00004"/>.) You can also set the orientation and ask Access to adjust all fields to make sure they fit on a page.</para>
+    <para id="para-00020"><emphasis effect="italics">Step 4:</emphasis> After you have set the sort order, the Wizard will ask you to choose the layout for your report (<link target-id="fig-00004"/>). You can also set the orientation and ask Access to adjust all fields to make sure they fit on a page.</para>
     <figure id="fig-00004" class="scaled-down">
     <media alt="Report Wizard reads: How would you like to lay out your report? Stepped selected in Layout, Portrait selected in Orientation. Adjust the field width so all fields fit on a page (selected).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWizLay.jpg"/>
@@ -144,7 +144,7 @@
     <section id="sect-00011">
     <title>Adding an Image or Custom Text</title>
     <para id="para-00034">You may want to include a logo or even a disclaimer as an image in a report. These images can add information or (as in the example of a logo) provide identification. Images typically appear at the top or bottom of a report. Remember that if you place an image in the detail section of the report, it will repeat for every line. (This is useful when you want to have each line start with a symbol or logo.)</para>
-    <para id="para-00035">To add an image in Design View, click on the Form Layout Design tab and choose the image that you want to add. You can also add any image to the page by clicking Insert Image and then locating the image file. Again, be aware that when images are placed in the detail section of the form, they will repeat for every line. If you would like the image to appear only at the top or bottom of a page, place the image in the page header or footer; if you want the image to appear only at the start or end of the entire report, place it in the report header or footer.</para>
+    <para id="para-00035">To add an image in Design View, click on the Form Layout Design tab and choose the image that you want to add. You can also add any image to the page by clicking Insert Image (see <link target-id="fig-00008"/>) and then locating the image file. Again, be aware that when images are placed in the detail section of the form, they will repeat for every line. If you would like the image to appear only at the top or bottom of a page, place the image in the page header or footer.</para>
     <para id="para-00036">You may want to add elements that are not strictly images but display on the report (e.g., titles, dates, and times). Note that these items will be displayed on the report but will not be stored in the database; they will change each time you open the form.</para>
     <figure id="fig-00008">
     <media alt="Insert Image button in Controls toolbar (Report Design tab) selected. Categories in a form are displayed in design view.">
