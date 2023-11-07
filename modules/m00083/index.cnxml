@@ -336,10 +336,7 @@
     <term>flat files</term>
     <meaning>individual digital files that have a tabular structure, such as spreadsheets, tables, and lists</meaning>
     </definition>
-    <definition id="def-00011">
-    <term>form</term>
-    <meaning>a formatted screen for inputting or viewing data in a database</meaning>
-    </definition>
+    
     <definition id="def-00012">
     <term>join</term>
     <meaning>a clause used to create a relationship or connection between two records in a table</meaning>

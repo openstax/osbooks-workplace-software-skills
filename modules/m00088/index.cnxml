@@ -90,7 +90,7 @@
     <section id="sect-00006">
     <title>Creating a Form</title>
     <para id="para-00019">To start the Wizard, click on the Create tab. Then, in the Forms group, click on Form Wizard. Once the Wizard opens, walk through each screen, making choices at each step to design and complete your form.</para>
-    <para id="para-00020"><emphasis effect="italics">Step 1:</emphasis> Choose the table(s) and fields you want to appear on the form. Move fields to the form by clicking on the >> button. <emphasis effect="italics">Note:</emphasis> To use fields from more than one table, switch tables while on this screen and move the appropriate fields to the right using the >> button. See <link target-id="fig-00001"/>.</para>
+    <para id="para-00020"><emphasis effect="italics">Step 1:</emphasis> Choose the table(s) and fields you want to appear on the form. Move fields to the form by clicking on the >> button. <emphasis effect="italics">Note:</emphasis> To use fields from more than one table, switch tables while on this screen and move the appropriate fields to the right using the >> button (see <link target-id="fig-00001"/>).</para>
     <figure id="fig-00001" class="scaled-down">
     <media alt="Form Wizard asks: Which fields do you want on your form? Table/Queries displays Table: ProductCategory. Available Fields (blank) and Selected Fields (Description) display right- and left-facing arrows between panes.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_06_FormWiz.jpg"/>
@@ -100,11 +100,11 @@
     <para id="para-00021"><emphasis effect="italics">Step 2:</emphasis> Choose the layout you want for the form and click Next:</para>
     <list id="list-00006">
     <item><term id="term-00009">Columnar layout</term> shows a single record set up on the screen.</item>
-    <item><term id="term-00010">Datasheet layout</term> gives you a list of records as they would appear in a datasheet.</item>
-    <item><term id="term-00011">Tabular layout</term> creates a listing of all records in columns, similar to a datasheet (but formatted differently).</item>
-    <item><term id="term-00012">Justified layout</term> creates a record-by-record form, arranged across the screen.</item>
+        <item><term id="term-00011">Tabular layout</term> creates a listing of all records in columns, similar to a datasheet (but formatted differently).</item>
+        <item><term id="term-00010">Datasheet layout</term> gives you a list of records as they would appear in a datasheet.</item>
+        <item><term id="term-00012">Justified layout</term> creates a record-by-record form, arranged across the screen.</item>
     </list>
-    <para id="para-00022">Once the form is built, you can modify it to ensure it looks the way you feel is best for your data and audience. See <link target-id="fig-00002"/>.</para>
+    <para id="para-00022">Once the form is built, you can modify it to ensure it looks the way you feel is best for your data and audience (see <link target-id="fig-00002"/>).</para>
     <figure id="fig-00002" class="scaled-down">
     <media alt="Form Wizard asks: What layout would you like for your form? Options listed: Columnar (selected), Tabular, Datasheet, and Justified.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_06_FormWizMod.jpg"/>
@@ -125,7 +125,7 @@
     <list list-type="enumerated" number-style="arabic" id="list-00008">
     <item>Click on the table or query on which you want to base your form in the All Access Objects navigation area.</item>
     <item>Click on the Create menu and then the More Forms command under the Forms section.</item>
-    <item>Choose the type of form you want to work with. Access will immediately create the form, which you can then modify to suit your needs. See <link target-id="fig-00003"/>.
+    <item>Choose the type of form you want to work with. Access will immediately create the form, which you can then modify to suit your needs (see <link target-id="fig-00003"/>).
     <figure id="fig-00003" class="scaled-down">
     <media alt="A list includes Multiple Items, Datasheet, Split Form, and Modal Dialog with icons displayed.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_06_ModForm.jpg"/>
@@ -136,7 +136,7 @@
     </section>
     <section id="sect-00008">
     <title>Reviewing a Form</title>
-    <para id="para-00027">Regardless of the method you use, once your form is created you can view it either in view mode (which shows how your audience will view the form) or in Layout View or Design View, which allows you to modify the form. (See <link target-id="fig-00004"/>.) To change your view, click on the Home tab and then on the View command. Under the View command, choose one of the following:</para>
+    <para id="para-00027">Regardless of the method you use, once your form is created you can view it either in view mode (which shows how your audience will view the form) or in Layout View or Design View, which allows you to modify the form (see <link target-id="fig-00004"/>). To change your view, click on the Home tab and then on the View command. Under the View command, choose one of the following:</para>
     <list id="list-00009">
     <item><term class="no-emphasis" id="term-00014">Form View</term>: to see how the audience will view the form</item>
     <item><term class="no-emphasis" id="term-00015">Layout View</term>: to modify the layout and formatting of the form</item>
@@ -171,7 +171,7 @@
     <title>Layout View</title>
     <para id="para-00037">The Layout View screen gives you a good look at your form, with real data showing on the screen. This enables you to modify the screen’s visual appearance, including the size and placement of controls. Not all tasks are available in Layout View; depending on your goal, you may find that you need to change to Design View.</para>
     <para id="para-00038">To modify a form in Layout View, start by opening the form in Layout View. Then, proceed as follows:</para>
-    <list id="list-00010">
+    <list id="list-00010" list-type="enumerated">
     <item>To add a field, click on the Format tab in the Controls group; then click Add existing fields and drag the field to the form.</item>
     <item>To move a control, click on any instance of the control and drag it to a new location. (<emphasis effect="italics">Note:</emphasis> You will have limited options for moving a control.)</item>
     <item>To resize a control, click on the control, select its border, and click and drag until it is sized properly.</item>
@@ -185,7 +185,7 @@
     <para id="para-00041">In Design View, you will see tabs that control how you lay out the form. You may also see floating menus and boxes that appear depending on the items you click on:</para>
     <list id="list-00011">
     <item>The Design tab contains commands that control the overall design scheme (colors and fonts), controls you can add to the form, and commands that allow you to insert items and change properties of items on the form.</item>
-    <item>The Arrange tab contains commands that allow you to line up items; insert, move, and arrange items; and manage the layout of items on the page. (<emphasis effect="italics">Note:</emphasis> This tab may not be available unless you select more than one item, such as an image or a control.)</item>
+    <item>The Arrange tab contains commands that allow you to line up items; insert, move, and arrange items; and manage the layout of items on the page. (Note: This tab may not be available unless you select more than one item, such as an image or a control.)</item>
     <item>The Format tab contains commands that let you format the text on the form and add background images and formatting.</item>
     </list>
     <para id="para-00042">To move items manually, click and drag them or click on multiple items and use the commands on the Arrange tab on the ribbon. To move a single item (control, image, text), click and drag the item. To move more than one item, hold down Control, click on each item, and then move all of them at once.</para>
@@ -198,7 +198,7 @@
     </section>
     <section id="sect-00013">
     <title>Changing Form Properties</title>
-    <para id="para-00046">Properties describe how a form control or field acts in a form. Form controls determine how the form works. There is a long list of properties that you can control; initially, you will likely only change basic properties such as the width of a screen or the addition of scroll bars. See <link target-id="fig-00006"/>.</para>
+    <para id="para-00046">Properties describe how a form control or field acts in a form. Form controls determine how the form works. There is a long list of properties that you can control; initially, you will likely only change basic properties such as the width of a screen or the addition of scroll bars (see <link target-id="fig-00006"/>).</para>
     <para id="para-00047">To change a form property:</para>
     <list list-type="enumerated" number-style="arabic" id="list-00012">
     <item>In the open form, click on the command Property Sheet (Form Design, Tools group). The property sheet will open.</item>
