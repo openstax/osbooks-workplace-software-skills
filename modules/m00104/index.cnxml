@@ -45,7 +45,7 @@
     <section id="sect-00005">
     <title>Task 2: Formatting Data Files and Tables for the Report</title>
     <list list-type="enumerated" number-style="arabic" id="list-00004">
-    <item>Using the provided data file ([link]annual_report_data.csv[link]), summarize the sales data by year, by quarter, and by product.</item>
+    <item>Using the data in the "annual_sales_data" tab of the downloadable <link url="https://openstax.org/r/78Ch15DataFile">Chapter 15 data file</link>, summarize the sales data by year, by quarter, and by product.</item>
     <item>Create charts, graphs, and tables that you feel are appropriate to visually convey the trends you notice.</item>
     <item>Format the charts, graphs, and tables using a professional theme.</item>
     </list>
