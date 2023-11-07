@@ -10,16 +10,16 @@
     <title>Learning Objectives</title>
     <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
-    <item>Add slide transitions into a slide presentation.</item>
-    <item>Understand the commands in the Tools tab.</item>
-    <item>Add audio and video to a Slides presentation.</item>
-    <item>Know how to use the collaboration tools in Slides.</item>
+    <item>Add slide transitions into a slide presentation</item>
+    <item>Understand the commands in the Tools tab</item>
+    <item>Add audio and video to a Slides presentation</item>
+    <item>Know how to use the collaboration tools in Slides</item>
     </list>
     </section>
     <para id="para-00002">Now that you have mastered creating an engaging presentation in PowerPoint, we will look at similar features in <term class="no-emphasis" id="term-00001">Google Slides</term>. Slides offers collaboration tools similar to those we saw with Docs. You can do much of the same design work in Slides that you can in PowerPoint, albeit with some limitations and differences. Slides offers many templates to get you started, but it also includes all the tools you need to create a presentation from scratch. Here we are going to focus on adding the finishing touches to the Slides presentation you created in <link document="m00069">Preparing Presentations</link>.</para>
     <section id="sect-00002">
     <title>Add Transitions</title>
-    <para id="para-00003">When presenting, strive to strike a balance between the information that the slide show conveys and the way it conveys that information. Your goal is to hold the audience’s attention, while not adding so many special effects that you end up distracting them. Transitions are key to achieving this balance.</para>
+    <para id="para-00003">When presenting, strive to strike a balance between the information that the slideshow conveys and the way it conveys that information. Your goal is to hold the audience’s attention, while not adding so many special effects that you end up distracting them. Transitions are key to achieving this balance.</para>
     <para id="para-00004">As with PowerPoint, transitions are the “how”—the way the slides move from one to the next. Transitions must be applied to one slide at a time unless you click on Apply to all slides. When you click on Transitions, found on the right side of the action bar, a sidebar will open up, where you will see a menu of different available <term class="no-emphasis" id="term-00002">transitions</term> (<link target-id="fig-00001"/>).</para>
     <figure id="fig-00001">
     <media alt="A close-up screenshot of the Slide Transition feature is shown. There is an arrow pointing to the None option.">
@@ -128,7 +128,7 @@
     <media alt="A screenshot of the Format Options is shown.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_07_04_VIDEOPANE.jpg"/>
     </media>
-    <caption>Videos take your slide show to another level. Format options helps you present them on the slide to give them their due. Alt Text, in particular, allows you to describe what’s in the video for those who can’t see it. (Google Slides is a trademark of Google LLC.)</caption>
+    <caption>Videos take your slideshow to another level. Format options helps you present them on the slide to give them their due. Alt Text, in particular, allows you to describe what’s in the video for those who can’t see it. (Google Slides is a trademark of Google LLC.)</caption>
     </figure>
     </section>
     <section id="sect-00008">

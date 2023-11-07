@@ -254,10 +254,7 @@
     </section>
     </content>
     <glossary>
-    <definition id="def-00001">
-    <term>aspect ratio</term>
-    <meaning>the relationship between the height of an image and its width</meaning>
-    </definition>
+    
     <definition id="def-00002">
     <term>crop</term>
     <meaning>a tool used to remove portions of an image that is inserted onto a slide</meaning>
@@ -266,17 +263,11 @@
     <term>Designer</term>
     <meaning>a feature that adds variety and interest to slides</meaning>
     </definition>
-    <definition id="def-00004">
-    <term>Slide Master</term>
-    <meaning>summarizes features contained in a slide</meaning>
-    </definition>
+    
     <definition id="def-00005">
     <term>transparency</term>
     <meaning>the degree of light that is allowed to pass through an image</meaning>
     </definition>
-    <definition id="def-00006">
-    <term>Variants</term>
-    <meaning>change elements in a theme, such as background color and fonts</meaning>
-    </definition>
+    
     </glossary>
 </document>
