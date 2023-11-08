@@ -30,7 +30,7 @@
     </section>
     <section id="sect-00003">
     <title><term class="no-emphasis" id="term-00102">Table of Contents</term></title>
-    <para id="para-00006">As in Word, a <term class="no-emphasis" id="term-00002">table of contents</term> in Docs requires that you have your headings properly styled, your section breaks in place, and page numbers.</para>
+    <para id="para-00006">As in Word, a table of contents in Docs requires that you have your headings properly styled, your section breaks in place, and page numbers.</para>
     <section id="sect-00004">
     <title>Headings for Tables of Contents</title>
     <para id="para-00007">What Word calls Styles is called <term id="term-00003">Paragraph Styles</term> in Docs. We previously touched on the importance of these styles in Docs in the <link document="m00032">Creating and Working in Documents</link> chapter when we discussed the use of the View menu to activate or hide the document outline. Moreover, we carefully went over headings and their significance for the document when we described the font formatting, and how it can be accelerated with the use of styles. Here, we will discuss how the use of styles helps you manage long documents by helping to structure your table of contents.</para>

@@ -413,17 +413,17 @@
     </section>
     <section id="sect-00016">
     <title>Layout and Page Layout Tabs</title>
-    <para id="para-00051">The <term class="no-emphasis" id="term-00039">Layout tab</term> (Word) and <term class="no-emphasis" id="term-00040">Page Layout</term> (Excel) tabs control items such as spacing and margins in your file. You can use the options on the tabs to insert page breaks, change the orientation, and define the print area. In Page Layout in Excel, you can also apply a theme to your spreadsheet to enhance the visual appeal. This is similar to what you would find on the Design tab for Word and PowerPoint. <link target-id="fig-00017"/> shows the tabs for Word and Excel. The chapters on Word and Excel will cover these tabs in depth.</para>
+    <para id="para-00051">The <term class="no-emphasis" id="term-00039">Layout tab</term> (Word) and Page Layout (Excel) tabs control items such as spacing and margins in your file. You can use the options on the tabs to insert page breaks, change the orientation, and define the print area. In Page Layout in Excel, you can also apply a theme to your spreadsheet to enhance the visual appeal. This is similar to what you would find on the Design tab for Word and PowerPoint. <link target-id="fig-00017"/> shows the tabs for Word and Excel. The chapters on Word and Excel will cover these tabs in depth.</para>
     <figure id="fig-00017">
     <media alt="(a) Word Layout tab displays Page Setup and Paragraph command groups. (b) Excel Page Layout tab displays Themes, Page Setup, Scale to Fit, and Sheet Options command groups.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Layout.jpg"/>
     </media>
-    <caption>(a) The Layout tab in Word and (b) <term class="no-emphasis" id="term-00140">Page Layout</term> tab in Excel allow you to set up your document or spreadsheet for easier reading and visual appeal. (Used with permission from Microsoft)</caption>
+    <caption>(a) The Layout tab in Word and (b) <term class="no-emphasis" id="term-00140">Page Layout tab</term> in Excel allow you to set up your document or spreadsheet for easier reading and visual appeal. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00017">
     <title>Review Tab</title>
-    <para id="para-00052">The <term class="no-emphasis" id="term-00041">Review</term> tab is found in three Office programs (Access does not have a Review tab). In Word, the Review tab is useful to check spelling, track changes within a document, and compare previous versions of documents to each other. The Review tab in Excel also contains a spell-check feature, but also allows you to add comments and to protect the worksheet from editing by others. Finally, the Review tab options in PowerPoint are very similar to those in Excel. The Review tab is a great place to reference to make sure your file is ready to share with others and to collaborate by adding comments. <link target-id="fig-00018"/> shows the Review tabs for Excel, Word, and PowerPoint.</para>
+    <para id="para-00052">The <term class="no-emphasis" id="term-00041">Review tab</term> is found in three Office programs (Access does not have a Review tab). In Word, the Review tab is useful to check spelling, track changes within a document, and compare previous versions of documents to each other. The Review tab in Excel also contains a spell-check feature, but also allows you to add comments and to protect the worksheet from editing by others. Finally, the Review tab options in PowerPoint are very similar to those in Excel. The Review tab is a great place to reference to make sure your file is ready to share with others and to collaborate by adding comments. <link target-id="fig-00018"/> shows the Review tabs for Excel, Word, and PowerPoint.</para>
     <figure id="fig-00018">
     <media alt="(a) Word Review tab displays Proofing, Speech, Accessibility, Language, Comments. (b) Excel Review tab displays Proofing, Accessibility, Insights, Language, Comments. (c) PowerPoint Review tab displays Proofing, Accessibility, Language, Comments.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Review.jpg"/>
@@ -433,7 +433,7 @@
     </section>
     <section id="sect-00018">
     <title>View Tab</title>
-    <para id="para-00053">The <term class="no-emphasis" id="term-00042">View</term> tab is also seen in Office applications, except Access. It can customize what you see on the screen. You can change the options to show you what the file will look like when printed by choosing the Print Layout view. You can use the options to zoom in to make the screen larger. Finally, there are options to view files open in the same program side by side or to switch between the open windows when working with multiple files at a time. Notice the slight differences in options between the three applications in <link target-id="fig-00019"/>.</para>
+    <para id="para-00053">The <term class="no-emphasis" id="term-00042">View tab</term> is also seen in Office applications, except Access. It can customize what you see on the screen. You can change the options to show you what the file will look like when printed by choosing the Print Layout view. You can use the options to zoom in to make the screen larger. Finally, there are options to view files open in the same program side by side or to switch between the open windows when working with multiple files at a time. Notice the slight differences in options between the three applications in <link target-id="fig-00019"/>.</para>
     <figure id="fig-00019">
     <media alt="(a) Word View tab includes Views, Immersive, Page Movement, Show, Zoom. (b) Excel View tab includes Sheet/Workbook Views, Show, Zoom. (c) PowerPoint View tab includes Presentation/Master Views, Show, Zoom, Color/Grayscale.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_View.jpg"/>

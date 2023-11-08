@@ -77,7 +77,7 @@
     </media>
     <caption>Bing is the search engine used for images because it is also a Microsoft product. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00014">In this case, because you are inserting an actual full-color image, such as a photograph, the tab added to the ribbon is the <term class="no-emphasis" id="term-00008">Picture Format</term> tab, not the Graphics Format tab. As with the Graphics Format tab, this tab gives you the tools to make adjustments to the picture and its placement in the document, as <link target-id="fig-00008"/> shows.</para>
+    <para id="para-00014">In this case, because you are inserting an actual full-color image, such as a photograph, the tab added to the ribbon is the <term class="no-emphasis" id="term-00008">Picture Format tab</term>, not the Graphics Format tab. As with the Graphics Format tab, this tab gives you the tools to make adjustments to the picture and its placement in the document, as <link target-id="fig-00008"/> shows.</para>
     <figure id="fig-00008">
     <media alt="A picture of an open laptop image is inserted into a document. The bottom left corner of the picture reads: This Photo by Unknown Author is licensed under CC BY.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_PIC3b.jpg"/>
@@ -96,7 +96,7 @@
     </media>
     <caption>There are many shapes for adding emphasis and visual appeal to your documents. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00018">After you select and insert a shape, the <term class="no-emphasis" id="term-00010">Shape Format</term> tab is added to the ribbon, as shown in <link target-id="fig-00010"/>. You can change the color of the shape, add visual effects, align the object, use a word wrap, and change the position of the item.</para>
+    <para id="para-00018">After you select and insert a shape, the <term class="no-emphasis" id="term-00010">Shape Format tab</term> is added to the ribbon, as shown in <link target-id="fig-00010"/>. You can change the color of the shape, add visual effects, align the object, use a word wrap, and change the position of the item.</para>
     <figure id="fig-00010" class="scaled-down">
     <media alt="The Shape Format tab is selected. Command groups visible are Shape Styles, WordArt Styles, Text, Accessibility. An orange arrow is highlighted next to a table.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SHAPEb.jpg"/>
@@ -226,7 +226,7 @@
     <section id="sect-00014">
     <title>WordArt</title>
     <para id="para-00036"><term id="term-00019">WordArt</term> is a type of stylized font available in Word. WordArt can be used to add colors, shadows, or borders to text. In can also be used to change the text to be vertical or even diagonal. While it is appropriate to use in graphic-heavy formats, such as front pages of business reports, newsletters, or brochures, it is not appropriate for more text-heavy or professional documents, such as business correspondences, the inside of a business report, a résumé, or a cover letter. That said, using WordArt in your document can be a fun way to experiment and add color and creativity to it. WordArt could also be used to start the creation process for a logo, although many businesses will use a graphic design company to create corporate logos.</para>
-    <para id="para-00037">Let’s practice with the company name, WorldCorp, to get an idea of what WordArt can do for plain text. To insert WordArt, select the WordArt icon from the Text command group <link target-id="fig-00031"/>. Choose a style, and a box with “Your text here” will appear on the page, as shown in <link target-id="fig-00020"/>. The ribbon will change to add a <term class="no-emphasis" id="term-00020">Shape Format</term> tab, where you can change the color, the font effects, and the position of the WordArt object. Replace the text in the box with “WorldCorp” and choose a design that incorporates blue as the color because this is the company’s primary color. Changes are made using the options in the WordArt Styles command group. You may place the WordArt object behind or in front of other objects, or align it in a certain position within the document, as you would with an image.</para>
+    <para id="para-00037">Let’s practice with the company name, WorldCorp, to get an idea of what WordArt can do for plain text. To insert WordArt, select the WordArt icon from the Text command group <link target-id="fig-00031"/>. Choose a style, and a box with “Your text here” will appear on the page, as shown in <link target-id="fig-00020"/>. The ribbon will change to add a <term class="no-emphasis" id="term-00020">Shape Format tab</term>, where you can change the color, the font effects, and the position of the WordArt object. Replace the text in the box with “WorldCorp” and choose a design that incorporates blue as the color because this is the company’s primary color. Changes are made using the options in the WordArt Styles command group. You may place the WordArt object behind or in front of other objects, or align it in a certain position within the document, as you would with an image.</para>
     <figure id="fig-00031">
       <media alt="On the Ribbon the Text group is shown with WordArt selected. A drop down shows different styles of WordArt.">
         <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_TextCom07.jpg"/>
@@ -279,7 +279,7 @@
     </section>
     <section id="sect-00017">
     <title>Symbols Command Group</title>
-    <para id="para-00044">The <term class="no-emphasis" id="term-00026">Symbols</term> command group is also part of the Insert tab. A <term id="term-00027">symbol</term> is a special character not found on most keyboards, and includes characters such as currency symbols, en dashes and em dashes, arrows, Greek letters (often used in economic or financial math), and many other characters. <link target-id="fig-00025"/> shows some of the character choices available in Word.</para>
+    <para id="para-00044">The <term class="no-emphasis" id="term-00026">Symbols</term> command group is also part of the Insert tab. A symbol is a special character not found on most keyboards, and includes characters such as currency symbols, en dashes and em dashes, arrows, Greek letters (often used in economic or financial math), and many other characters. <link target-id="fig-00025"/> shows some of the character choices available in Word.</para>
     <figure id="fig-00025" class="scaled-down">
     <media alt="Symbol window is open; Symbols tab selected. Drop-downs for Font and Subset display with symbols available. Recently used symbols bar follows with other options for viewing the Unicode name/selecting a Character.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_04_02_SYMBOLS01.jpg"/>
