@@ -226,7 +226,7 @@
     <title>Common Operators</title>
     <para id="para-00035">In both Excel and Access, the most common operators are arithmetic, comparison, and logical. Each has its own function and returns different results.</para>
     <list id="list-00003">
-    <item>An <term id="term-00036">arithmetic operator</term> is used to calculate a value from two or more numbers or to change the sign of a number from positive to negative or vice versa (<link target-id="table-00003"/>).<newline />
+    <item>An <term id="term-00036">arithmetic operator</term> is used to calculate a value from two or more numbers or to change the sign of a number from positive to negative or vice versa (<link target-id="table-00003"/>).<newline />&#160;<newline />
     <table summary="" id="table-00003">
     <title>Arithmetic Operators</title>
     <tgroup cols="2">
@@ -263,7 +263,7 @@
     </tgroup>
     <caption>A mathematical operator could be used to combine data such as getting the total sales amount for two or more company purchases.</caption>
     </table></item>
-    <item>A <term class="no-emphasis" id="term-00042">comparison operator</term> is used to compare values and return a result that is true, false, or null (<link target-id="table-00004"/>).<newline />
+    <item>A <term class="no-emphasis" id="term-00042">comparison operator</term> is used to compare values and return a result that is true, false, or null (<link target-id="table-00004"/>).<newline />&#160;<newline />
     <table summary="" id="table-00004">
     <title>Comparison Operators</title>
     <tgroup cols="2">

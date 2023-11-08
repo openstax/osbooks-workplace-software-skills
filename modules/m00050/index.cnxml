@@ -30,7 +30,7 @@
     <item>The <term id="term-00004">graphical user interface (GUI)</term> is the portion of a program that allows the user to interact with it. Commands in Office are organized in groupings called tabs, while in Google Workspace, these groupings are called menus.</item>
     <item>A <term id="term-00005">menu bar</term>, or ribbon, typically at the top of the screen, contains an array of general commands that the user can choose, such as changing the font, printing the file, or adding elements such as pictures or shapes. In Office, this is referred to as the ribbon.</item>
     <item>A <term id="term-00006">toolbar</term>, typically located below the menu bar, contains icons or graphical representations for commonly used commands such as Copy or Save that are more specific than those contained in the menu bar.</item>
-    <item>A <term id="term-00007">dialog box</term> provides information or requests inputs. These boxes pop up when you hover your mouse over them. For example, see <link target-id="fig-00001"/>, which shows more options for changing the font color or size.</item>
+    <item>A <term id="term-00007">dialog box</term> provides information or requests inputs. These boxes typically appear after a user action, such as clicking a button or selecting a menu option. For example, see <link target-id="fig-00001"/>, which shows more options for changing the font color or size.</item>
     <item>The <term id="term-00008">status bar</term> is located at the bottom of the program window. Its main function is to show the status of the program, such as the number of pages.</item>
     </list>
     <figure id="fig-00001">
