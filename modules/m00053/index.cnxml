@@ -413,7 +413,7 @@
     </section>
     <section id="sect-00016">
     <title>Layout and Page Layout Tabs</title>
-    <para id="para-00051">The <term class="no-emphasis" id="term-00039">Layout</term> (Word) and <term class="no-emphasis" id="term-00040">Page Layout</term> (Excel) tabs control items such as spacing and margins in your file. You can use the options on the tabs to insert page breaks, change the orientation, and define the print area. In Page Layout in Excel, you can also apply a theme to your spreadsheet to enhance the visual appeal. This is similar to what you would find on the Design tab for Word and PowerPoint. <link target-id="fig-00017"/> shows the tabs for Word and Excel. The chapters on Word and Excel will cover these tabs in depth.</para>
+    <para id="para-00051">The <term class="no-emphasis" id="term-00039">Layout tab</term> (Word) and <term class="no-emphasis" id="term-00040">Page Layout</term> (Excel) tabs control items such as spacing and margins in your file. You can use the options on the tabs to insert page breaks, change the orientation, and define the print area. In Page Layout in Excel, you can also apply a theme to your spreadsheet to enhance the visual appeal. This is similar to what you would find on the Design tab for Word and PowerPoint. <link target-id="fig-00017"/> shows the tabs for Word and Excel. The chapters on Word and Excel will cover these tabs in depth.</para>
     <figure id="fig-00017">
     <media alt="(a) Word Layout tab displays Page Setup and Paragraph command groups. (b) Excel Page Layout tab displays Themes, Page Setup, Scale to Fit, and Sheet Options command groups.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Layout.jpg"/>
