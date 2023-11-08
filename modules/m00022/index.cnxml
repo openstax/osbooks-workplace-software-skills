@@ -99,7 +99,7 @@
     </figure>
     <note class="real-application" id="note-00002">
     <title>Misleading Graphs</title>
-    <para id="para-00011">Earlier, you learned the importance of accurately representing data in a chart to prevent misinterpretation of the information. When you are presenting charts and graphs as opposed to the actual data, special care should be taken to make sure the data representation is valid. By adjusting the scaling on either axis, you can drastically change the interpretation of the information presented in a chart. Take a look at this <link url="https://r/78MisleadGraphs">article on how mistakes have been made in representing data</link> to learn more. Now select one chart represented in the preceding link and re-create the chart so that it is not misleading, and then answer the following questions:</para>
+    <para id="para-00011">Earlier, you learned the importance of accurately representing data in a chart to prevent misinterpretation of the information. When you are presenting charts and graphs as opposed to the actual data, special care should be taken to make sure the data representation is valid. By adjusting the scaling on either axis, you can drastically change the interpretation of the information presented in a chart. Take a look at this <link url="https://openstax.org/r/78MisleadGraphs">article on how mistakes have been made in representing data</link> to learn more. Now select one chart represented in the preceding link and re-create the chart so that it is not misleading, and then answer the following questions:</para>
     <list id="list-00002">
     <item>What was the major issue(s) with the selected chart?</item>
     <item>What are some of the incorrect conclusions drawn from the chart?</item>

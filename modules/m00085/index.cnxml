@@ -259,7 +259,7 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left">Is null</entry>
-    <entry valign="top" align="left">Returns records with empty cells (<emphasis effect="italics">Note:</emphasis> “null” signifies empty, <emphasis effect="italics">not</emphasis> 0)</entry>
+    <entry valign="top" align="left">Returns records with empty cells (Note: “null” signifies empty, <emphasis effect="italics">not</emphasis> 0)</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">“ ”</entry>

@@ -62,35 +62,35 @@
     <section id="sect-00006">
     <title>Creating a Report</title>
     <para id="para-00016">To start a report with the Report Wizard, click on the Create menu in the ribbon and then choose the Report Wizard command from the reports section. The Wizard will walk you through each question before creating your report.</para>
-    <para id="para-00017"><emphasis effect="italics">Step 1:</emphasis> In step 1 (<link target-id="fig-00001"/>), you can set the table(s) and/or queries you want to work on within the report. This gives you flexibility, as you can use data from more than one table or query in your work. (<emphasis effect="italics">Hint:</emphasis> Consider setting up a query for your report before starting the report. This will enable you to check the data before setting it up for display.) Once you have chosen and added tables, queries, and fields to the report (use the >> button to move fields to the selection box), click Next to move to the next screen in the Wizard.</para>
+    <para id="para-00017">Step 1: In step 1 (<link target-id="fig-00001"/>), you can set the table(s) and/or queries you want to work on within the report. This gives you flexibility, as you can use data from more than one table or query in your work. (Hint: Consider setting up a query for your report before starting the report. This will enable you to check the data before setting it up for display.) Once you have chosen and added tables, queries, and fields to the report (use the >> button to move fields to the selection box), click Next to move to the next screen in the Wizard.</para>
     <figure id="fig-00001" class="scaled-down">
     <media alt="Report Wizard pane reads: Which fields do you want on your report? Selections include Table/Queries (Query: ProductList with client information), Available Fields (ProductID), Selected Fields (blank). Arrows visible between Fields panes.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWiz.jpg"/>
     </media>
     <caption>The Report Wizard allows you to select fields to include in the report. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00018"><emphasis effect="italics">Step 2:</emphasis> In step 2 (<link target-id="fig-00002"/>), you can choose grouping for your report. (Skip this step if grouping does not make sense for your report.) A <term id="term-00003">group</term> is a heading that organizes data with something in common. For example, you might group data based on the region a customer is assigned to. When used as a group, all customers belonging to a specific region will appear together. Once you set up grouping, you can click Next to continue.</para>
+    <para id="para-00018">Step 2: In step 2 (<link target-id="fig-00002"/>), you can choose grouping for your report. (Skip this step if grouping does not make sense for your report.) A <term id="term-00003">group</term> is a heading that organizes data with something in common. For example, you might group data based on the region a customer is assigned to. When used as a group, all customers belonging to a specific region will appear together. Once you set up grouping, you can click Next to continue.</para>
     <figure id="fig-00002" class="scaled-down">
     <media alt="Report Wizard pane reads: Do you want to add any grouping levels? ClientID selected. Product ID pane lists: ClientID, ClinetName, ClientMailingAddressAll. Left, Right, Top/Bottom arrows with Priority in between visible between panes.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWizID.jpg"/>
     </media>
     <caption>In this example, grouping by product ID has been used, creating a report that first lists each product, with the client info of every client who has purchased that product listed under the ProductID. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00019"><emphasis effect="italics">Step 3:</emphasis> Step 3 of the Report Wizard asks how you want to sort your records, as <link target-id="fig-00003"/> shows. Access allows you to sort by up to four fields in the designated order. For example, to create a report that fits the needs of your audience, you may want to sort a set of records by sales region in alphabetical order and then sort further by product ID. Once you set up sorting, you can move to the next step in the Wizard.</para>
+    <para id="para-00019">Step 3: Step 3 of the Report Wizard asks how you want to sort your records, as <link target-id="fig-00003"/> shows. Access allows you to sort by up to four fields in the designated order. For example, to create a report that fits the needs of your audience, you may want to sort a set of records by sales region in alphabetical order and then sort further by product ID. Once you set up sorting, you can move to the next step in the Wizard.</para>
     <figure id="fig-00003" class="scaled-down">
     <media alt="Report Wizard window reads: What sort order do you want for detail records? Panes available for populating (one displays ClientID) with Ascending buttons at right. Next button selected at bottom.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWizOrd.jpg"/>
     </media>
     <caption>Using the ClientID field with the Report Wizard allows you to sort records in ascending order, from smallest to largest or from A to Z. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00020"><emphasis effect="italics">Step 4:</emphasis> After you have set the sort order, the Wizard will ask you to choose the layout for your report (<link target-id="fig-00004"/>). You can also set the orientation and ask Access to adjust all fields to make sure they fit on a page.</para>
+    <para id="para-00020">Step 4: After you have set the sort order, the Wizard will ask you to choose the layout for your report (<link target-id="fig-00004"/>). You can also set the orientation and ask Access to adjust all fields to make sure they fit on a page.</para>
     <figure id="fig-00004" class="scaled-down">
     <media alt="Report Wizard reads: How would you like to lay out your report? Stepped selected in Layout, Portrait selected in Orientation. Adjust the field width so all fields fit on a page (selected).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWizLay.jpg"/>
     </media>
     <caption>Setting the report layout in the Report Wizard allows for limited customization of the final report. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00021"><emphasis effect="italics">Step 5:</emphasis> The final step in the Wizard allows you to set a unique title for your report and then choose whether you want to provide the results or go into design to modify the report (<link target-id="fig-00005"/>). Usually, viewing the report will be useful, as it will show you what you want to change. When you are done, click Finish to continue the work.</para>
+    <para id="para-00021">Step 5: The final step in the Wizard allows you to set a unique title for your report and then choose whether you want to provide the results or go into design to modify the report (<link target-id="fig-00005"/>). Usually, viewing the report will be useful, as it will show you what you want to change. When you are done, click Finish to continue the work.</para>
     <figure id="fig-00005" class="scaled-down">
     <media alt="Report Wizard reads: What title do you want for your report? (product and then client with mailing info). Do you want to preview the report/modify the report’s design? (Preview the report (selected)).">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_05_RepWizTitl.jpg"/>

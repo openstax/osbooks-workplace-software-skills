@@ -90,14 +90,14 @@
     <section id="sect-00006">
     <title>Creating a Form</title>
     <para id="para-00019">To start the Wizard, click on the Create tab. Then, in the Forms group, click on Form Wizard. Once the Wizard opens, walk through each screen, making choices at each step to design and complete your form.</para>
-    <para id="para-00020"><emphasis effect="italics">Step 1:</emphasis> Choose the table(s) and fields you want to appear on the form. Move fields to the form by clicking on the >> button. <emphasis effect="italics">Note:</emphasis> To use fields from more than one table, switch tables while on this screen and move the appropriate fields to the right using the >> button (see <link target-id="fig-00001"/>).</para>
+    <para id="para-00020">Step 1: Choose the table(s) and fields you want to appear on the form. Move fields to the form by clicking on the >> button. Note: To use fields from more than one table, switch tables while on this screen and move the appropriate fields to the right using the >> button (see <link target-id="fig-00001"/>).</para>
     <figure id="fig-00001" class="scaled-down">
     <media alt="Form Wizard asks: Which fields do you want on your form? Table/Queries displays Table: ProductCategory. Available Fields (blank) and Selected Fields (Description) display right- and left-facing arrows between panes.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_13_06_FormWiz.jpg"/>
     </media>
     <caption>Using the Form Wizard, you can select fields to include in your form. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00021"><emphasis effect="italics">Step 2:</emphasis> Choose the layout you want for the form and click Next:</para>
+    <para id="para-00021">Step 2: Choose the layout you want for the form and click Next:</para>
     <list id="list-00006">
     <item><term id="term-00009">Columnar layout</term> shows a single record set up on the screen.</item>
         <item><term id="term-00011">Tabular layout</term> creates a listing of all records in columns, similar to a datasheet (but formatted differently).</item>
@@ -111,7 +111,7 @@
     </media>
     <caption>You can modify the layout of a form using the Form Wizard. Some data will lend itself to one format over another. (Used with permission from Microsoft)</caption>
     </figure>
-    <para id="para-00023"><emphasis effect="italics">Step 3:</emphasis> Enter a unique name for the form and choose whether you want to see the form in design or view mode. Click Finish to create the form.</para>
+    <para id="para-00023">Step 3: Enter a unique name for the form and choose whether you want to see the form in design or view mode. Click Finish to create the form.</para>
     <para id="para-00024">Forms can also be built from any table or query or a combination of both. One way to streamline setting up a form is to set up a specific query with the fields you want to be displayed on the form. Once the query is ready, you can do the following:</para>
     <list list-type="enumerated" number-style="arabic" id="list-00007">
     <item>Click on the table or query from which you want to build the form.</item>
@@ -173,7 +173,7 @@
     <para id="para-00038">To modify a form in Layout View, start by opening the form in Layout View. Then, proceed as follows:</para>
     <list id="list-00010" list-type="enumerated">
     <item>To add a field, click on the Format tab in the Controls group; then click Add existing fields and drag the field to the form.</item>
-    <item>To move a control, click on any instance of the control and drag it to a new location. (<emphasis effect="italics">Note:</emphasis> You will have limited options for moving a control.)</item>
+    <item>To move a control, click on any instance of the control and drag it to a new location. (Note: You will have limited options for moving a control.)</item>
     <item>To resize a control, click on the control, select its border, and click and drag until it is sized properly.</item>
     <item>To add an image to the page, click on the Insert Image command on the Controls group and choose the file. Once the image is on the form, you can move and resize it.</item>
     </list>

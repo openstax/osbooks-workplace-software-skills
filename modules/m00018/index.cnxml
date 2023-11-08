@@ -133,7 +133,7 @@
     <media alt="Data Validation button in Data Tools is selected; opens to options for Circle Invalid Data selected (other options: Data Validation, Clear Validation Circles). In spreadsheet, data in cell B8 (21) is circled.">
     <image mime-type="image/jpg" src="../../media/OSX_BCA_11_01_DataInval.jpg"/>
     </media>
-    <caption>You input the settings for validating data with data validation. Then, to do the validation, choose “Circle Invalid Data.” The orange circle is placed around data that does not meet the parameter of the data validation. (Used with permission from Microsoft)</caption>
+    <caption>You input the settings for validating data with data validation. Then, to do the validation, choose “Circle Invalid Data.” The circle is placed around data that does not meet the parameter of the data validation. (Used with permission from Microsoft)</caption>
     </figure>
     <para id="para-00038">You can clear the circles by clicking on <term class="no-emphasis" id="term-00022">Clear Validation Circles</term>. To remove data validation entirely, select the Data Validation tool, and in the lower left, choose Clear All. This will clear the validation rules from the cells. Here are the general steps for using the Data Validation tool to find invalid data:</para>
     <list list-type="enumerated" number-style="arabic" id="list-00002">
