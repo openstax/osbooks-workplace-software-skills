@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Essentials of Microsoft Office</title>
+  <title>Essentials of Microsoft 365</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Essentials of Microsoft Office</md:title>
+    <md:title>Essentials of Microsoft 365</md:title>
     <md:content-id>m00053</md:content-id>
     <md:uuid>d11fc26c-286d-49f4-95b0-36642576aea5</md:uuid>
   </metadata>
@@ -17,18 +17,18 @@
     </section>
     <para id="para-00002">Both personal and business productivity have increased as the result of technological advances. Computer technology has facilitated communication, information sharing, and data analytics. Although there have been several software programs developed over the years in these areas, two main leaders have emerged: Microsoft and Google are most common in organizations today and are suitable for a variety of purposes. Google and Microsoft have dominated the market for productivity software programs because they have adapted to the changing needs of businesses. Their success continues because of their forward-thinking and response to market needs.</para>
     <section id="sect-00002">
-    <title>Overview of Microsoft Office</title>
+    <title>Overview of Microsoft 365</title>
     <para id="para-00003">Microsoft launched <term class="no-emphasis" id="term-00001">Microsoft Office</term> in 1990. This suite of applications included three main programs: Word, Excel, and PowerPoint. These programs are bundled as a package to give the user the full range of productivity tools to meet a wide variety of needs. Office applications offer the flexibility to appeal to various preferences with the many ways to perform tasks within the software.</para>
-    <para id="para-00004">Office applications are compatible across a wide variety of platforms, including mobile devices and Apple/Mac operating systems. The applications also integrate well with other software. You may be aware of older versions of Office, such as Office 2016 or 2019, but the latest product (Microsoft 365) moves beyond these static versions, instead offering a subscription that updates automatically. With the introduction of <term class="no-emphasis" id="term-00002">Microsoft 365</term>, the programs use a cloud-based technology that can be accessed anywhere. Microsoft 365 also enhanced the collaborative features of the programs.</para>
+    <para id="para-00004">Office applications are compatible across a wide variety of platforms, including mobile devices and Apple/Mac operating systems. The applications also integrate well with other software. You may be aware of older versions of Office, such as Office 2016 or 2019, but the latest product, <term class="no-emphasis" id="term-00044">Microsoft 365</term>, moves beyond these static versions, instead offering a subscription that updates automatically. With the introduction of <term class="no-emphasis" id="term-00002">Microsoft 365</term>, the programs use a cloud-based technology that can be accessed anywhere. Microsoft 365 also enhanced the collaborative features of the programs.</para>
     <section id="sect-00003">
     <title>Accessing and Maintaining Microsoft Products</title>
-    <para id="para-00005">When you register for a Microsoft 365 account, you are given access to <term class="no-emphasis" id="term-00003">OneDrive</term>, which is its product that provides online storage in the cloud. This offers many advantages. When you save a file to your OneDrive, you will be able to access it from any computer as long as you have an internet connection. There are different versions of Microsoft 365 available for purchase, but most software today uses this subscription-based model for a fee. The software programs are installed on your devices as “apps,” but can also be accessed through the web-based versions with some limitations to functionality. Updates to the programs are provided regularly by Microsoft and should be performed when prompted. Sometimes the information technology department (IT) will take care of these software maintenance issues with your company or school equipment. There are student editions of most versions of Office that can be purchased at a reduced cost or even for free. The student editions might also have some limitations to the functionality of the programs.</para>
+    <para id="para-00005">When you register for a Microsoft 365 account, you are given access to <term class="no-emphasis" id="term-00003">OneDrive</term>, which is its product that provides online storage in the cloud. This offers many advantages. When you save a file to your OneDrive, you will be able to access it from any computer as long as you have an internet connection. There are different versions of Microsoft 365 available for purchase, but most software today uses this subscription-based model for a fee. The software programs are installed on your devices as “apps,” but can also be accessed through the web-based versions with some limitations to functionality. Updates to the programs are provided regularly by Microsoft and should be performed when prompted. Sometimes the information technology department (IT) will take care of these software maintenance issues with your company or school equipment. There are student editions of most versions of Microsoft 365 that can be purchased at a reduced cost or even for free. The student editions might also have some limitations to the functionality of the programs.</para>
     </section>
     <section id="sect-00004">
     <title>Applications</title>
-    <para id="para-00006">The Office suite includes software for many of the most common computer needs in today’s workplace, as well as for personal use, including word processing, spreadsheets, presentations, database management, an email and calendar interface, and a collaboration tool. <link target-id="table-00001"/> provides an overview of the applications within the Office suite. Other chapters in this text will cover these programs in detail. What comes next in this chapter is a breakdown of commands that are common to all the Office applications, so you can get a basic understanding of how to navigate.</para>
+    <para id="para-00006">The Microsoft 365 suite includes software for many of the most common computer needs in today’s workplace, as well as for personal use, including word processing, spreadsheets, presentations, database management, an email and calendar interface, and a collaboration tool. <link target-id="table-00001"/> provides an overview of the applications within the suite. Other chapters in this text will cover these programs in detail. What comes next in this chapter is a breakdown of commands that are common to all the Microsoft 365 applications, so you can get a basic understanding of how to navigate.</para>
     <table id="table-00001" summary="">
-    <title>Office Applications</title>
+    <title>Microsoft 365 Applications</title>
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -285,7 +285,7 @@
     </section>
     <section id="sect-00012">
     <title>Home Tab</title>
-    <para id="para-00040">The <term class="no-emphasis" id="term-00031">Home</term> tab is where you begin to create your document, spreadsheet, or presentation. The ribbon for the Home tab in Word is shown in <link target-id="fig-00013"/>. You can view the ribbon as command central for the application: It is a collection of commands and command groups that govern the basics of the program you are working with. Each group of commands is separated by a thin vertical line (see arrow in <link target-id="fig-00013"/>).</para>
+    <para id="para-00040">The <term class="no-emphasis" id="term-00031">Home tab</term> is where you begin to create your document, spreadsheet, or presentation. The ribbon for the Home tab in Word is shown in <link target-id="fig-00013"/>. You can view the ribbon as command central for the application: It is a collection of commands and command groups that govern the basics of the program you are working with. Each group of commands is separated by a thin vertical line (see arrow in <link target-id="fig-00013"/>).</para>
     <figure id="fig-00013">
     <media alt="Font command group includes Font, Font Size, Increase and Decrease Font Size, Change Case, Clear All Formatting, Bold, Italic, Underline, Strikethrough, Subscript, Superscript, Text Effects and Typography, Text Highlight Color, Font Color.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Ribbon.jpg"/>
@@ -403,7 +403,7 @@
     </section>
     <section id="sect-00015">
     <title>Design Tab</title>
-    <para id="para-00050">The <term class="no-emphasis" id="term-00038">Design</term> tab is found on the ribbon in Word and in PowerPoint. See <link target-id="fig-00016"/>. The tab includes options to customize the look of the document or presentation. There are preset themes that you can use to enhance the document or slide, or you can create your own theme. The options on the Design tab are covered in more depth in <link document="m00032">Creating and Working in Documents</link> and [link]Preparing Presentations[/link].</para>
+    <para id="para-00050">The <term class="no-emphasis" id="term-00038">Design tab</term> is found on the ribbon in Word and in PowerPoint. See <link target-id="fig-00016"/>. The tab includes options to customize the look of the document or presentation. There are preset themes that you can use to enhance the document or slide, or you can create your own theme. The options on the Design tab are covered in more depth in <link document="m00032">Creating and Working in Documents</link> and [link]Preparing Presentations[/link].</para>
     <figure id="fig-00016">
     <media alt="(a) Word Design tab selected. The command group Document Formatting displays various document Themes for selection. (b) PowerPoint Design tab selected. The command group Themes displays various document theme options for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Design.jpg"/>
