@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
-    <para id="para-00001">By the end of this section, you will be able to &#8230;:</para>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
     <item>Create a new slideshow from a blank presentation</item>
     <item>Create a presentation from a theme or template</item>
@@ -17,7 +17,7 @@
     <item>Understand the functions of the View tab</item>
     </list>
     </section>
-    <para id="para-00002">At WorldCorp, <term class="no-emphasis" id="term-00001">Microsoft PowerPoint</term> presentations are used company-wide for a variety of purposes, such as presenting quarterly sales data or providing training for new sales personnel. As part of the <term class="no-emphasis" id="term-00002">Microsoft Office</term> suite, PowerPoint has characteristics similar to those of other Office programs such as <term class="no-emphasis" id="term-00003">Microsoft Word</term> and <term class="no-emphasis" id="term-00004">Microsoft Excel</term>. <term class="no-emphasis" id="term-00005">PowerPoint</term> is divided into various tabs, which appear across a ribbon that helps you organize your actions.</para>
+    <para id="para-00002">At WorldCorp, <term class="no-emphasis" id="term-00001">Microsoft PowerPoint</term> presentations are used company-wide for a variety of purposes, such as presenting quarterly sales data or providing training for new sales personnel. As part of the <term class="no-emphasis" id="term-00002">Microsoft 365</term> suite, PowerPoint has characteristics similar to those of other programs such as <term class="no-emphasis" id="term-00003">Microsoft Word</term> and <term class="no-emphasis" id="term-00004">Microsoft Excel</term>. <term class="no-emphasis" id="term-00005">PowerPoint</term> is divided into various tabs, which appear across a ribbon that helps you organize your actions.</para>
     <para id="para-00003">In general, creating a <term class="no-emphasis" id="term-00006">storyboard</term> or outline of a <term class="no-emphasis" id="term-00007">presentation</term>, as outlined in the previous section, is a great starting point, and this is the approach we will use to build <emphasis effect="italics">My Life in a Snapshot</emphasis>. To get started, this section provides an overview of the PowerPoint program, with a review of several tabs within the ribbon that you will use to develop your first slideshow from scratch. As we start using the primary elements of PowerPoint, you will begin to develop an understanding of how the program works with examples to provide context.</para>
     <para id="para-00004">The vast capabilities of PowerPoint enable WorldCorp employees to present complex ideas, facts, and figures in the form of easily digestible visuals. Allowing users to create visual representations of information on the blank canvas slides can allow viewers to interpret, engage with, and expound on what they’re seeing.</para>
     <para id="para-00005">Let’s begin by using the blank canvas approach to crafting a presentation.</para>

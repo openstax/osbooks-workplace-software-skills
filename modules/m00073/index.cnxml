@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
-    <para id="para-00001">By the end of this section, you will be able to &#8230;:</para>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
     <item>Format the layout of each slide</item>
     <item>Understand best practices in design principles</item>
@@ -16,7 +16,7 @@
     </section>
     <para id="para-00002">It’s time to transform the five slides from <emphasis effect="italics">My Life in a Snapshot</emphasis> by manipulating the layout and adding options. Formatting the layout of each slide in <term class="no-emphasis" id="term-00001">Microsoft PowerPoint</term> is the process of adding, subtracting, and/or adjusting the arrangement of elements such as text, images, and shapes on a slide. You may want to format the layout of a slide in PowerPoint to make it more visually appealing and effective for your audience. <term class="no-emphasis" id="term-00002">PowerPoint</term> includes many options for altering the layout of the slide. The slide layout can be changed by using the tool on the <term class="no-emphasis" id="term-00003">Home tab</term> in the <term class="no-emphasis" id="term-00004">Slides command group</term>. From the Home tab, select <term class="no-emphasis" id="term-00005">Layout</term> from the Slides command group. Here, you will see a listing and image of the layout options.</para>
     <para id="para-00003">We have used three types of layouts in <emphasis effect="italics">My Life in a Snapshot</emphasis>. Here are some commonly used slide layouts:</para>
-    <list list-type="enumerated" id="list-00002">
+    <list id="list-00002">
     <item><term class="no-emphasis" id="term-00006">Title Slide</term>: This layout includes a title and subtitle and is typically used for the first slide of a <term class="no-emphasis" id="term-00007">presentation</term>.</item>
     <item>Title and Content: This layout includes a title, subtitle, and one or two content boxes that you can use for text or media. This layout is typically used to give an overview of the presentation and the main topics to be covered.</item>
     <item>Comparison: This layout includes two content boxes, which can be used to present different types of information, such as text and images, or to compare and contrast two pieces of information.</item>

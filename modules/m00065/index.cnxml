@@ -77,7 +77,7 @@
     <note class="spotlight-ethics" id="note-00003">
     <title>Storing Private Information</title>
     <para id="para-00021">When managing a content management system (CMS), it is crucial to consider various factors regarding the storage of private information and protecting the privacy of individuals. Let’s explore these considerations:</para>
-    <list list-type="enumerated" id="list-00002">
+    <list id="list-00002">
     <item>Storage of information: One key aspect to address is how the information will be stored within the CMS. It is essential to implement secure storage protocols, such as encryption and secure servers, to safeguard sensitive data from unauthorized access. By employing robust storage measures, the risk of data breaches can be mitigated.</item>
     <item>Access control: Determining who will have access to the stored information is of utmost importance. Implementing strict access control mechanisms ensures that only authorized individuals can access the private data. By defining user roles and permissions within the CMS, organizations can limit access to sensitive information and maintain accountability.</item>
     <item>Information Protection Policies: Establishing comprehensive policies is vital to prevent the exposure of private information. These policies should outline guidelines for data protection, including password requirements, regular system audits, and employee training on data privacy and security. By having clear policies in place, organizations can create a culture of privacy awareness and mitigate the risk of data breaches.</item>

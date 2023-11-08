@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
-    <para id="para-00001">By the end of this section, you will be able to &#8230;:</para>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
     <item>Insert images and offer tips on best practices</item>
     <item>Insert and format a shape in a slide</item>
@@ -78,7 +78,7 @@
     <para id="para-00013">Data is important in decision making because it provides a basis for understanding the current state of a problem or situation, and can be used to identify patterns, trends, and relationships that can inform the decision-making process. Your audience may expect to see data in a slideshow, particularly if it concerns finance or business, as data plays a crucial role in decision making by providing the information needed to make informed and well-informed decisions. Charts can be a perfect vessel to display this information to audiences.</para>
     <para id="para-00014">The following will walk through the basic steps of adding a chart. Although your <emphasis effect="italics">My Life in a Snapshot</emphasis> presentation doesn’t require the support of data, knowing how to create one will be helpful for future business presentations.</para>
     <para id="para-00015">Follow these steps to add a chart to a Slides presentation:</para>
-    <list id="list-00003">
+    <list id="list-00003" list-type="enumerated">
     <item>Open your Slides presentation and select the slide where you want to add the chart.</item>
     <item>Click on the Insert menu at the top of the screen. Select Chart from the drop-down menu. Choose the type of chart you want to add, such as a bar chart, line chart, pie chart, and so on.</item>
     <item>Once you have selected the type of chart, you will be prompted to enter the data for the chart. You can also select data from a <term class="no-emphasis" id="term-00007">Google Sheets</term> document.</item>

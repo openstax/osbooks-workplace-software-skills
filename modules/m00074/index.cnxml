@@ -8,7 +8,7 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
     <title>Learning Objectives</title>
-    <para id="para-00001">By the end of this section, you will be able to &#8230;:</para>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
     <item>Add tables to slides to organize and present data in a grid format</item>
     <item>Insert images into slides</item>
@@ -99,7 +99,7 @@
     </list>
     <para id="para-00017">You can also use the Format tab to customize the symbol by changing its size, color, or shape.</para>
     <para id="para-00018">It is helpful to know the most common types of symbols that you can use in a PowerPoint presentation:</para>
-    <list list-type="enumerated" id="list-00004">
+    <list id="list-00004">
     <item>Icons: simple, graphic symbols that you can use to represent concepts or ideas, such as an <term class="no-emphasis" id="term-00017">icon</term> of a light bulb to represent an idea or an icon of a person to represent a customer</item>
     <item>Arrows: used to direct attention, to show cause and effect, or to indicate a process</item>
     <item>Emojis: used to add a personal touch or to create an emotional impact</item>
