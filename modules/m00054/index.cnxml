@@ -220,7 +220,7 @@
     <media alt="Find and replace window displays these options: Find, Replace with, Search (drop-down), Match case, Match entire cell contents, Search using regular expressions (Help), Also search within formulas, and Also search within links.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_05_Find.jpg"/>
     </media>
-    <caption>You can use Find and Replace to find specific text in a file and replace it with other text. (Google Docs is a trademark of Google LLC.)</caption>
+    <caption>You can use Find and Replace to find specific text in a file and replace it with other text. (Google Sheets is a trademark of Google LLC.)</caption>
     </figure>
     <para id="para-00031">The Edit menu for each of the apps looks similar. <link target-id="fig-00013"/> shows the Edit menu.</para>
     <figure id="fig-00013" class="scaled-down">

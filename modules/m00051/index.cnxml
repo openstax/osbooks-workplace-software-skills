@@ -25,7 +25,7 @@
     <para id="para-00006">In this course, you will work frequently with four types of files:</para>
     <list id="list-00002">
     <item><term class="no-emphasis" id="term-00002">Document files</term> are used in word processing applications to save documents such as school assignments, communications, and lists. Microsoft Word and Google Docs are two of the programs businesses use most. WorldCorp would use document files for company memos to employees or to write up contracts with new vendors.</item>
-    <item><term class="no-emphasis" id="term-00003">Spreadsheet files</term> are produced by spreadsheet applications, such as Microsoft Excel and Google Sheets. This type of file is often used to analyze data and for numerical recordkeeping and calculations. Worksheet files could be particularly useful for WorldCorp when summarizing sales data for the last quarter or to create charts to show sales trends in different regions.</item>
+    <item><term class="no-emphasis" id="term-00003">Spreadsheet files</term> are produced by spreadsheet applications, such as Microsoft Excel and Google Sheets. This type of file is often used to analyze data and for numerical recordkeeping and calculations. Spreadsheet files could be particularly useful for WorldCorp when summarizing sales data for the last quarter or to create charts to show sales trends in different regions.</item>
     <item><term class="no-emphasis" id="term-00004">Database files</term> are created by database management applications. Many companies have high-level, specialized databases that store information about customers or specific products they sell. In this course, you will learn about Microsoft Access.</item>
     <item><term class="no-emphasis" id="term-00005">Presentation files</term> consist of pages that may be used as slides or handouts. Google Slides and Microsoft PowerPoint are popular presentation applications.</item>
     </list>
@@ -75,7 +75,7 @@
     <para id="para-00014">For Mac users, the procedure to create a file is the same, except you would use Finder.</para>
    
     </note>
-    <para id="para-00015">The new file will be created when the application program opens. Once a new file opens, you can add text, images, and other items to your file as needed.</para>
+    <para id="para-00015">The <term class="no-emphasis" id="term-00109">new file</term> will be created when the application program opens. Once a new file opens, you can add text, images, and other items to your file as needed.</para>
     <figure id="fig-00003" class="scaled-down">
     <media alt="New (selected) opens: Folder, Shortcut, Microsoft Access Database, Bitmap image, Microsoft Word Document, Microsoft Access Database, Microsoft PowerPoint Presentation, Microsoft Publisher Document, Rich Text Format, Text Document, Excel Worksheet, Compressed (zipped) Folder.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_02_Create.jpg"/>

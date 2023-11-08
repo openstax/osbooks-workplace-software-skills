@@ -134,7 +134,7 @@
     <section id="sect-00008">
     <title>Saving a File</title>
     <para id="para-00016">The <term class="no-emphasis" id="term-00016">Save</term> command is located at the upper-left corner of the window. Using the Save command saves your document in its same location, with its same file name. It is a way of making sure your work does not get lost in case your computer crashes or the application closes suddenly. A good best practice is to save your document occasionally, by either pressing on the Save icon or using Ctrl+S. You can also set up automatic saving at specified time intervals.</para>
-    <para id="para-00017">The <term class="no-emphasis" id="term-00017">Save as</term> command, located on the File tab, allows you to not only save the file with a different name but also to change its location and its type. When you save the file to a new type (for instance, Save As PDF), the file opens in the new file format. The previous file type remains open. When you click on the Save As command, a dialog box will appear, asking you to select the location where you want to save the new version and what you want to name it.</para>
+    <para id="para-00017">The <term class="no-emphasis" id="term-00017">Save As</term> command, located on the File tab, allows you to not only save the file with a different name but also to change its location and its type. When you save the file to a new type (for instance, Save As PDF), the file opens in the new file format. The previous file type remains open. When you click on the Save As command, a dialog box will appear, asking you to select the location where you want to save the new version and what you want to name it.</para>
     <para id="para-00018">Large companies like WorldCorp will typically give their employees a schema or convention to follow when naming files so that the company will have a unified system that all employees can easily identify and understand. This also allows people within the organization to be able to keep track of different information about the file, such as its version and the project or department it is associated with. For example, if the name of your market trends report is “market_report_v1.docx,” the next version could be “market_report_v2.docx.” This gives you a version history of the file, which enables you to keep track of older and newer versions. <link target-id="fig-00006"/> shows the current folder and the name of the file you want to change.</para>
     <figure id="fig-00006">
     <media alt="Save As is selected, then This PC, opening to the File location folder. The name is being changed to marketing_report(*.docx). Below the bar are other versions of the report and Date modified.">
@@ -393,7 +393,7 @@
     </section>
     <section id="sect-00014">
     <title>Insert Tab</title>
-    <para id="para-00049">The <term class="no-emphasis" id="term-00037">Insert</term> tab allows you to insert a variety of items into your file, including visual images such as pictures or diagrams, tables, links, and equations or special symbols. The Insert tab will differ a bit by program. <link target-id="fig-00015"/> shows what the Insert tab looks like for Word, Excel, and PowerPoint. For example, in Word and PowerPoint, you have options to insert Smart Art. Excel has many options to insert charts and graphs. More details about the specific insert options will appear in the chapters to follow on each of the programs.</para>
+    <para id="para-00049">The <term class="no-emphasis" id="term-00037">Insert</term> tab allows you to insert a variety of items into your file, including visual images such as pictures or diagrams, tables, links, and equations or special symbols. The Insert tab will differ a bit by program. <link target-id="fig-00015"/> shows what the Insert tab looks like for Word, Excel, and PowerPoint. For example, in Word and PowerPoint, you have options to insert SmartArt. Excel has many options to insert charts and graphs. More details about the specific insert options will appear in the chapters to follow on each of the programs.</para>
     <figure id="fig-00015">
     <media alt="(a) Word Insert tab includes Pages, Tables, Illustrations, Reuse Files, Add-ins, Media. (b) Excel Insert tab includes Tables, Illustrations, Add-ins, Charts. (c) PowerPoint Insert tab includes Slides, Tables, Images, Illustrations, Forms, Links.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Insert.jpg"/>
@@ -403,7 +403,7 @@
     </section>
     <section id="sect-00015">
     <title>Design Tab</title>
-    <para id="para-00050">The <term class="no-emphasis" id="term-00038">Design tab</term> is found on the ribbon in Word and in PowerPoint. See <link target-id="fig-00016"/>. The tab includes options to customize the look of the document or presentation. There are preset themes that you can use to enhance the document or slide, or you can create your own theme. The options on the Design tab are covered in more depth in <link document="m00032">Creating and Working in Documents</link> and [link]Preparing Presentations[/link].</para>
+    <para id="para-00050">The <term class="no-emphasis" id="term-00038">Design tab</term> is found on the ribbon in Word and in PowerPoint. See <link target-id="fig-00016"/>. The tab includes options to customize the look of the document or presentation. There are preset themes that you can use to enhance the document or slide, or you can create your own theme. The options on the Design tab are covered in more depth in <link document="m00032">Creating and Working in Documents</link> and <link document="m00069">Preparing Presentations</link>.</para>
     <figure id="fig-00016">
     <media alt="(a) Word Design tab selected. The command group Document Formatting displays various document Themes for selection. (b) PowerPoint Design tab selected. The command group Themes displays various document theme options for selection.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Design.jpg"/>
@@ -418,7 +418,7 @@
     <media alt="(a) Word Layout tab displays Page Setup and Paragraph command groups. (b) Excel Page Layout tab displays Themes, Page Setup, Scale to Fit, and Sheet Options command groups.">
     <image mime-type="image/jpeg" src="../../media/OSX_BCA_02_04_Layout.jpg"/>
     </media>
-    <caption>(a) The Layout tab in Word and (b) Page Layout tab in Excel allow you to set up your document or spreadsheet for easier reading and visual appeal. (Used with permission from Microsoft)</caption>
+    <caption>(a) The Layout tab in Word and (b) <term class="no-emphasis" id="term-00140">Page Layout</term> tab in Excel allow you to set up your document or spreadsheet for easier reading and visual appeal. (Used with permission from Microsoft)</caption>
     </figure>
     </section>
     <section id="sect-00017">
