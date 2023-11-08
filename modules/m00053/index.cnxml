@@ -57,7 +57,7 @@
     <entry valign="top" align="left">Create slide presentations for use in workplace meetings or client showcases.</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left"><term class="no-emphasis" id="term-00007">Access</term></entry>
+    <entry valign="top" align="left"><!--<term class="no-emphasis" id="term-00007">-->Access<!--</term>--></entry>
     <entry valign="top" align="left">Database</entry>
     <entry valign="top" align="left">Create and maintain databases of information.</entry>
     </row>
