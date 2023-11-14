@@ -34,21 +34,20 @@
       <section id="sect-00007">
       <title>About <emphasis effect="italics">Workplace Software &amp; Skills</emphasis></title>
       <para id="para-00008"><emphasis effect="italics">Workplace Software and Skills</emphasis> covers applications from the Microsoft 365 (formerly Microsoft Office) suite and Google Workspace. Coverage of both suites aligns with contemporary business use and prepares students for workforce needs, especially introductory students who have had limited exposure to these software programs. By teaching their basic and advanced features, users of all levels can learn the skills necessary for success in their jobs.</para>
-      <para id="para-00009">Applications covered in depth from Microsoft 365 include Word, PowerPoint, Excel, and Access, as well as overviews of integrations with Outlook, Calendar, and Teams. Applications covered in depth from Google Workspace include Docs, Sheets, and Slides, as well as overviews of integrations with Gmail, Calendar, and Meet. An overview of additional collaboration and conference applications is also provided, and content management software such as WordPress, are covered in depth.</para>
-      <para id="para-00010">This selection of applications provides a holistic exposure to common tools of business practice in generalist positions, while also preparing students for additional focused training that may be required for specialized fields. In addition to technical skill development, <emphasis effect="italics">Workplace Software and Skills</emphasis> covers conceptual topics related to ethics and security; and technology advancements, such as the Internet of Things and generative artificial intelligence. These topics are discussed as they relate to business and everyday life, reflecting their importance to contextualizing business computer application use within the modern business world. They emphasize responsible use and considerations for collaboration across a virtual network.</para>
+      <para id="para-00009">Applications covered in depth from Microsoft 365 include Word, PowerPoint, Excel, and Access, as well as overviews of integrations with Outlook, Calendar, and Teams. Applications covered in depth from Google Workspace include Docs, Sheets, and Slides, as well as overviews of integrations with Gmail, Calendar, and Meet. The text also provides overviews of additional collaboration and conference applications, as well as in-depth coverage of content management software such as WordPress.</para>
+      <para id="para-00010">With this selection of applications, Workplace Software and Skills provides a holistic exposure to common tools of business practice and prepares students for additional focused training that may be required for specialized fields. In addition to technical skill development, the text covers conceptual topics related to ethics and security; and technology advancements, such as the Internet of Things and generative artificial intelligence. These topics are discussed as they relate to business and everyday life, reflecting their importance to contextualizing business computer application use within the modern business world. They emphasize responsible use and considerations for collaboration across a virtual network.</para>
       <para id="para-00011">Across each chapter, conceptual and technical skill is anchored in real-world examples and applications. This ensures that students are prepared for entry into the workforce with a portfolio of completed examples relevant to positions requiring these skills.</para>
-      <para id="para-00012">This textbook is not intended for computer-science, programming, or information systems programs, which focus on specialized skills as they relate specifically to those disciplines versus business.</para>
       </section>
       <section id="sect-00008">
       <title>Pedagogical Foundation</title>
       <section id="sect-00009">
       <title>Learning Objectives</title>
-      <para id="para-00013">Every module begins with a set of clear and concise learning objectives, which have been thoroughly revised to be both measurable and more closely aligned with current teaching practice. These objectives are designed to help the instructor decide what content to include or assign, and to guide student expectations of learning. After completing the module and end-of-module exercises, students should be able to demonstrate mastery of the learning objectives.</para>
+      <para id="para-00013">Every module begins with a set of clear and concise learning objectives, which are designed to be both measurable and closely aligned with current teaching practice. These objectives can help the instructor decide what content to include or assign and guide student expectations of learning. After completing the module and end-of-module exercises, students should be able to demonstrate mastery of the learning objectives.</para>
       </section>
       <section id="sect-00010">
       <title>Key Features</title>
       <list id="list-00001">
-      <item><emphasis effect="bold">Cross-chapter Scenario:</emphasis> Presents students with a mock business simulation, carried from Chapter 1 through Chapter 15. The scenario includes a multi-division business that provides a variety of work-related tasks, such as preparing a memo or creating a slideshow for an entry-level employee, to longer projects such as a marketing report that a mid-level employee might need to create. Additional scenarios from businesses reflective of the changing business landscape, such as green technology, non-profit organizations, and entrepreneurship will augment the running scenario. Students will be exposed to everyday business needs as related to the chapter topic. Integrated projects and capstones will also pull from this simulated business scenario.</item>
+      <item><emphasis effect="bold">Cross-chapter Scenario:</emphasis> Presents students with a mock business simulation that continues from Chapter 1 through Chapter 15. The scenario focuses on a multi-division business and provides a variety of work-related tasks, such as preparing a memo or creating a slideshow for an entry-level employee, as well as longer projects, such as a marketing report that a mid-level employee might need to create. Additional scenarios showcase green technology, non-profit organizations, and entrepreneurship. Students will be exposed to everyday business needs as related to the chapter topic. Integrated projects and capstones will also pull from this simulated business scenario.</item>
       <item><emphasis effect="bold">Real-World Application:</emphasis> Discusses the practical applications of software and related technology in our everyday lives, whether in or out of the workplace.</item>
       <item><emphasis effect="bold">Mac Tips:</emphasis> Calls out brief notes where commands or tools for macOS and Windows differ.</item>
       <item><emphasis effect="bold">Spotlight on Ethics:</emphasis> Highlights an ethics issue related to the concept, skill, or activity being taught in the text. These features may discuss a real-world case, dig deeper into an ethical concept being discussed, or present an ethical dilemma for the student to think through.</item>
@@ -116,7 +115,7 @@
       <para id="para-00033">Bryan Broussard, Central Louisiana Technical Community College</para>
       <para id="para-00034">Caleb Williamson, Pellissippi State Community College</para>
       <para id="para-00035">Carmen Montanez-Rodriguez, Allan Hancock Community College</para>
-      <para id="para-00036">David Collins, Bellamine University</para>
+      <para id="para-00036">David Collins, Bellarmine University</para>
       <para id="para-00037">Deanna Bartee, Grand Canyon University</para>
       <para id="para-00038">Glenn McQueary, Houston Community College</para>
       <para id="para-00039">Heather Beatty, Ashworth College</para>
@@ -124,7 +123,7 @@
       <para id="para-00041">Julie Goff Lindsey, Linn Benton Community College</para>
       <para id="para-00042">Laura Bantz, McHenry County College</para>
       <para id="para-00043">Lawrence Chui, University of St. Thomas</para>
-      <para id="para-00044">Lisa Breaux, San Jacinto Junior College</para>
+      <para id="para-00044">Lisa Breaux, San Jacinto College</para>
       <para id="para-00045">Mariya Breyter, New York University</para>
       <para id="para-00046">Michael MacLeod, Austin Community College</para>
             <para id="para-00048">Reni Abraham, Houston Community College</para>
