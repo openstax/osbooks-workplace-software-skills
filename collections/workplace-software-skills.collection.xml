@@ -4,7 +4,7 @@
     <md:slug>workplace-software-skills</md:slug>
     <md:language>en</md:language>
     <md:uuid>3d2454dc-2735-4e24-a7e0-f89a79893699</md:uuid>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+    <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</md:license>
   </col:metadata>
   <col:content>
     <col:module document="m00105"/>
